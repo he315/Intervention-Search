@@ -1,0 +1,765 @@
+{
+  "schema_version": 1,
+  "baseline": {
+    "start_date": "2026-10-10",
+    "status": "in_progress",
+    "chunks": {
+      "trials": "done",
+      "evidence:D1:2016": "done",
+      "evidence:D1:2017": "done",
+      "evidence:D1:2018": "done",
+      "evidence:D1:2019": "done",
+      "evidence:D1:2020": "done",
+      "evidence:D1:2021": "done",
+      "evidence:D1:2022": "done",
+      "evidence:D1:2023": "done",
+      "evidence:D1:2024": "done",
+      "evidence:D1:2025": "done",
+      "evidence:D1:2026": "done",
+      "evidence:D2:2016": "done",
+      "evidence:D2:2017": "done",
+      "evidence:D2:2018": "done",
+      "evidence:D2:2019": "done",
+      "evidence:D2:2020": "done",
+      "evidence:D2:2021": "done",
+      "evidence:D2:2022": "done",
+      "evidence:D2:2023": "done",
+      "evidence:D2:2024": "done",
+      "evidence:D2:2025": "done",
+      "evidence:D2:2026": "done",
+      "evidence:D3:2016": "done",
+      "evidence:D3:2017": "done",
+      "evidence:D3:2018": "done",
+      "evidence:D3:2019": "done",
+      "evidence:D3:2020": "done",
+      "evidence:D3:2021": "done",
+      "evidence:D3:2022": "done",
+      "evidence:D3:2023": "done",
+      "evidence:D3:2024": "done",
+      "evidence:D3:2025": "done",
+      "evidence:D3:2026": "done",
+      "evidence:D4:2016": "done",
+      "evidence:D4:2017": "done",
+      "evidence:D4:2018": "done",
+      "evidence:D4:2019": "done",
+      "evidence:D4:2020": "done",
+      "evidence:D4:2021": "done",
+      "evidence:D4:2022": "done",
+      "evidence:D4:2023": "done",
+      "evidence:D4:2024": "done",
+      "evidence:D4:2025": "done",
+      "evidence:D4:2026": "done",
+      "evidence:D5:2016": "done",
+      "evidence:D5:2017": "done",
+      "evidence:D5:2018": "done",
+      "evidence:D5:2019": "done",
+      "evidence:D5:2020": "done",
+      "evidence:D5:2021": "done",
+      "evidence:D5:2022": "done",
+      "evidence:D5:2023": "done",
+      "evidence:D5:2024": "done",
+      "evidence:D5:2025": "done",
+      "evidence:D5:2026": "done",
+      "evidence:D6:2016": "done",
+      "evidence:D6:2017": "done",
+      "evidence:D6:2018": "done",
+      "evidence:D6:2019": "done",
+      "evidence:D6:2020": "done",
+      "evidence:D6:2021": "done",
+      "evidence:D6:2022": "done",
+      "evidence:D6:2023": "done",
+      "evidence:D6:2024": "done",
+      "evidence:D6:2025": "done",
+      "evidence:D6:2026": "done",
+      "evidence:D7:2016": "done",
+      "evidence:D7:2017": "done",
+      "evidence:D7:2018": "done",
+      "evidence:D7:2019": "done",
+      "evidence:D7:2020": "done",
+      "evidence:D7:2021": "done",
+      "evidence:D7:2022": "done",
+      "evidence:D7:2023": "done",
+      "evidence:D7:2024": "done",
+      "evidence:D7:2025": "done",
+      "evidence:D7:2026": "done",
+      "evidence:D8:2016": "done",
+      "evidence:D8:2017": "done",
+      "evidence:D8:2018": "done",
+      "evidence:D8:2019": "done",
+      "evidence:D8:2020": "done",
+      "evidence:D8:2021": "done",
+      "evidence:D8:2022": "done",
+      "evidence:D8:2023": "done",
+      "evidence:D8:2024": "done",
+      "evidence:D8:2025": "done",
+      "evidence:D8:2026": "done",
+      "evidence:D9:2019": "done",
+      "evidence:D9:2020": "done",
+      "evidence:D9:2021": "done",
+      "evidence:D9:2022": "done",
+      "evidence:D9:2023": "done",
+      "evidence:D9:2024": "done",
+      "evidence:D9:2025": "done",
+      "evidence:D9:2026": "done",
+      "recent:D1": "done",
+      "recent:D2": "done",
+      "recent:D3": "done",
+      "recent:D4": "done",
+      "recent:D5": "done",
+      "recent:D6": "done",
+      "recent:D7": "done",
+      "recent:D8": "done",
+      "recent:D9": "done"
+    },
+    "completed_on": null,
+    "chunk_results": {
+      "trials": {
+        "trials": 13351,
+        "changes": 0,
+        "seconds": 38.1
+      },
+      "evidence:D1:2016": {
+        "retrieved": 1403,
+        "new": 1400,
+        "updated": 0,
+        "seconds": 12.6
+      },
+      "evidence:D1:2017": {
+        "retrieved": 1374,
+        "new": 1373,
+        "updated": 0,
+        "seconds": 11.0
+      },
+      "evidence:D1:2018": {
+        "retrieved": 1319,
+        "new": 1316,
+        "updated": 0,
+        "seconds": 10.4
+      },
+      "evidence:D1:2019": {
+        "retrieved": 1331,
+        "new": 1328,
+        "updated": 0,
+        "seconds": 10.9
+      },
+      "evidence:D1:2020": {
+        "retrieved": 1445,
+        "new": 1441,
+        "updated": 0,
+        "seconds": 12.4
+      },
+      "evidence:D1:2021": {
+        "retrieved": 1168,
+        "new": 1167,
+        "updated": 0,
+        "seconds": 10.6
+      },
+      "evidence:D1:2022": {
+        "retrieved": 1167,
+        "new": 1167,
+        "updated": 0,
+        "seconds": 11.8
+      },
+      "evidence:D1:2023": {
+        "retrieved": 1067,
+        "new": 1062,
+        "updated": 0,
+        "seconds": 10.5
+      },
+      "evidence:D1:2024": {
+        "retrieved": 1158,
+        "new": 1156,
+        "updated": 0,
+        "seconds": 11.7
+      },
+      "evidence:D1:2025": {
+        "retrieved": 1327,
+        "new": 1327,
+        "updated": 0,
+        "seconds": 12.7
+      },
+      "evidence:D1:2026": {
+        "retrieved": 1140,
+        "new": 1140,
+        "updated": 0,
+        "seconds": 10.4
+      },
+      "evidence:D2:2016": {
+        "retrieved": 162,
+        "new": 91,
+        "updated": 70,
+        "seconds": 1.8
+      },
+      "evidence:D2:2017": {
+        "retrieved": 198,
+        "new": 105,
+        "updated": 93,
+        "seconds": 2.0
+      },
+      "evidence:D2:2018": {
+        "retrieved": 221,
+        "new": 121,
+        "updated": 100,
+        "seconds": 2.5
+      },
+      "evidence:D2:2019": {
+        "retrieved": 266,
+        "new": 164,
+        "updated": 102,
+        "seconds": 2.7
+      },
+      "evidence:D2:2020": {
+        "retrieved": 301,
+        "new": 196,
+        "updated": 105,
+        "seconds": 3.0
+      },
+      "evidence:D2:2021": {
+        "retrieved": 267,
+        "new": 185,
+        "updated": 82,
+        "seconds": 3.1
+      },
+      "evidence:D2:2022": {
+        "retrieved": 322,
+        "new": 237,
+        "updated": 85,
+        "seconds": 3.6
+      },
+      "evidence:D2:2023": {
+        "retrieved": 335,
+        "new": 266,
+        "updated": 69,
+        "seconds": 3.2
+      },
+      "evidence:D2:2024": {
+        "retrieved": 348,
+        "new": 276,
+        "updated": 72,
+        "seconds": 3.8
+      },
+      "evidence:D2:2025": {
+        "retrieved": 397,
+        "new": 313,
+        "updated": 83,
+        "seconds": 3.9
+      },
+      "evidence:D2:2026": {
+        "retrieved": 347,
+        "new": 268,
+        "updated": 79,
+        "seconds": 3.8
+      },
+      "evidence:D3:2016": {
+        "retrieved": 372,
+        "new": 356,
+        "updated": 16,
+        "seconds": 3.8
+      },
+      "evidence:D3:2017": {
+        "retrieved": 423,
+        "new": 396,
+        "updated": 26,
+        "seconds": 3.8
+      },
+      "evidence:D3:2018": {
+        "retrieved": 416,
+        "new": 387,
+        "updated": 29,
+        "seconds": 4.1
+      },
+      "evidence:D3:2019": {
+        "retrieved": 454,
+        "new": 431,
+        "updated": 23,
+        "seconds": 3.8
+      },
+      "evidence:D3:2020": {
+        "retrieved": 539,
+        "new": 501,
+        "updated": 37,
+        "seconds": 4.6
+      },
+      "evidence:D3:2021": {
+        "retrieved": 433,
+        "new": 404,
+        "updated": 27,
+        "seconds": 4.0
+      },
+      "evidence:D3:2022": {
+        "retrieved": 427,
+        "new": 399,
+        "updated": 28,
+        "seconds": 4.4
+      },
+      "evidence:D3:2023": {
+        "retrieved": 430,
+        "new": 406,
+        "updated": 24,
+        "seconds": 4.2
+      },
+      "evidence:D3:2024": {
+        "retrieved": 483,
+        "new": 440,
+        "updated": 43,
+        "seconds": 5.0
+      },
+      "evidence:D3:2025": {
+        "retrieved": 618,
+        "new": 579,
+        "updated": 39,
+        "seconds": 6.1
+      },
+      "evidence:D3:2026": {
+        "retrieved": 488,
+        "new": 459,
+        "updated": 29,
+        "seconds": 4.8
+      },
+      "evidence:D4:2016": {
+        "retrieved": 89,
+        "new": 75,
+        "updated": 14,
+        "seconds": 3.5
+      },
+      "evidence:D4:2017": {
+        "retrieved": 113,
+        "new": 82,
+        "updated": 31,
+        "seconds": 1.3
+      },
+      "evidence:D4:2018": {
+        "retrieved": 84,
+        "new": 63,
+        "updated": 21,
+        "seconds": 1.3
+      },
+      "evidence:D4:2019": {
+        "retrieved": 154,
+        "new": 130,
+        "updated": 24,
+        "seconds": 1.7
+      },
+      "evidence:D4:2020": {
+        "retrieved": 161,
+        "new": 123,
+        "updated": 38,
+        "seconds": 1.7
+      },
+      "evidence:D4:2021": {
+        "retrieved": 154,
+        "new": 124,
+        "updated": 30,
+        "seconds": 2.0
+      },
+      "evidence:D4:2022": {
+        "retrieved": 153,
+        "new": 122,
+        "updated": 31,
+        "seconds": 1.7
+      },
+      "evidence:D4:2023": {
+        "retrieved": 152,
+        "new": 129,
+        "updated": 23,
+        "seconds": 1.7
+      },
+      "evidence:D4:2024": {
+        "retrieved": 161,
+        "new": 123,
+        "updated": 37,
+        "seconds": 1.9
+      },
+      "evidence:D4:2025": {
+        "retrieved": 163,
+        "new": 130,
+        "updated": 32,
+        "seconds": 1.9
+      },
+      "evidence:D4:2026": {
+        "retrieved": 128,
+        "new": 105,
+        "updated": 23,
+        "seconds": 1.7
+      },
+      "evidence:D5:2016": {
+        "retrieved": 17,
+        "new": 9,
+        "updated": 8,
+        "seconds": 1.1
+      },
+      "evidence:D5:2017": {
+        "retrieved": 23,
+        "new": 13,
+        "updated": 10,
+        "seconds": 0.9
+      },
+      "evidence:D5:2018": {
+        "retrieved": 26,
+        "new": 14,
+        "updated": 12,
+        "seconds": 0.9
+      },
+      "evidence:D5:2019": {
+        "retrieved": 43,
+        "new": 28,
+        "updated": 15,
+        "seconds": 1.0
+      },
+      "evidence:D5:2020": {
+        "retrieved": 60,
+        "new": 34,
+        "updated": 26,
+        "seconds": 1.3
+      },
+      "evidence:D5:2021": {
+        "retrieved": 49,
+        "new": 30,
+        "updated": 19,
+        "seconds": 1.2
+      },
+      "evidence:D5:2022": {
+        "retrieved": 58,
+        "new": 35,
+        "updated": 23,
+        "seconds": 1.6
+      },
+      "evidence:D5:2023": {
+        "retrieved": 72,
+        "new": 52,
+        "updated": 20,
+        "seconds": 1.3
+      },
+      "evidence:D5:2024": {
+        "retrieved": 88,
+        "new": 70,
+        "updated": 18,
+        "seconds": 1.4
+      },
+      "evidence:D5:2025": {
+        "retrieved": 112,
+        "new": 85,
+        "updated": 26,
+        "seconds": 1.5
+      },
+      "evidence:D5:2026": {
+        "retrieved": 85,
+        "new": 62,
+        "updated": 23,
+        "seconds": 1.3
+      },
+      "evidence:D6:2016": {
+        "retrieved": 1377,
+        "new": 621,
+        "updated": 750,
+        "seconds": 11.1
+      },
+      "evidence:D6:2017": {
+        "retrieved": 1282,
+        "new": 630,
+        "updated": 651,
+        "seconds": 12.5
+      },
+      "evidence:D6:2018": {
+        "retrieved": 1251,
+        "new": 613,
+        "updated": 634,
+        "seconds": 11.4
+      },
+      "evidence:D6:2019": {
+        "retrieved": 1211,
+        "new": 601,
+        "updated": 608,
+        "seconds": 10.4
+      },
+      "evidence:D6:2020": {
+        "retrieved": 1345,
+        "new": 654,
+        "updated": 686,
+        "seconds": 11.8
+      },
+      "evidence:D6:2021": {
+        "retrieved": 1225,
+        "new": 648,
+        "updated": 576,
+        "seconds": 14.4
+      },
+      "evidence:D6:2022": {
+        "retrieved": 1146,
+        "new": 560,
+        "updated": 586,
+        "seconds": 13.3
+      },
+      "evidence:D6:2023": {
+        "retrieved": 1063,
+        "new": 495,
+        "updated": 565,
+        "seconds": 10.3
+      },
+      "evidence:D6:2024": {
+        "retrieved": 1103,
+        "new": 559,
+        "updated": 543,
+        "seconds": 10.7
+      },
+      "evidence:D6:2025": {
+        "retrieved": 1256,
+        "new": 700,
+        "updated": 556,
+        "seconds": 13.4
+      },
+      "evidence:D6:2026": {
+        "retrieved": 1030,
+        "new": 518,
+        "updated": 511,
+        "seconds": 10.7
+      },
+      "evidence:D7:2016": {
+        "retrieved": 100,
+        "new": 41,
+        "updated": 58,
+        "seconds": 1.5
+      },
+      "evidence:D7:2017": {
+        "retrieved": 74,
+        "new": 36,
+        "updated": 38,
+        "seconds": 1.3
+      },
+      "evidence:D7:2018": {
+        "retrieved": 102,
+        "new": 56,
+        "updated": 46,
+        "seconds": 1.4
+      },
+      "evidence:D7:2019": {
+        "retrieved": 94,
+        "new": 50,
+        "updated": 44,
+        "seconds": 1.5
+      },
+      "evidence:D7:2020": {
+        "retrieved": 103,
+        "new": 68,
+        "updated": 34,
+        "seconds": 1.8
+      },
+      "evidence:D7:2021": {
+        "retrieved": 111,
+        "new": 56,
+        "updated": 55,
+        "seconds": 1.6
+      },
+      "evidence:D7:2022": {
+        "retrieved": 91,
+        "new": 48,
+        "updated": 43,
+        "seconds": 1.6
+      },
+      "evidence:D7:2023": {
+        "retrieved": 99,
+        "new": 59,
+        "updated": 39,
+        "seconds": 1.7
+      },
+      "evidence:D7:2024": {
+        "retrieved": 81,
+        "new": 48,
+        "updated": 33,
+        "seconds": 1.5
+      },
+      "evidence:D7:2025": {
+        "retrieved": 97,
+        "new": 52,
+        "updated": 45,
+        "seconds": 1.6
+      },
+      "evidence:D7:2026": {
+        "retrieved": 82,
+        "new": 48,
+        "updated": 34,
+        "seconds": 1.6
+      },
+      "evidence:D8:2016": {
+        "retrieved": 509,
+        "new": 41,
+        "updated": 467,
+        "seconds": 4.5
+      },
+      "evidence:D8:2017": {
+        "retrieved": 453,
+        "new": 34,
+        "updated": 418,
+        "seconds": 4.4
+      },
+      "evidence:D8:2018": {
+        "retrieved": 467,
+        "new": 60,
+        "updated": 406,
+        "seconds": 4.6
+      },
+      "evidence:D8:2019": {
+        "retrieved": 474,
+        "new": 54,
+        "updated": 419,
+        "seconds": 5.2
+      },
+      "evidence:D8:2020": {
+        "retrieved": 549,
+        "new": 64,
+        "updated": 484,
+        "seconds": 4.9
+      },
+      "evidence:D8:2021": {
+        "retrieved": 478,
+        "new": 74,
+        "updated": 404,
+        "seconds": 5.9
+      },
+      "evidence:D8:2022": {
+        "retrieved": 415,
+        "new": 51,
+        "updated": 364,
+        "seconds": 5.3
+      },
+      "evidence:D8:2023": {
+        "retrieved": 374,
+        "new": 62,
+        "updated": 311,
+        "seconds": 4.3
+      },
+      "evidence:D8:2024": {
+        "retrieved": 356,
+        "new": 60,
+        "updated": 296,
+        "seconds": 5.1
+      },
+      "evidence:D8:2025": {
+        "retrieved": 416,
+        "new": 89,
+        "updated": 327,
+        "seconds": 4.4
+      },
+      "evidence:D8:2026": {
+        "retrieved": 395,
+        "new": 100,
+        "updated": 295,
+        "seconds": 3.9
+      },
+      "evidence:D9:2019": {
+        "retrieved": 99,
+        "new": 94,
+        "updated": 5,
+        "seconds": 2.1
+      },
+      "evidence:D9:2020": {
+        "retrieved": 136,
+        "new": 116,
+        "updated": 20,
+        "seconds": 1.8
+      },
+      "evidence:D9:2021": {
+        "retrieved": 149,
+        "new": 127,
+        "updated": 22,
+        "seconds": 1.9
+      },
+      "evidence:D9:2022": {
+        "retrieved": 142,
+        "new": 124,
+        "updated": 18,
+        "seconds": 2.2
+      },
+      "evidence:D9:2023": {
+        "retrieved": 166,
+        "new": 133,
+        "updated": 32,
+        "seconds": 2.3
+      },
+      "evidence:D9:2024": {
+        "retrieved": 219,
+        "new": 185,
+        "updated": 33,
+        "seconds": 2.7
+      },
+      "evidence:D9:2025": {
+        "retrieved": 222,
+        "new": 175,
+        "updated": 47,
+        "seconds": 3.2
+      },
+      "evidence:D9:2026": {
+        "retrieved": 271,
+        "new": 207,
+        "updated": 62,
+        "seconds": 2.9
+      },
+      "recent:D1": {
+        "retrieved": 7925,
+        "new": 6118,
+        "updated": 0,
+        "seconds": 70.8
+      },
+      "recent:D2": {
+        "retrieved": 3318,
+        "new": 2314,
+        "updated": 459,
+        "seconds": 28.2
+      },
+      "recent:D3": {
+        "retrieved": 3825,
+        "new": 2784,
+        "updated": 234,
+        "seconds": 30.0
+      },
+      "recent:D4": {
+        "retrieved": 1409,
+        "new": 950,
+        "updated": 247,
+        "seconds": 11.8
+      },
+      "recent:D5": {
+        "retrieved": 999,
+        "new": 672,
+        "updated": 173,
+        "seconds": 8.7
+      },
+      "recent:D6": {
+        "retrieved": 8453,
+        "new": 4187,
+        "updated": 2616,
+        "seconds": 77.3
+      },
+      "recent:D7": {
+        "retrieved": 821,
+        "new": 399,
+        "updated": 286,
+        "seconds": 9.1
+      },
+      "recent:D8": {
+        "retrieved": 1975,
+        "new": 311,
+        "updated": 1049,
+        "seconds": 20.4
+      },
+      "recent:D9": {
+        "retrieved": 1880,
+        "new": 1218,
+        "updated": 270,
+        "seconds": 17.7
+      }
+    },
+    "retrieval_pending": 0
+  },
+  "watermarks": {},
+  "last_runs": {
+    "daily": null,
+    "weekly": null,
+    "monthly": null,
+    "quarterly": null
+  },
+  "source_health": {},
+  "owner_decisions_applied": [],
+  "domain_weights": {},
+  "extra_tags": []
+}

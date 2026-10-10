@@ -33,22 +33,40 @@ def load_backlog():
     return [json.loads(ln) for ln in BACKLOG.read_text(encoding="utf-8").splitlines() if ln.strip()]
 
 
+def order_key(item, today):
+    """Export order: leftovers from earlier daily runs, then today's records, then the baseline backlog.
+
+    Within each group the volume-guard priority applies (target, general and
+    specialty journals and trial, meta-analysis or guideline designs first).
+    """
+    if item.get("baseline"):
+        group = 2
+    elif item.get("queued", today) < today:
+        group = 0
+    else:
+        group = 1
+    return (group, item.get("priority", [9]), item["id"])
+
+
 def save_backlog(items):
     seen, out = set(), []
     for it in items:
         if it["id"] not in seen:
             seen.add(it["id"])
             out.append(it)
-    out.sort(key=lambda x: (x.get("priority", [9]), x["id"]))
+    today = config.iso_date(config.london_today())
+    out.sort(key=lambda x: order_key(x, today))
     config.atomic_write_text(BACKLOG, "".join(json.dumps(x) + "\n" for x in out))
 
 
-def queue(records):
+def queue(records, baseline=False):
     """Add records that need appraisal to the backlog."""
     items = load_backlog()
+    today = config.iso_date(config.london_today())
     for r in records:
         if needs_appraisal(r):
-            items.append({"id": r["id"], "priority": list(appraisal_priority(r))})
+            items.append({"id": r["id"], "priority": list(appraisal_priority(r)), "queued": today,
+                          "baseline": bool(baseline)})
     save_backlog(items)
     return len(items)
 
@@ -56,7 +74,8 @@ def queue(records):
 def export_batch(index, limit=400, candidates=None, only_priority=None):
     """Write the next `limit` backlog records (most urgent first) to the batch file."""
     items = load_backlog()
-    items.sort(key=lambda x: (x.get("priority", [9]), x["id"]))
+    today = config.iso_date(config.london_today())
+    items.sort(key=lambda x: order_key(x, today))
     if only_priority is not None:
         items = [x for x in items if x.get("priority", [9])[0] <= only_priority]
     want = [x["id"] for x in items[:limit]]

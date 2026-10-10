@@ -136,6 +136,8 @@ def merge_records(records, index=None):
         if index is not None:
             for r in recs:
                 index.upsert(existing[r["id"]], key)
+    if index is not None:
+        index.commit()
     return n_new, n_upd
 
 

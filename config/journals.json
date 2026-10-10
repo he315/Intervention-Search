@@ -11,7 +11,11 @@
       ],
       "crossref_title": "European Heart Journal",
       "publisher": "Oxford University Press",
-      "status": "resolved"
+      "status": "resolved",
+      "issn_pubmed": [
+        "0195-668X",
+        "1522-9645"
+      ]
     },
     {
       "name": "Circulation",
@@ -22,7 +26,11 @@
       ],
       "crossref_title": "Circulation",
       "publisher": "Ovid Technologies (Wolters Kluwer) - American Heart Association",
-      "status": "resolved"
+      "status": "resolved",
+      "issn_pubmed": [
+        "0009-7322",
+        "1524-4539"
+      ]
     },
     {
       "name": "Journal of the American College of Cardiology",
@@ -32,7 +40,10 @@
       ],
       "crossref_title": "Journal of the American College of Cardiology",
       "publisher": "Elsevier",
-      "status": "resolved"
+      "status": "resolved",
+      "issn_pubmed": [
+        "0735-1097"
+      ]
     },
     {
       "name": "JAMA Cardiology",
@@ -42,7 +53,10 @@
       ],
       "crossref_title": "JAMA Cardiology",
       "publisher": "American Medical Association",
-      "status": "resolved"
+      "status": "resolved",
+      "issn_pubmed": [
+        "2380-6583"
+      ]
     },
     {
       "name": "New England Journal of Medicine",
@@ -53,7 +67,11 @@
       ],
       "crossref_title": "New England Journal of Medicine",
       "publisher": "New England Journal of Medicine",
-      "status": "resolved"
+      "status": "resolved",
+      "issn_pubmed": [
+        "0028-4793",
+        "1533-4406"
+      ]
     },
     {
       "name": "The Lancet",
@@ -65,7 +83,11 @@
       ],
       "crossref_title": "The Lancet",
       "publisher": "Elsevier",
-      "status": "resolved"
+      "status": "resolved",
+      "issn_pubmed": [
+        "0140-6736",
+        "1474-547X"
+      ]
     },
     {
       "name": "JAMA",
@@ -76,7 +98,11 @@
       ],
       "crossref_title": "JAMA",
       "publisher": "American Medical Association",
-      "status": "resolved"
+      "status": "resolved",
+      "issn_pubmed": [
+        "0098-7484",
+        "1538-3598"
+      ]
     },
     {
       "name": "BMJ",
@@ -94,7 +120,13 @@
       ],
       "crossref_title": "BMJ",
       "publisher": "BMJ",
-      "status": "resolved"
+      "status": "resolved",
+      "issn_pubmed": [
+        "0007-1447",
+        "0267-0623",
+        "0959-8138",
+        "1756-1833"
+      ]
     },
     {
       "name": "Nature Medicine",
@@ -105,7 +137,11 @@
       ],
       "crossref_title": "Nature Medicine",
       "publisher": "Springer Science and Business Media LLC",
-      "status": "resolved"
+      "status": "resolved",
+      "issn_pubmed": [
+        "1078-8956",
+        "1546-170X"
+      ]
     },
     {
       "name": "EuroIntervention",
@@ -116,7 +152,11 @@
       ],
       "crossref_title": "EuroIntervention",
       "publisher": "Europa Digital and Publishing",
-      "status": "resolved"
+      "status": "resolved",
+      "issn_pubmed": [
+        "1774-024X",
+        "1969-6213"
+      ]
     },
     {
       "name": "JACC: Cardiovascular Interventions",
@@ -126,7 +166,10 @@
       ],
       "crossref_title": "JACC Cardiovascular Interventions",
       "publisher": "Elsevier",
-      "status": "resolved"
+      "status": "resolved",
+      "issn_pubmed": [
+        "1936-8798"
+      ]
     },
     {
       "name": "Circulation: Cardiovascular Interventions",
@@ -137,7 +180,11 @@
       ],
       "crossref_title": "Circulation Cardiovascular Interventions",
       "publisher": "Ovid Technologies (Wolters Kluwer) - American Heart Association",
-      "status": "resolved"
+      "status": "resolved",
+      "issn_pubmed": [
+        "1941-7632",
+        "1941-7640"
+      ]
     },
     {
       "name": "European Heart Journal: Acute Cardiovascular Care",
@@ -148,7 +195,11 @@
       ],
       "crossref_title": "European Heart Journal Acute Cardiovascular Care",
       "publisher": "Oxford University Press",
-      "status": "resolved"
+      "status": "resolved",
+      "issn_pubmed": [
+        "2048-8726",
+        "2048-8734"
+      ]
     },
     {
       "name": "Intensive Care Medicine",
@@ -159,7 +210,11 @@
       ],
       "crossref_title": "Intensive Care Medicine",
       "publisher": "Springer-Verlag",
-      "status": "resolved"
+      "status": "resolved",
+      "issn_pubmed": [
+        "0342-4642",
+        "1432-1238"
+      ]
     },
     {
       "name": "Resuscitation",
@@ -169,7 +224,10 @@
       ],
       "crossref_title": "Resuscitation",
       "publisher": "Elsevier",
-      "status": "resolved"
+      "status": "resolved",
+      "issn_pubmed": [
+        "0300-9572"
+      ]
     },
     {
       "name": "Heart",
@@ -181,7 +239,12 @@
       ],
       "crossref_title": "Heart",
       "publisher": "BMJ",
-      "status": "resolved"
+      "status": "resolved",
+      "issn_pubmed": [
+        "0007-0769",
+        "1355-6037",
+        "1468-201X"
+      ]
     },
     {
       "name": "Catheterization and Cardiovascular Interventions",
@@ -192,7 +255,11 @@
       ],
       "crossref_title": "Catheterization and Cardiovascular Interventions",
       "publisher": "Wiley (John Wiley & Sons)",
-      "status": "resolved"
+      "status": "resolved",
+      "issn_pubmed": [
+        "1522-1946",
+        "1522-726X"
+      ]
     },
     {
       "name": "Journal of the Society for Cardiovascular Angiography & Interventions",
@@ -202,7 +269,10 @@
       ],
       "crossref_title": "Journal of the Society for Cardiovascular Angiography & Interventions",
       "publisher": "Elsevier",
-      "status": "resolved"
+      "status": "resolved",
+      "issn_pubmed": [
+        "2772-9303"
+      ]
     },
     {
       "name": "JACC: Heart Failure",
@@ -212,7 +282,10 @@
       ],
       "crossref_title": "JACC Heart Failure",
       "publisher": "Elsevier",
-      "status": "resolved"
+      "status": "resolved",
+      "issn_pubmed": [
+        "2213-1779"
+      ]
     },
     {
       "name": "European Journal of Heart Failure",
@@ -223,7 +296,11 @@
       ],
       "crossref_title": "European Journal of Heart Failure",
       "publisher": "Oxford University Press",
-      "status": "resolved"
+      "status": "resolved",
+      "issn_pubmed": [
+        "1388-9842",
+        "1879-0844"
+      ]
     }
   ]
 }

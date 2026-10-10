@@ -270,3 +270,68 @@ British English. Flat declarative prose, with longer sentences and subordinate c
 5. Run weekly, monthly and quarterly tasks when due according to state/state.json, catching up any that were missed.
 6. Verify, regenerate README.md, commit and push to main.
 7. End the session with a final message of no more than 150 words: run status, new records by domain, Tier A titles with PMIDs, alerts, and which periodic outputs were produced.
+
+## Appendix A. Implementation and run procedure
+
+This appendix was added when the system was built on 10 October 2026. It does not change the specification above; it says how the code implements it and exactly what a session does. Where it is silent, the specification governs.
+
+### A.1 Code and commands
+
+Run everything from the repository root with `python3`. The code is standard-library Python under `src/`; tests are `python3 -m pytest -q` (install pytest with `pip install --break-system-packages pytest` only if it is missing). The entry point is `python3 -m src.run <command>`:
+
+- `daily`: health check of every source, owner decisions, PubMed by domain from each watermark minus 3 days, the corrections sweep, Europe PMC and medRxiv preprints, Crossref online-first items for the 20 tiered journals, the ClinicalTrials.gov delta, classification and deduplication, then it queues new records for appraisal and exports up to 400 of them (most urgent first) to `state/appraisal_batch.jsonl`. Watermarks advance only for sources that succeeded.
+- `daily-finish`: imports `state/appraisal_results.jsonl` (rejecting any entry that fails validation), writes the daily digest and records CSV, regenerates README.md, appends to `logs/runs.jsonl`, and runs the citation check. It is safe to re-run.
+- `weekly` (refreshes the full trial snapshot, writes the weekly brief, PRIORITIES.md, QUESTIONS.md and outputs/calendar.md), `monthly --maintenance` (gzips old partitions, refreshes Tier A citation counts, re-runs seed recall and core-journal completeness, re-counts the last six months of trends), `monthly` (renders the monthly report from `state/monthly_narrative.json`), `quarterly` and `quarterly --done`.
+- `baseline --minutes 7` (retrieval chunks; repeat until none are pending), `queue-baseline` (after retrieval: queues baseline records for model appraisal under section 8.1 and gives the rest rule tier C), `trends --minutes 7`.
+- `appraise-export --limit N [--priority P]`, `appraise-import [path]`, `add-records PMID ...` (fetches PMIDs into the store, for example papers cited in a brief), `add-trials NCT ...`, `render`, `verify`, `status`, `due`.
+
+### A.2 Appraisal hand-off
+
+The pipeline cannot call a model, so the session appraises. For each line of `state/appraisal_batch.jsonl` write one JSON line to `state/appraisal_results.jsonl`:
+
+    {"id": "40139890", "tier": "B",
+     "appraisal": {"one_line": "...", "design_and_n": "...", "primary_result_as_reported": "...",
+                   "main_limitation": "...", "why_it_matters": "..."},
+     "question_ids": ["Q-004"],
+     "register_verdicts": [{"qid": "Q-004", "verdict": "partly scooped", "note": "one sentence"}]}
+
+`appraisal` is required for Tier A and B and omitted for C and D. Copy numbers into `primary_result_as_reported` and `design_and_n` exactly as the abstract gives them; the importer rejects an entry whose numbers do not appear in the stored abstract, and the record stays in the backlog. If the abstract gives no estimate, say "The abstract does not report an effect estimate." `register_verdicts` is needed only for records whose `register_candidates` list is not empty; verdicts are "fully scooped", "partly scooped", "answered" or "unaffected". For batches above about 100 records, split the batch across subagents that each write their own results file, then concatenate the files before importing. Tier calibration follows section 7; a typical day has zero to five Tier A records.
+
+### A.3 What a scheduled run does, step by step
+
+1. `git pull --rebase origin main`, then read this file, `context/owner.md` and `context/decisions_by_owner.md`.
+2. `python3 -m pytest -q`. If a test fails, try to fix it; if it cannot be fixed in the run, carry on and mark the run DEGRADED.
+3. `python3 -m src.run daily`, appraise the batch (A.2), `python3 -m src.run daily-finish`. If the backlog is not empty and time allows, drain more with `appraise-export --limit 400` and `appraise-import`.
+4. Up to three new candidate questions from today's Tier A records: append them to `register/questions.jsonl` using the schema in A.4, with their gate record, then `python3 -m src.run render`.
+5. `python3 -m src.run due` prints which periodic tasks are due. Weekly: `python3 -m src.run weekly`, then the congress watch (update `config/congresses.json` from official congress pages, with URL and access date for each entry, and add late-breaking trials when programmes are published). Monthly: `python3 -m src.run monthly --maintenance`; judge a fresh 20-record precision sample per domain if time allows; re-score the register; run the adversarial check (section 10) on every question entering or remaining in the top ten; update briefs for the top ten; write `state/monthly_narrative.json` (A.5); then `python3 -m src.run monthly`. Quarterly: rewrite the landscapes, re-run the citation benchmark, check guidelines, then `python3 -m src.run quarterly --done`.
+6. If `state/state.json` shows the baseline incomplete, continue it: retrieval with `baseline --minutes 7`, then `queue-baseline` once, then drain the appraisal backlog, then the synthesis steps listed in `baseline.synthesis_pending`, ticking each off in state.json as it completes.
+7. `python3 -m src.run verify`; fix every problem (use `add-records` or `add-trials` for a real identifier that is missing from the store, otherwise remove the text); `python3 -m src.run render`; commit and push to main as section 13 describes.
+
+### A.4 Register question schema
+
+One JSON object per line in `register/questions.jsonl`; `composite` is computed by the code from `scores`.
+
+    {"id": "Q-001", "title": "...", "domains": ["D2"],
+     "pico": {"population": "...", "intervention": "...", "comparator": "...", "outcomes": "...", "timing": "..."},
+     "decision": "...", "decision_maker": "...", "why_now": "...",
+     "evidence_status": {"key_pmids": ["..."], "latest_review": {"pmid": "...", "date": "YYYY-MM-DD"},
+                         "guideline_position": [{"source": "...", "class": "...", "level": "...", "wording": "..."}]},
+     "competing": [{"nct": "NCT...", "n": 0, "primary_completion": "YYYY-MM", "note": "..."}],
+     "gap_type": "...", "designs": {"primary": "...", "alternative": "..."},
+     "data_required": "...", "data_sources": ["..."], "feasibility": "...", "overlap": "...",
+     "target_journal": "...", "precedent_pmids": ["..."],
+     "gates": {"G1": {"pass": true, "note": "..."}, "G2": {...}, "G3": {...}, "G4": {...}, "G5": {...}},
+     "scores": {"impact": {"score": 4, "why": "..."}, "novelty": {...}, "equipoise": {...}, "design": {...},
+                "timeliness": {...}, "citation": {...}, "feasibility": {...}},
+     "subspecialty_only": false, "keywords": ["lower-case phrases used for scoop matching"],
+     "next_actions": ["...", "...", "..."], "status": "candidate",
+     "status_history": [{"date": "YYYY-MM-DD", "status": "candidate", "reason": "..."}],
+     "created": "YYYY-MM-DD", "last_reviewed": "YYYY-MM-DD", "audit": [], "adversarial": {"date": "...", "summary": "..."}}
+
+### A.5 Narrative files
+
+`state/monthly_narrative.json`: `{"month": "YYYY-MM", "summary": "...", "domain_narratives": {"D1": "at most 150 words", ...}, "validation": "the month's recall, precision and completeness figures in prose"}`. `state/weekly_narrative.json` (optional): `{"week": "YYYY-Www", "text": "..."}`. Both follow section 14.
+
+### A.6 Source notes from the build
+
+OpenAlex refuses keyless requests once the shared daily budget is spent; citation counts then come from Europe PMC and the fallback is logged. Setting OPENALEX_API_KEY in the environment restores OpenAlex. medRxiv DOIs moved to the 10.64898 prefix in 2026. PubMed no longer recognises "Consensus Development Conference" as a publication type; "Consensus Statement" is used instead. ISRCTN is queried through its condition field only, because its free-text search returned irrelevant trials.

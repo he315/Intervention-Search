@@ -57,7 +57,7 @@ def classify_design(rec):
     if {"Practice Guideline", "Guideline"} & pts or (GUIDELINE_RX.search(title) and not META_RX.search(title)
                                                       and re.search(r"\b(ESC|ACC|AHA|NICE|SCAI|EAPCI|EACTS|society|association|college)\b", title + abstract[:400], re.I)):
         return "guideline"
-    if {"Consensus Development Conference", "Consensus Development Conference, NIH"} & pts or CONSENSUS_RX.search(title):
+    if {"Consensus Development Conference", "Consensus Development Conference, NIH", "Consensus Statement"} & pts or CONSENSUS_RX.search(title):
         return "consensus_or_statement"
     is_meta = "Meta-Analysis" in pts or "Network Meta-Analysis" in pts or META_RX.search(title) or META_RX.search(abstract[:600])
     if is_meta:
