@@ -1,0 +1,11 @@
+# D7 Type 2 MI and myocardial injury. Version 1.
+(("type 2 myocardial infarction"[tiab] OR "type II myocardial infarction"[tiab] OR "type 2 MI"[tiab]
+ OR "type 2 acute myocardial infarction"[tiab] OR "secondary myocardial infarction"[tiab]
+ OR "demand ischemia"[tiab] OR "demand ischaemia"[tiab] OR ("supply-demand"[tiab] AND ("myocardial"[tiab] OR "ischemia"[tiab] OR "ischaemia"[tiab]))
+ OR ("myocardial injury"[tiab] AND ("troponin"[tiab] OR "non-ischemic"[tiab] OR "non-ischaemic"[tiab] OR "acute"[tiab] OR "chronic"[tiab]))
+ OR "myocardial injury after noncardiac surgery"[tiab] OR "myocardial injury after non-cardiac surgery"[tiab]
+ OR "perioperative myocardial infarction"[tiab] OR "perioperative myocardial injury"[tiab] OR "postoperative myocardial infarction"[tiab]
+ OR (("high-sensitivity troponin"[tiab] OR "high-sensitivity cardiac troponin"[tiab])
+     AND ("Coronary Angiography"[Mesh] OR "coronary angiography"[tiab] OR "invasive"[tiab] OR "Percutaneous Coronary Intervention"[Mesh] OR "revascularization"[tiab] OR "revascularisation"[tiab]))
+ OR "universal definition of myocardial infarction"[tiab])
+ NOT ("Animals"[Mesh] NOT "Humans"[Mesh]))

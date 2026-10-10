@@ -1,0 +1,602 @@
+[
+ {
+  "pmid": "41567646",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42206966",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41225571",
+  "in_scope": false,
+  "reason": "Infected cardiac myxoma",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42644716",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42461197",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41866114",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41686441",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42288998",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42334574",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41240959",
+  "in_scope": false,
+  "reason": "Thoracic surgery ventilation RCT",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42801193",
+  "in_scope": false,
+  "reason": "Generic transseptal puncture device review (EP/structural), not D9-specific",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42157596",
+  "in_scope": false,
+  "reason": "Melanoma DVT thrombectomy (venous, not PE CDT)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42616266",
+  "in_scope": false,
+  "reason": "Computational modelling proof-of-concept, no clinical endpoint",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42843495",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41210358",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41666967",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42283681",
+  "in_scope": false,
+  "reason": "Cardiac paraganglioma found incidentally on pre-LAAO CT",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41923730",
+  "in_scope": false,
+  "reason": "Mitral TEER indications (valve domain)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41425446",
+  "in_scope": false,
+  "reason": "Pulmonary complications after cardiac surgery",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42323480",
+  "in_scope": false,
+  "reason": "Regulatory patient-preference methods review",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41639828",
+  "in_scope": false,
+  "reason": "RCC venous tumour thrombus radiomics",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42219525",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42715572",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42712517",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42063449",
+  "in_scope": false,
+  "reason": "CTEPH surveillance after PE; no catheter-directed therapy",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42371032",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42423426",
+  "in_scope": false,
+  "reason": "Stroke thrombectomy metabolomics",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41903032",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42709631",
+  "in_scope": false,
+  "reason": "Ophthalmology ('PFO' = perfluoro-n-octane acronym collision)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42508673",
+  "in_scope": false,
+  "reason": "Computational thrombus mechanics review",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42009573",
+  "in_scope": false,
+  "reason": "Surgical mitral repair chords",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42171569",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42813540",
+  "in_scope": false,
+  "reason": "Paediatric right heart thrombus surgery",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41643878",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41385172",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42179079",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42330326",
+  "in_scope": false,
+  "reason": "IVC/iliac DVT thrombectomy, not PE",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42513444",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41612339",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42677787",
+  "in_scope": false,
+  "reason": "Periprosthetic joint infection",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41114299",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42112274",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41498471",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42788623",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41587580",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42044115",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42855979",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41118195",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41236466",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42143608",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42191019",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41820173",
+  "in_scope": false,
+  "reason": "Percutaneous aspiration for tricuspid endocarditis; not a listed D9 intervention",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41602335",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41287292",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42334903",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41672704",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42261277",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42191286",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42378399",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41524080",
+  "in_scope": false,
+  "reason": "Neuromodulation for ventricular arrhythmia (EP)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42662835",
+  "in_scope": false,
+  "reason": "Systemic thrombolysis during CPR for PE; no catheter-directed therapy",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41400758",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41287290",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42619248",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41812431",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41866268",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42726037",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42407076",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41165651",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42460943",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42088330",
+  "in_scope": false,
+  "reason": "Stroke thrombectomy complications",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42765776",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42234130",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41563656",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42392647",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42783050",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41564729",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41111698",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41249033",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42403876",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42052882",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41197042",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41292153",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42368772",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42663340",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42213877",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41726060",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42003355",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41389049",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42564318",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41563206",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41612864",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42326912",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41739022",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42736942",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41789336",
+  "in_scope": false,
+  "reason": "Circumflex artery anatomy/injury review",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42273307",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42502331",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42177020",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41817485",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ }
+]

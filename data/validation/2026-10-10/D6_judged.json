@@ -1,0 +1,596 @@
+[
+ {
+  "pmid": "42544531",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41174862",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41570890",
+  "in_scope": false,
+  "reason": "Influenza in all cardiac ICU patients; population not ACS-specific",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41676927",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41323777",
+  "in_scope": false,
+  "reason": "Animal (rat) stem cell MI model",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41284995",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41910382",
+  "in_scope": false,
+  "reason": "vFFR trial in mixed chronic/acute coronary syndromes; general physiology",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41602946",
+  "in_scope": false,
+  "reason": "AI angiography bibliometric review; not ACS",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42171119",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41832117",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42460933",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42622691",
+  "in_scope": false,
+  "reason": "Photobiomodulation for MI prevention; speculative/mechanistic",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41222183",
+  "in_scope": false,
+  "reason": "Peripheral venous bypass thrombectomy",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41511355",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41649063",
+  "in_scope": false,
+  "reason": "Hypertensive emergencies registry",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42324455",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41641524",
+  "in_scope": false,
+  "reason": "Analytical sensor chemistry for biomarkers; no clinical endpoint",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42233913",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42724056",
+  "in_scope": false,
+  "reason": "Infarct biomechanics basic science review",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42477588",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41177359",
+  "in_scope": false,
+  "reason": "Niacinamide in dermatology patients; not ACS population",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41088598",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41409803",
+  "in_scope": false,
+  "reason": "Animal (rat) post-infarct HF mechanism",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41134163",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41079819",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41397965",
+  "in_scope": false,
+  "reason": "Mechanistic Wnt2 I/R study (mainly mouse)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41375866",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41344749",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42705323",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41271392",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42844563",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41134682",
+  "in_scope": false,
+  "reason": "Bioinformatics (GEO/WGCNA); no clinical endpoint",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41477787",
+  "in_scope": false,
+  "reason": "Vascular ageing review; not ACS",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41770278",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42026853",
+  "in_scope": false,
+  "reason": "Regenerative cell therapy review, mostly preclinical",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41563224",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41910504",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41322858",
+  "in_scope": false,
+  "reason": "COVID myocarditis (ACS mimic)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41378282",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41397298",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42022703",
+  "in_scope": false,
+  "reason": "Hiatal hernia ACS mimic",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41500563",
+  "in_scope": false,
+  "reason": "Animal I/R pharmacology",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41942865",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41780662",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42577348",
+  "in_scope": false,
+  "reason": "Neuronal injury cell study; not cardiac",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41868434",
+  "in_scope": false,
+  "reason": "ICD in vasospastic angina; electrophysiology, not ACS population",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41390953",
+  "in_scope": false,
+  "reason": "CYP2C19 after DES in mixed PCI cohort; not ACS-specific",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41890876",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42050356",
+  "in_scope": false,
+  "reason": "General PCI vascular access review",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42707406",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41708163",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41472878",
+  "in_scope": false,
+  "reason": "Semaglutide in T2DM; not post-MI population",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42323152",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41331616",
+  "in_scope": false,
+  "reason": "CT/PET in diabetes; chronic CAD imaging",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41226961",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42776327",
+  "in_scope": false,
+  "reason": "Animal (rat) no-reflow model",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41766697",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41581009",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41691366",
+  "in_scope": false,
+  "reason": "Immune thrombocytopenia case",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42130582",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41096874",
+  "in_scope": false,
+  "reason": "Cannabidiol mechanistic review",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42512893",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41084561",
+  "in_scope": false,
+  "reason": "Transfusion in general PCI review",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42535531",
+  "in_scope": false,
+  "reason": "DCB inflation time in general PCI (SCAAR)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42273320",
+  "in_scope": false,
+  "reason": "Task shifting in ablation/PCI workforce survey",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41666557",
+  "in_scope": false,
+  "reason": "Extracellular vesicle mechanistic lab study",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41619185",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42508846",
+  "in_scope": false,
+  "reason": "DCB for chronic total occlusion",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42640551",
+  "in_scope": false,
+  "reason": "JCAD vascular biology review",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41092520",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41923727",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41826133",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41767446",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42669300",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42194950",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42537766",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42571651",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42492124",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41089244",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42151028",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41402714",
+  "in_scope": false,
+  "reason": "Stress hyperglycaemia in mixed CHD cohort; not ACS-specific",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42059140",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41406175",
+  "in_scope": false,
+  "reason": "Animal (mouse) reperfusion injury",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42598653",
+  "in_scope": false,
+  "reason": "Paraneoplastic hypereosinophilia case; not ACS",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41784304",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42052814",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41488029",
+  "in_scope": false,
+  "reason": "Troponin in haemodialysis patients; not ACS",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41467782",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41410071",
+  "in_scope": false,
+  "reason": "GLP-1RA in limb ischaemia; peripheral population",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42723657",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42694586",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42106148",
+  "in_scope": false,
+  "reason": "Temporary VAD bridge to transplant; not ACS",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42645376",
+  "in_scope": false,
+  "reason": "Carfilzomib cardiotoxicity; cardio-oncology",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42047346",
+  "in_scope": false,
+  "reason": "Animal (mouse) stem cell EV cardioprotection",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42701377",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41598157",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42694895",
+  "in_scope": false,
+  "reason": "Takotsubo pathophysiology review; not ACS",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41965854",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41206490",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ }
+]

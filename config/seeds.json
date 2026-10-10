@@ -1,0 +1,630 @@
+{
+  "built_on": "2026-10-10",
+  "seeds": [
+    {
+      "domain": "D1",
+      "name": "ISCHEMIA",
+      "descriptor": "invasive versus conservative strategy in stable CAD",
+      "pmid": "32227755",
+      "status": "resolved",
+      "note": "Primary NEJM 2020 report; abstract names ISCHEMIA with NCT01471522",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D1",
+      "name": "REVIVED-BCIS2",
+      "descriptor": "PCI in ischaemic LV dysfunction",
+      "pmid": "36027563",
+      "status": "resolved",
+      "note": "Primary NEJM 2022 report; NCT01920048",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D1",
+      "name": "FAME 3",
+      "descriptor": "FFR-guided PCI versus CABG",
+      "pmid": "34735046",
+      "status": "resolved",
+      "note": "Primary NEJM 2022 report; NCT02100722",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D1",
+      "name": "EXCEL",
+      "descriptor": "left main PCI versus CABG",
+      "pmid": "27797291",
+      "status": "resolved",
+      "note": "Primary NEJM 2016 report; NCT01205776",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D1",
+      "name": "NOBLE",
+      "descriptor": "left main PCI versus CABG",
+      "pmid": "27810312",
+      "status": "resolved",
+      "note": "Primary Lancet 2016 report; NCT01496651",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D1",
+      "name": "RENOVATE-COMPLEX-PCI",
+      "descriptor": "intravascular imaging-guided PCI",
+      "pmid": "36876735",
+      "status": "resolved",
+      "note": "Primary NEJM 2023 report; NCT03381872",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D1",
+      "name": "OCTOBER",
+      "descriptor": "OCT-guided bifurcation PCI",
+      "pmid": "37634149",
+      "status": "resolved",
+      "note": "Primary NEJM 2023 report; NCT03171311",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D1",
+      "name": "ILUMIEN IV",
+      "descriptor": "OCT-guided PCI",
+      "pmid": "37634188",
+      "status": "resolved",
+      "note": "Primary NEJM 2023 report; NCT03507777",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D1",
+      "name": "ORBITA-2",
+      "descriptor": "PCI for stable angina, placebo-controlled",
+      "pmid": "38015442",
+      "status": "resolved",
+      "note": "Primary NEJM 2023 report; NCT03742050",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D1",
+      "name": "AGENT IDE",
+      "descriptor": "paclitaxel-coated balloon for in-stent restenosis",
+      "pmid": "38460161",
+      "status": "resolved",
+      "note": "Primary JAMA 2024 report; NCT04647253",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D1",
+      "name": "BASKET-SMALL 2",
+      "descriptor": "drug-coated balloon in small vessels",
+      "pmid": "30170854",
+      "status": "resolved",
+      "note": "Primary Lancet 2018 report; NCT01574534",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D1",
+      "name": "REC-CAGEFREE I",
+      "descriptor": "drug-coated balloon in de novo lesions",
+      "pmid": "39236727",
+      "status": "resolved",
+      "note": "Primary Lancet 2024 report; NCT04561739",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D2",
+      "name": "IABP-SHOCK II",
+      "descriptor": "IABP in AMI cardiogenic shock",
+      "pmid": "22920912",
+      "status": "resolved",
+      "note": "Primary NEJM 2012 report; NCT00491036",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D2",
+      "name": "CULPRIT-SHOCK",
+      "descriptor": "culprit-only PCI in AMI cardiogenic shock",
+      "pmid": "29083953",
+      "status": "resolved",
+      "note": "Primary NEJM 2017 report; NCT01927549",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D2",
+      "name": "ECLS-SHOCK",
+      "descriptor": "VA-ECMO in AMI cardiogenic shock",
+      "pmid": "37634145",
+      "status": "resolved",
+      "note": "Primary NEJM 2023 report; NCT03637205",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D2",
+      "name": "DanGer Shock",
+      "descriptor": "microaxial flow pump in STEMI cardiogenic shock",
+      "pmid": "38587239",
+      "status": "resolved",
+      "note": "Primary NEJM 2024 report; NCT01633502",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D2",
+      "name": "ECMO-CS",
+      "descriptor": "VA-ECMO in cardiogenic shock",
+      "pmid": "36335478",
+      "status": "resolved",
+      "note": "Primary Circulation 2023 report; NCT02301819",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D3",
+      "name": "PARTNER 3",
+      "descriptor": "balloon-expandable TAVI in low-risk patients",
+      "pmid": "30883058",
+      "status": "resolved",
+      "note": "Primary NEJM 2019 report; NCT02675114",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D3",
+      "name": "Evolut Low Risk",
+      "descriptor": "self-expanding TAVI in low-risk patients",
+      "pmid": "30883053",
+      "status": "resolved",
+      "note": "Primary NEJM 2019 report; NCT02701283",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D3",
+      "name": "NOTION",
+      "descriptor": "TAVI versus SAVR in lower-risk patients",
+      "pmid": "25787196",
+      "status": "resolved",
+      "note": "Primary JACC 2015 1-year report; NCT01057173",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D3",
+      "name": "POPular TAVI",
+      "descriptor": "antiplatelet therapy after TAVI",
+      "pmid": "32865376",
+      "status": "resolved",
+      "note": "Cohort A (aspirin with or without clopidogrel), NEJM 2020; cohort B (anticoagulation, PMID 32223116) is a separate report of the same trial",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D3",
+      "name": "DEDICATE",
+      "descriptor": "TAVI versus SAVR in low to intermediate risk",
+      "pmid": "38588025",
+      "status": "resolved",
+      "note": "Primary NEJM 2024 report; NCT03112980",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D3",
+      "name": "SMART",
+      "descriptor": "TAVI valve platforms in small aortic annuli",
+      "pmid": "38587261",
+      "status": "resolved",
+      "note": "Primary NEJM 2024 report; NCT04722250",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D3",
+      "name": "EARLY TAVR",
+      "descriptor": "TAVI in asymptomatic severe AS",
+      "pmid": "39466903",
+      "status": "resolved",
+      "note": "Primary NEJM 2025 report; NCT03042104",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D4",
+      "name": "COAPT",
+      "descriptor": "TEER in secondary MR",
+      "pmid": "30280640",
+      "status": "resolved",
+      "note": "Primary NEJM 2018 report; NCT01626079",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D4",
+      "name": "MITRA-FR",
+      "descriptor": "TEER in secondary MR",
+      "pmid": "30145927",
+      "status": "resolved",
+      "note": "Primary NEJM 2018 report; NCT01920698",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D4",
+      "name": "RESHAPE-HF2",
+      "descriptor": "TEER in secondary MR",
+      "pmid": "39216092",
+      "status": "resolved",
+      "note": "Primary NEJM 2024 report; NCT02444338",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D5",
+      "name": "TRILUMINATE Pivotal",
+      "descriptor": "tricuspid TEER",
+      "pmid": "36876753",
+      "status": "resolved",
+      "note": "Primary NEJM 2023 report; NCT03904147",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D5",
+      "name": "TRISCEND II",
+      "descriptor": "transcatheter tricuspid valve replacement",
+      "pmid": "39475399",
+      "status": "resolved",
+      "note": "Primary NEJM 2025 report; NCT04482062",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D5",
+      "name": "Tri.fr",
+      "descriptor": "tricuspid TEER versus medical therapy",
+      "pmid": "39602173",
+      "status": "resolved",
+      "note": "Primary JAMA 2025 report; NCT04646811",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D6",
+      "name": "COMPLETE",
+      "descriptor": "complete revascularisation in STEMI",
+      "pmid": "31475795",
+      "status": "resolved",
+      "note": "Primary NEJM 2019 report; NCT01740479",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D6",
+      "name": "FIRE",
+      "descriptor": "physiology-guided complete revascularisation in older patients with MI",
+      "pmid": "37634150",
+      "status": "resolved",
+      "note": "Primary NEJM 2023 report; NCT03772743",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D6",
+      "name": "FULL REVASC",
+      "descriptor": "FFR-guided complete revascularisation in MI",
+      "pmid": "38587995",
+      "status": "resolved",
+      "note": "Primary NEJM 2024 report; abstract names FULL REVASC with NCT02862119",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D6",
+      "name": "MULTISTARS AMI",
+      "descriptor": "immediate versus staged complete revascularisation in STEMI",
+      "pmid": "37634190",
+      "status": "resolved",
+      "note": "Primary NEJM 2023 report; NCT03135275",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D6",
+      "name": "ISAR-REACT 5",
+      "descriptor": "ticagrelor versus prasugrel in ACS",
+      "pmid": "31475799",
+      "status": "resolved",
+      "note": "Primary NEJM 2019 report; NCT01944800",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D6",
+      "name": "REDUCE-AMI",
+      "descriptor": "beta-blockers after MI with preserved EF",
+      "pmid": "38587241",
+      "status": "resolved",
+      "note": "Primary NEJM 2024 report; NCT03278509",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D8",
+      "name": "TWILIGHT",
+      "descriptor": "ticagrelor monotherapy after PCI",
+      "pmid": "31556978",
+      "status": "resolved",
+      "note": "Primary NEJM 2019 report; NCT02270242",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D8",
+      "name": "STOPDAPT-2",
+      "descriptor": "short DAPT then clopidogrel monotherapy",
+      "pmid": "31237644",
+      "status": "resolved",
+      "note": "Primary JAMA 2019 report; NCT02619760",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D8",
+      "name": "TICO",
+      "descriptor": "ticagrelor monotherapy after 3 months in ACS",
+      "pmid": "32543684",
+      "status": "resolved",
+      "note": "Primary JAMA 2020 report; NCT02494895",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D8",
+      "name": "HOST-EXAM",
+      "descriptor": "clopidogrel versus aspirin monotherapy long term",
+      "pmid": "34010616",
+      "status": "resolved",
+      "note": "Primary Lancet 2021 report; NCT02044250",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D8",
+      "name": "MASTER DAPT",
+      "descriptor": "abbreviated antiplatelet therapy in high bleeding risk",
+      "pmid": "34449185",
+      "status": "resolved",
+      "note": "Primary NEJM 2021 report; NCT03023020",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D8",
+      "name": "ULTIMATE-DAPT",
+      "descriptor": "ticagrelor monotherapy after 1 month in ACS",
+      "pmid": "38599220",
+      "status": "resolved",
+      "note": "Primary Lancet 2024 report; NCT03971500",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D8",
+      "name": "AUGUSTUS",
+      "descriptor": "antithrombotic therapy in AF after ACS or PCI",
+      "pmid": "30883055",
+      "status": "resolved",
+      "note": "Primary NEJM 2019 report; NCT02415400",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D8",
+      "name": "AQUATIC",
+      "descriptor": "aspirin added to oral anticoagulation in chronic coronary syndrome",
+      "pmid": "40888725",
+      "status": "resolved",
+      "note": "NEJM 2025 report; resolved through NCT04217447, whose ClinicalTrials.gov acronym is AQUATIC (the acronym is not in the PubMed abstract)",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D9",
+      "name": "PRAGUE-17",
+      "descriptor": "LAAO versus DOAC",
+      "pmid": "32586585",
+      "status": "resolved",
+      "note": "Primary JACC 2020 report; NCT02426944",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D9",
+      "name": "OPTION",
+      "descriptor": "LAAO after AF ablation",
+      "pmid": "39555822",
+      "status": "resolved",
+      "note": "Primary NEJM 2025 report; NCT03795298",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D9",
+      "name": "CLOSE",
+      "descriptor": "PFO closure after stroke",
+      "pmid": "28902593",
+      "status": "resolved",
+      "note": "Primary NEJM 2017 report; NCT00562289",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D9",
+      "name": "PEERLESS",
+      "descriptor": "catheter-directed therapy in pulmonary embolism",
+      "pmid": "39470698",
+      "status": "resolved",
+      "note": "Primary Circulation 2025 report; NCT05111613",
+      "resolved_by": "PubMed search on acronym or registry number, matched on title, journal and NCT"
+    },
+    {
+      "domain": "D7",
+      "name": "Fourth Universal Definition of Myocardial Infarction (2018)",
+      "descriptor": "2018 consensus document",
+      "pmid": "30165617",
+      "also_published_as": [
+        "30153967",
+        "30571511"
+      ],
+      "status": "resolved",
+      "note": "Published simultaneously in Eur Heart J (30165617), J Am Coll Cardiol (30153967) and Circulation (30571511); all three count as the seed",
+      "resolved_by": "PubMed title search"
+    },
+    {
+      "domain": "D7",
+      "name": "D7 recall cohort 37137939",
+      "descriptor": "Management and outcome trends in type 2 MI, SWEDEHEART registry cohort",
+      "pmid": "37137939",
+      "status": "resolved",
+      "note": "Type 2 MI or myocardial injury cohort study chosen by title search; design checked from the abstract methods",
+      "resolved_by": "PubMed title search; abstract read"
+    },
+    {
+      "domain": "D7",
+      "name": "D7 recall cohort 35262640",
+      "descriptor": "Characteristics and outcomes of type 2 MI, prospective multicentre ED cohort",
+      "pmid": "35262640",
+      "status": "resolved",
+      "note": "Type 2 MI or myocardial injury cohort study chosen by title search; design checked from the abstract methods",
+      "resolved_by": "PubMed title search; abstract read"
+    },
+    {
+      "domain": "D7",
+      "name": "D7 recall cohort 40510187",
+      "descriptor": "Beta-blockers and mortality in critically ill patients with type 2 MI, MIMIC-IV retrospective cohort",
+      "pmid": "40510187",
+      "status": "resolved",
+      "note": "Type 2 MI or myocardial injury cohort study chosen by title search; design checked from the abstract methods",
+      "resolved_by": "PubMed title search; abstract read"
+    },
+    {
+      "domain": "D7",
+      "name": "D7 recall cohort 32516805",
+      "descriptor": "GRACE 2.0 score in type 1 and type 2 MI, two consecutive-patient cohorts",
+      "pmid": "32516805",
+      "status": "resolved",
+      "note": "Type 2 MI or myocardial injury cohort study chosen by title search; design checked from the abstract methods",
+      "resolved_by": "PubMed title search; abstract read"
+    },
+    {
+      "domain": "D7",
+      "name": "D7 recall cohort 30941774",
+      "descriptor": "Wake-Up T2MI registry, long-term follow-up",
+      "pmid": "30941774",
+      "status": "resolved",
+      "note": "Type 2 MI or myocardial injury cohort study chosen by title search; design checked from the abstract methods",
+      "resolved_by": "PubMed title search; abstract read"
+    },
+    {
+      "domain": "D7",
+      "name": "D7 recall cohort 28935032",
+      "descriptor": "Effect of definition on incidence and prognosis of type 2 MI, adjudicated cohort",
+      "pmid": "28935032",
+      "status": "resolved",
+      "note": "Type 2 MI or myocardial injury cohort study chosen by title search; design checked from the abstract methods",
+      "resolved_by": "PubMed title search; abstract read"
+    },
+    {
+      "domain": "D7",
+      "name": "D7 recall cohort 25433303",
+      "descriptor": "Type 2 MI in vasospastic angina, retrospective consecutive cohort",
+      "pmid": "25433303",
+      "status": "resolved",
+      "note": "Type 2 MI or myocardial injury cohort study chosen by title search; design checked from the abstract methods",
+      "resolved_by": "PubMed title search; abstract read"
+    },
+    {
+      "domain": "D7",
+      "name": "D7 recall cohort 37649549",
+      "descriptor": "Cystatin C and cTnI in elderly type 2 MI, retrospective cohort",
+      "pmid": "37649549",
+      "status": "resolved",
+      "note": "Type 2 MI or myocardial injury cohort study chosen by title search; design checked from the abstract methods",
+      "resolved_by": "PubMed title search; abstract read"
+    },
+    {
+      "domain": "D7",
+      "name": "D7 recall cohort 30419227",
+      "descriptor": "TARRACO risk score in type 2 MI and myocardial injury, derivation cohort",
+      "pmid": "30419227",
+      "status": "resolved",
+      "note": "Type 2 MI or myocardial injury cohort study chosen by title search; design checked from the abstract methods",
+      "resolved_by": "PubMed title search; abstract read"
+    },
+    {
+      "domain": "D7",
+      "name": "D7 recall cohort 37030534",
+      "descriptor": "Diagnosis and prognosis of type 2 MI using objective ischaemia, observational ED cohort",
+      "pmid": "37030534",
+      "status": "resolved",
+      "note": "Type 2 MI or myocardial injury cohort study chosen by title search; design checked from the abstract methods",
+      "resolved_by": "PubMed title search; abstract read"
+    },
+    {
+      "domain": "D7",
+      "name": "D7 recall cohort 28784608",
+      "descriptor": "Type 2 MI in emergency department patients, analysis of two prospective cohorts",
+      "pmid": "28784608",
+      "status": "resolved",
+      "note": "Type 2 MI or myocardial injury cohort study chosen by title search; design checked from the abstract methods",
+      "resolved_by": "PubMed title search; abstract read"
+    },
+    {
+      "domain": "D7",
+      "name": "D7 recall cohort 37777947",
+      "descriptor": "CT angiography with FFR in type 2 MI, prospective cohort",
+      "pmid": "37777947",
+      "status": "resolved",
+      "note": "Type 2 MI or myocardial injury cohort study chosen by title search; design checked from the abstract methods",
+      "resolved_by": "PubMed title search; abstract read"
+    },
+    {
+      "domain": "D7",
+      "name": "D7 recall cohort 29077608",
+      "descriptor": "Intraoperative heart rate and blood pressure and MINS, VISION cohort",
+      "pmid": "29077608",
+      "status": "resolved",
+      "note": "Type 2 MI or myocardial injury cohort study chosen by title search; design checked from the abstract methods",
+      "resolved_by": "PubMed title search; abstract read"
+    },
+    {
+      "domain": "D7",
+      "name": "D7 recall cohort 27687420",
+      "descriptor": "Surgical Apgar score and MINS, retrospective cohort",
+      "pmid": "27687420",
+      "status": "resolved",
+      "note": "Type 2 MI or myocardial injury cohort study chosen by title search; design checked from the abstract methods",
+      "resolved_by": "PubMed title search; abstract read"
+    },
+    {
+      "domain": "D7",
+      "name": "D7 recall cohort 37459169",
+      "descriptor": "MINS in major general surgery, international prospective cohort",
+      "pmid": "37459169",
+      "status": "resolved",
+      "note": "Type 2 MI or myocardial injury cohort study chosen by title search; design checked from the abstract methods",
+      "resolved_by": "PubMed title search; abstract read"
+    },
+    {
+      "domain": "D7",
+      "name": "D7 recall cohort 28974076",
+      "descriptor": "Preoperative pulse pressure and perioperative myocardial injury, VISION cohort",
+      "pmid": "28974076",
+      "status": "resolved",
+      "note": "Type 2 MI or myocardial injury cohort study chosen by title search; design checked from the abstract methods",
+      "resolved_by": "PubMed title search; abstract read"
+    },
+    {
+      "domain": "D7",
+      "name": "D7 recall cohort 36818546",
+      "descriptor": "Red cell distribution width and MINS in older patients, retrospective cohort",
+      "pmid": "36818546",
+      "status": "resolved",
+      "note": "Type 2 MI or myocardial injury cohort study chosen by title search; design checked from the abstract methods",
+      "resolved_by": "PubMed title search; abstract read"
+    },
+    {
+      "domain": "D7",
+      "name": "D7 recall cohort 31337668",
+      "descriptor": "Acute versus chronic myocardial injury and long-term outcomes, ED cohort",
+      "pmid": "31337668",
+      "status": "resolved",
+      "note": "Type 2 MI or myocardial injury cohort study chosen by title search; design checked from the abstract methods",
+      "resolved_by": "PubMed title search; abstract read"
+    },
+    {
+      "domain": "D7",
+      "name": "D7 recall cohort 31813681",
+      "descriptor": "Causes of death with stable troponin including chronic myocardial injury, chest pain cohort",
+      "pmid": "31813681",
+      "status": "resolved",
+      "note": "Type 2 MI or myocardial injury cohort study chosen by title search; design checked from the abstract methods",
+      "resolved_by": "PubMed title search; abstract read"
+    },
+    {
+      "domain": "D7",
+      "name": "D7 recall cohort 36478763",
+      "descriptor": "Acute myocardial injury by the Fourth Universal Definition after ischaemic stroke, consecutive cohort",
+      "pmid": "36478763",
+      "status": "resolved",
+      "note": "Type 2 MI or myocardial injury cohort study chosen by title search; design checked from the abstract methods",
+      "resolved_by": "PubMed title search; abstract read"
+    }
+  ]
+}

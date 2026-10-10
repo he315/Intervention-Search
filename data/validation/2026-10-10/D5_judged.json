@@ -1,0 +1,602 @@
+[
+ {
+  "pmid": "42397343",
+  "in_scope": false,
+  "reason": "Rheumatic mitral stenosis management; TR incidental",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42422109",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41884946",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41838789",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42834351",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42786577",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42805852",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41537548",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42423325",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41731856",
+  "in_scope": false,
+  "reason": "Intravenous leiomyomatosis tumour case",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41961718",
+  "in_scope": false,
+  "reason": "Paediatric Marfan syndrome",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42017859",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41624633",
+  "in_scope": false,
+  "reason": "Adult congenital heart disease valve interventions (mainly pulmonary)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41410689",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41342992",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41101664",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41478447",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41093043",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41099069",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42028076",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42346469",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41106902",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41813282",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41346190",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42723620",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42345201",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41689581",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42438807",
+  "in_scope": false,
+  "reason": "Carcinoid tumour diagnosis case; no tricuspid intervention content",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42720641",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41400599",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42260026",
+  "in_scope": false,
+  "reason": "Large animal models of TR (preclinical review)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42707239",
+  "in_scope": false,
+  "reason": "Paediatric VSD closure",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42109999",
+  "in_scope": false,
+  "reason": "Pectus excavatum RV compression",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41364019",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42331406",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42262550",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41522065",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42030119",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42454342",
+  "in_scope": false,
+  "reason": "Iatrogenic ASD closure after mitral surgery",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42814061",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42769931",
+  "in_scope": false,
+  "reason": "SGLT2i in valvular disease review; not tricuspid-specific",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41343029",
+  "in_scope": false,
+  "reason": "Echo RV stroke work in HFrEF; imaging without tricuspid decision",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42855029",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41706055",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41067945",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41954543",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42478366",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42828808",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41425972",
+  "in_scope": false,
+  "reason": "Congenital pulmonary valve replacement (DORV)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41077369",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41398711",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41881654",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41813469",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42723624",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42592479",
+  "in_scope": false,
+  "reason": "Congenital Ebstein anomaly review",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41273326",
+  "in_scope": false,
+  "reason": "Redo aortic/mitral surgery with MAC",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42695972",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42423329",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41711210",
+  "in_scope": false,
+  "reason": "Dynamic MR after MI case; TR secondary",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42795399",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41884301",
+  "in_scope": false,
+  "reason": "Veterinary (canine) mitral surgery anaesthesia",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41674543",
+  "in_scope": false,
+  "reason": "Post-PTE RV echo assessment; not tricuspid valve",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42415598",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41863532",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42820632",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41868777",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41664279",
+  "in_scope": false,
+  "reason": "Aortic regurgitation at LVAD implant",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42432460",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41586128",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42255185",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41295236",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42311518",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42061705",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42550836",
+  "in_scope": false,
+  "reason": "Paediatric congenital PAPVC repair",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41278821",
+  "in_scope": false,
+  "reason": "Computational modelling preprint; no clinical endpoint",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41213849",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42617838",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42191323",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42802870",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41224390",
+  "in_scope": false,
+  "reason": "Mitral TEER trial (CLASP IID); not tricuspid",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42046308",
+  "in_scope": false,
+  "reason": "Congenital partial AVSD repair",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41758333",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42109125",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42328660",
+  "in_scope": false,
+  "reason": "Paediatric Lutembacher syndrome",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41986035",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41532908",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41314711",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41881642",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41870512",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41258847",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42833206",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42204726",
+  "in_scope": false,
+  "reason": "Aortic valve reoperation",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42405924",
+  "in_scope": false,
+  "reason": "Iliocaval AV fistula; TR secondary to high-output state",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42788053",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41276496",
+  "in_scope": false,
+  "reason": "Computational lead-design model; no clinical endpoint",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41194757",
+  "in_scope": false,
+  "reason": "Post-infarct VSD closure; not tricuspid",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42191557",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42569991",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42319432",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41860934",
+  "in_scope": false,
+  "reason": "RV function after TMVR; mitral, not tricuspid",
+  "system_in_scope": true
+ }
+]

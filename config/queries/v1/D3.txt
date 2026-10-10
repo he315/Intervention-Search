@@ -1,0 +1,10 @@
+# D3 Aortic valve intervention. Version 1.
+(("Transcatheter Aortic Valve Replacement"[Mesh] OR "TAVI"[tiab] OR "TAVR"[tiab] OR "transcatheter aortic valve"[tiab]
+ OR "transcatheter aortic-valve"[tiab] OR "transcatheter heart valve"[tiab]
+ OR ("Aortic Valve Stenosis"[Mesh] AND ("Heart Valve Prosthesis Implantation"[Mesh] OR "aortic valve replacement"[tiab] OR "valve replacement"[tiab] OR "SAVR"[tiab] OR "intervention"[tiab] OR "early surgery"[tiab]))
+ OR ("aortic stenosis"[tiab] AND ("aortic valve replacement"[tiab] OR "valve intervention"[tiab] OR "SAVR"[tiab]))
+ OR "valve-in-valve"[tiab] OR "valve in valve"[tiab]
+ OR ("bicuspid"[tiab] AND ("transcatheter"[tiab] OR "TAVI"[tiab] OR "TAVR"[tiab]))
+ OR "leaflet thrombosis"[tiab] OR "hypoattenuated leaflet thickening"[tiab] OR "cerebral embolic protection"[tiab]
+ OR ("pacemaker"[tiab] AND ("TAVI"[tiab] OR "TAVR"[tiab] OR "transcatheter aortic"[tiab])))
+ NOT ("Animals"[Mesh] NOT "Humans"[Mesh]))

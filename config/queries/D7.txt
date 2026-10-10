@@ -1,0 +1,17 @@
+# D7 query, version 2 (2026-10-10). See CHANGELOG.md for validation figures. Lines are joined with spaces.
+(("type 2 myocardial infarction"[tiab] OR "type II myocardial infarction"[tiab] OR "type 2 MI"[tiab]
+ OR "type 2 acute myocardial infarction"[tiab] OR "secondary myocardial infarction"[tiab]
+ OR "demand ischemia"[tiab] OR "demand ischaemia"[tiab] OR ("supply-demand"[tiab] AND ("myocardial infarction"[tiab] OR "myocardial ischemia"[tiab] OR "myocardial ischaemia"[tiab]))
+ OR ("myocardial injury"[ti] AND ("troponin"[tiab] OR "non-ischemic"[tiab] OR "non-ischaemic"[tiab] OR "acute"[tiab] OR "chronic"[tiab] OR "surgery"[tiab] OR "perioperative"[tiab] OR "postoperative"[tiab]))
+ OR ("myocardial injury"[tiab] AND "troponin"[tiab] AND ("99th percentile"[tiab] OR "universal definition"[tiab] OR "type 2"[tiab] OR "acute myocardial injury"[tiab]
+      OR "chronic myocardial injury"[tiab] OR "non-ischemic myocardial injury"[tiab] OR "non-ischaemic myocardial injury"[tiab] OR "noncardiac surgery"[tiab] OR "non-cardiac surgery"[tiab]))
+ OR "myocardial injury after noncardiac surgery"[tiab] OR "myocardial injury after non-cardiac surgery"[tiab]
+ OR "perioperative myocardial infarction"[tiab] OR "perioperative myocardial injury"[tiab] OR "postoperative myocardial infarction"[tiab]
+ OR (("high-sensitivity troponin"[tiab] OR "high-sensitivity cardiac troponin"[tiab])
+     AND ("Coronary Angiography"[Mesh] OR "coronary angiography"[tiab] OR "invasive"[tiab] OR "Percutaneous Coronary Intervention"[Mesh] OR "revascularization"[tiab] OR "revascularisation"[tiab]))
+ OR "universal definition of myocardial infarction"[tiab]
+ OR (troponin[ti] AND ("myocardial injury"[tiab] OR "myocardial infarction"[tiab] OR "type 2"[tiab] OR "99th percentile"[tiab])))
+ NOT ("cardioprotection"[ti] OR "cardioprotective"[ti] OR "doxorubicin"[ti] OR "isoproterenol"[ti] OR "isoprenaline"[ti] OR "biosensor"[ti] OR "biosensors"[ti] OR "aptamer"[ti]
+      OR "immunosensor"[ti] OR "electrochemical"[ti] OR "network pharmacology"[ti] OR "molecular docking"[ti] OR "macrophage"[ti] OR "pulsed field"[ti] OR "pulsed-field"[ti]
+      OR "ablation"[ti] OR "heart transplantation"[ti] OR "poisoning"[ti] OR "myocarditis"[ti] OR "cardiopulmonary bypass"[ti])
+ NOT ("ischemia-reperfusion injury"[ti] OR "ischaemia-reperfusion injury"[ti] OR "in vivo"[ti] OR exosome[ti] OR exosomes[ti] OR "extracellular vesicles"[ti] OR bioinformatic[ti] OR bioinformatics[ti] OR WGCNA[ti] OR "single-cell"[ti] OR "transcriptomic"[ti] OR "ferroptosis"[ti] OR "pyroptosis"[ti] OR "PANoptosis"[ti]) NOT ("Animals"[Mesh] NOT "Humans"[Mesh]) NOT (rat[ti] OR rats[ti] OR mice[ti] OR mouse[ti] OR murine[ti] OR rodent[ti] OR rodents[ti] OR zebrafish[ti] OR canine[ti] OR dog[ti] OR dogs[ti] OR feline[ti] OR rabbit[ti] OR rabbits[ti] OR "in vitro"[ti] OR cardiomyocyte[ti] OR cardiomyocytes[ti] OR "porcine model"[tiab] OR "swine model"[tiab] OR "ovine model"[tiab] OR "animal model"[ti] OR veterinary[tiab] OR pediatric[ti] OR paediatric[ti] OR neonatal[ti] OR neonates[ti] OR infant[ti] OR infants[ti] OR children[ti] OR child[ti] OR "congenital heart"[ti]))

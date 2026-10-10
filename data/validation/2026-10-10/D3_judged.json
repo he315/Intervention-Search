@@ -1,0 +1,602 @@
+[
+ {
+  "pmid": "41425783",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41804878",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42409213",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41527810",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41198188",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42112970",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41762413",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42648348",
+  "in_scope": false,
+  "reason": "cerebral autoregulation physiology",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41907029",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41389107",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41400608",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41185446",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41470144",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42731920",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41162869",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42306318",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41492023",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42692520",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42805724",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42333439",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41169307",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41149278",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41528587",
+  "in_scope": false,
+  "reason": "surgical-only comparison (neocuspidisation vs bioprosthetic SAVR)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41561774",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42629742",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42281846",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41456512",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42573926",
+  "in_scope": false,
+  "reason": "computational AS progression model, no interventional decision",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42387453",
+  "in_scope": false,
+  "reason": "surgical redo double-valve (Commando) case",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41813285",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41729166",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41149248",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42513488",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42745734",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42553922",
+  "in_scope": false,
+  "reason": "congenital unicuspid valve in adolescent",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41269046",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41263738",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42331413",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42442888",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41496755",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41430149",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41107875",
+  "in_scope": false,
+  "reason": "endoscopic surgical AVR technique",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42119694",
+  "in_scope": false,
+  "reason": "gender gaps in cardiothoracic surgery",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41944975",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41901666",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41080692",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42086161",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41149269",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41177202",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41771490",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41480673",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41553619",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41759560",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41758398",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41865962",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41800524",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41947216",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42292506",
+  "in_scope": false,
+  "reason": "surgical AVR plus PA graft case",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41138981",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42165478",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42820900",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42524360",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41241967",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41899193",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42307790",
+  "in_scope": false,
+  "reason": "computational flow/thrombus model, no clinical endpoint",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42637290",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41447209",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41340026",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41086599",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42746663",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41340690",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41826746",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41284051",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42699366",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41766334",
+  "in_scope": false,
+  "reason": "sutureless/rapid-deployment SAVR device review",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41593659",
+  "in_scope": false,
+  "reason": "supravalvular stenosis homograft surgery (familial hypercholesterolaemia)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41813286",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42547253",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41635737",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42784040",
+  "in_scope": false,
+  "reason": "transcaval AngioVac for arterial sarcoma (peripheral)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41883599",
+  "in_scope": false,
+  "reason": "surgical arch repair plus AVR hybrid case",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42783431",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41893448",
+  "in_scope": false,
+  "reason": "congenital subvalvular AS surgery",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42377013",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42003601",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42397311",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42314921",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42757917",
+  "in_scope": false,
+  "reason": "mitral valve-in-valve/ring TMVR",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41210916",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41743967",
+  "in_scope": false,
+  "reason": "transcatheter mitral valve implantation",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42697758",
+  "in_scope": false,
+  "reason": "corrigendum to computational simulation paper",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42189354",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41155745",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42757916",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42340666",
+  "in_scope": false,
+  "reason": "surgical neocuspidisation only",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42194605",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42508856",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41701344",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41790669",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41144631",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ }
+]

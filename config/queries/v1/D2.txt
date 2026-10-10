@@ -1,0 +1,14 @@
+# D2 Cardiogenic shock, cardiac arrest and MCS. Version 1.
+(("Shock, Cardiogenic"[Mesh] OR "cardiogenic shock"[tiab]
+ OR (("Extracorporeal Membrane Oxygenation"[Mesh] OR "extracorporeal membrane oxygenation"[tiab] OR "ECMO"[tiab] OR "extracorporeal life support"[tiab] OR "ECLS"[tiab])
+     AND ("venoarterial"[tiab] OR "veno-arterial"[tiab] OR "VA-ECMO"[tiab] OR "cardiogenic"[tiab] OR "cardiac"[tiab] OR "heart"[tiab] OR "myocardial"[tiab] OR "Heart Arrest"[Mesh] OR "Shock, Cardiogenic"[Mesh]))
+ OR ("Heart-Assist Devices"[Mesh] AND ("shock"[tiab] OR "temporary"[tiab] OR "percutaneous"[tiab] OR "high-risk"[tiab] OR "Impella"[tiab] OR "unloading"[tiab]))
+ OR "Intra-Aortic Balloon Pumping"[Mesh] OR "intra-aortic balloon"[tiab] OR "intraaortic balloon"[tiab]
+ OR "Impella"[tiab] OR "microaxial flow pump"[tiab] OR "micro-axial flow pump"[tiab] OR "microaxial flow pumps"[tiab]
+ OR "percutaneous ventricular assist"[tiab] OR "mechanical circulatory support"[tiab] OR "left ventricular unloading"[tiab]
+ OR "LV unloading"[tiab] OR "right ventricular assist"[tiab] OR "RVAD"[tiab] OR "ProtekDuo"[tiab] OR "TandemHeart"[tiab]
+ OR (("Out-of-Hospital Cardiac Arrest"[Mesh] OR "Heart Arrest"[Mesh] OR "cardiac arrest"[tiab])
+     AND ("Coronary Angiography"[Mesh] OR "coronary angiography"[tiab] OR "Percutaneous Coronary Intervention"[Mesh] OR "percutaneous coronary"[tiab]
+          OR "extracorporeal cardiopulmonary resuscitation"[tiab] OR "ECPR"[tiab] OR "extracorporeal"[tiab]))
+ OR "shock team"[tiab] OR "shock teams"[tiab] OR ("SCAI"[tiab] AND "shock"[tiab]))
+ NOT ("Animals"[Mesh] NOT "Humans"[Mesh]))

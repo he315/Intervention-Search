@@ -1,0 +1,602 @@
+[
+ {
+  "pmid": "41850801",
+  "in_scope": false,
+  "reason": "paediatric/congenital stent platforms",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42161045",
+  "in_scope": false,
+  "reason": "ECG diagnosis in ED chest pain",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41840462",
+  "in_scope": false,
+  "reason": "basic science (STING signalling)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42178081",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42301217",
+  "in_scope": false,
+  "reason": "lipid-lowering prevention (FOURIER); revascularisation only as outcome",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42746892",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42773589",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42131920",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41875817",
+  "in_scope": false,
+  "reason": "NSTEMI long-term mortality epidemiology, no intervention focus",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42776115",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41415587",
+  "in_scope": false,
+  "reason": "non-invasive CT-FFR prognosis, no interventional decision",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42820085",
+  "in_scope": false,
+  "reason": "STEMI due to thrombophilia without CAD",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41375870",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41263729",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41460669",
+  "in_scope": false,
+  "reason": "dementia disparities; coronary intervention only as exposure label",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42161746",
+  "in_scope": false,
+  "reason": "lipid phenotyping residual risk",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42440617",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41489097",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41608576",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41773138",
+  "in_scope": false,
+  "reason": "complete heart block complicating STEMI (conduction/EP)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42603755",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41892707",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42796371",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42846615",
+  "in_scope": false,
+  "reason": "nursing dyadic care after stenting",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42412165",
+  "in_scope": false,
+  "reason": "urology (urethral Optilume drug-coated balloon)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42388501",
+  "in_scope": false,
+  "reason": "CT-FFR epicardial fat, non-invasive imaging",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42558055",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42477144",
+  "in_scope": false,
+  "reason": "FAPI PET post-MI remodelling",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42103681",
+  "in_scope": false,
+  "reason": "carotid aneurysm surgery (vascular)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41156140",
+  "in_scope": false,
+  "reason": "CT-derived resistance index, non-invasive imaging",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41362067",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41923721",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41598389",
+  "in_scope": false,
+  "reason": "ECG marker of collaterals, no interventional decision",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42269176",
+  "in_scope": false,
+  "reason": "AMI-CS VA-ECMO antithrombotic therapy (D2 topic)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42820217",
+  "in_scope": false,
+  "reason": "aortic coarctation stenting (congenital/aortic)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42579288",
+  "in_scope": false,
+  "reason": "exercise ECG to predict left main disease (diagnostic test)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42351811",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42004911",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41405851",
+  "in_scope": false,
+  "reason": "basic science (macrophage PlexinD1)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42152195",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41238256",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41320809",
+  "in_scope": false,
+  "reason": "stroke thrombectomy; cardiac procedures only as setting",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42464753",
+  "in_scope": false,
+  "reason": "carotid stenting (peripheral)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42238940",
+  "in_scope": false,
+  "reason": "ICD in ischaemic HFrEF (EP)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42428651",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41074697",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42135052",
+  "in_scope": false,
+  "reason": "CABG surgical technique only, no PCI comparison",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41813276",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42645823",
+  "in_scope": false,
+  "reason": "letter on TyG index-CTO association (risk factor)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41418934",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42534206",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41416408",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41934130",
+  "in_scope": false,
+  "reason": "IABP in AMI-CS (D2 topic)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42724904",
+  "in_scope": false,
+  "reason": "in-hospital HF risk factors in diabetic STEMI",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41890314",
+  "in_scope": false,
+  "reason": "IVL-assisted TAVR (D3 topic)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42168894",
+  "in_scope": false,
+  "reason": "apoptotic biomarkers prognosis in STEMI",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42171331",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42114381",
+  "in_scope": false,
+  "reason": "photon-counting CT (diagnostic imaging)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42277902",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42205197",
+  "in_scope": false,
+  "reason": "port catheter embolisation with CABG",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41910380",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42430150",
+  "in_scope": false,
+  "reason": "inflammatory index prognosis in STEMI",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41165642",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41341557",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42437090",
+  "in_scope": false,
+  "reason": "aortic stent graft occlusion (peripheral)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42760674",
+  "in_scope": false,
+  "reason": "endocarditis presenting as MINOCA",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42624445",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41751827",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42785497",
+  "in_scope": false,
+  "reason": "GDF-15 diagnostic biomarker for CAD",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41568315",
+  "in_scope": false,
+  "reason": "femoral fracture with AMI case (orthopaedic)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41828690",
+  "in_scope": false,
+  "reason": "ACS biomarker risk prediction",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42380221",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42039355",
+  "in_scope": false,
+  "reason": "coronary vasospasm case, no intervention",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42504975",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42144538",
+  "in_scope": false,
+  "reason": "SCAD conservative care pathway",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42246870",
+  "in_scope": false,
+  "reason": "MINOCA review",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42289708",
+  "in_scope": false,
+  "reason": "biomarkers of myocardial injury in STEMI",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42333472",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41710462",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42201060",
+  "in_scope": false,
+  "reason": "metabolic syndrome prognosis after primary PCI",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41179252",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42442892",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41526948",
+  "in_scope": false,
+  "reason": "painful LBBB syndrome (conduction/EP)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42050062",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41287996",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42111126",
+  "in_scope": false,
+  "reason": "non-invasive magnetocardiography prediction model",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42000122",
+  "in_scope": false,
+  "reason": "SPECT attenuation correction (diagnostic imaging)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41641615",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41332114",
+  "in_scope": false,
+  "reason": "valve-in-valve TAVI (D3 topic)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42339317",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42656995",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42719072",
+  "in_scope": false,
+  "reason": "remnant cholesterol prognosis after PCI",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41572254",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42159360",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41880150",
+  "in_scope": false,
+  "reason": "IVL-assisted carotid stenting (peripheral)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42716850",
+  "in_scope": false,
+  "reason": "lipid-lowering therapy after PCI",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42452924",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41253323",
+  "in_scope": false,
+  "reason": "CABG conduit harvesting technique",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41588898",
+  "in_scope": false,
+  "reason": "bench DES coating development, no clinical endpoint",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42216942",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ }
+]

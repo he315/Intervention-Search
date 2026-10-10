@@ -1,0 +1,602 @@
+[
+ {
+  "pmid": "41129284",
+  "in_scope": false,
+  "reason": "Paediatric congenital mitral disease (Ross II in infants)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42274440",
+  "in_scope": false,
+  "reason": "Leadless pacing in TR; electrophysiology, not mitral",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42348223",
+  "in_scope": false,
+  "reason": "Congenital mitral anomalies in TGA",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41315113",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41240024",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41788437",
+  "in_scope": false,
+  "reason": "Infective endocarditis case; embolic complications, no MR intervention decision",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41711217",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41827073",
+  "in_scope": false,
+  "reason": "Acute rheumatic fever arthritis; not valvular intervention",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41195997",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41719574",
+  "in_scope": false,
+  "reason": "Surgical anatomical case (aberrant chord); no bearing on intervention choice",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42344468",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41136031",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41425442",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41858907",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41409634",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41440850",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41986037",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42087600",
+  "in_scope": false,
+  "reason": "Prophylactic MCS in cardiac surgery; not mitral",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42669888",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41400607",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41848061",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41251714",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41563209",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41848043",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42001924",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41505119",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42213289",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42604345",
+  "in_scope": false,
+  "reason": "Preclinical ovine prosthesis model",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41771063",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42132717",
+  "in_scope": false,
+  "reason": "Catheter knot retrieval technique; MR incidental",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42454881",
+  "in_scope": false,
+  "reason": "Congenital coronary anomaly (ALCAPA)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41633891",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42510089",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42814058",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42718883",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41674514",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41968298",
+  "in_scope": false,
+  "reason": "Pericardial adhesions surgical case; not MR treatment",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41605564",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42422106",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41436392",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41639614",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42554556",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42389550",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42363918",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41984581",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41698647",
+  "in_scope": false,
+  "reason": "Congenital ASD closure; MR as secondary echo outcome",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42683949",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41669171",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42386058",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42683948",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42195196",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42824553",
+  "in_scope": false,
+  "reason": "Veterinary (canine) mitral disease",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41885676",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41217391",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41100050",
+  "in_scope": false,
+  "reason": "Paediatric (infant) chordal rupture surgery",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42835083",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42848362",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41988455",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42565950",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41676015",
+  "in_scope": false,
+  "reason": "Bench testing of annuloplasty ring; no clinical endpoint",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41141705",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41290537",
+  "in_scope": false,
+  "reason": "Engineering/biomaterials prototype; no clinical endpoint",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41711210",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42832200",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42002814",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42854830",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42444914",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41320975",
+  "in_scope": false,
+  "reason": "Paediatric mitral valve replacement",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42798902",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42140536",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42821073",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42306679",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42135824",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41104561",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41839533",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42111101",
+  "in_scope": false,
+  "reason": "General structural heart AI review; not mitral-specific",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41669175",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41953974",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42356015",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42519747",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42079924",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42532194",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42147607",
+  "in_scope": false,
+  "reason": "Rheumatic mitral disease presenting with embolism; no intervention content",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41695275",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41173611",
+  "in_scope": false,
+  "reason": "Surgical technical case (anomalous pulmonary vein, LA vent)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42009573",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41224390",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42346475",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42129642",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42369672",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42782016",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42783224",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41377636",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41217777",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41339971",
+  "in_scope": false,
+  "reason": "Peripheral/aortic endovascular (Takayasu EVAR)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41342319",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41361763",
+  "in_scope": false,
+  "reason": "Aortic arch stent graft complication",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42827592",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41341911",
+  "in_scope": false,
+  "reason": "Paediatric metabolic disease case",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41364235",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ }
+]

@@ -1,0 +1,15 @@
+# D8 Antithrombotic therapy around interventions. Version 1.
+(((("Platelet Aggregation Inhibitors"[Mesh] OR "Purinergic P2Y Receptor Antagonists"[Mesh] OR "Dual Anti-Platelet Therapy"[Mesh]
+    OR "clopidogrel"[tiab] OR "prasugrel"[tiab] OR "ticagrelor"[tiab] OR "cangrelor"[tiab] OR "P2Y12"[tiab]
+    OR "dual antiplatelet"[tiab] OR "DAPT"[tiab] OR "antiplatelet"[tiab] OR "aspirin"[tiab] OR "glycoprotein IIb/IIIa"[tiab]
+    OR "tirofiban"[tiab] OR "eptifibatide"[tiab] OR "abciximab"[tiab] OR "Anticoagulants"[Mesh] OR "anticoagulation"[tiab]
+    OR "anticoagulant"[tiab] OR "triple therapy"[tiab] OR "triple antithrombotic"[tiab] OR "bivalirudin"[tiab] OR "heparin"[tiab]
+    OR "factor XI"[tiab] OR "factor XIa"[tiab] OR "abelacimab"[tiab] OR "asundexian"[tiab] OR "milvexian"[tiab]
+    OR "de-escalation"[tiab] OR "high bleeding risk"[tiab])
+   AND ("Percutaneous Coronary Intervention"[Mesh] OR "PCI"[tiab] OR "percutaneous coronary"[tiab] OR "stent"[tiab] OR "stents"[tiab]
+        OR "stenting"[tiab] OR "Acute Coronary Syndrome"[Mesh] OR "acute coronary syndrome"[tiab] OR "acute coronary syndromes"[tiab]
+        OR "Myocardial Infarction"[Mesh] OR "myocardial infarction"[tiab] OR "STEMI"[tiab] OR "NSTEMI"[tiab]
+        OR "Transcatheter Aortic Valve Replacement"[Mesh] OR "TAVI"[tiab] OR "TAVR"[tiab] OR "edge-to-edge"[tiab]
+        OR "left atrial appendage"[tiab] OR "coronary artery disease"[tiab] OR "chronic coronary"[tiab]))
+  OR "left ventricular thrombus"[tiab] OR "LV thrombus"[tiab])
+ NOT ("Animals"[Mesh] NOT "Humans"[Mesh]))

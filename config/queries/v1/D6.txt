@@ -1,0 +1,14 @@
+# D6 Acute coronary syndromes. Version 1.
+(("ST Elevation Myocardial Infarction"[Mesh] OR "Non-ST Elevated Myocardial Infarction"[Mesh] OR "Angina, Unstable"[Mesh]
+ OR "Acute Coronary Syndrome"[Mesh] OR "STEMI"[tiab] OR "NSTEMI"[tiab] OR "NSTE-ACS"[tiab]
+ OR "ST-elevation myocardial infarction"[tiab] OR "ST-segment elevation myocardial infarction"[tiab]
+ OR "non-ST-elevation"[tiab] OR "non-ST-segment elevation"[tiab] OR "acute coronary syndrome"[tiab]
+ OR "acute coronary syndromes"[tiab] OR "unstable angina"[tiab]
+ OR ("Myocardial Infarction"[Mesh] AND ("reperfusion"[tiab] OR "Myocardial Reperfusion"[Mesh] OR "revascularization"[tiab]
+      OR "revascularisation"[tiab] OR "Percutaneous Coronary Intervention"[Mesh] OR "invasive strategy"[tiab]
+      OR "secondary prevention"[tiab] OR "Secondary Prevention"[Mesh] OR "beta-blocker"[tiab] OR "beta-blockers"[tiab]
+      OR "colchicine"[tiab] OR "SGLT2"[tiab] OR "GLP-1"[tiab] OR "semaglutide"[tiab] OR "tirzepatide"[tiab]
+      OR "lipid-lowering"[tiab] OR "statin"[tiab] OR "statins"[tiab] OR "PCSK9"[tiab]))
+ OR "MINOCA"[tiab] OR "myocardial infarction with non-obstructive"[tiab] OR "spontaneous coronary artery dissection"[tiab]
+ OR "no-reflow"[tiab] OR "infarct size"[tiab])
+ NOT ("Animals"[Mesh] NOT "Humans"[Mesh]))

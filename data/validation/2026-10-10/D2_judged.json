@@ -1,0 +1,602 @@
+[
+ {
+  "pmid": "42165085",
+  "in_scope": false,
+  "reason": "heart retransplantation allocation (transplant)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42837210",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41461216",
+  "in_scope": false,
+  "reason": "palliative care across acute CV hospitalisations, not shock-specific",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42753882",
+  "in_scope": false,
+  "reason": "paediatric durable VAD",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42853405",
+  "in_scope": false,
+  "reason": "neonatal respiratory ECMO",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41109582",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42765111",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41914188",
+  "in_scope": false,
+  "reason": "pulmonary embolism reperfusion in pregnancy",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41405036",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41521968",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41970552",
+  "in_scope": false,
+  "reason": "valve-sparing root replacement surgery",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41715261",
+  "in_scope": false,
+  "reason": "ICI myocarditis ECG prognosis",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42730735",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41167351",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42485400",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42183865",
+  "in_scope": false,
+  "reason": "total artificial heart (durable support)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42754486",
+  "in_scope": false,
+  "reason": "OPCAB anaesthesia renoprotection",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42573411",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42473032",
+  "in_scope": false,
+  "reason": "in-silico ECMO cannula design, no clinical endpoint",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41924469",
+  "in_scope": false,
+  "reason": "ventricular thrombus case managed medically; shock incidental",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41260141",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41270992",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41920103",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42470292",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42724160",
+  "in_scope": false,
+  "reason": "paediatric fulminant myocarditis ECMO",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41831808",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41945539",
+  "in_scope": false,
+  "reason": "LV aneurysm imaging",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41230352",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41738764",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42319106",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42119018",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42669411",
+  "in_scope": false,
+  "reason": "CT imaging in acute HF",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41572297",
+  "in_scope": false,
+  "reason": "ex vivo ECMO pump bench study",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41958572",
+  "in_scope": false,
+  "reason": "obstetric amniotic fluid embolism case; no MCS/arrest-management focus",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42642096",
+  "in_scope": false,
+  "reason": "thiamine-deficiency shock (metabolic), no MCS",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42714420",
+  "in_scope": false,
+  "reason": "congestion in acute HF",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41276147",
+  "in_scope": false,
+  "reason": "hydroxychloroquine conduction toxicity (EP)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42268365",
+  "in_scope": false,
+  "reason": "VV-ECLS cannula (respiratory/military)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41329927",
+  "in_scope": false,
+  "reason": "paediatric oncology ECMO",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42392265",
+  "in_scope": false,
+  "reason": "paediatric mobile ECMO (mainly respiratory)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41864279",
+  "in_scope": false,
+  "reason": "paediatric cardiac surgery monitoring",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41895254",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41635832",
+  "in_scope": false,
+  "reason": "biventricular thrombi to transplant case; no MCS focus",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41744492",
+  "in_scope": false,
+  "reason": "neonatal congenital heart disease",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42095362",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41811032",
+  "in_scope": false,
+  "reason": "paediatric ECMO sweep-gas NO trial",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42739738",
+  "in_scope": false,
+  "reason": "anthracycline cardiotoxicity pharmacovigilance",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42368218",
+  "in_scope": false,
+  "reason": "CHIP-PCI patient selection (D1 topic)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41647260",
+  "in_scope": false,
+  "reason": "air embolism during AF ablation (EP complication)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41576848",
+  "in_scope": false,
+  "reason": "paediatric histiocytic myocarditis autopsy",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42697099",
+  "in_scope": false,
+  "reason": "amlodipine vasoplegic shock (toxicology)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42709573",
+  "in_scope": false,
+  "reason": "left main/CTO revascularisation (D1 topic)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42190098",
+  "in_scope": false,
+  "reason": "advanced HF surgery overview: transplant, durable VAD",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41377629",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42087613",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41937510",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41301798",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41151747",
+  "in_scope": false,
+  "reason": "TAVR after balloon valvuloplasty (D3 topic)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42279132",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42727048",
+  "in_scope": false,
+  "reason": "paediatric durable BiVAD",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42368213",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41821586",
+  "in_scope": false,
+  "reason": "heart transplant anaesthesia",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42781456",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42842815",
+  "in_scope": false,
+  "reason": "durable LVAD",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41563801",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42645836",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42165477",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42310285",
+  "in_scope": false,
+  "reason": "scoliosis (orthopaedic)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41903627",
+  "in_scope": false,
+  "reason": "durable LVAD (HeartMate 3) RV failure",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41975063",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42599270",
+  "in_scope": false,
+  "reason": "perioperative anaphylaxis",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42159516",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42078628",
+  "in_scope": false,
+  "reason": "PE thrombolysis case",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41636663",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41234991",
+  "in_scope": false,
+  "reason": "Fontan pregnancy (congenital/obstetric)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42724546",
+  "in_scope": false,
+  "reason": "paediatric cardiac surgery transfusion",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42366132",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41375856",
+  "in_scope": false,
+  "reason": "type A dissection surgery",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42020251",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42768452",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41268061",
+  "in_scope": false,
+  "reason": "post-transplant ECMO infection (transplant focus)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42171409",
+  "in_scope": false,
+  "reason": "respiratory VV-ECMO in ARDS",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41992135",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41173612",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42426879",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41661165",
+  "in_scope": false,
+  "reason": "paediatric single-ventricle AI prediction",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41100524",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42720645",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42480888",
+  "in_scope": false,
+  "reason": "coronary aneurysm surgical/transplant case; shock incidental",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42318910",
+  "in_scope": false,
+  "reason": "respiratory ECMO in trauma",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42536004",
+  "in_scope": false,
+  "reason": "prosthetic valve thrombosis intervention; shock incidental",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41393164",
+  "in_scope": false,
+  "reason": "metabolic acidosis plasma exchange",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41458546",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42741588",
+  "in_scope": false,
+  "reason": "STEMI PPCI pathways in mental illness (not shock)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42684239",
+  "in_scope": false,
+  "reason": "thrombolysis complication (alveolar haemorrhage)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42238290",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42129914",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41973406",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42767834",
+  "in_scope": false,
+  "reason": "arrhythmia outcome in fulminant myocarditis (EP)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41642277",
+  "in_scope": false,
+  "reason": "poisoning high-dose insulin pharmacokinetics (toxicology)",
+  "system_in_scope": false
+ }
+]

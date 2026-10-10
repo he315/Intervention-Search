@@ -1,0 +1,7 @@
+.cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+state/appraisal_batch.jsonl
+state/appraisal_results.jsonl
+.tmp_*

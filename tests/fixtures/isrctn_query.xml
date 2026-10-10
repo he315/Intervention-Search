@@ -1,0 +1,287 @@
+<allTrials totalCount="110" xmlns="http://www.67bricks.com/isrctn"><fullTrial>
+  <trial lastUpdated="2026-09-25T13:13:54.013446938Z" version="10" isPublished="true" publicIdentifierType="isrctn" publicIdentifierCanonical="ISRCTN10183174" publicIdentifierDateAssigned="2026-08-05T10:42:28.693052Z">
+    <isrctn dateAssigned="2026-08-05T10:42:28.693052Z">10183174</isrctn>
+    <trialDescription thirdPartyFilesAcknowledgement="false">
+      <acknowledgment>true</acknowledgment>
+      <title>Investigating the feasibility and acceptability of a new group voice therapy programme for older adults with age-related voice problems</title>
+      <scientificTitle>A combined laryngeal and respiratory approach to presbyphonia voice therapy: feasibility trial (CLEARER)</scientificTitle>
+      <acronym>CLEARER - Feasibility Trial</acronym>
+      <studyHypothesis>Primary objective:
+To assess feasibility and acceptability of the CLEARER Voice Group intervention content and delivery to participants and clinicians
+
+Secondary objectives:
+1. To assess the feasibility of recruiting adults ≥50 years with ENT-confirmed presbyphonia into the trial
+2. To assess the feasibility of adequate dosing of the intervention (participant attendance) given its group delivery context
+3. To examine adherence to home practice
+4. To examine the fidelity with which clinicians deliver the intervention as specified
+5. To determine the acceptability and feasibility of the data collection procedure
+6. To explore clinician experiences of delivering the intervention, including perceived barriers and facilitators to implementation
+7. To explore participant experiences of receiving the intervention, including perceived relevance, burden, and utility
+8. To describe changes in clinical outcomes over the course of the intervention, without drawing conclusions about effectiveness
+9. To assess the suitability and acceptability of proposed clinical outcome measures for use in a future trial
+10. To identify refinements needed to optimise the intervention, trial procedures, and trial design for a future evaluation</studyHypothesis>
+      <plainEnglishSummary>Background and study aims
+As people get older, changes can occur in the voice and breathing systems that make the voice sound weak, breathy, quiet, or effortful. This condition, known as presbyphonia (age-related voice disorder), can affect communication, confidence, social activities, and quality of life. Current voice therapy mainly focuses on the voice box (larynx), but recent research suggests that age-related changes in breathing may also play an important role. The CLEARER study aims to find out whether a new group-based voice therapy programme that combines breathing and voice exercises is practical and acceptable to deliver in NHS services, and whether it should be tested further in a larger study.
+
+Who can participate?
+Adults aged 50 years and over who have been diagnosed with presbyphonia (an age-related voice disorder) by an Ear, Nose and Throat (ENT) specialist and who are able to take part in English-language group discussions and activities may be eligible to participate. Some people will not be eligible, including those with certain neurological conditions, other voice disorders, recent voice therapy, significant hearing or cognitive difficulties, or medical conditions that would make some of the breathing assessments or exercises unsuitable.
+
+What does the study involve?
+Participants will attend an initial visit at University College London Hospitals (UCLH), where they will provide consent, complete screening checks, questionnaires, and voice and breathing assessments. They will then attend six group therapy sessions at their local NHS site over approximately three months. The sessions include education about voice and breathing, voice exercises, breathing training, and conversation practice. Participants will also be asked to complete home practice between sessions. After completing the programme, participants will return to UCLH for repeat assessments and provide feedback about their experiences of the study and the therapy programme
+
+What are the possible benefits and risks of participating?
+Participants may find that the programme helps them better understand and manage their voice, improves their confidence when communicating, and provides support from meeting others with similar voice difficulties. However, these benefits cannot be guaranteed. Risks are considered low and are similar to those associated with routine speech and language therapy. Some participants may experience temporary vocal fatigue, mild throat discomfort, or brief light-headedness during voice or breathing exercises. Attending appointments and completing home practice may also require time and effort. Participants can withdraw from the study at any time without affecting their usual care.
+
+Where is the study run from?
+The study is coordinated by University College London Hospitals NHS Foundation Trust (UCLH). The group therapy programme will be delivered at four NHS sites in London: UCLH, Guy's and St Thomas' NHS Foundation Trust, Imperial College Healthcare NHS Trust (Charing Cross Hospital), and Whittington Health NHS Trust. Specialist assessment visits will take place at UCLH.
+
+When is the study starting and how long is it expected to run for?
+September 2026 to June 2027
+
+Who is funding the study?
+The National Institute for Health and Care Research (NIHR) (UK)
+
+Who is the main contact?
+Brian Saccente-Kennedy, brian.saccente-kennedy@nhs.net</plainEnglishSummary>
+      <primaryOutcomes>
+	<outcomeMeasure id="c3703f2f-ef03-4b69-b840-cfd3e350a034">
+	  <variable>Patient and clinician acceptability of intervention</variable>
+	  <method>the Theoretical Framework of Acceptability Questionnaire</method>
+	  <timepoints>post-treatment</timepoints>
+	</outcomeMeasure>
+      </primaryOutcomes>
+      <primaryOutcome/>
+      <secondaryOutcomes/>
+      <secondaryOutcome>1. Recruitment rate measured using the percentage of eligible participants who provide informed consent and are enrolled in the trial at pre-treatment
+2. Intervention dose received measured using the percentage of recruited participants who attend at least 5 of 6 CLEARER Voice Group sessions recorded in attendance logs at post-treatment
+3. Acceptability of trial procedures measured using the Modified Theoretical Framework of Acceptability Questionnaire at post-treatment
+4. Clinician treatment fidelity measured using the percentage of prescribed session components delivered by each treating clinician recorded in clinician fidelity records at post-treatment
+5. Adherence to home practice measured using the percentage of prescribed daily home practice completed by participants recorded in home practice tracking logs from session 2 to session 6
+6. Group climate measured using the Group Climate Questionnaire Short Form (GCQ-S) at post-treatment
+7. Voice-related quality of life measured using the Aging Voice Index (AVI) at pre-treatment and post-treatment
+8. Self-rated voice function measured using visual analogue scales at pre-treatment and post-treatment
+9. Vocal tract discomfort measured using the Vocal Tract Discomfort Scale (VTDS) at pre-treatment and post-treatment
+10. Voice quality measured using the Acoustic Voice Quality Index (AVQI) at pre-treatment and post-treatment
+11.	Perceptual voice severity measured using the Overall Severity domain of the Consensus Auditory-Perceptual Evaluation of Voice (CAPE-V) at pre-treatment and post-treatment
+12.	Speech breathing kinematics measured using lung volume initiation (LVI) during extemporaneous speech at pre-treatment and post-treatment
+13.	Laryngeal aerodynamics measured using laryngeal resistance; glottal airflow; estimated subglottic pressure at pre-treatment and post-treatment
+14. Respiratory muscle strength measured using maximum inspiratory pressure (MIP); maximum expiratory pressure (MEP) at pre-treatment and post-treatment
+15. Laryngeal status measured using bowing index (BI), normalised glottic gap (NGGA), medial compression at pre-treatment and post-treatment</secondaryOutcome>
+      <ethicsApprovalRequired>Ethics approval required</ethicsApprovalRequired>
+      <ethicsCommittees>
+	<ethicsCommittee id="47d597ae-dacb-4b1a-8c20-9aef96a39cc8" approvalStatus="approved" statusDate="2026-07-08T00:00:00.000Z">
+	  <committeeName>London - City &amp; East Research Ethics Committee</committeeName>
+	  <contactDetails>
+	    <address>Research Ethics Committee Centre, 2nd Floor, 2 Redman Place, Stratford</address>
+	    <city>London</city>
+	    <state/>
+	    <country>United Kingdom</country>
+	    <zip>E20 1JQ</zip>
+	    <telephone xmlns:ssb="http://www.67bricks.com/isrctn/functions"/>
+	    <email xmlns:ssb="http://www.67bricks.com/isrctn/functions"/>
+	  </contactDetails>
+	  <committeeReference>26/LO/0507</committeeReference>
+	</ethicsCommittee>
+      </ethicsCommittees>
+    </trialDescription>
+    <externalRefs>
+      <doi>10.1186/ISRCTN10183174</doi>
+      <eudraCTNumber/>
+      <irasNumber>369432</irasNumber>
+      <clinicalTrialsGovNumber/>
+      <protocolSerialNumber>CPMS: 73274, NIHR: 303555</protocolSerialNumber>
+      <secondaryNumbers>
+	<secondaryNumber id="3a8a3b24-12aa-4bc2-9e4d-68040d4743ea" numberType="iras" canonicalSecondaryNumber="IRAS369432">369432</secondaryNumber>
+	<secondaryNumber id="1bc5f6d2-c4b2-4376-a483-4f471cded6df" numberType="cpms" canonicalSecondaryNumber="CPMS73274">73274</secondaryNumber>
+	<secondaryNumber id="d549ab70-a79a-4fff-9d38-706f4a970e81" numberType="nihr" canonicalSecondaryNumber="NIHR303555">303555</secondaryNumber>
+      </secondaryNumbers>
+    </externalRefs>
+    <trialDesign>
+      <studyDesign/>
+      <primaryStudyDesign>Interventional</primaryStudyDesign>
+      <interventionalTrialDesign>
+	<allocation>N/A: single arm study</allocation>
+	<masking>Open (masking not used)</masking>
+	<control>Uncontrolled</control>
+	<assignment>Single</assignment>
+	<purposes>
+	  <purpose>Treatment</purpose>
+	</purposes>
+      </interventionalTrialDesign>
+      <secondaryStudyDesign>Not applicable</secondaryStudyDesign>
+      <trialTypes/>
+      <overallEndDate>2027-06-01T00:00:00.000Z</overallEndDate>
+    </trialDesign>
+    <participants>
+      <recruitmentCountries>
+	<country>United Kingdom</country>
+	<country>England</country>
+      </recruitmentCountries>
+      <trialCentres>
+	<trialCentre id="dc82699f-d218-426a-bb36-edd4338b3622">
+	  <name>University College London Hospitals NHS Foundation Trust</name>
+	  <address>250 Euston Road</address>
+	  <city>London</city>
+	  <state/>
+	  <country>England</country>
+	  <zip>NW1 2PG</zip>
+	  <rtsId>RRV00@2.16.840.1.113883.2.1.3.2.4.18.48</rtsId>
+	</trialCentre>
+	<trialCentre id="0ec0d112-0500-4755-af9e-2ec62718fac4">
+	  <name>Guy's and St Thomas' NHS Foundation Trust</name>
+	  <address>St Thomas' Hospital
+Westminster Bridge Road</address>
+	  <city>London</city>
+	  <state/>
+	  <country>England</country>
+	  <zip>SE1 7EH</zip>
+	  <rtsId>RJ1@2.16.840.1.113883.2.1.3.2.4.18.48</rtsId>
+	</trialCentre>
+	<trialCentre id="7ae269d2-150d-48e7-9281-a3a0d0dfbb63">
+	  <name>Imperial College Healthcare NHS Trust</name>
+	  <address>The Bays
+St Marys Hospital
+South Wharf Road</address>
+	  <city>London</city>
+	  <state/>
+	  <country>England</country>
+	  <zip>W2 1BL</zip>
+	  <rtsId>RYJ@2.16.840.1.113883.2.1.3.2.4.18.48</rtsId>
+	</trialCentre>
+	<trialCentre id="cbda5ebd-c171-49fa-bb4c-98a5046e4178">
+	  <name>Whittington Health NHS Trust</name>
+	  <address>The Whittington Hospital
+Magdala Avenue</address>
+	  <city>London</city>
+	  <state/>
+	  <country>England</country>
+	  <zip>N19 5NF</zip>
+	  <rtsId>RKE@2.16.840.1.113883.2.1.3.2.4.18.48</rtsId>
+	</trialCentre>
+      </trialCentres>
+      <participantTypes/>
+      <healthyVolunteersAllowed>false</healthyVolunteersAllowed>
+      <inclusion>1. 50 years of age or older
+2. ENT consultant-confirmed diagnosis of presbyphonia
+3. Laryngeal images from most recent (within 6 months) ENT exam available for analysis
+4. Typical hearing (as indicated by hearing screening at 40 dB HL at 500, 1000, and 1500 Hz, bilaterally), wearing hearing aids (if applicable)
+5. Comfortable using spoken English in a group conversation setting
+6. Willing and able to provide informed consent</inclusion>
+      <ageRange>Mixed</ageRange>
+      <lowerAgeLimit unit="years" value="50.0">50 Years</lowerAgeLimit>
+      <upperAgeLimit unit="years" value="120.0">120 Years</upperAgeLimit>
+      <gender>All</gender>
+      <targetEnrolment>16</targetEnrolment>
+      <totalFinalEnrolment>0</totalFinalEnrolment>
+      <exclusion>1. Recent (&lt; 12 months) voice therapy
+2. Current diagnosis of a neurological condition affecting laryngeal or respiratory function (i.e., Parkinson’s disease, CVA, spasmodic dysphonia)
+3. Current diagnosis of additional laryngeal pathology
+4. Contraindicated for spirometry (haemoptysis of unknown origin, pneumothorax, unstable cardiovascular status, ‘recent’ (&lt; 6 weeks) myocardial infarction or pulmonary embolus , thoracic/abdominal/cerebral aneurysms, ‘recent’ (&lt;6 weeks) eye surgery, nausea/vomiting, ‘recent’ (&lt;6 weeks) thoracic/abdominal surgery)
+5. Contraindicated for PEEP (haemodynamic instability (caused by cardiogenic shock, recent myocardial infarction, left heart failure, hypovolaemia), severe hypotension, severe COPD/asthma, raised intracranial pressure, diagnosis of an air leak syndrome (i.e., bronchopleural fistula) or unilateral lung disease)
+6. Failing cognitive screen (scoring &lt;23 on the Rowland Universal Dementia Assessment Scale [RUDAS])</exclusion>
+      <recruitmentStart>2026-09-01T00:00:00.000Z</recruitmentStart>
+      <recruitmentEnd>2026-10-31T00:00:00.000Z</recruitmentEnd>
+      <recruitmentStartStatusOverride/>
+      <recruitmentStatusOverride/>
+    </participants>
+    <conditions>
+      <condition>
+	<description>Presbyphonia</description>
+	<diseaseClass1>Signs and Symptoms</diseaseClass1>
+	<diseaseClass2/>
+      </condition>
+    </conditions>
+    <interventions>
+      <intervention>
+	<description>This study is a non-randomised multicentre feasibility trial of CLEARER Voice Group mechanisms of action. The trial will run at UCLH and three additional NHS sites (Guy's Hospital, Charing Cross Hospital, and Whittington Hospital). These sites were selected because they already have awareness of the CLEARER project, established ENT/SLT services, and the specialist staff and equipment required to deliver the intervention safely and consistently. Baseline and outcome measurements will be conducted at UCLH, where specialist acoustic, aerodynamic, and perceptual assessment facilities are available.
+
+Pre- and post-intervention measures:
+Potential participants will be identified from SLT/ENT clinics or lists of patients referred to SLT teams and currently awaiting input for presbyphonia across the four study sites. Despite the use of multiple sites, consenting, screening, and registration will all occur centrally at UCLH during a consenting and baseline data collection appointment. Following informed consent, potential participants who pass an initial hearing and cognitive screen will undergo an approximately 75-minute baseline data collection session at UCLH. During this session, baseline data will be collected by the CI, who has the specialist training and equipment required. Participants will then return to their home study site to undergo CLEARER Voice Group treatment (see below). Once the treatment block has been completed, they will return to UCLH for repeat data collection and an exit interview.
+
+Group structure:
+Each site will deliver one block of six group sessions, each lasting approximately 90 minutes, with 3 to 5 participants per group. The CLEARER Voice Group is a structured, progressive programme combining:
+1. High-resistance semi-occluded vocal tract training
+2. Respiratory lung volume training, including incentive spirometer-guided breath work
+3. Conversation Training Therapy, including clear speech, prosody, projection, and negative practice
+4. Sensory discrimination and error-detection training
+5. Real-world conversational practice
+The intervention is cumulative. Early sessions focus on rapport, education, and motor training; later sessions emphasise spontaneous conversation, self-monitoring, and generalisation.
+
+Therapy sessions
+Every session follows a consistent structure:
+1. Check-in and normalisation: Participants briefly reflect on their voice since the previous session. Clinicians normalise variability.
+2. Review of the previous session's content.
+3. Introduction of new intervention content: Each session includes structured exercises delivered in whole-group, dyad, and individual formats. This includes negative practice contrasting "new" and "old" voice patterns, conversational generalisation tasks, dyad conversations, story-building games, and real-world role plays.
+4. Homework planning: Participants are given a set of tasks and asked to complete tracking logs.
+5. Post-session reflections: Participants may optionally provide brief written feedback on the session.
+
+Location of activities
+All group sessions will take place in NHS outpatient clinic rooms at each site. No home visits are required. Specialist baseline and outcome measurements will take place at UCLH.
+
+Timetable
+Months 1 to 2: Train clinicians and open sites
+Months 2 to 4: Recruitment
+Months 4 to 7: Baseline assessments, delivery of six-week intervention blocks at each site, post-intervention assessments, and exit interviews
+Months 8 to 9: Analysis, integration of mixed-methods data, and reporting
+
+No interim analyses are planned beyond routine monitoring of recruitment, attendance, and adverse events.</description>
+	<interventionType>Behavioural</interventionType>
+	<phase/>
+	<drugNames/>
+      </intervention>
+    </interventions>
+    <results>
+      <ipdSharingStatement>The datasets generated during and/or analysed during the current study are/will be available upon request from the Chief Investigator (Brian Saccente-Kennedy, brian.saccente-kennedy@nhs.net) upon reasonable request following publication of the primary study results. Data will be retained and available for up to 10 years after study completion. Shared data may include anonymised feasibility, intervention, patient-reported, voice quality, and respiratory outcome data. Access will be considered for researchers conducting scientifically and ethically appropriate research, subject to any necessary ethical approvals and a data-sharing agreement. Participants will provide consent for sharing anonymised research data. Direct identifiers will be removed prior to sharing, and identifiable materials such as voice recordings and laryngeal imaging data will not routinely be shared. Requests will be reviewed in accordance with UK GDPR, NHS information governance requirements, and sponsor policies.</ipdSharingStatement>
+      <dataPolicies>
+	<dataPolicy>Available on request</dataPolicy>
+      </dataPolicies>
+      <publicationDetails/>
+      <publicationStage/>
+      <basicReport/>
+      <plainEnglishReport/>
+    </results>
+    <outputs>
+      
+    </outputs>
+    <parties xmlns:ssb="http://www.67bricks.com/isrctn/functions">
+      <funderId>d892e07d-7743-440f-912c-db008527949c</funderId>
+      <contactId>2c80c8d2-df0c-450e-a81d-32a06f89190a</contactId>
+      <sponsorId>ae22e5ca-8b58-490a-a7d4-d00f8a600126</sponsorId>
+    </parties>
+    <miscellaneous xmlns:ssb="http://www.67bricks.com/isrctn/functions">
+      <ipdSharingPlan>Yes</ipdSharingPlan>
+    </miscellaneous>
+    <attachedFiles/>
+  </trial>
+  <contact id="2c80c8d2-df0c-450e-a81d-32a06f89190a">
+    <title>Mr</title>
+    <forename>Brian</forename>
+    <surname>Saccente-Kennedy</surname>
+    <orcid>https://orcid.org/0000-0002-2419-3922</orcid>
+    <contactTypes>
+      <contactType>Principal investigator</contactType>
+      <contactType>Scientific</contactType>
+      <contactType>Public</contactType>
+    </contactTypes>
+    <contactDetails>
+      <address>Speech and Language Therapy (ENT), Royal National ENT and Eastman Dental Hospitals, Ground Floor North, 250 Euston Road</address>
+      <city>London</city>
+      <state/>
+      <country>United Kingdom</country>
+      <zip>NW1 2PG</zip>
+      <telephone xmlns:ssb="http://www.67bricks.com/isrctn/functions">+44 20 3456 5180</telephone>
+      <email xmlns:ssb="http://www.67bricks.com/isrctn/functions">brian.saccente-kennedy@nhs.net</email>
+    </contactDetails>
+    <privacy>Public</privacy>
+  </contact>
+  <sponsor id="ae22e5ca-8b58-490a-a7d4-d00f8a600126">
+    <organisation>University College London Hospitals NHS Foundation Trust</organisation>
+    <sponsorType>Hospital/treatment centre</sponsorType>
+    <rorId>https://ror.org/042fqyp44</rorId>
+    <commercialStatus>Non-commercial</commercialStatus>
+  </sponsor>
+  <funder id="d892e07d-7743-440f-912c-db008527949c">
+    <name>National Institute for Health and Care Research</name>
+    <fundRef>http://dx.doi.org/10.13039/501100000272</fundRef>
+  </funder>
+</fullTrial></allTrials>

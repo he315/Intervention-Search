@@ -1,0 +1,8 @@
+# D9 Adjacent interventions. Version 1.
+(("left atrial appendage closure"[tiab] OR "left atrial appendage occlusion"[tiab] OR "LAAO"[tiab] OR "LAAC"[tiab] OR "Watchman"[tiab]
+ OR (("patent foramen ovale"[tiab] OR "Foramen Ovale, Patent"[Mesh] OR "PFO"[tiab]) AND ("closure"[tiab] OR "occluder"[tiab] OR "device"[tiab]))
+ OR (("Pulmonary Embolism"[Mesh] OR "pulmonary embolism"[tiab]) AND ("catheter-directed"[tiab] OR "Thrombectomy"[Mesh] OR "thrombectomy"[tiab]
+      OR "ultrasound-facilitated"[tiab] OR "catheter-based"[tiab] OR "FlowTriever"[tiab] OR "aspiration"[tiab]))
+ OR "renal denervation"[tiab] OR "interatrial shunt"[tiab] OR "interatrial shunting"[tiab] OR "atrial shunt device"[tiab]
+ OR "coronary sinus reducer"[tiab])
+ NOT ("Animals"[Mesh] NOT "Humans"[Mesh]))

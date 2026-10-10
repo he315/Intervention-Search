@@ -1,0 +1,602 @@
+[
+ {
+  "pmid": "42329547",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41945887",
+  "in_scope": false,
+  "reason": "Lung cancer surgery with CVD review; no antithrombotic focus",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42690740",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41593880",
+  "in_scope": false,
+  "reason": "Neurovascular AVF embolisation",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41462328",
+  "in_scope": false,
+  "reason": "Traumatic aortic transection stenting",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41341557",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42554550",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42268397",
+  "in_scope": false,
+  "reason": "Stroke thrombectomy technique",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42706764",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41129810",
+  "in_scope": false,
+  "reason": "Ticagrelor in intracranial aneurysm stenting (neurointervention)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42116341",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42157339",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41246645",
+  "in_scope": false,
+  "reason": "PE surgical embolectomy/VA-ECMO; VTE, not antithrombotic around coronary/structural intervention",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42369784",
+  "in_scope": false,
+  "reason": "Venous access closure after EP procedures",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41355855",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41456189",
+  "in_scope": false,
+  "reason": "Stroke thrombolysis",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42729048",
+  "in_scope": false,
+  "reason": "Tirofiban in stroke thrombectomy",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42211248",
+  "in_scope": false,
+  "reason": "LAA thrombus risk in AF without intervention",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42524789",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42569984",
+  "in_scope": false,
+  "reason": "LAAO procedural case for anticoagulation-refractory LAA thrombus (D9)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42657637",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41210677",
+  "in_scope": false,
+  "reason": "History of CAD",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42266552",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41167377",
+  "in_scope": false,
+  "reason": "Subclavian artery trauma",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42295559",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41333122",
+  "in_scope": false,
+  "reason": "Venous haemostasis technique for large-bore access",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41465334",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42694911",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42606848",
+  "in_scope": false,
+  "reason": "DOAC with antiseizure drugs in epilepsy",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41517533",
+  "in_scope": false,
+  "reason": "LAA physiology review; LAAO procedural topic (D9)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42855401",
+  "in_scope": false,
+  "reason": "LAA thrombus prediction in AF without intervention",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42654384",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41301883",
+  "in_scope": false,
+  "reason": "Murine clopidogrel arteriogenesis",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42593375",
+  "in_scope": false,
+  "reason": "Cerebral embolic protection device during TAVR; not antithrombotic therapy",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42406590",
+  "in_scope": false,
+  "reason": "Generic medication adherence methods tool",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42621983",
+  "in_scope": false,
+  "reason": "NSAID colopathy pathology case",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41108318",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41224073",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42743261",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41271070",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42770693",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41923731",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41332489",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42556443",
+  "in_scope": false,
+  "reason": "AF anticoagulation without coronary/structural intervention",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42051368",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42605030",
+  "in_scope": false,
+  "reason": "General enoxaparin-warfarin bridging service",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41281152",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42703767",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42646834",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41588453",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41424654",
+  "in_scope": false,
+  "reason": "PFA + LAAC procedural case; antithrombotic regimen not the focus (D9)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42249162",
+  "in_scope": false,
+  "reason": "Neurovascular flow diverter",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41550045",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41496095",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41444578",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41672694",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41421636",
+  "in_scope": false,
+  "reason": "TAVI valve durability; not antithrombotic",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42336341",
+  "in_scope": false,
+  "reason": "AF anticoagulation in CKD without intervention",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42776067",
+  "in_scope": false,
+  "reason": "LAAO outcomes by indication phenotype; procedural (D9)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41480058",
+  "in_scope": false,
+  "reason": "Paediatric Kawasaki disease",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41260432",
+  "in_scope": false,
+  "reason": "Heparinised microspheres for exosome purification (lab)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42331577",
+  "in_scope": false,
+  "reason": "OAC adherence after stroke in AF",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42797455",
+  "in_scope": false,
+  "reason": "Sarpogrelate haemorheology surrogate in PAD/CAD; no interventional population",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42508849",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41404104",
+  "in_scope": false,
+  "reason": "Intramyocardial dissecting haematoma surgery",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42548521",
+  "in_scope": false,
+  "reason": "Non-occlusive mesenteric ischaemia case",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42012475",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41742215",
+  "in_scope": false,
+  "reason": "CHIP and inflammation prognosis after PCI",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42755031",
+  "in_scope": false,
+  "reason": "LAA thrombectomy/LAAO procedural case (D9)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42837014",
+  "in_scope": false,
+  "reason": "LAA anatomy/EP review",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41833545",
+  "in_scope": false,
+  "reason": "DCB in diabetic small vessels; no antithrombotic focus",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41834030",
+  "in_scope": false,
+  "reason": "Cardioembolic stroke sources review",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41625729",
+  "in_scope": false,
+  "reason": "LAAC imaging review (D9)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42324102",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42554421",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41210675",
+  "in_scope": false,
+  "reason": "SCAD general review; no antithrombotic focus",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42657054",
+  "in_scope": false,
+  "reason": "LVAD outflow graft stenting",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41121331",
+  "in_scope": false,
+  "reason": "IVC filter migration",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42235970",
+  "in_scope": false,
+  "reason": "Neurovascular flow diverters",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42460950",
+  "in_scope": false,
+  "reason": "Aortic mural thrombus aspiration",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42363698",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41458714",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41152338",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42646373",
+  "in_scope": false,
+  "reason": "Neurovascular flow diverter complications",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41407062",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41874595",
+  "in_scope": false,
+  "reason": "Neurovascular aneurysm device",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41268257",
+  "in_scope": false,
+  "reason": "Rotational atherectomy outcomes",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42277666",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41729759",
+  "in_scope": false,
+  "reason": "Frailty in AMI care; no antithrombotic focus",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41453443",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41759863",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42396352",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41194964",
+  "in_scope": false,
+  "reason": "Neonatal PDA stenting (congenital/paediatric)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41604095",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41628468",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42364797",
+  "in_scope": false,
+  "reason": "Cannabis and AMI mechanisms",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41321777",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42156281",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41815986",
+  "in_scope": false,
+  "reason": "Iliac vein injury in hip arthroplasty",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41560058",
+  "in_scope": false,
+  "reason": "Danon disease",
+  "system_in_scope": false
+ }
+]

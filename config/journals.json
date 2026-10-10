@@ -1,0 +1,229 @@
+{
+  "resolved_on": "2026-10-10",
+  "method": "Crossref /journals exact title match",
+  "journals": [
+    {
+      "name": "European Heart Journal",
+      "tier": "target",
+      "issn": [
+        "0195-668X",
+        "1522-9645"
+      ],
+      "crossref_title": "European Heart Journal",
+      "publisher": "Oxford University Press",
+      "status": "resolved"
+    },
+    {
+      "name": "Circulation",
+      "tier": "target",
+      "issn": [
+        "0009-7322",
+        "1524-4539"
+      ],
+      "crossref_title": "Circulation",
+      "publisher": "Ovid Technologies (Wolters Kluwer) - American Heart Association",
+      "status": "resolved"
+    },
+    {
+      "name": "Journal of the American College of Cardiology",
+      "tier": "target",
+      "issn": [
+        "0735-1097"
+      ],
+      "crossref_title": "Journal of the American College of Cardiology",
+      "publisher": "Elsevier",
+      "status": "resolved"
+    },
+    {
+      "name": "JAMA Cardiology",
+      "tier": "target",
+      "issn": [
+        "2380-6583"
+      ],
+      "crossref_title": "JAMA Cardiology",
+      "publisher": "American Medical Association",
+      "status": "resolved"
+    },
+    {
+      "name": "New England Journal of Medicine",
+      "tier": "general",
+      "issn": [
+        "0028-4793",
+        "1533-4406"
+      ],
+      "crossref_title": "New England Journal of Medicine",
+      "publisher": "New England Journal of Medicine",
+      "status": "resolved"
+    },
+    {
+      "name": "The Lancet",
+      "tier": "general",
+      "issn": [
+        "0099-5355",
+        "0140-6736",
+        "1474-547X"
+      ],
+      "crossref_title": "The Lancet",
+      "publisher": "Elsevier",
+      "status": "resolved"
+    },
+    {
+      "name": "JAMA",
+      "tier": "general",
+      "issn": [
+        "0098-7484",
+        "1538-3598"
+      ],
+      "crossref_title": "JAMA",
+      "publisher": "American Medical Association",
+      "status": "resolved"
+    },
+    {
+      "name": "BMJ",
+      "tier": "general",
+      "issn": [
+        "0007-1447",
+        "0267-0623",
+        "0959-535X",
+        "0959-8138",
+        "0959-8154",
+        "0966-6494",
+        "1468-5833",
+        "1756-1833",
+        "1759-2151"
+      ],
+      "crossref_title": "BMJ",
+      "publisher": "BMJ",
+      "status": "resolved"
+    },
+    {
+      "name": "Nature Medicine",
+      "tier": "general",
+      "issn": [
+        "1078-8956",
+        "1546-170X"
+      ],
+      "crossref_title": "Nature Medicine",
+      "publisher": "Springer Science and Business Media LLC",
+      "status": "resolved"
+    },
+    {
+      "name": "EuroIntervention",
+      "tier": "specialty",
+      "issn": [
+        "1774-024X",
+        "1969-6213"
+      ],
+      "crossref_title": "EuroIntervention",
+      "publisher": "Europa Digital and Publishing",
+      "status": "resolved"
+    },
+    {
+      "name": "JACC: Cardiovascular Interventions",
+      "tier": "specialty",
+      "issn": [
+        "1936-8798"
+      ],
+      "crossref_title": "JACC Cardiovascular Interventions",
+      "publisher": "Elsevier",
+      "status": "resolved"
+    },
+    {
+      "name": "Circulation: Cardiovascular Interventions",
+      "tier": "specialty",
+      "issn": [
+        "1941-7632",
+        "1941-7640"
+      ],
+      "crossref_title": "Circulation Cardiovascular Interventions",
+      "publisher": "Ovid Technologies (Wolters Kluwer) - American Heart Association",
+      "status": "resolved"
+    },
+    {
+      "name": "European Heart Journal: Acute Cardiovascular Care",
+      "tier": "specialty",
+      "issn": [
+        "2048-8726",
+        "2048-8734"
+      ],
+      "crossref_title": "European Heart Journal Acute Cardiovascular Care",
+      "publisher": "Oxford University Press",
+      "status": "resolved"
+    },
+    {
+      "name": "Intensive Care Medicine",
+      "tier": "specialty",
+      "issn": [
+        "0342-4642",
+        "1432-1238"
+      ],
+      "crossref_title": "Intensive Care Medicine",
+      "publisher": "Springer-Verlag",
+      "status": "resolved"
+    },
+    {
+      "name": "Resuscitation",
+      "tier": "specialty",
+      "issn": [
+        "0300-9572"
+      ],
+      "crossref_title": "Resuscitation",
+      "publisher": "Elsevier",
+      "status": "resolved"
+    },
+    {
+      "name": "Heart",
+      "tier": "specialty",
+      "issn": [
+        "0007-0769",
+        "1355-6037",
+        "1468-201X"
+      ],
+      "crossref_title": "Heart",
+      "publisher": "BMJ",
+      "status": "resolved"
+    },
+    {
+      "name": "Catheterization and Cardiovascular Interventions",
+      "tier": "specialty",
+      "issn": [
+        "1522-1946",
+        "1522-726X"
+      ],
+      "crossref_title": "Catheterization and Cardiovascular Interventions",
+      "publisher": "Wiley (John Wiley & Sons)",
+      "status": "resolved"
+    },
+    {
+      "name": "Journal of the Society for Cardiovascular Angiography & Interventions",
+      "tier": "specialty",
+      "issn": [
+        "2772-9303"
+      ],
+      "crossref_title": "Journal of the Society for Cardiovascular Angiography & Interventions",
+      "publisher": "Elsevier",
+      "status": "resolved"
+    },
+    {
+      "name": "JACC: Heart Failure",
+      "tier": "specialty",
+      "issn": [
+        "2213-1779"
+      ],
+      "crossref_title": "JACC Heart Failure",
+      "publisher": "Elsevier",
+      "status": "resolved"
+    },
+    {
+      "name": "European Journal of Heart Failure",
+      "tier": "specialty",
+      "issn": [
+        "1388-9842",
+        "1879-0844"
+      ],
+      "crossref_title": "European Journal of Heart Failure",
+      "publisher": "Oxford University Press",
+      "status": "resolved"
+    }
+  ]
+}

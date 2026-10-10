@@ -1,0 +1,596 @@
+[
+ {
+  "pmid": "42104596",
+  "in_scope": false,
+  "reason": "Heyde syndrome/GI bleeding after TAVR; not myocardial injury",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42783052",
+  "in_scope": false,
+  "reason": "Cardio-oncology treatment-related cardiotoxicity; not MI classification or management",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41552243",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42382378",
+  "in_scope": false,
+  "reason": "Airway complication of interscalene block; no myocardial injury content",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42553036",
+  "in_scope": false,
+  "reason": "Animal model (isoproterenol rat) cardioprotection",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41386180",
+  "in_scope": false,
+  "reason": "Network pharmacology/animal AMI model",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41230506",
+  "in_scope": false,
+  "reason": "Mouse model of ICI myocarditis",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41206374",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41239662",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41103008",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41110922",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41941090",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42399375",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41415733",
+  "in_scope": false,
+  "reason": "Paediatric MI case",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41272438",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41717143",
+  "in_scope": false,
+  "reason": "ECG STEMI mimic from PE; not framed around myocardial injury or MI classification",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41126046",
+  "in_scope": false,
+  "reason": "Mechanical cardiac perforation/tamponade from central line; not UDMI myocardial injury",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42644796",
+  "in_scope": false,
+  "reason": "Eosinophilic endomyocarditis disease case; not type 2 MI/injury",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42395298",
+  "in_scope": false,
+  "reason": "Public health perspective on conflict alerts; not myocardial injury management",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42373417",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42439662",
+  "in_scope": false,
+  "reason": "Basic science review of ischaemia-reperfusion oxidative stress",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42180939",
+  "in_scope": false,
+  "reason": "Cardio-oncology targeted therapy cardiotoxicity review",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41985028",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41514395",
+  "in_scope": false,
+  "reason": "EGPA/alveolar haemorrhage case; no myocardial injury focus",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42509520",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42846348",
+  "in_scope": false,
+  "reason": "Troponin biosensor technology (lab)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41945520",
+  "in_scope": false,
+  "reason": "Foreign-body pericardial tamponade STEMI mimic; not type 2 MI/injury",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42395633",
+  "in_scope": false,
+  "reason": "General AMI prognostic index; type 1 MI population, not type 2/injury",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42818966",
+  "in_scope": false,
+  "reason": "HRV in single vs multivessel CAD",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42645932",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41840255",
+  "in_scope": false,
+  "reason": "RBBB prognosis in anterior STEMI (type 1 MI)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41960872",
+  "in_scope": false,
+  "reason": "Biosensor interface engineering",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41778391",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41288507",
+  "in_scope": false,
+  "reason": "Analytical assay validation of hs-cTnT; no pathway/management content",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41907970",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41350217",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41784236",
+  "in_scope": false,
+  "reason": "Myocarditis strain imaging; disease-specific, not MI classification",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42438657",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42210986",
+  "in_scope": false,
+  "reason": "AF after stem cell transplant",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42003350",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41964447",
+  "in_scope": false,
+  "reason": "Perioperative SGLT2i in cardiac surgery (DAPA-CS); not MI/myocardial injury",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41872950",
+  "in_scope": false,
+  "reason": "Reperfusion-injury therapy protocol in STEMI (type 1 MI)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41699477",
+  "in_scope": false,
+  "reason": "Diquat poisoning mortality model; myocardial injury not the focus",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41967656",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41596349",
+  "in_scope": false,
+  "reason": "Forensic cocaine-death immunohistochemistry",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42022711",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41827991",
+  "in_scope": false,
+  "reason": "CCTA-guided PCI planning in CCS",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42505415",
+  "in_scope": false,
+  "reason": "Cardiomyopathy immunology review",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42404223",
+  "in_scope": false,
+  "reason": "ICI myocarditis case (oncology)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41879583",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41647928",
+  "in_scope": false,
+  "reason": "De Winter pattern LAD occlusion (type 1 MI ECG case)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41788541",
+  "in_scope": false,
+  "reason": "Mechanistic neuroscience review of stroke-heart syndrome",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42759692",
+  "in_scope": false,
+  "reason": "Perioperative SGLT2i/euDKA management",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42074708",
+  "in_scope": false,
+  "reason": "ACS multimodality imaging review",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42056842",
+  "in_scope": false,
+  "reason": "Paediatric dengue shock",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42005265",
+  "in_scope": false,
+  "reason": "CMR T1/T2 mapping of fibrosis",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42449477",
+  "in_scope": false,
+  "reason": "Cell-culture hypoxia/reoxygenation study",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42016515",
+  "in_scope": false,
+  "reason": "Biomarkers predicting CMR after STEMI (type 1 MI)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41599675",
+  "in_scope": false,
+  "reason": "Pharmacogenetic association with cardiac biomarkers",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41470195",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42652216",
+  "in_scope": false,
+  "reason": "IgA nephropathy biomarkers",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42467656",
+  "in_scope": false,
+  "reason": "cMyC prognosis in general population; biomarker epidemiology",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41643851",
+  "in_scope": false,
+  "reason": "TEVAR vasopressor outcomes",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42841682",
+  "in_scope": false,
+  "reason": "STEMI with coronary thrombosis in HIV (type 1 MI case)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42074654",
+  "in_scope": false,
+  "reason": "Inflammatory biomarkers in ACS prognosis",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41357783",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41869121",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42537248",
+  "in_scope": false,
+  "reason": "Rat isoprenaline cardioprotection",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42640237",
+  "in_scope": false,
+  "reason": "SVG-PA fistula case; not framed as type 2 MI/injury",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42547291",
+  "in_scope": false,
+  "reason": "Heart transplant ischaemic time",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41757465",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42400807",
+  "in_scope": false,
+  "reason": "CKM syndrome inflammatory biomarker",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41908597",
+  "in_scope": false,
+  "reason": "Septic shock case without myocardial injury focus",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42628220",
+  "in_scope": false,
+  "reason": "Arrhythmogenic cardiomyopathy hot phases",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41369269",
+  "in_scope": false,
+  "reason": "Drug-delivery review for ischaemia-reperfusion injury",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42468973",
+  "in_scope": false,
+  "reason": "MIF inflammation review",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42712697",
+  "in_scope": false,
+  "reason": "FAPI PET in cancer patients; imaging, not MI classification",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42342492",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41333235",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42462597",
+  "in_scope": false,
+  "reason": "Murine MI macrophage study",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42733993",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41794665",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42676332",
+  "in_scope": false,
+  "reason": "Mouse gut microbiota AMI",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41123386",
+  "in_scope": false,
+  "reason": "Vasopressor RCT in abdominal surgery; myocardial injury not evident as focus",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42666608",
+  "in_scope": false,
+  "reason": "Pulsed field ablation haemolysis (EP)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41510338",
+  "in_scope": false,
+  "reason": "Vitamin D-troponin correlation; not MI classification or management",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "41283474",
+  "in_scope": false,
+  "reason": "PFA vs cryo endothelial injury (EP)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42663346",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42572934",
+  "in_scope": false,
+  "reason": "Type 1 MI with total LAD occlusion; pheochromocytoma periprocedural haemodynamics",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42263161",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42046623",
+  "in_scope": false,
+  "reason": "Takotsubo phenotype/trigger case; not MI classification",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41320887",
+  "in_scope": false,
+  "reason": "Rat type 2 diabetes model ('type 2' term collision)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "41190366",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42782543",
+  "in_scope": false,
+  "reason": "Temperature and chronic CVD review",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42835658",
+  "in_scope": false,
+  "reason": "CHD in young women primary-care review",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42599030",
+  "in_scope": false,
+  "reason": "Veterinary (cats)",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42303064",
+  "in_scope": false,
+  "reason": "GP IIb/IIIa effect on infarct size in STEMI (type 1 MI; D8 topic)",
+  "system_in_scope": true
+ },
+ {
+  "pmid": "42614416",
+  "in_scope": false,
+  "reason": "Murine sepsis cardioprotection",
+  "system_in_scope": false
+ },
+ {
+  "pmid": "42823206",
+  "in_scope": true,
+  "reason": "",
+  "system_in_scope": true
+ }
+]
