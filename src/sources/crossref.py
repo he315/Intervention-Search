@@ -44,7 +44,7 @@ def works(issn, from_date, until_date, date_field="created", max_items=5000):
     while len(items) < max_items:
         text = net.request(f"{BASE}/journals/{issn}/works", params={
             "filter": filt, "rows": 500, "cursor": cursor,
-            "select": "DOI,title,type,published-online,published-print,created,container-title,ISSN,author,abstract,relation,subtype"})
+            "select": "DOI,title,type,published-online,published-print,created,container-title,ISSN,author,abstract,relation"})
         m = json.loads(text)["message"]
         batch = m.get("items") or []
         items.extend(batch)
