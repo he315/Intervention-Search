@@ -2,23 +2,22 @@
 
 ## Status
 
-- Last run: 2026-10-14 10:00 (Europe/London), daily.
+- Last run: 2026-10-19 09:58 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: none recorded.
-- Backlog awaiting appraisal: 11138.
-- Records in the store: 50662 (Tier A 10, Tier B 104, Tier C 26720, Tier D 12690, untiered 11138).
+- Backlog awaiting appraisal: 10935.
+- Records in the store: 50967 (Tier A 18, Tier B 191, Tier C 26910, Tier D 12913, untiered 10935).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-10-14 |
-| europepmc | ok | 2026-10-14 |
-| medrxiv | ok | 2026-10-14 |
-| crossref | ok | none |
-| ctgov | ok | 2026-10-14 |
+| pubmed | ok | 2026-10-19 |
+| europepmc | ok | 2026-10-19 |
+| medrxiv | ok | 2026-10-19 |
+| crossref | ok | 2026-10-19 |
+| ctgov | ok | 2026-10-19 |
 
 Warnings:
 
-- crossref fetch failed: HTTP 400 for https://api.crossref.org/journals/0195-668X/works?filter=from-created-date%3A2026-10-07%2Cuntil-created-date%3A2026-10-14%2Ctype%3Ajournal-article&rows=500&cursor=%2A&select=DOI%2Ctitle%2Ctype%2Cpublished-online%2Cpublished-print%2Ccreated%2Ccontainer-title%2CISSN%2Cauthor%2Cabstract%2Crelation%2Csubtype: {"status":"failed","message-type":"validation-failure","message":[{"type":"select-not-available","value":"subtype","message":"Select 'subtype' specified but there is no such select for this route. Val
 - CONTACT_EMAIL is not set in the environment, so NCBI, Crossref and OpenAlex requests carry no contact address.
 
 ## Top ten priorities
@@ -35,6 +34,7 @@ By domain: empty.
 
 ## Tier A in the past seven days
 
+- [Temporary mechanical circulatory support in cardiogenic shock.](https://pubmed.ncbi.nlm.nih.gov/42870411/) (European heart journal)
 - [Multidisciplinary Approach to Antiplatelet Management in Coronary Syndromes: A Scientific Statement From the American Heart Association.](https://pubmed.ncbi.nlm.nih.gov/42866888/) (Circulation)
 
 ## Next eight weeks
@@ -47,7 +47,6 @@ Congresses:
 
 Randomised trials with at least 500 participants whose primary completion date falls in the period (registry dates, often estimated):
 
-- NCT05702034 LIBREXIA-STROK: A Study of Milvexian in Participants After an Acute Ischemic Stroke or High-Risk Transient Ischemic Attack- LI; N 12523; primary completion 2026-10-15 (type not stated); active not recruiting
 - NCT04143646 NET-IPP: New Technologies for Intensive Prevention Programs - NET-IPP; N 864; primary completion 2026-10-30 (type not stated); active not recruiting
 - NCT05937685 BP-REACH: Reducing Blood Pressure in Patients With High Cardiovascular Risk; N 546; primary completion 2026-10-30 (type not stated); active not recruiting
 - NCT06014047 : Radial Artery Versus No-touch Saphenous Vein; N 774; primary completion 2026-10-30 (type not stated); not yet recruiting
@@ -109,9 +108,9 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 ## Latest reports
 
-- Weekly: [2026-W42](outputs/weekly/2026-W42.md)
+- Weekly: [2026-W43](outputs/weekly/2026-W43.md)
 - Monthly: none yet
-- Daily: [2026-10-14](outputs/daily/2026/2026-10-14.md)
+- Daily: [2026-10-19](outputs/daily/2026/2026-10-19.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 
