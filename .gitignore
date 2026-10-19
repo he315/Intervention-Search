@@ -5,3 +5,4 @@ __pycache__/
 state/appraisal_batch.jsonl
 state/appraisal_results.jsonl
 .tmp_*
+state/tmp/
