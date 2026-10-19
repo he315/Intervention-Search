@@ -752,19 +752,20 @@
     "retrieval_pending": 0
   },
   "watermarks": {
-    "pubmed:D1": "2026-10-14",
-    "pubmed:D2": "2026-10-14",
-    "pubmed:D3": "2026-10-14",
-    "pubmed:D4": "2026-10-14",
-    "pubmed:D5": "2026-10-14",
-    "pubmed:D6": "2026-10-14",
-    "pubmed:D7": "2026-10-14",
-    "pubmed:D8": "2026-10-14",
-    "pubmed:D9": "2026-10-14",
-    "pubmed:corrections": "2026-10-14",
-    "europepmc:preprints": "2026-10-14",
-    "medrxiv": "2026-10-14",
-    "ctgov": "2026-10-14"
+    "pubmed:D1": "2026-10-19",
+    "pubmed:D2": "2026-10-19",
+    "pubmed:D3": "2026-10-19",
+    "pubmed:D4": "2026-10-19",
+    "pubmed:D5": "2026-10-19",
+    "pubmed:D6": "2026-10-19",
+    "pubmed:D7": "2026-10-19",
+    "pubmed:D8": "2026-10-19",
+    "pubmed:D9": "2026-10-19",
+    "pubmed:corrections": "2026-10-19",
+    "europepmc:preprints": "2026-10-19",
+    "medrxiv": "2026-10-19",
+    "ctgov": "2026-10-19",
+    "crossref": "2026-10-19"
   },
   "last_runs": {
     "daily": "2026-10-14",
