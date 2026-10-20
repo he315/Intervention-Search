@@ -6,3 +6,4 @@ state/appraisal_batch.jsonl
 state/appraisal_results.jsonl
 .tmp_*
 state/tmp/
+state/appraisal_scratch/
