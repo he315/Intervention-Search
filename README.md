@@ -2,19 +2,19 @@
 
 ## Status
 
-- Last run: 2026-10-21 09:59 (Europe/London), daily.
+- Last run: 2026-10-22 09:59 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: none recorded.
-- Backlog awaiting appraisal: 10210.
-- Records in the store: 51076 (Tier A 55, Tier B 561, Tier C 27236, Tier D 13014, untiered 10210).
+- Backlog awaiting appraisal: 9816.
+- Records in the store: 51089 (Tier A 72, Tier B 681, Tier C 27439, Tier D 13081, untiered 9816).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-10-21 |
-| europepmc | ok | 2026-10-21 |
-| medrxiv | ok | 2026-10-21 |
-| crossref | ok | 2026-10-21 |
-| ctgov | ok | 2026-10-21 |
+| pubmed | ok | 2026-10-22 |
+| europepmc | ok | 2026-10-22 |
+| medrxiv | ok | 2026-10-22 |
+| crossref | ok | 2026-10-22 |
+| ctgov | ok | 2026-10-22 |
 
 Warnings:
 
@@ -35,7 +35,6 @@ By domain: empty.
 ## Tier A in the past seven days
 
 - [Temporary mechanical circulatory support in cardiogenic shock.](https://pubmed.ncbi.nlm.nih.gov/42870411/) (European heart journal)
-- [Multidisciplinary Approach to Antiplatelet Management in Coronary Syndromes: A Scientific Statement From the American Heart Association.](https://pubmed.ncbi.nlm.nih.gov/42866888/) (Circulation)
 
 ## Next eight weeks
 
@@ -72,6 +71,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 - NCT06225453 : Individualized Versus Conventional Perioperative Blood Pressure Management; N 1896; primary completion 2026-11-30 (type not stated); active not recruiting
 - NCT06688162 MIRACLE-S: Minimally Invasive Soft Channel Brain Haemorrhage Evacuation for Acute Basal Ganglia Haemorrhage--Small Hemorr; N 750; primary completion 2026-11-30 (type not stated); enrolling by invitation
 - NCT06688201 MIRACLE-L: Minimally Invasive Soft Channel Brain Haemorrhage Evacuation for Acute Basal Ganglia Haemorrhage-- Large Hemor; N 550; primary completion 2026-11-30 (type not stated); recruiting
+- NCT06845826 CERMIT: Point-of-Care Troponin Testing in the Emergency Department; N 1552; primary completion 2026-11-30 (type not stated); active not recruiting
 - NCT07135310 : STROKE 120 ACTION Trial; N 1696000; primary completion 2026-11-30 (type not stated); recruiting
 - NCT02767505 BEST: Bypass Equipoise Sleeve Trial (BEST); N 1752; primary completion 2026-12 (type not stated); active not recruiting
 - NCT02823821 RESOLVE: Randomised Evaluation of Sodium Dialysate Levels on Vascular Events; N 50000; primary completion 2026-12 (type not stated); recruiting
@@ -110,7 +110,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 - Weekly: [2026-W43](outputs/weekly/2026-W43.md)
 - Monthly: none yet
-- Daily: [2026-10-21](outputs/daily/2026/2026-10-21.md)
+- Daily: [2026-10-22](outputs/daily/2026/2026-10-22.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 
