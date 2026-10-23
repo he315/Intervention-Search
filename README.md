@@ -2,19 +2,19 @@
 
 ## Status
 
-- Last run: 2026-10-22 09:59 (Europe/London), daily.
+- Last run: 2026-10-23 09:57 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: none recorded.
-- Backlog awaiting appraisal: 9816.
-- Records in the store: 51089 (Tier A 72, Tier B 681, Tier C 27439, Tier D 13081, untiered 9816).
+- Backlog awaiting appraisal: 9463.
+- Records in the store: 51168 (Tier A 74, Tier B 764, Tier C 27677, Tier D 13190, untiered 9463).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-10-22 |
-| europepmc | ok | 2026-10-22 |
-| medrxiv | ok | 2026-10-22 |
-| crossref | ok | 2026-10-22 |
-| ctgov | ok | 2026-10-22 |
+| pubmed | ok | 2026-10-23 |
+| europepmc | ok | 2026-10-23 |
+| medrxiv | ok | 2026-10-23 |
+| crossref | ok | 2026-10-23 |
+| ctgov | ok | 2026-10-23 |
 
 Warnings:
 
@@ -79,6 +79,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 - NCT04209218 : Intraoperative Blood Pressure Management and Dexamethasone in Lung Cancer Surgery; N 1988; primary completion 2026-12 (type not stated); recruiting
 - NCT04229758 Restart tICrH: Restarting Anticoagulation After Traumatic Intracranial Hemorrhage; N 1100; primary completion 2026-12 (type not stated); not yet recruiting
 - NCT04433052 : Clinical Value and Cost-effectiveness of a Personalized Prevention Program (PPP) in Patients With High Risk St; N 12000; primary completion 2026-12 (type not stated); recruiting
+- NCT04701242 EzAMI: Ezetimibe Utilization Early After Acute Myocardial Infarction, "EzAMI Trial"; N 500; primary completion 2026-12 (type not stated); recruiting
 - NCT04715581 : Multicomponent Prehabilitation and Outcomes in Elderly Patients With Frailty; N 540; primary completion 2026-12 (type not stated); recruiting
 - NCT04926597 EFFORT II: Effect of Continued Nutritional Support at Hospital Discharge on Mortality, Frailty, Functional Outcomes and R; N 1200; primary completion 2026-12 (type not stated); recruiting
 - NCT05015660 : Conduction System Pacing With Left Bundle Branch Pacing as Compared to Standard Right Ventricular Pacing; N 1300; primary completion 2026-12-01 (type not stated); recruiting
@@ -110,7 +111,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 - Weekly: [2026-W43](outputs/weekly/2026-W43.md)
 - Monthly: none yet
-- Daily: [2026-10-22](outputs/daily/2026/2026-10-22.md)
+- Daily: [2026-10-23](outputs/daily/2026/2026-10-23.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 
