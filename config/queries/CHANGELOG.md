@@ -1,3 +1,7 @@
+## Version 3 (D4 only), 23 October 2026
+
+- D4: added "edge-to-edge" with mitral in title or abstract, and "transcatheter" with mitral in the title, because the 2026 monthly completeness check found a European Heart Journal paper on cleft-directed transcatheter edge-to-edge repair that the version 2 query missed (no mitral regurgitation wording). Count for 23 October 2025 to 23 October 2026 by entry date rose from 1,116 to 1,233 (117 added). Seed recall for D4 re-checked (see below). Core-journal completeness at the 2026-10-23 maintenance was 0.806 (13 of 67 missing); the other twelve misses were judged out of scope on the title (non-interventional EHJ and Circulation items, a surgical vein-graft trial, a scientific statement on antithrombotic therapy undertreatment with no interventional population) or borderline (microvascular resistance reserve registry, a correspondence on clopidogrel across ethnic regions); recorded in logs/decisions.md.
+
 # Domain query changelog
 
 Every change to a domain query is recorded here with its validation figures. Validation follows CLAUDE.md section 4.1: recall against config/seeds.json, precision on a random sample of 100 records per domain from the last 12 months, and core-journal completeness against Crossref (run after the baseline and at every monthly maintenance).
