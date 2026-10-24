@@ -22,15 +22,24 @@ Warnings:
 
 ## Top ten priorities
 
-The register has no question that passes all five gates yet.
+1. Q-032: Prasugrel versus ticagrelor in acute coronary syndromes: resolving discordant trial results with a pooled analysis that includes the registry-based SWITCH-SWEDEHEART comparison, composite 84.0
+2. Q-031: Does omitting aspirin at the time of primary PCI for STEMI increase ischaemic events? An updated individual patient data meta-analysis of P2Y12 inhibitor monotherapy trials with STEMI-specific effect estimates, composite 81.0
+3. Q-026: Does systematic coronary imaging with guideline-directed prevention improve outcomes after type 2 myocardial infarction?, composite 80.0
+4. Q-028: Does routine postoperative troponin surveillance with a protocolised response reduce cardiovascular events after major noncardiac surgery?, composite 78.0
+5. Q-006: Transportability of the microaxial flow pump trial result to unselected AMI-CS: target trial emulation by DanGer Shock eligibility, age and sex, composite 77.0
+6. Q-010: First-line inotrope and vasopressor strategy in SCAI stage C to D cardiogenic shock: registry-embedded multi-arm randomised trial, composite 77.0
+7. Q-035: Time-varying effects of left atrial appendage closure versus oral anticoagulation by reconstructed individual patient data from the randomised device trials, composite 76.0
+8. Q-011: Antithrombotic strategy after TAVI by atrial fibrillation status and CT leaflet thrombosis: reconstructed-IPD network meta-analysis with a pre-specified update at the next trial readouts, composite 75.0
+9. Q-001: Time-varying effects of revascularisation versus medical therapy on spontaneous MI and cardiac death in stable coronary disease: reconstructed-IPD network meta-analysis, composite 74.0
+10. Q-025: Continuation or withdrawal of renin-angiotensin system inhibitors after myocardial infarction with preserved ejection fraction: a registry-based randomised trial, composite 74.0
 
 Full ranking and next actions: [PRIORITIES.md](PRIORITIES.md). Full register: [register/QUESTIONS.md](register/QUESTIONS.md).
 
 ## Register
 
-By status: empty.
+By status: candidate 20, merged 1, parked 18.
 
-By domain: empty.
+By domain: D1 6, D2 7, D3 5, D4 5, D5 3, D6 6, D7 5, D8 6, D9 5.
 
 ## Tier A in the past seven days
 
