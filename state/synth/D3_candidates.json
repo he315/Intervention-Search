@@ -1,0 +1,619 @@
+[
+ {
+  "id": "D3-C1",
+  "title": "Antithrombotic strategy after TAVI by atrial fibrillation status and CT leaflet thrombosis: reconstructed-IPD network meta-analysis with a pre-specified update at the next trial readouts",
+  "domains": [
+   "D3",
+   "D8"
+  ],
+  "pico": {
+   "population": "Adults after successful TAVI, stratified by AF or other OAC indication versus none",
+   "intervention": "Single antiplatelet therapy, DOAC, vitamin K antagonist, or CT-guided therapy",
+   "comparator": "Each other strategy, including dual antiplatelet therapy",
+   "outcomes": "All-cause death, stroke or thromboembolism, major bleeding, net clinical outcome, CT-defined leaflet thrombosis",
+   "timing": "Time-to-event from TAVI to 1 year, with landmark analyses at 30 days"
+  },
+  "decision": "Which antithrombotic regimen to prescribe at discharge after TAVI, and whether CT-detected leaflet thrombosis should alter it.",
+  "decision_maker": "Interventional and structural cardiologists, heart teams, guideline committees",
+  "why_now": "Trials in the appraised subset point in different directions (rivaroxaban inferior to antiplatelet therapy in 31733180, edoxaban and apixaban not superior to standard care or vitamin K antagonist in 34449183 and 35583186, bleeding excess with added clopidogrel in 32223116 and 32865376), while several adequately sized trials are registered to report from 2027. The latest meta-analysis in the subset (29516608) predates all of them. Guideline position unverified (guideline extracts not yet retrieved); equipoise judged on trial evidence only.",
+  "evidence_status": {
+   "key_pmids": [
+    "31733180",
+    "32865376",
+    "32223116",
+    "34449183",
+    "35583186",
+    "35373583",
+    "31733182",
+    "28527771",
+    "33822924"
+   ],
+   "latest_review": {
+    "pmid": "29516608",
+    "date": "2018-10-01"
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT05283356",
+    "n": 1206,
+    "primary_completion": "2027-06",
+    "note": "Ticagrelor or aspirin as single antiplatelet therapy after TAVI; a single comparison within the network"
+   },
+   {
+    "nct": "NCT06518317",
+    "n": 1400,
+    "primary_completion": "2028-11",
+    "note": "Short versus long antiplatelet therapy"
+   },
+   {
+    "nct": "NCT06168370",
+    "n": 2500,
+    "primary_completion": "2028-12",
+    "note": "CT-guided personalised therapy versus lifelong single antiplatelet therapy, non-AF patients"
+   },
+   {
+    "nct": "NCT05035277",
+    "n": 360,
+    "primary_completion": "2026-06",
+    "note": "Anticoagulation versus aspirin; registry shows COMPLETED"
+   },
+   {
+    "nct": "NCT06007222",
+    "n": 400,
+    "primary_completion": "2026-12",
+    "note": "No antithrombotic therapy after TAVI"
+   },
+   {
+    "nct": "NCT05493657",
+    "n": 270,
+    "primary_completion": "2026-07",
+    "note": "Aspirin versus clopidogrel"
+   }
+  ],
+  "gap_type": "conflicting trials",
+  "designs": {
+   "primary": "Reconstructed-IPD network meta-analysis, random-effects with REML and Hartung-Knapp adjustment, landmark and restricted mean survival analyses, registered on PROSPERO with an update pre-specified for each listed readout",
+   "alternative": "Registry-based randomised trial of antiplatelet de-escalation within a national TAVI registry"
+  },
+  "data_required": "Published Kaplan-Meier curves and event tables from all randomised antithrombotic trials after TAVI; aggregate leaflet thrombosis CT data",
+  "data_sources": [
+   "Published trial reports",
+   "ClinicalTrials.gov",
+   "Same-day SRMA workflow at readouts"
+  ],
+  "feasibility": "High: within the owner's reconstructed-IPD and NMA methods; no data access needed. Fewer than ten eligible trials until 2028.",
+  "overlap": "No overlap with active owner projects. Cross-domain overlap with D8 candidate questions on antithrombotic therapy after TAVI; merge at consolidation.",
+  "target_journal": "European Heart Journal or JACC",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Prescribing after TAVI is a near-universal decision judged on death, stroke and major bleeding."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Trials conflict on DOAC and antiplatelet strategies (31733180 versus 34449183 and 35583186). Guideline position unverified (guideline extracts not yet retrieved); equipoise judged on trial evidence only."
+   },
+   "G3": {
+    "pass": true,
+    "note": "No trial in the file covers the full network; the nearest, NCT05283356 (N=1206, 2027-06), compares two single agents. The only meta-analysis in the subset (29516608) is from 2018 and pooled 840 patients; trials published since (31733180, 32865376, 32223116, 34449183, 35583186) add 1644+665+313+1426+1500 = 5548 randomised patients. Meta-analyses outside the appraised subset were not searched."
+   },
+   "G4": {
+    "pass": true,
+    "note": "A network analysis with reconstructed time-to-event data would be citable by a guideline committee where pairwise pooling cannot compare DOAC with antiplatelet therapy across AF strata."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Not a repeat of the same trials: the evidence base has grown roughly sevenfold since the last pooled analysis and the pre-specified update design addresses the 2027 to 2028 readouts."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "TAVI is performed in very large numbers and every patient needs a discharge antithrombotic decision."
+   },
+   "novelty": {
+    "score": 3,
+    "why": "Pairwise meta-analyses exist; the network structure, AF stratification and leaflet thrombosis linkage are new."
+   },
+   "equipoise": {
+    "score": 4,
+    "why": "Trials in the subset conflict on DOAC versus antiplatelet therapy and on dual therapy."
+   },
+   "design": {
+    "score": 4,
+    "why": "Reconstructed-IPD network meta-analysis with pre-specified updates is credible but limited by open-label trials."
+   },
+   "timeliness": {
+    "score": 4,
+    "why": "Six registered trials report between 2026 and 2028."
+   },
+   "citation": {
+    "score": 3,
+    "why": "Antithrombotic meta-analyses in target-tier journals are well cited but crowded."
+   },
+   "feasibility": {
+    "score": 5,
+    "why": "Entirely within the owner's methods with public data."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "antithrombotic therapy after tavi",
+   "transcatheter aortic valve",
+   "single antiplatelet",
+   "direct oral anticoagulant",
+   "leaflet thrombosis",
+   "network meta-analysis"
+  ],
+  "next_actions": [
+   "Register the protocol on PROSPERO with the readout-triggered update rule",
+   "Extract Kaplan-Meier curves and event counts from the nine key trials and build the reconstruction pipeline",
+   "Check D8 candidates for duplication and agree a single owner of the question"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Proposed from appraised D3 subset; gates G1 to G5 passed on trial evidence"
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ },
+ {
+  "id": "D3-C2",
+  "title": "Cardiometabolic and neurohormonal drugs after TAVI: target trial emulation benchmarked against the DapaTAVI randomised result",
+  "domains": [
+   "D3",
+   "D6"
+  ],
+  "pico": {
+   "population": "Adults discharged alive after TAVI for severe aortic stenosis, without prior use of the study drug",
+   "intervention": "Initiation of an SGLT2 inhibitor, a GLP-1 receptor agonist or a renin-angiotensin inhibitor within 90 days",
+   "comparator": "No initiation (grace-period strategies)",
+   "outcomes": "All-cause death or heart failure hospitalisation; major adverse cardiovascular events; kidney outcomes",
+   "timing": "Time zero at the end of the grace period after discharge; follow-up to 3 years"
+  },
+  "decision": "Whether to start SGLT2 inhibitors, GLP-1 receptor agonists or renin-angiotensin inhibitors routinely after TAVI, and in whom (frailty, diabetes, ejection fraction).",
+  "decision_maker": "Structural and heart failure cardiologists; guideline committees",
+  "why_now": "A single open-label trial (40162639) reported fewer events with dapagliflozin, a post hoc analysis suggests the effect lies in frail patients (42885795), and observational data suggest benefit of GLP-1 receptor agonists and renin-angiotensin inhibitors (42886864, 30512100, 31370954) with no randomised test of those classes yet reported. Guideline position unverified (guideline extracts not yet retrieved); equipoise judged on trial evidence only.",
+  "evidence_status": {
+   "key_pmids": [
+    "40162639",
+    "42885795",
+    "42919410",
+    "42886864",
+    "30512100",
+    "31370954"
+   ],
+   "latest_review": {
+    "pmid": "42919410",
+    "date": "2026-07-28"
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT05672836",
+    "n": 1040,
+    "primary_completion": "2028-12",
+    "note": "Enavogliflozin after TAVR; 26 months from the date of this landscape"
+   },
+   {
+    "nct": "NCT07575672",
+    "n": 2832,
+    "primary_completion": "2029-12",
+    "note": "Finerenone after TAVI with heart failure"
+   },
+   {
+    "nct": "NCT07090343",
+    "n": 826,
+    "primary_completion": "2030-09",
+    "note": "Semaglutide in TAVR"
+   },
+   {
+    "nct": "NCT07735130",
+    "n": 632,
+    "primary_completion": "2030-06",
+    "note": "Angiotensin receptor blocker after TAVR"
+   },
+   {
+    "nct": "NCT05721170",
+    "n": 348,
+    "primary_completion": "2028-01",
+    "note": "Beta-blockers after TAVI; modest size"
+   },
+   {
+    "nct": "NCT06472934",
+    "n": 498,
+    "primary_completion": "2028-05",
+    "note": "Beta-blocker after TAVR"
+   }
+  ],
+  "gap_type": "population excluded from trials",
+  "designs": {
+   "primary": "Sequential target trial emulation with clone-censor-weight handling of grace periods, with the DapaTAVI estimate (40162639) used as a negative and positive control for the identification strategy",
+   "alternative": "Registry-based randomised trial of renin-angiotensin inhibitor continuation versus withdrawal after TAVI"
+  },
+  "data_required": "National TAVI registry linked to dispensed prescriptions, hospital episodes and mortality, with frailty and echocardiographic variables",
+  "data_sources": [
+   "National TAVI registry with prescribing linkage (access not yet established)",
+   "UK Biobank QMUL extract (few TAVI recipients expected; not checked)"
+  ],
+  "feasibility": "Medium: the method is within the owner's skills and prior UK Biobank work on SGLT2 and ACE inhibitors in aortic stenosis, but a linked registry with prescribing data needs collaborators.",
+  "overlap": "None with active projects; methodological proximity to the owner's UK Biobank work in aortic stenosis.",
+  "target_journal": "JAMA Cardiology or European Heart Journal",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Heart failure hospitalisation and death after TAVI are the endpoints that define the prescribing decision."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Only one randomised trial (40162639) exists and it tested one drug; observational signals for other classes are untested. Guideline position unverified (guideline extracts not yet retrieved); equipoise judged on trial evidence only."
+   },
+   "G3": {
+    "pass": true,
+    "note": "The nearest adequately powered trial, NCT05672836 (N=1040), reports 2028-12, beyond 24 months; the other registered trials are 2029 to 2030 or small. This margin is narrow and should be rechecked monthly."
+   },
+   "G4": {
+    "pass": true,
+    "note": "Benchmarking against the randomised estimate gives a credible validation of the emulation, which a committee could weigh alongside the trials."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Not a repeat meta-analysis; the largest existing pooled report (42919410) is dominated by observational studies and one trial."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "Several hundred thousand TAVI recipients with high rates of heart failure hospitalisation, and drugs that are cheap and widely available."
+   },
+   "novelty": {
+    "score": 4,
+    "why": "No emulation benchmarked to the randomised trial; GLP-1 receptor agonists and renin-angiotensin inhibitors untested by trial."
+   },
+   "equipoise": {
+    "score": 3,
+    "why": "One positive open-label trial favours SGLT2 inhibitors; other classes remain uncertain."
+   },
+   "design": {
+    "score": 3,
+    "why": "Emulation is credible with a benchmark, but confounding by frailty and indication remains."
+   },
+   "timeliness": {
+    "score": 3,
+    "why": "Readouts begin in late 2028; the window to inform trial design is now."
+   },
+   "citation": {
+    "score": 4,
+    "why": "Post-TAVI drug therapy follows a high-citation NEJM trial and sits at the intersection of structural and heart failure care."
+   },
+   "feasibility": {
+    "score": 3,
+    "why": "Needs a linked national dataset not yet secured."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "sglt2 inhibitor after tavi",
+   "dapagliflozin",
+   "glp-1 receptor agonist",
+   "renin-angiotensin inhibitor",
+   "target trial emulation",
+   "transcatheter aortic valve"
+  ],
+  "next_actions": [
+   "Identify a national TAVI registry with prescribing linkage and open collaboration",
+   "Write the target trial protocol with the DapaTAVI emulation as the first analysis",
+   "Quantify TAVI recipients in the UK Biobank extract to decide whether it can contribute"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Proposed from appraised D3 subset; gates G1 to G5 passed on trial evidence"
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ },
+ {
+  "id": "D3-C3",
+  "title": "Lifetime management of severe aortic stenosis in younger and low-risk patients: decision model with value-of-information analysis including redo strategies",
+  "domains": [
+   "D3"
+  ],
+  "pico": {
+   "population": "Patients with severe aortic stenosis who are low surgical risk, by age band",
+   "intervention": "TAVI-first lifetime strategy (including TAV-in-TAV or explant at failure)",
+   "comparator": "SAVR-first lifetime strategy (including valve-in-valve at failure)",
+   "outcomes": "Quality-adjusted life years, lifetime cost, death, stroke, reintervention",
+   "timing": "Lifetime horizon"
+  },
+  "decision": "Which first valve strategy to recommend for patients under about 75 years, and whether further trial evidence is worth its cost.",
+  "decision_maker": "Heart teams, guideline committees, funders such as NIHR",
+  "why_now": "Long-term trial results diverge: 10-year all-cause mortality was 86.1% after TAVR versus 82.8% after surgery in intermediate-risk patients (42300821, HR 1.13; 95% CI 1.02-1.25), whereas NOTION showed 65.5% in both arms at 10 years (38321820) and low-risk trials show no significant difference to 7 years (41144631). Guideline position unverified (guideline extracts not yet retrieved); equipoise judged on trial evidence only.",
+  "evidence_status": {
+   "key_pmids": [
+    "42300821",
+    "38321820",
+    "41144631",
+    "41697183",
+    "40158212",
+    "40044297",
+    "40884768",
+    "38747246",
+    "37660719",
+    "40044295",
+    "33413929",
+    "37154049"
+   ],
+   "latest_review": {
+    "pmid": "40044297",
+    "date": "2025-03-11"
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT06861361",
+    "n": 1180,
+    "primary_completion": "2028-09",
+    "note": "START YOUNG; surgical versus transcatheter in young patients; primary outcome not recorded in the trials file"
+   },
+   {
+    "nct": "NCT03112980",
+    "n": 1414,
+    "primary_completion": "2028-01",
+    "note": "DEDICATE; low to intermediate risk"
+   },
+   {
+    "nct": "NCT06924151",
+    "n": 450,
+    "primary_completion": "2031-05",
+    "note": "AMETHYST; isolated SAVR in low-risk patients"
+   },
+   {
+    "nct": "NCT07462624",
+    "n": 890,
+    "primary_completion": "2033-09",
+    "note": "REPEAT; repeat intervention for failed surgical bioprostheses"
+   },
+   {
+    "nct": "NCT06400342",
+    "n": 264,
+    "primary_completion": "2034-05",
+    "note": "REVIVE-TAVR; failed TAVR"
+   }
+  ],
+  "gap_type": "conflicting trials",
+  "designs": {
+   "primary": "Patient-level Markov microsimulation with probabilistic sensitivity analysis and expected value of perfect and partial perfect information, parameterised from trial time-to-event data and redo registries",
+   "alternative": "Reconstructed-IPD analysis of restricted mean survival time across all TAVI versus SAVR trials by age"
+  },
+  "data_required": "Reconstructed time-to-event data from low- and intermediate-risk trials; redo-TAVR and reintervention rates; UK or European cost and utility inputs",
+  "data_sources": [
+   "Published trial reports",
+   "Redo registries (40044295, 37660719, 33413929)",
+   "NHS reference costs (to be sourced)"
+  ],
+  "feasibility": "High: matches the owner's Markov microsimulation and reconstruction skills.",
+  "overlap": "Method overlap only with the owner's Markov microsimulation of Impella in STEMI-related cardiogenic shock; no topic overlap.",
+  "target_journal": "Circulation or JAMA Cardiology",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "First-valve choice in younger patients is a common decision with lifetime consequences."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Long-term mortality results conflict between PARTNER 2A and NOTION-type results. Guideline position unverified (guideline extracts not yet retrieved); equipoise judged on trial evidence only."
+   },
+   "G3": {
+    "pass": false,
+    "note": "START YOUNG (NCT06861361, N=1180, 2028-09) and DEDICATE (NCT03112980, N=1414, 2028-01) are registered to complete within 24 months; whether either is adequately powered for lifetime outcomes cannot be judged because the trials file records no primary outcome. A target-tier meta-analysis (40044297, 2025-03-11) also falls inside the 24-month window; since then new follow-up (42300821, 41144631, 41697183) has accrued but the change in pooled events is not quantified from the stored abstracts."
+   },
+   "G4": {
+    "pass": true,
+    "note": "A value-of-information analysis would state which parameter justifies a further trial and its size, which funders can use even if a trial reports first."
+   },
+   "G5": {
+    "pass": true,
+    "note": "A decision model with VOI is not a repeat meta-analysis; the reconstructed-IPD component is secondary."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 5,
+    "why": "Age-expanding indication affects the largest group of TAVI candidates with decades of follow-up."
+   },
+   "novelty": {
+    "score": 3,
+    "why": "Lifetime models exist in the literature for individual trials; VOI with redo strategies is less developed (not verified outside the subset)."
+   },
+   "equipoise": {
+    "score": 4,
+    "why": "Trials diverge at 10 years in intermediate-risk and are neutral in low-risk patients."
+   },
+   "design": {
+    "score": 3,
+    "why": "Credible but dependent on extrapolation and thin redo data."
+   },
+   "timeliness": {
+    "score": 3,
+    "why": "Two trials complete within 24 months; value falls if the model appears after them."
+   },
+   "citation": {
+    "score": 4,
+    "why": "Lifetime strategy questions in aortic stenosis attract high attention in target journals."
+   },
+   "feasibility": {
+    "score": 4,
+    "why": "Within owner's skills; costs and utilities need sourcing."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "lifetime management aortic stenosis",
+   "tavi versus savr",
+   "value of information",
+   "markov microsimulation",
+   "redo tavr",
+   "low-risk aortic stenosis"
+  ],
+  "next_actions": [
+   "Quantify new pooled events since 40044297 to resolve the G3 uncertainty",
+   "Retrieve the primary outcomes of NCT06861361 and NCT03112980 from the registry",
+   "Draft the model structure with redo pathways and a VOI plan"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Proposed from appraised D3 subset; G3 fails on registered trials and requires resolution before promotion"
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ },
+ {
+  "id": "D3-C4",
+  "title": "Management of severe aortic stenosis presenting with cardiogenic shock: TAVI, balloon valvuloplasty or medical therapy, with or without mechanical circulatory support",
+  "domains": [
+   "D3",
+   "D2"
+  ],
+  "pico": {
+   "population": "Adults admitted with severe aortic stenosis and cardiogenic shock",
+   "intervention": "Early TAVI, or balloon aortic valvuloplasty as a bridge, with or without temporary mechanical circulatory support",
+   "comparator": "Medical therapy or delayed valve intervention",
+   "outcomes": "In-hospital and 1-year mortality, renal replacement therapy, stroke, length of stay",
+   "timing": "Time zero at shock recognition"
+  },
+  "decision": "Whether and how fast to offer valve intervention, and with which support, to patients in shock who were excluded from the pivotal TAVI trials.",
+  "decision_maker": "Shock teams and heart teams",
+  "why_now": "The one large registry analysis in the subset (37350747; 5006 of 309 505 TAVR patients presented in shock) shows higher mortality in patients presenting in shock than in matched patients without shock (in-hospital 9.9% vs. 2.7%), but cannot compare against non-intervention. No randomised trial appears in the trials file. Guideline position unverified (guideline extracts not yet retrieved); equipoise judged on trial evidence only.",
+  "evidence_status": {
+   "key_pmids": [
+    "37350747",
+    "37877909"
+   ],
+   "latest_review": {
+    "pmid": "",
+    "date": ""
+   },
+   "guideline_position": []
+  },
+  "competing": [],
+  "gap_type": "population excluded from trials",
+  "designs": {
+   "primary": "Target trial emulation in linked national hospital data and shock registries, comparing early TAVI, valvuloplasty and medical therapy with time zero at shock recognition",
+   "alternative": "Prospective multicentre registry with embedded randomisation of timing"
+  },
+  "data_required": "Linked admissions with aortic stenosis and shock codes, procedure dates, mechanical support and mortality, with haemodynamic severity",
+  "data_sources": [
+   "BCIS and ICNARC registries through collaborators (aortic stenosis coverage not confirmed)",
+   "Harefield Impella registry (small numbers expected)",
+   "Hospital administrative data"
+  ],
+  "feasibility": "Low to medium: the owner has shock registry access, but whether those registries record aortic stenosis aetiology and non-TAVI comparators is unknown.",
+  "overlap": "Adjacent to the owner's review of acute mitral regurgitation and cardiogenic shock and the shock organisation SRMA; no duplication of either.",
+  "target_journal": "European Heart Journal",
+  "precedent_pmids": [
+   "37350747"
+  ],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "A high-mortality setting where the decision is whether to intervene at all."
+   },
+   "G2": {
+    "pass": true,
+    "note": "No randomised evidence is in the stored records and the only registry study cannot compare with non-intervention. Guideline position unverified (guideline extracts not yet retrieved); equipoise judged on trial evidence only."
+   },
+   "G3": {
+    "pass": true,
+    "note": "No registered trial is in the trials file; the search of the file was by keyword for shock and may miss differently worded entries."
+   },
+   "G4": {
+    "pass": false,
+    "note": "No dataset with both an intervention and a non-intervention arm, valve severity and shock severity has been identified; immortal-time and selection bias would be severe, so a weaker design would not be citable. Unresolved until a dataset is confirmed."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Not incremental if a comparator is available; the existing analysis (37350747) is a single registry of TAVR recipients only."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 3,
+    "why": "Rare presentation but very high mortality."
+   },
+   "novelty": {
+    "score": 4,
+    "why": "Only one registry description of TAVR in shock appears in the stored subset."
+   },
+   "equipoise": {
+    "score": 4,
+    "why": "No randomised evidence and no stored comparison with non-intervention."
+   },
+   "design": {
+    "score": 2,
+    "why": "No identified dataset supports a credible comparison."
+   },
+   "timeliness": {
+    "score": 2,
+    "why": "No trigger event identified."
+   },
+   "citation": {
+    "score": 3,
+    "why": "The previous analysis appeared in the European Heart Journal; the niche is small."
+   },
+   "feasibility": {
+    "score": 2,
+    "why": "Access to a suitable dataset is unconfirmed."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "aortic stenosis cardiogenic shock",
+   "tavi in shock",
+   "balloon aortic valvuloplasty",
+   "mechanical circulatory support",
+   "shock team"
+  ],
+  "next_actions": [
+   "Check whether BCIS and ICNARC registries capture aortic stenosis as shock aetiology",
+   "Search for hospital administrative datasets with valve and shock codes",
+   "Decide at the next review whether to park the question under G4"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Proposed from appraised D3 subset; G4 fails pending dataset identification"
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ }
+]

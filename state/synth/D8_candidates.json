@@ -1,0 +1,606 @@
+[
+ {
+  "id": "D8-C1",
+  "title": "Does omitting aspirin at the time of primary PCI for STEMI increase ischaemic events? An updated individual patient data meta-analysis of P2Y12 inhibitor monotherapy trials with STEMI-specific effect estimates",
+  "domains": [
+   "D8",
+   "D6"
+  ],
+  "pico": {
+   "population": "Patients with STEMI treated by primary PCI with a drug-eluting stent",
+   "intervention": "Early aspirin-free strategy with a potent P2Y12 inhibitor monotherapy (from within 1 month, or from the time of PCI)",
+   "comparator": "Dual antiplatelet therapy with aspirin and a P2Y12 inhibitor",
+   "outcomes": "Co-primary: death, MI, stroke (net ischaemic composite) and BARC 3 or 5 bleeding; secondary: stent thrombosis, reinfarction, all-cause death",
+   "timing": "Treatment from index PCI; follow-up to 12 months, with landmark analysis at 1 and 3 months for time-varying effects"
+  },
+  "decision": "Whether aspirin is stopped within the first month, or never given, after primary PCI in STEMI, as opposed to continuing DAPT for 12 months.",
+  "decision_maker": "Interventional cardiologists and guideline committees (ESC and ACC/AHA) setting the post-STEMI antithrombotic default.",
+  "why_now": "Three randomised trials published between November 2025 and August 2026 (PMIDs 40888723, 40888726, 42670955) point in different directions in ACS or STEMI, and the prespecified STEMI stratum of 40888723 (PMID 41384891) reports an interaction (P for interaction = 0.030). The last IPD meta-analysis in the store (PMID 39226909, September 2024) predates all three.",
+  "evidence_status": {
+   "key_pmids": [
+    "39226909",
+    "42670955",
+    "40888723",
+    "41384891",
+    "40888726",
+    "31556978",
+    "32543684",
+    "34135011",
+    "37870970",
+    "38750627"
+   ],
+   "latest_review": {
+    "pmid": "39226909",
+    "date": "2024-09-07"
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT05491200",
+    "n": 1656,
+    "primary_completion": "2027-08",
+    "note": "STEMI, reduced DAPT then prasugrel monotherapy versus standard regimen; may add a STEMI-specific trial to the pool"
+   },
+   {
+    "nct": "NCT07507500",
+    "n": 8100,
+    "primary_completion": "2029-07",
+    "note": "Prasugrel versus ticagrelor and 12 months versus 1-3 months DAPT after MI with PCI; reports after the 24-month window"
+   },
+   {
+    "nct": "NCT06509893",
+    "n": 5400,
+    "primary_completion": "2025-12",
+    "note": "Ticagrelor alone after PCI; population and comparator not stated in the registry fields held, so overlap is unverified"
+   },
+   {
+    "nct": "NCT07257198",
+    "n": 2570,
+    "primary_completion": "2030-01",
+    "note": "Aspirin-free ticagrelor in medically managed MI; different population (no PCI)"
+   }
+  ],
+  "gap_type": "conflicting trials",
+  "designs": {
+   "primary": "One-stage IPD meta-analysis (reference-case Cox models, stratified by trial, random effects on treatment with REML and Hartung-Knapp adjustment) with a prespecified STEMI-by-treatment interaction and landmark analysis at 1 month",
+   "alternative": "Reconstructed-IPD meta-analysis from published Kaplan-Meier curves if IPD sharing is not agreed for all trials"
+  },
+  "data_required": "Patient-level data on treatment arm, presentation (STEMI, NSTE-ACS), time-stamped events (death, MI, stent thrombosis, stroke, BARC bleeding) and baseline risk covariates from trials of aspirin omission or early withdrawal in ACS.",
+  "data_sources": [
+   "Trial groups of PMIDs 40888723, 40888726, 42670955 and of the trials pooled in PMID 39226909",
+   "Data-sharing platforms and direct collaboration with trial steering committees",
+   "Published Kaplan-Meier curves (fallback)"
+  ],
+  "feasibility": "Moderate to low for full IPD, which depends on agreement from several trial groups; high for the reconstructed-IPD fallback, which sits within the owner's methods.",
+  "overlap": "No overlap with active projects. The owner's STEMI reconstructed-IPD network meta-analysis covers non-culprit lesion management, not antiplatelet strategy. A same-day SRMA workflow could update this analysis when NCT05491200 reports.",
+  "target_journal": "Lancet or European Heart Journal (IPD analyses of P2Y12 monotherapy of this type appear in PMIDs 39226909 and 38750627)",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "STEMI primary PCI is a very common decision and the outcomes are death, MI, stent thrombosis and major bleeding."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Trial evidence conflicts: PMID 42670955 reports an HR of 1.34 (95% CI 1.02 to 1.75) for the ischaemic composite against aspirin omission in STEMI, whereas PMID 40888726 reports 2.1% vs 2.2% in low-risk AMI. Guideline position is unverified and was not used."
+   },
+   "G3": {
+    "pass": true,
+    "note": "No adequately powered STEMI-specific RCT of this comparison is shown in the trials file to report within 24 months; NCT05491200 (n=1656, 2027-08) is similar in size to existing trials. The three newer trials total 7568 participants (2216 + 3410 + 1942), 31% of the 24,407 intention-to-treat patients in PMID 39226909, so the pooled sample would change materially. Risk: NCT06509893 (n=5400, primary completion 2025-12) could report and its STEMI content is unverified."
+   },
+   "G4": {
+    "pass": true,
+    "note": "An IPD analysis with a prespecified STEMI interaction is the design a guideline committee would cite, because single-trial STEMI subgroups are underpowered and in PMID 41384891 are interaction-based."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Adds 7568 patients and tests effect modification that no single trial could, so it is not a repeat meta-analysis of the same trials."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "STEMI PCI is a high-volume, high-mortality setting and the aspirin decision is made in every case."
+   },
+   "novelty": {
+    "score": 4,
+    "why": "The three trials that reopen the question are newer than every pooled analysis in the store."
+   },
+   "equipoise": {
+    "score": 5,
+    "why": "Trials in STEMI and ACS point in opposite directions on the ischaemic composite."
+   },
+   "design": {
+    "score": 4,
+    "why": "IPD from randomised trials with a prespecified interaction and landmark analysis is credible, though it depends on data access."
+   },
+   "timeliness": {
+    "score": 4,
+    "why": "Three trials have just reported and NCT05491200 is due in 2027-08, allowing a prespecified update."
+   },
+   "citation": {
+    "score": 4,
+    "why": "IPD analyses of antiplatelet de-escalation appear in the Lancet and the European Heart Journal (PMIDs 39226909, 38750627)."
+   },
+   "feasibility": {
+    "score": 2,
+    "why": "Full IPD needs several trial groups to agree; the fallback is reconstructed IPD."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "aspirin omission",
+   "p2y12 inhibitor monotherapy",
+   "stemi",
+   "primary pci",
+   "dual antiplatelet therapy",
+   "individual patient data",
+   "aspirin-free"
+  ],
+  "next_actions": [
+   "Register a protocol on PROSPERO with the STEMI interaction and the update trigger for NCT05491200 prespecified.",
+   "Contact the steering committees of the trials behind PMIDs 40888723, 40888726 and 42670955 about IPD sharing.",
+   "Build the Kaplan-Meier reconstruction pipeline for the reconstructed-IPD fallback and test it against PMID 39226909."
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Proposed from the D8 landscape synthesis."
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ },
+ {
+  "id": "D8-C2",
+  "title": "Prasugrel versus ticagrelor in acute coronary syndromes: resolving discordant trial results with a pooled analysis that includes the registry-based SWITCH-SWEDEHEART comparison",
+  "domains": [
+   "D8",
+   "D6"
+  ],
+  "pico": {
+   "population": "Patients with ACS (STEMI and NSTE-ACS) treated with PCI",
+   "intervention": "Prasugrel-based DAPT",
+   "comparator": "Ticagrelor-based DAPT",
+   "outcomes": "Death, MI, stroke (and the trials' net composites), BARC 3 or 5 bleeding",
+   "timing": "Treatment from index PCI to 12 months, with 30-day and landmark analyses"
+  },
+  "decision": "Which potent P2Y12 inhibitor is the default for ACS patients undergoing PCI.",
+  "decision_maker": "Interventional cardiologists, guideline committees and formulary or procurement bodies.",
+  "why_now": "ISAR-REACT 5 (PMID 31475799) favoured prasugrel (HR 1.36, 95% CI 1.09 to 1.70 for ticagrelor), while the registry-based SWITCH-SWEDEHEART comparison (PMID 42670968, 17,095 patients, August 2026) reported an adjusted OR of 0.90 (95% CI 0.77 to 1.06). The only network meta-analysis in the store (PMID 32468837) predates SWITCH.",
+  "evidence_status": {
+   "key_pmids": [
+    "31475799",
+    "42670968",
+    "29154813",
+    "27576777",
+    "33115278",
+    "33213722",
+    "32468837",
+    "27198684"
+   ],
+   "latest_review": {
+    "pmid": "32468837",
+    "date": "2020-07-14"
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT07507500",
+    "n": 8100,
+    "primary_completion": "2029-07",
+    "note": "Prasugrel versus ticagrelor and 12 versus 1-3 months DAPT after MI with PCI; primary completion 2029-07, beyond the 24-month window"
+   },
+   {
+    "nct": "NCT05183178",
+    "n": 17095,
+    "primary_completion": "2025-08",
+    "note": "SWITCH, completed 2025-08-31; already published as PMID 42670968"
+   }
+  ],
+  "gap_type": "conflicting trials",
+  "designs": {
+   "primary": "Two-stage meta-analysis of randomised comparisons with reconstructed IPD from Kaplan-Meier curves (random effects, REML, Hartung-Knapp), exploring time-varying hazards, STEMI versus NSTE-ACS and age or weight effect modification, with the registry-based default-policy trial analysed as a sensitivity stratum",
+   "alternative": "Full IPD synthesis if the SWEDEHEART and ISAR-REACT 5 groups agree to share data"
+  },
+  "data_required": "Published Kaplan-Meier curves and subgroup tables for PMIDs 31475799, 42670968, 29154813 and 27576777, or patient-level data from the same trials.",
+  "data_sources": [
+   "Published curves and supplements",
+   "SWEDEHEART and ISAR-REACT 5 investigators",
+   "Harefield primary PCI cohort for a clinical-practice check"
+  ],
+  "feasibility": "High for the reconstructed-IPD route, which sits squarely within the owner's methods; moderate for full IPD.",
+  "overlap": "No overlap with active projects.",
+  "target_journal": "European Heart Journal or Circulation (a network meta-analysis of P2Y12 inhibitors appears in Circulation, PMID 32468837)",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "The choice of potent P2Y12 inhibitor is made daily for ACS patients and the outcomes are hard (death, MI, stroke, major bleeding)."
+   },
+   "G2": {
+    "pass": true,
+    "note": "PMID 31475799 and PMID 42670968 point in different directions in precision and direction; STEMI and NSTE-ACS subgroups of ISAR-REACT 5 differ (PMIDs 33115278, 33213722). Guideline position is unverified and was not used."
+   },
+   "G3": {
+    "pass": true,
+    "note": "The only large ongoing comparison, NCT07507500 (n=8100), has a primary completion of 2029-07, beyond 24 months. The stored network meta-analysis (PMID 32468837, 2020-07) predates SWITCH, whose 17,095 patients exceed the 4018 of ISAR-REACT 5 more than fourfold. Records outside the appraised subset were not searched."
+   },
+   "G4": {
+    "pass": true,
+    "note": "A pooled analysis with time-varying and subgroup estimates is the design a guideline group would cite; a weaker pairwise meta-analysis of two discordant trials would not explain the discordance."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Adds a trial more than four times the size of any pooled previously and examines heterogeneity, so it is not a repeat of the same evidence base."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 5,
+    "why": "Potent P2Y12 inhibitor choice applies to most ACS patients undergoing PCI."
+   },
+   "novelty": {
+    "score": 4,
+    "why": "No pooled analysis incorporating SWITCH-SWEDEHEART is in the store."
+   },
+   "equipoise": {
+    "score": 4,
+    "why": "The two largest comparisons disagree in direction and precision."
+   },
+   "design": {
+    "score": 4,
+    "why": "Reconstructed IPD from large trials is credible, though only three or four trials are eligible."
+   },
+   "timeliness": {
+    "score": 4,
+    "why": "SWITCH has just been published and a larger trial (NCT07507500) is due in 2029-07."
+   },
+   "citation": {
+    "score": 4,
+    "why": "Head-to-head potent P2Y12 comparisons attract high citation in target journals; the network meta-analysis PMID 32468837 appeared in Circulation."
+   },
+   "feasibility": {
+    "score": 3,
+    "why": "Reconstruction is within the owner's toolkit; full IPD needs collaboration."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "prasugrel",
+   "ticagrelor",
+   "acute coronary syndrome",
+   "p2y12 inhibitor",
+   "switch-swedeheart",
+   "isar-react 5",
+   "head-to-head"
+  ],
+  "next_actions": [
+   "Register the protocol, naming PMIDs 31475799, 42670968, 29154813 and 27576777 as the eligible trials and prespecifying the update at NCT07507500.",
+   "Digitise and reconstruct the Kaplan-Meier curves and validate against reported hazard ratios.",
+   "Approach the SWEDEHEART and ISAR-REACT 5 investigators about patient-level data."
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Proposed from the D8 landscape synthesis."
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ },
+ {
+  "id": "D8-C3",
+  "title": "Antithrombotic therapy after transcatheter aortic valve implantation: an individual patient data network meta-analysis stratified by oral anticoagulation indication, timed to the next readouts",
+  "domains": [
+   "D8",
+   "D3"
+  ],
+  "pico": {
+   "population": "Patients undergoing TAVI, analysed as two networks: without and with an indication for oral anticoagulation",
+   "intervention": "Single antiplatelet therapy, oral anticoagulant monotherapy, oral anticoagulant plus antiplatelet, DOAC versus VKA, and continuation versus interruption of anticoagulation",
+   "comparator": "Alternative strategies in the same network",
+   "outcomes": "All-cause death, stroke or thromboembolism, major bleeding, valve thrombosis or reduced leaflet motion",
+   "timing": "Post-TAVI to 12 months, with the periprocedural window (PMID 39216096) analysed separately"
+  },
+  "decision": "What antithrombotic regimen follows TAVI, and whether anticoagulation is continued through the procedure.",
+  "decision_maker": "Heart teams, TAVI operators and guideline committees.",
+  "why_now": "At least six randomised comparisons have reported (PMIDs 31733180, 32865376, 32223116, 34449183, 35583186, 39216096) but the only meta-analysis in the store (PMID 29516608, 2018) predates them. REAC-TAVI2 (NCT05283356) and a further trial (NCT06007222) are due in 2026-12 to 2027-06.",
+  "evidence_status": {
+   "key_pmids": [
+    "31733180",
+    "32865376",
+    "32223116",
+    "34449183",
+    "35583186",
+    "39216096",
+    "31733182",
+    "35373583",
+    "30153483"
+   ],
+   "latest_review": {
+    "pmid": "29516608",
+    "date": "2018-10-01"
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT05283356",
+    "n": 1206,
+    "primary_completion": "2027-06",
+    "note": "Ticagrelor versus aspirin single antiplatelet after TAVI; different comparison, primary completion 2027-06"
+   },
+   {
+    "nct": "NCT06007222",
+    "n": 400,
+    "primary_completion": "2026-12",
+    "note": "Non-antithrombotic therapy after TAVI, small; primary completion 2026-12"
+   },
+   {
+    "nct": "NCT06518317",
+    "n": 1400,
+    "primary_completion": "2028-11",
+    "note": "Short versus long antiplatelet therapy after TAVI; primary completion 2028-11"
+   },
+   {
+    "nct": "NCT05687448",
+    "n": 1500,
+    "primary_completion": "2025-09",
+    "note": "DOAC after bioprosthetic aortic valve; status not yet recruiting in the registry despite a 2025-09 primary completion date"
+   },
+   {
+    "nct": "NCT07677410",
+    "n": 1172,
+    "primary_completion": "2029-07",
+    "note": "TAVR in pure aortic regurgitation; narrow population"
+   }
+  ],
+  "gap_type": "evidence outdated by new trials",
+  "designs": {
+   "primary": "IPD network meta-analysis with a prespecified update when NCT05283356 reports, using separate networks to preserve transitivity (REML, Hartung-Knapp, consistency checked by node-splitting)",
+   "alternative": "Reconstructed-IPD network meta-analysis if IPD access is partial"
+  },
+  "data_required": "Patient-level data from the TAVI antithrombotic randomised trials, including baseline OAC indication, age, renal function, access route and valve type.",
+  "data_sources": [
+   "Trial groups behind the PMIDs listed in key_pmids",
+   "Published Kaplan-Meier curves (fallback)"
+  ],
+  "feasibility": "High for reconstructed IPD and a prospectively registered update; moderate for full IPD.",
+  "overlap": "No overlap with active projects; the owner's same-day SRMA workflow can run the update when NCT05283356 reports.",
+  "target_journal": "Journal of the American College of Cardiology or European Heart Journal",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "TAVI is a common procedure and the outcomes are death, stroke and major bleeding."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Trials conflict in direction by population: rivaroxaban increased death or thromboembolism without an OAC indication (PMID 31733180, HR 1.35, 95% CI 1.01 to 1.81), apixaban and edoxaban were not superior to standard care or VKA in AF (PMIDs 35583186, 34449183), and continuation of OAC at TAVI raised bleeding (PMID 39216096). Guideline position is unverified and was not used."
+   },
+   "G3": {
+    "pass": true,
+    "note": "No ongoing trial in the file compares the same regimens at adequate power within 24 months; NCT05283356 (n=1206, 2027-06) tests ticagrelor versus aspirin only. No meta-analysis since 2018 is in the appraised subset, which may under-count recent reviews."
+   },
+   "G4": {
+    "pass": true,
+    "note": "An IPD network, split by OAC indication, is the design a guideline committee would cite, because individual trials are small or stopped early and compare different regimens."
+   },
+   "G5": {
+    "pass": true,
+    "note": "At least six randomised comparisons with several thousand patients are pooled across regimens; it is not a repeat meta-analysis of a few small studies, but the novelty rests on the stored subset being complete, which has not been verified."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "TAVI volumes are high and every patient receives an antithrombotic regimen."
+   },
+   "novelty": {
+    "score": 3,
+    "why": "The topic is likely to have been reviewed since 2018 outside the appraised subset."
+   },
+   "equipoise": {
+    "score": 4,
+    "why": "Single antiplatelet therapy is favoured by bleeding data but ischaemic outcomes are underpowered, and OAC choices remain contested."
+   },
+   "design": {
+    "score": 3,
+    "why": "Network transitivity is strained by differing populations, hence the split networks."
+   },
+   "timeliness": {
+    "score": 4,
+    "why": "Readouts from NCT05283356 and NCT06007222 are due within 8 months."
+   },
+   "citation": {
+    "score": 3,
+    "why": "TAVI antithrombotic trials were published in the NEJM; a pooled analysis would more likely suit JACC."
+   },
+   "feasibility": {
+    "score": 4,
+    "why": "Reconstructed IPD and a registered update fit the owner's same-day workflow."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "tavi",
+   "tavr",
+   "antithrombotic",
+   "single antiplatelet",
+   "oral anticoagulation",
+   "network meta-analysis",
+   "leaflet thrombosis"
+  ],
+  "next_actions": [
+   "Search for post-2018 meta-analyses outside the appraised subset before registering the protocol.",
+   "Register the two-network protocol and the update rule for NCT05283356.",
+   "Extract trial characteristics and Kaplan-Meier curves for the six randomised comparisons."
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Proposed from the D8 landscape synthesis."
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ },
+ {
+  "id": "D8-C4",
+  "title": "Transportability of P2Y12 inhibitor monotherapy and abbreviated DAPT trial results to unselected UK PCI patients, including those excluded from the trials",
+  "domains": [
+   "D8",
+   "D1"
+  ],
+  "pico": {
+   "population": "Unselected patients undergoing PCI in UK national registries, including older, high-bleeding-risk, CKD and oral-anticoagulant-treated patients",
+   "intervention": "Early DAPT de-escalation to P2Y12 inhibitor monotherapy",
+   "comparator": "12-month DAPT",
+   "outcomes": "Death, MI, stroke, BARC 3 or 5 bleeding",
+   "timing": "From index PCI to 12 months"
+  },
+  "decision": "Whether trial-derived de-escalation effects apply to the patients actually treated, and in whom DAPT should be retained.",
+  "decision_maker": "Interventional cardiologists, NICE and guideline committees.",
+  "why_now": "A published transportability analysis showed only 23.1% of a post-MI cohort met extended-DAPT trial criteria (PMID 27334486); the IPD meta-analysis of ticagrelor monotherapy (PMID 39226909) notes that its trials were mostly open-label and excluded patients needing oral anticoagulation. Equivalent work for de-escalation has not appeared in the store.",
+  "evidence_status": {
+   "key_pmids": [
+    "27334486",
+    "39226909",
+    "34449185",
+    "29437885",
+    "32867508",
+    "39462482",
+    "33029615",
+    "31116395"
+   ],
+   "latest_review": {
+    "pmid": "",
+    "date": ""
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT05262803",
+    "n": 2808,
+    "primary_completion": "2028-12",
+    "note": "Reduced antithrombotic strategy in HBR after MI; randomised, reports 2028-12, so addresses HBR directly but not transportability"
+   },
+   {
+    "nct": "NCT06535568",
+    "n": 576,
+    "primary_completion": "2028-01",
+    "note": "Single versus dual antiplatelet therapy in elderly or HBR patients after PCI; small (n=576), 2028-01"
+   }
+  ],
+  "gap_type": "population excluded from trials",
+  "designs": {
+   "primary": "Transportability analysis using trial IPD and national registry baseline data (inverse odds of participation weighting or g-computation), with a target trial emulation in the registry as an internal check",
+   "alternative": "Decision model with value-of-information analysis for the excluded subgroups"
+  },
+  "data_required": "Trial IPD or reconstructed IPD for de-escalation trials; a registry with baseline covariates, antiplatelet prescribing and linked outcomes.",
+  "data_sources": [
+   "BCIS national PCI database (as used in PMID 29437885) via collaborators",
+   "Trial IPD via data-sharing agreements",
+   "Harefield primary PCI cohort"
+  ],
+  "feasibility": "Moderate to low: registry linkage to bleeding and discharge medication is uncertain and trial IPD is needed.",
+  "overlap": "No overlap with active projects.",
+  "target_journal": "European Heart Journal or JAMA Cardiology",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "PCI is common and de-escalation is increasingly adopted; the outcomes are death, MI and major bleeding."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Randomised evidence is strong in trial populations (PMID 39226909) but absent for excluded groups; guideline position is unverified and was not used."
+   },
+   "G3": {
+    "pass": true,
+    "note": "The ongoing trials in the file (NCT05262803, NCT06535568) address HBR or elderly patients directly but will not answer transportability to the unselected population."
+   },
+   "G4": {
+    "pass": false,
+    "note": "Transportability estimates depend on untestable exchangeability assumptions, and a guideline committee would more likely cite a direct randomised comparison in excluded groups; credibility is conditional on a strong identification strategy that is not yet shown."
+   },
+   "G5": {
+    "pass": true,
+    "note": "It is neither a repeat meta-analysis nor a single-centre series, but novelty depends on registry data quality."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "PCI volumes are high and only 23.1% of one post-MI cohort met extended-DAPT trial criteria in PMID 27334486."
+   },
+   "novelty": {
+    "score": 4,
+    "why": "Transportability of de-escalation trials is not addressed in the appraised subset."
+   },
+   "equipoise": {
+    "score": 3,
+    "why": "Equipoise is about generalisability rather than efficacy in the trial populations."
+   },
+   "design": {
+    "score": 3,
+    "why": "Identification rests on assumptions; fails G4 as framed."
+   },
+   "timeliness": {
+    "score": 3,
+    "why": "De-escalation is being adopted now but no external deadline applies."
+   },
+   "citation": {
+    "score": 3,
+    "why": "Transportability analyses have less precedent in the target journals than trials or IPD."
+   },
+   "feasibility": {
+    "score": 2,
+    "why": "Registry linkage and IPD access are both uncertain."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "transportability",
+   "generalisability",
+   "dual antiplatelet therapy",
+   "de-escalation",
+   "high bleeding risk",
+   "registry",
+   "excluded from trials"
+  ],
+  "next_actions": [
+   "Confirm which BCIS fields cover discharge antiplatelet therapy and bleeding.",
+   "Agree trial IPD access for two de-escalation trials.",
+   "Write a target trial specification and an identification strategy memo to test whether G4 can be met."
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Proposed from the D8 landscape synthesis."
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ }
+]

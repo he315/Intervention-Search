@@ -1,0 +1,742 @@
+[
+ {
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "status": "candidate",
+  "audit": [],
+  "adversarial": {},
+  "id": "D1-C1",
+  "title": "Time-varying effects of revascularisation versus medical therapy on spontaneous MI and cardiac death in stable coronary disease: reconstructed-IPD network meta-analysis",
+  "domains": [
+   "D1"
+  ],
+  "pico": {
+   "population": "Adults with chronic coronary syndrome, stratified by presentation, ischaemia burden, anatomy and LV function",
+   "intervention": "Routine revascularisation (PCI or CABG) plus medical therapy, including FFR-guided PCI",
+   "comparator": "Initial medical therapy alone, or sham/placebo PCI where available",
+   "outcomes": "Cardiac death, spontaneous MI, all-cause death, with time-varying hazard ratios and restricted mean survival time",
+   "timing": "Follow-up from randomisation to the longest reported, 1 to 15 years"
+  },
+  "decision": "Whether and when to offer revascularisation for prognosis, not only symptoms, in stable coronary disease, and how to counsel on early procedural hazard against later spontaneous-MI benefit.",
+  "decision_maker": "Interventional cardiologists, heart teams and guideline committees",
+  "why_now": "Two meta-analyses reached different conclusions on cardiac death (PMIDs 32794407, 34002203), and trials since, including extended ISCHEMIA follow-up (36335918), long-term FAME follow-up (41540107), REVIVED (36027563) and the ISCHEMIA CTO analysis (40139890), report non-proportional effects that trial-level relative risks cannot capture.",
+  "evidence_status": {
+   "key_pmids": [
+    "32794407",
+    "34002203",
+    "36335918",
+    "32227755",
+    "41540107",
+    "36027563",
+    "40139890",
+    "30596995",
+    "38015442"
+   ],
+   "latest_review": {
+    "pmid": "34002203",
+    "date": "2021-12-01"
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT03563417",
+    "n": 1560,
+    "primary_completion": "2028-11",
+    "note": "ISCHEMIA-CTO: CTO subpopulation only, MACE at 5 years"
+   },
+   {
+    "nct": "NCT07349979",
+    "n": 1154,
+    "primary_completion": "2028-01",
+    "note": "PCI-GULF: ischaemic cardiomyopathy with reduced LVEF only"
+   },
+   {
+    "nct": "NCT05828719",
+    "n": 900,
+    "primary_completion": "2028-07",
+    "note": "RESTORE-PCI: ischaemic LV dysfunction only"
+   }
+  ],
+  "gap_type": "conflicting trials",
+  "designs": {
+   "primary": "Reconstructed individual patient data network meta-analysis from published Kaplan-Meier curves, with flexible parametric or RMST models and prespecified effect modification by ischaemia, anatomy and LV function",
+   "alternative": "One-stage IPD meta-analysis if ISCHEMIA, FAME 2 and REVIVED investigators share data"
+  },
+  "data_required": "Kaplan-Meier curves and numbers at risk for cardiac death, spontaneous MI and all-cause death from the randomised revascularisation versus medical therapy trials, with MI definitions per trial",
+  "data_sources": [
+   "Published trial reports and supplements",
+   "Trial investigators for IPD where available"
+  ],
+  "feasibility": "High for the reconstructed-IPD analysis, which is the owner's established method; MI definition heterogeneity across eras is the main technical risk. IPD route would need a consortium.",
+  "overlap": "No overlap with the active non-culprit lesion NMA in STEMI (different population and comparison).",
+  "target_journal": "Circulation or JACC (European Heart Journal as alternative)",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "PCI for stable coronary disease is among the most common procedures; the decision concerns death and MI."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Guideline position unverified (extracts not yet retrieved); G2 judged on trial evidence only. The two pooled analyses disagree on cardiac death (RR 0.79, 0.67-0.93 versus all-cause RR 0.99, 0.90-1.09 in different outcome sets, PMIDs 34002203 and 32794407)."
+   },
+   "G3": {
+    "pass": true,
+    "note": "No adequately powered RCT of the whole comparison reports within 24 months; ongoing trials cover CTO (NCT03563417, 2028-11) or ischaemic cardiomyopathy (NCT07349979, 2028-01; NCT05828719, 2028-07). Latest meta-analyses in the subset are from 2020 and 2021; trials published since include REVIVED (700 patients, PMID 36027563). A search outside the appraised subset for a 2024 to 2026 target-journal meta-analysis is still required."
+   },
+   "G4": {
+    "pass": true,
+    "note": "Reconstructed-IPD time-varying analysis addresses non-proportional hazards, which fixed relative risks cannot; a guideline committee would cite it. A conventional meta-analysis would repeat the existing disagreement."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Not a repeat of the same trials: adds post-2021 trials and a different estimand. Risk that the added sample is modest; the adversarial check should quantify the added patients."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 5,
+    "why": "Stable coronary disease PCI and CABG decisions are very frequent and concern hard outcomes."
+   },
+   "novelty": {
+    "score": 3,
+    "why": "Meta-analyses exist, but time-varying effects by presentation have not been shown in the appraised subset."
+   },
+   "equipoise": {
+    "score": 4,
+    "why": "Pooled analyses and individual trials disagree on cardiac death and spontaneous MI."
+   },
+   "design": {
+    "score": 3,
+    "why": "Reconstructed IPD is credible for time-to-event outcomes but limited by MI definition heterogeneity and the lack of covariates."
+   },
+   "timeliness": {
+    "score": 3,
+    "why": "Recent long-term follow-ups (PMIDs 36335918, 41540107) change the evidence, but no single readout forces the timing."
+   },
+   "citation": {
+    "score": 3,
+    "why": "Comparable synthesis papers appear in Circulation and EHJ (PMIDs 32794407, 34002203); the benchmark has not yet been run."
+   },
+   "feasibility": {
+    "score": 4,
+    "why": "Matches the owner's reconstructed-IPD and network meta-analysis skills."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "stable coronary disease",
+   "chronic coronary syndrome",
+   "revascularisation versus medical therapy",
+   "spontaneous myocardial infarction",
+   "cardiac death",
+   "time-varying hazard",
+   "reconstructed individual patient data",
+   "ischemia trial"
+  ],
+  "next_actions": [
+   "Register on PROSPERO and define MI and cardiac death mapping across trials.",
+   "Extract Kaplan-Meier curves and numbers at risk from PMIDs 32227755, 36335918, 41540107, 36027563 and the trials in PMIDs 32794407 and 34002203.",
+   "Run a search outside the appraised subset for target-journal meta-analyses from 2024 to 2026 before committing."
+  ],
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Generated from the D1 landscape; all gates passed with caveats on G3 and G5."
+   }
+  ]
+ },
+ {
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "status": "candidate",
+  "audit": [],
+  "adversarial": {},
+  "id": "D1-C2",
+  "title": "Effect modification of intravascular imaging-guided PCI by region, lesion complexity, ACS presentation and imaging modality: IPD meta-analysis of randomised trials",
+  "domains": [
+   "D1"
+  ],
+  "pico": {
+   "population": "Patients undergoing DES implantation in randomised imaging-guidance trials",
+   "intervention": "IVUS- or OCT-guided PCI",
+   "comparator": "Angiography-guided PCI",
+   "outcomes": "Target vessel failure, cardiac death, target-vessel MI, TVR, with treatment-effect heterogeneity",
+   "timing": "1 to 5 years"
+  },
+  "decision": "Which patients and settings should receive routine intravascular imaging, and whether benefit seen in Asian trials applies elsewhere.",
+  "decision_maker": "Interventional cardiologists, cath lab directors, commissioners and guideline committees",
+  "why_now": "Early trials were positive (PMIDs 36876735, 39236729, 37634149, 38604212), but 2026 trials in complex high-risk PCI and left main were neutral (41911016, 41911017) and one meta-analysis reports a geographic interaction (42879937).",
+  "evidence_status": {
+   "key_pmids": [
+    "36876735",
+    "39236729",
+    "37634149",
+    "38604212",
+    "37634188",
+    "41911016",
+    "41911017",
+    "42879937",
+    "38401549",
+    "38344859"
+   ],
+   "latest_review": {
+    "pmid": "42747372",
+    "date": "2026-09-10"
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT04221815",
+    "n": 3100,
+    "primary_completion": "2026-09",
+    "note": "IMPROVE: IVUS in complex lesions, TVF at 12 months"
+   },
+   {
+    "nct": "NCT05800002",
+    "n": 864,
+    "primary_completion": "2026-03",
+    "note": "ULTIMATE IV: IVUS in calcified lesions"
+   },
+   {
+    "nct": "NCT06380868",
+    "n": 1332,
+    "primary_completion": "2026-06",
+    "note": "IVI-DIABETES: diabetes"
+   },
+   {
+    "nct": "NCT06567938",
+    "n": 1528,
+    "primary_completion": "2027-06",
+    "note": "IVUS-CKD: CKD"
+   },
+   {
+    "nct": "NCT07512778",
+    "n": 1500,
+    "primary_completion": "2030-12",
+    "note": "SAINT-IVUS: ACS, reports 2030"
+   }
+  ],
+  "gap_type": "conflicting trials",
+  "designs": {
+   "primary": "One-stage IPD meta-analysis with prespecified interactions (region, complexity, ACS, modality, operator imaging experience)",
+   "alternative": "Reconstructed-IPD analysis plus trial-level meta-regression if IPD cannot be obtained"
+  },
+  "data_required": "Patient-level data from 25 or more imaging-guidance RCTs, or reconstructed curves with subgroup data",
+  "data_sources": [
+   "Trial investigator consortium",
+   "Published trials in the store"
+  ],
+  "feasibility": "Low to moderate: needs a multi-trial IPD consortium; the owner can lead the statistical plan and the reconstructed fallback.",
+  "overlap": "No overlap with active projects.",
+  "target_journal": "Circulation, JACC or European Heart Journal",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Imaging use is a common cath-lab decision with cardiac death and MI endpoints."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Guideline position unverified (extracts not yet retrieved); G2 judged on trial evidence only. Trials conflict between early positive and 2026 neutral results."
+   },
+   "G3": {
+    "pass": false,
+    "note": "A JACC meta-analysis of 28 RCTs (24,634 patients, PMID 42747372) appeared in September 2026, and IMPROVE (3,100 patients, 2026-09), ULTIMATE IV, IVI-DIABETES and IVUS-CKD are due to report within 24 months. Trials published since PMID 42747372 are not yet quantified."
+   },
+   "G4": {
+    "pass": true,
+    "note": "IPD is the only design that can separate region from complexity, which trial-level meta-regression cannot."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Not a repeat of the trial-level pooled estimates, but the geographic interaction is already reported at trial level (PMID 42879937)."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "Imaging is used in a minority of PCIs in registry data (PMIDs 37464975, 42909189), so the decision is common and unsettled."
+   },
+   "novelty": {
+    "score": 2,
+    "why": "At least five meta-analyses already exist."
+   },
+   "equipoise": {
+    "score": 3,
+    "why": "Benefit is established in some settings and uncertain in others."
+   },
+   "design": {
+    "score": 4,
+    "why": "IPD with prespecified interactions would be cited."
+   },
+   "timeliness": {
+    "score": 3,
+    "why": "Several trials report within 24 months and could be added."
+   },
+   "citation": {
+    "score": 3,
+    "why": "Imaging meta-analyses appear in Lancet, BMJ and Circulation; the benchmark has not yet been run."
+   },
+   "feasibility": {
+    "score": 2,
+    "why": "Requires a large trial consortium."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "intravascular imaging",
+   "ivus-guided pci",
+   "oct-guided pci",
+   "angiography-guided pci",
+   "heterogeneity of treatment effect",
+   "individual patient data",
+   "geographic interaction",
+   "complex pci"
+  ],
+  "next_actions": [
+   "Quantify trials and patients added since PMID 42747372 to settle the G3 objection.",
+   "Draft the interaction plan and approach trial leads for IPD sharing.",
+   "Prepare a reconstructed-IPD fallback protocol."
+  ],
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Fails G3; recorded so the objection and the readout calendar are visible."
+   }
+  ]
+ },
+ {
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "status": "candidate",
+  "audit": [],
+  "adversarial": {},
+  "id": "D1-C3",
+  "title": "Operator and hospital volume thresholds for complex PCI: natural-experiment analysis in a national registry",
+  "domains": [
+   "D1"
+  ],
+  "pico": {
+   "population": "Patients undergoing PCI for CTO, left main, bifurcation, calcified or other complex lesions, and high-risk PCI",
+   "intervention": "Treatment at higher-volume operators and hospitals, with exposure defined by volume of complex procedures",
+   "comparator": "Treatment at lower-volume operators and hospitals",
+   "outcomes": "30-day and long-term death, MI, stroke, major bleeding, procedural complications",
+   "timing": "Procedure date to 1 year and longer"
+  },
+  "decision": "Whether to set minimum volumes or centralise complex PCI, and where to refer complex cases.",
+  "decision_maker": "Commissioners, national audit bodies and professional societies; cardiologists referring cases",
+  "why_now": "Registries disagree: no association with 30-day mortality in 133,970 British procedures (PMID 29579219) against lower in-hospital death at higher volume in 723,644 US procedures (PMID 30586696), and quasi-experimental access studies are appearing (PMIDs 42862553, 40742582).",
+  "evidence_status": {
+   "key_pmids": [
+    "29579219",
+    "30586696",
+    "42862553",
+    "40742582",
+    "35508312"
+   ],
+   "latest_review": {
+    "pmid": "",
+    "date": ""
+   },
+   "guideline_position": []
+  },
+  "competing": [],
+  "gap_type": "conflicting trials",
+  "designs": {
+   "primary": "Target trial emulation with hospital fixed effects and an instrument such as distance or referral-pathway change, in a national PCI registry linked to mortality",
+   "alternative": "Difference-in-differences around service reconfigurations"
+  },
+  "data_required": "National PCI registry with lesion complexity, operator and hospital identifiers and linked long-term outcomes",
+  "data_sources": [
+   "UK national PCI audit (access through collaborators, not confirmed in the owner profile)",
+   "SWEDEHEART or Danish registries via planned visits"
+  ],
+  "feasibility": "Low to moderate: the owner has BCIS shock registry access through collaborators, but PCI audit access is unconfirmed.",
+  "overlap": "Conceptually adjacent to the owner's SRMA of cardiogenic shock care organisation; population and procedure differ, so no duplication.",
+  "target_journal": "Circulation or European Heart Journal",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Volume thresholds affect where complex PCI is done and are tied to mortality."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Guideline position unverified (extracts not yet retrieved); G2 judged on trial evidence only. The two large registries disagree (PMIDs 29579219, 30586696)."
+   },
+   "G3": {
+    "pass": true,
+    "note": "No RCT is feasible and none is registered in the trials file; no meta-analysis in the subset covers the question."
+   },
+   "G4": {
+    "pass": true,
+    "note": "A randomised comparison is impractical; a quasi-experimental design with explicit identification is the credible alternative. Instrument validity must be shown."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Not an unadjusted operator-volume series: it targets complex-lesion volume and uses causal identification."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "Affects service design for a very common procedure."
+   },
+   "novelty": {
+    "score": 3,
+    "why": "Volume studies exist, but complex-lesion volume with causal design is less covered."
+   },
+   "equipoise": {
+    "score": 3,
+    "why": "Large registries disagree."
+   },
+   "design": {
+    "score": 3,
+    "why": "Quasi-experimental identification is credible but depends on instrument quality."
+   },
+   "timeliness": {
+    "score": 2,
+    "why": "No specific trigger beyond service reconfiguration debate."
+   },
+   "citation": {
+    "score": 3,
+    "why": "Volume papers have appeared in Circulation and EHJ (PMIDs 30586696, 29579219)."
+   },
+   "feasibility": {
+    "score": 2,
+    "why": "Registry access is not confirmed."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "operator volume",
+   "hospital volume",
+   "complex pci",
+   "pci centralisation",
+   "natural experiment",
+   "instrumental variable",
+   "pci registry",
+   "minimum volume"
+  ],
+  "next_actions": [
+   "Confirm access route to national PCI audit data with collaborators.",
+   "Define complex-PCI volume and candidate instruments.",
+   "Write the target trial protocol, including time zero and estimand."
+  ],
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Generated from the D1 landscape; all gates passed, feasibility low."
+   }
+  ]
+ },
+ {
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "status": "candidate",
+  "audit": [],
+  "adversarial": {},
+  "id": "D1-C4",
+  "title": "PCI versus CABG in patients aged 75 years or older with multivessel or left main disease: target trial emulation in national registries",
+  "domains": [
+   "D1"
+  ],
+  "pico": {
+   "population": "Patients aged 75 years or older with multivessel or unprotected left main disease suitable for either strategy",
+   "intervention": "PCI with contemporary DES",
+   "comparator": "CABG",
+   "outcomes": "All-cause death, MI, stroke, repeat revascularisation, major bleeding; 5-year restricted mean survival",
+   "timing": "Time zero at heart-team decision or index angiogram; follow-up 5 years"
+  },
+  "decision": "Whether to recommend PCI or CABG for older patients with complex disease.",
+  "decision_maker": "Heart teams, patients and guideline committees",
+  "why_now": "Evidence conflicts and is mostly observational or a small subgroup: excess mortality with PCI in patients aged 74 or older (PMID 27009629) against no difference at 10 years in 575 elderly SYNTAXES patients (PMID 34082905); registry analyses in left main and NSTEMI favour CABG (PMIDs 37288564, 39601339).",
+  "evidence_status": {
+   "key_pmids": [
+    "27009629",
+    "34082905",
+    "37288564",
+    "39601339",
+    "29478841",
+    "34793745",
+    "39471463"
+   ],
+   "latest_review": {
+    "pmid": "",
+    "date": ""
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT05534698",
+    "n": 1550,
+    "primary_completion": "2032-12",
+    "note": "CABG or PCI in high-risk patients, 5-year analysis, reports 2032-12"
+   },
+   {
+    "nct": "NCT05532631",
+    "n": 1040,
+    "primary_completion": "2030-07",
+    "note": "PROVERB: LV dysfunction only"
+   },
+   {
+    "nct": "NCT06399692",
+    "n": 600,
+    "primary_completion": "2033-03",
+    "note": "RECHARGE:W: women, hierarchical composite"
+   }
+  ],
+  "gap_type": "population excluded from trials",
+  "designs": {
+   "primary": "Target trial emulation using clone-censor-weight methods in a national registry linked to surgical and PCI audits",
+   "alternative": "Pooled IPD from randomised trials with age-by-treatment interaction"
+  },
+  "data_required": "National PCI and cardiac surgery audits with anatomical complexity, frailty proxies, linked mortality and hospital admissions",
+  "data_sources": [
+   "UK national PCI and cardiac surgery audits (collaborator access, not confirmed)",
+   "SWEDEHEART or Danish registries (planned visits)"
+  ],
+  "feasibility": "Moderate: SWEDEHEART-type analyses exist (PMID 37288564); confounding by frailty and anatomy requires careful design.",
+  "overlap": "No overlap with active projects.",
+  "target_journal": "European Heart Journal or Circulation",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Common decision in an ageing population with death as the outcome."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Guideline position unverified (extracts not yet retrieved); G2 judged on trial evidence only. Observational and randomised-subgroup results disagree (PMIDs 27009629, 34082905)."
+   },
+   "G3": {
+    "pass": true,
+    "note": "No trial restricted to older patients is registered in the file; larger trials report from 2032 (NCT05534698) and RECHARGE:W/M (600 patients each) in 2033."
+   },
+   "G4": {
+    "pass": true,
+    "note": "A new RCT is unlikely to be funded soon; emulation with explicit time zero and frailty adjustment would be cited if identification is credible."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Incremental risk is real because registry PCI versus CABG analyses exist; the contribution is the age-restricted, contemporary-stent design with prespecified estimand."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "Large and growing population with multivessel disease."
+   },
+   "novelty": {
+    "score": 3,
+    "why": "Several registry comparisons exist; older-age-specific target trial emulation less so."
+   },
+   "equipoise": {
+    "score": 4,
+    "why": "Conflicting data and no definitive trial."
+   },
+   "design": {
+    "score": 3,
+    "why": "Emulation is credible but residual confounding by frailty is the main threat."
+   },
+   "timeliness": {
+    "score": 3,
+    "why": "New randomised evidence is not due for years."
+   },
+   "citation": {
+    "score": 3,
+    "why": "Registry PCI versus CABG papers appear in EHJ and Circulation (PMIDs 37288564, 27009629)."
+   },
+   "feasibility": {
+    "score": 3,
+    "why": "Registry access plausible through collaborators and visits but unconfirmed."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "pci versus cabg",
+   "older patients",
+   "elderly multivessel disease",
+   "left main",
+   "target trial emulation",
+   "heart team",
+   "frailty",
+   "registry"
+  ],
+  "next_actions": [
+   "Confirm registry access and available frailty proxies.",
+   "Write the target trial protocol with clone-censor-weight analysis.",
+   "Check outside the subset for recent age-specific PCI versus CABG analyses."
+  ],
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Generated from the D1 landscape; all gates passed with a G5 caveat."
+   }
+  ]
+ },
+ {
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "status": "candidate",
+  "audit": [],
+  "adversarial": {},
+  "id": "D1-C5",
+  "title": "Preventive PCI for non-flow-limiting vulnerable coronary plaque: prospectively registered synthesis timed to the 2027 readouts",
+  "domains": [
+   "D1"
+  ],
+  "pico": {
+   "population": "Patients with angiographically non-flow-limiting lesions with high-risk plaque features on imaging, including after MI",
+   "intervention": "Preventive PCI (stent or drug-coated balloon) plus optimal medical therapy",
+   "comparator": "Optimal medical therapy alone",
+   "outcomes": "Target-vessel or lesion failure, cardiac death, spontaneous target-vessel MI, with separation of hard and soft components",
+   "timing": "2 to 5 years"
+  },
+  "decision": "Whether to treat non-flow-limiting vulnerable plaques invasively.",
+  "decision_maker": "Interventional cardiologists and guideline committees",
+  "why_now": "One randomised trial reported primary outcome in 0.4% versus 3.4% at 2 years but with components driven by softer events (PMID 38604213), and INTERCLIMA, NCT06855537 and RESTORE are due to report between 2027-01 and 2027-12.",
+  "evidence_status": {
+   "key_pmids": [
+    "38604213",
+    "33069847",
+    "33714389",
+    "40549845"
+   ],
+   "latest_review": {
+    "pmid": "",
+    "date": ""
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT05027984",
+    "n": 1425,
+    "primary_completion": "2027-01",
+    "note": "INTERCLIMA: cardiac death or spontaneous target-vessel MI"
+   },
+   {
+    "nct": "NCT06855537",
+    "n": 2190,
+    "primary_completion": "2027-09",
+    "note": "Non-flow-limiting vulnerable plaques, TVF"
+   },
+   {
+    "nct": "NCT06365502",
+    "n": 1860,
+    "primary_completion": "2027-12",
+    "note": "RESTORE: preventive DCB, TLF"
+   },
+   {
+    "nct": "NCT05599061",
+    "n": 609,
+    "primary_completion": "2028-12",
+    "note": "VULNERABLE: STEMI multivessel"
+   },
+   {
+    "nct": "NCT07569692",
+    "n": 2500,
+    "primary_completion": "2031-07",
+    "note": "PREVENT-2: reports 2031-07"
+   }
+  ],
+  "designs": {
+   "primary": "PROSPERO-registered pairwise meta-analysis with prespecified update as each trial reports, separating hard from soft components, with reconstructed IPD for time-to-event outcomes",
+   "alternative": "Decision model with value-of-information analysis for further trials"
+  },
+  "gap_type": "underpowered trials",
+  "data_required": "Published results of PMID 38604213 and each registered trial, with component-level event counts",
+  "data_sources": [
+   "Trial reports",
+   "ClinicalTrials.gov"
+  ],
+  "feasibility": "High: same-day synthesis workflow already in place.",
+  "overlap": "Fits the owner's same-day SRMA workflow; no overlap with the non-culprit lesion NMA in STEMI beyond VULNERABLE (NCT05599061), which is a different question.",
+  "target_journal": "JAMA Cardiology, Circulation or European Heart Journal",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Treating plaques that have not caused ischaemia would widen PCI indications; the endpoint question is hard versus soft events."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Guideline position unverified (extracts not yet retrieved); G2 judged on trial evidence only. One positive trial with softer components and a small earlier trial (PMID 33069847)."
+   },
+   "G3": {
+    "pass": false,
+    "note": "INTERCLIMA (1,425 patients, 2027-01), NCT06855537 (2,190, 2027-09) and RESTORE (1,860, 2027-12) will report within 24 months and each is adequately sized for its own comparison."
+   },
+   "G4": {
+    "pass": true,
+    "note": "A pre-registered pooled analysis with component separation would be citable once several trials report."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Only meaningful after at least three trials report; today it would pool few studies, so the question is conditional on readouts."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "Non-flow-limiting lesions are common; a positive result would add a large PCI population."
+   },
+   "novelty": {
+    "score": 3,
+    "why": "No pooled synthesis in the subset; trials are new."
+   },
+   "equipoise": {
+    "score": 4,
+    "why": "One trial positive on soft components, others pending."
+   },
+   "design": {
+    "score": 3,
+    "why": "Pairwise pooling is credible once several large trials report; heterogeneity in plaque definition is a risk."
+   },
+   "timeliness": {
+    "score": 5,
+    "why": "Three trials report within 14 months of this date."
+   },
+   "citation": {
+    "score": 3,
+    "why": "Preventive PCI papers have appeared in the Lancet (PMID 38604213); benchmark not yet run."
+   },
+   "feasibility": {
+    "score": 4,
+    "why": "Same-day SRMA workflow fits."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "vulnerable plaque",
+   "non-flow-limiting",
+   "preventive pci",
+   "non-culprit plaque",
+   "drug-coated balloon",
+   "oct-guided",
+   "vulnerable plaque trial",
+   "preventive percutaneous coronary intervention"
+  ],
+  "next_actions": [
+   "Register the protocol on PROSPERO with the update rule and component separation.",
+   "Pre-build extraction for PMID 38604213 and each registered trial.",
+   "Add the readouts to outputs/calendar.md with the pooling plan."
+  ],
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Fails G3 as written; kept as a readout-timed synthesis for the calendar, not for the top ten."
+   }
+  ]
+ }
+]

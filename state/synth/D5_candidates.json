@@ -1,0 +1,426 @@
+[
+ {
+  "id": "D5-C1",
+  "title": "Heterogeneity of treatment effect of transcatheter tricuspid intervention by baseline risk, using reconstructed and trial-level data from the randomised trials, timed to the next pivotal readouts",
+  "domains": [
+   "D5"
+  ],
+  "pico": {
+   "population": "Adults with symptomatic severe tricuspid regurgitation randomised to transcatheter tricuspid repair or replacement versus medical therapy",
+   "intervention": "Tricuspid TEER or transcatheter valve replacement",
+   "comparator": "Medical therapy (and, indirectly, each device against the other)",
+   "outcomes": "Death, heart failure hospitalisation, tricuspid surgery, KCCQ, bleeding and pacemaker implantation, analysed as time-to-event components and win-ratio hierarchies",
+   "timing": "1 to 2 years"
+  },
+  "decision": "Which patients with severe TR should be offered T-TEER, TTVR or continued medical therapy, and when",
+  "decision_maker": "Heart teams and interventional cardiologists; guideline committees",
+  "why_now": "Four randomised comparisons against medical therapy have reported (PMIDs 39471883, 39602173, 39475399, 42670975) with primary results expressed as win ratios, while component effects on death and HF hospitalisation look weaker (39471883, 36876753). Further pivotal RCTs read out from 2027 (NCT04097145).",
+  "evidence_status": {
+   "key_pmids": [
+    "36876753",
+    "39471883",
+    "40159089",
+    "39602173",
+    "39475399",
+    "40878717",
+    "42670975",
+    "39212387"
+   ],
+   "latest_review": {
+    "pmid": "",
+    "date": ""
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT04097145",
+    "n": 1270,
+    "primary_completion": "2027-12-31",
+    "note": "CLASP II TR randomised pivotal trial; would add to pooled evidence, not answer HTE alone"
+   },
+   {
+    "nct": "NCT06458907",
+    "n": 780,
+    "primary_completion": "2028-11",
+    "note": "TRICAV-II, caval valve randomised trial"
+   },
+   {
+    "nct": "NCT07454980",
+    "n": 680,
+    "primary_completion": "2029-12",
+    "note": "LuX-Valve randomised pivotal trial"
+   },
+   {
+    "nct": "NCT07516444",
+    "n": 730,
+    "primary_completion": "2029-06",
+    "note": "TRIVITA TTVR study"
+   }
+  ],
+  "gap_type": "underpowered trials and effect modification not testable within single trials",
+  "designs": {
+   "primary": "Reconstructed-IPD and trial-level meta-analysis of randomised trials with Bayesian network synthesis across T-TEER and TTVR, win-ratio and time-to-event components, and risk-stratified effect modelling; protocol on PROSPERO before the next readout with a pre-specified living update",
+   "alternative": "One-stage IPD meta-analysis through data-sharing agreements with the trial sponsors and steering committees"
+  },
+  "data_required": "Published Kaplan-Meier curves and subgroup tables from the randomised trials; IPD if sponsors share. Pooled inputs: 572 (39471883) + 300 (39602173) + 400 (39475399) + 360 (42670975) = 1,632 participants, before resolving any overlap with 36876753 (350 randomised).",
+  "data_sources": [
+   "Published trial reports",
+   "ClinicalTrials.gov",
+   "Sponsor or steering-committee IPD"
+  ],
+  "feasibility": "Reconstructed-IPD NMA is within the owner's methods; true IPD requires sponsor cooperation and win-ratio hierarchies cannot be fully reconstructed from published curves.",
+  "overlap": "No overlap with active owner projects; shares method with the STEMI reconstructed-IPD NMA.",
+  "target_journal": "European Heart Journal or JACC",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Decision between intervention and medical therapy in a common, high-morbidity condition; hard components are death and HF hospitalisation."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Component effects on death and HF hospitalisation appear weaker than composite win ratios in 36876753 and 39471883, and 40159089 reports a lower recurrent HF hospitalisation rate at 2 years, so benefit by subgroup is unresolved. Guideline position unverified (extracts not yet retrieved), so equipoise is judged on trial evidence only."
+   },
+   "G3": {
+    "pass": true,
+    "note": "No meta-analysis of these trials is in the appraised subset (subset only; not verified against the full store). NCT04097145 (n=1270, primary completion 2027-12-31) will add to the pooled evidence but cannot answer cross-trial effect modification alone; re-check before registration."
+   },
+   "G4": {
+    "pass": true,
+    "note": "A pre-registered synthesis with explicit risk stratification is citable by a guideline committee, and single trials cannot test effect modification across devices."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Tests effect modification and indirect device comparison rather than repeating a pooled main effect; risk of being read as a repeat if it reports only pooled win ratios."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "Severe TR is common in older patients and the device decision is increasingly frequent."
+   },
+   "novelty": {
+    "score": 3,
+    "why": "Pooled main effects are likely to be published by others; the HTE and indirect comparison angle is less so."
+   },
+   "equipoise": {
+    "score": 3,
+    "why": "Composite benefit is shown, while component and subgroup effects are uncertain."
+   },
+   "design": {
+    "score": 3,
+    "why": "Reconstruction cannot recover win-ratio hierarchies, which limits credibility without IPD."
+   },
+   "timeliness": {
+    "score": 4,
+    "why": "Several pivotal readouts fall in 2027 to 2029 (NCT04097145, NCT06458907)."
+   },
+   "citation": {
+    "score": 3,
+    "why": "Trial-based syntheses in target journals attract moderate citation, uncalibrated until the benchmark is complete."
+   },
+   "feasibility": {
+    "score": 4,
+    "why": "Aligned with the owner's reconstructed-IPD workflow."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "tricuspid",
+   "tricuspid regurgitation",
+   "tricuspid teer",
+   "transcatheter tricuspid valve replacement",
+   "network meta-analysis",
+   "win ratio"
+  ],
+  "next_actions": [
+   "Search the full store for existing tricuspid meta-analyses and confirm G3",
+   "Draft and register a PROSPERO protocol with pre-specified living update",
+   "Extract published curves, subgroup tables and win-ratio components from the four RCTs and decide overlap with 36876753"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Generated from D5 landscape synthesis"
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": []
+ },
+ {
+  "id": "D5-C2",
+  "title": "Transcatheter versus isolated surgical intervention for severe tricuspid regurgitation: target trial emulation in national registries",
+  "domains": [
+   "D5"
+  ],
+  "pico": {
+   "population": "Adults with isolated severe tricuspid regurgitation judged suitable for either transcatheter or surgical intervention",
+   "intervention": "Transcatheter tricuspid intervention (T-TEER or TTVR)",
+   "comparator": "Isolated tricuspid valve surgery",
+   "outcomes": "All-cause mortality, heart failure hospitalisation, stroke, major bleeding, pacemaker implantation, reintervention",
+   "timing": "30 days to 5 years from time zero"
+  },
+  "decision": "Whether to refer an operable patient with isolated severe TR for transcatheter or surgical intervention",
+  "decision_maker": "Heart teams, cardiac surgeons and interventional cardiologists",
+  "why_now": "Surgical series report no survival benefit over medical therapy overall (31071413, HR 1.34, 95% CI 0.78 to 2.30; 39212387, HR .97, 95% CI .88-1.08), yet randomised transcatheter trials compare only against medical therapy (39471883, 39475399), leaving no comparative evidence between the two routes in the appraised subset.",
+  "evidence_status": {
+   "key_pmids": [
+    "31071413",
+    "39212387",
+    "31568868",
+    "39466215",
+    "39471883",
+    "39475399"
+   ],
+   "latest_review": {
+    "pmid": "",
+    "date": ""
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT04093297",
+    "n": 300,
+    "primary_completion": "2028-12-31",
+    "note": "Band versus ring, surgical comparison only"
+   },
+   {
+    "nct": "NCT07454980",
+    "n": 680,
+    "primary_completion": "2029-12",
+    "note": "Transcatheter replacement versus control; not versus surgery"
+   }
+  ],
+  "gap_type": "no evidence",
+  "designs": {
+   "primary": "Target trial emulation with clone-censor-weight or propensity methods in linked national hospital and procedure registries",
+   "alternative": "Registry-based randomised trial of transcatheter versus surgical strategy in low-to-intermediate surgical risk patients"
+  },
+  "data_required": "Linked national procedure, hospital and mortality data with echocardiographic severity and TRI-SCORE components; sufficient transcatheter volume.",
+  "data_sources": [
+   "National administrative and procedure registries",
+   "European tricuspid TEER registries (39466215)"
+  ],
+  "feasibility": "Not available to the owner today; requires a registry collaboration, and echocardiographic severity is rarely captured in administrative data.",
+  "overlap": "None with active projects.",
+  "target_journal": "Eur Heart J or JACC",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Common decision in a high-morbidity population, judged on mortality and HF hospitalisation."
+   },
+   "G2": {
+    "pass": true,
+    "note": "No comparative evidence between routes; surgery shows no clear survival gain overall (31071413, 39212387). Guideline position unverified (extracts not yet retrieved), so equipoise is judged on trial evidence only."
+   },
+   "G3": {
+    "pass": true,
+    "note": "No randomised transcatheter-versus-surgery comparison appears in the trials file."
+   },
+   "G4": {
+    "pass": false,
+    "note": "Confounding by indication and immortal time are severe, and unmeasured anatomy and RV function may be unrecoverable from registries; credibility depends on data not yet identified, so the gate is not met until a dataset is confirmed."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Not a repeat synthesis and not surrogate-only."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 3,
+    "why": "Smaller patient pool than the medical-therapy question."
+   },
+   "novelty": {
+    "score": 4,
+    "why": "No comparative evidence appears in the subset."
+   },
+   "equipoise": {
+    "score": 4,
+    "why": "Genuine uncertainty between routes."
+   },
+   "design": {
+    "score": 2,
+    "why": "Confounding by indication limits credibility."
+   },
+   "timeliness": {
+    "score": 3,
+    "why": "Transcatheter use is growing, but no single trigger."
+   },
+   "citation": {
+    "score": 3,
+    "why": "Emulation studies in target journals are cited moderately."
+   },
+   "feasibility": {
+    "score": 2,
+    "why": "Data access is not secured."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "tricuspid surgery",
+   "isolated tricuspid regurgitation",
+   "target trial emulation",
+   "transcatheter versus surgery"
+  ],
+  "next_actions": [
+   "Identify registries with linked TR severity and procedure type",
+   "Specify the target trial protocol, time zero and estimand",
+   "Confirm that no comparative study exists in the full store"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Generated from D5 landscape synthesis; G4 not met"
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": []
+ },
+ {
+  "id": "D5-C3",
+  "title": "Cost-effectiveness and value of information of tricuspid TEER and transcatheter valve replacement for symptomatic severe tricuspid regurgitation in the UK health system",
+  "domains": [
+   "D5"
+  ],
+  "pico": {
+   "population": "Patients with symptomatic severe tricuspid regurgitation on medical therapy",
+   "intervention": "T-TEER or TTVR",
+   "comparator": "Medical therapy, and each device against the other",
+   "outcomes": "QALYs, costs, incremental net monetary benefit, expected value of perfect and partial perfect information",
+   "timing": "Lifetime horizon"
+  },
+  "decision": "Reimbursement and the priority for further trials, including whether a head-to-head or long-term mortality trial is justified",
+  "decision_maker": "Health technology assessment bodies and funders; heart teams",
+  "why_now": "Randomised trials report win-ratio composites with bleeding and pacemaker costs (39475399: severe bleeding 15.4% vs 5.3%), while component effects on mortality are uncertain, so value depends on extrapolation.",
+  "evidence_status": {
+   "key_pmids": [
+    "39471883",
+    "40159089",
+    "39475399",
+    "39602173",
+    "42670975",
+    "39466215"
+   ],
+   "latest_review": {
+    "pmid": "",
+    "date": ""
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT04097145",
+    "n": 1270,
+    "primary_completion": "2027-12-31",
+    "note": "Pivotal randomised trial that will update inputs"
+   },
+   {
+    "nct": "NCT07454980",
+    "n": 680,
+    "primary_completion": "2029-12",
+    "note": "Replacement pivotal trial"
+   }
+  ],
+  "gap_type": "systems or implementation question",
+  "designs": {
+   "primary": "Patient-level Markov microsimulation with probabilistic sensitivity analysis and value-of-information analysis",
+   "alternative": "Partitioned survival model with network meta-analysis inputs"
+  },
+  "data_required": "Trial outcomes and utilities, UK procedure and device costs, long-term survival of untreated TR (31071413, 39212387).",
+  "data_sources": [
+   "Published trials",
+   "NHS reference costs",
+   "Registries"
+  ],
+  "feasibility": "Matches the owner's microsimulation methods; costs and utilities need collaborators.",
+  "overlap": "Methodological overlap only with the Impella STEMI-CS microsimulation; no duplication.",
+  "target_journal": "Circulation or JAMA Cardiology",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Informs funding of a frequent procedure with substantial costs."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Long-term mortality effect is uncertain from the reported component results. Guideline position unverified (extracts not yet retrieved), so equipoise is judged on trial evidence only."
+   },
+   "G3": {
+    "pass": true,
+    "note": "No economic evaluation is in the appraised subset; not verified against the full store, and NCT04097145 would update inputs after 2027."
+   },
+   "G4": {
+    "pass": true,
+    "note": "Value-of-information outputs size a future trial, and economic analyses are cited by assessment bodies."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Not a repeat synthesis; but risk of being judged a subspecialty or health-economics paper rather than a parent-journal one."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 3,
+    "why": "Procedure growth and cost give moderate system impact."
+   },
+   "novelty": {
+    "score": 3,
+    "why": "Economic evaluation after RCTs is expected from others."
+   },
+   "equipoise": {
+    "score": 3,
+    "why": "Value depends on uncertain extrapolation."
+   },
+   "design": {
+    "score": 4,
+    "why": "Established modelling with VOI."
+   },
+   "timeliness": {
+    "score": 4,
+    "why": "Reimbursement decisions follow recent RCTs."
+   },
+   "citation": {
+    "score": 2,
+    "why": "Cost-effectiveness papers are less cited in parent journals."
+   },
+   "feasibility": {
+    "score": 4,
+    "why": "Methods already held by the owner."
+   }
+  },
+  "subspecialty_only": true,
+  "keywords": [
+   "tricuspid",
+   "cost-effectiveness",
+   "value of information",
+   "markov",
+   "transcatheter tricuspid"
+  ],
+  "next_actions": [
+   "Confirm no published economic evaluation in the full store",
+   "Define model structure and extract transition inputs",
+   "Agree costing sources with a health economist collaborator"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Generated from D5 landscape synthesis; likely subspecialty ceiling"
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": []
+ }
+]

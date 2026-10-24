@@ -1,0 +1,688 @@
+[
+ {
+  "id": "D4-C1",
+  "title": "Does the benefit of TEER in secondary MR vary by baseline risk and over time? A reconstructed-IPD meta-analysis of the randomised trials",
+  "domains": [
+   "D4"
+  ],
+  "pico": {
+   "population": "Patients with heart failure and moderate to severe or severe secondary MR on guideline-directed medical therapy",
+   "intervention": "TEER plus medical therapy",
+   "comparator": "Medical therapy alone",
+   "outcomes": "Death, heart failure hospitalisation, composite; time-varying hazards and competing risks",
+   "timing": "Up to 5 years"
+  },
+  "decision": "Which patients with secondary MR should be offered TEER, and when in the heart failure trajectory",
+  "decision_maker": "Heart failure and structural cardiologists, heart teams",
+  "why_now": "Three randomised trials (PMIDs 30280640, 30145927, 39216092) point in different directions on the surface; no IPD-level pooled analysis appears in the appraised subset, and the 5-year COAPT follow-up (PMID 36876756) allows time-varying effects to be examined.",
+  "evidence_status": {
+   "key_pmids": [
+    "30280640",
+    "36876756",
+    "30145927",
+    "39216092",
+    "33632476",
+    "34886961",
+    "38267110"
+   ],
+   "latest_review": {
+    "pmid": "",
+    "date": ""
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT07758023",
+    "n": 520,
+    "primary_completion": "2030-09",
+    "note": "ACHILLES-HF, TEER in HFrEF with secondary MR, not before 2030"
+   },
+   {
+    "nct": "NCT07197021",
+    "n": 540,
+    "primary_completion": "2031-12-31",
+    "note": "TIMER, dynamic severe functional MR"
+   }
+  ],
+  "gap_type": "conflicting trials",
+  "designs": {
+   "primary": "Reconstructed-IPD meta-analysis from published Kaplan-Meier curves with one-stage Cox and flexible parametric models, treatment-covariate interaction using published subgroup data, landmark and restricted mean survival time analyses",
+   "alternative": "Two-stage aggregate meta-regression with Bayesian reanalysis of the trial results"
+  },
+  "data_required": "Digitised Kaplan-Meier curves, numbers at risk, baseline characteristics from the three trials; trial-level covariates (MR severity, LV volume, medical therapy intensity)",
+  "data_sources": [
+   "Published trial reports (PMIDs above)",
+   "Trial investigators for any available IPD"
+  ],
+  "feasibility": "High for reconstruction (owner method); IPD sharing would raise credibility but is not required.",
+  "overlap": "No overlap with listed active projects.",
+  "target_journal": "European Heart Journal or Circulation",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Decision is common in heart failure practice and judged on death and heart failure hospitalisation (PMID 30280640, PMID 36876756)."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Guideline position is unverified because guideline extracts have not been retrieved; G2 is judged on trial evidence only. Trials conflict (PMID 30145927 versus PMID 30280640) and no pooled individual-level analysis is in the subset."
+   },
+   "G3": {
+    "pass": true,
+    "note": "No adequately powered randomised trial of TEER versus medical therapy is listed to report within 24 months (earliest eligible primary completion 2030-09 for NCT07758023). A meta-analysis in a target or general journal in the past 24 months is not visible in the appraised subset, so this must be confirmed by the adversarial search before promotion."
+   },
+   "G4": {
+    "pass": true,
+    "note": "Reconstructed IPD can test time-varying effects and interaction that single trials could not; a guideline committee could cite it."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Not a repeat aggregate meta-analysis, but it pools only three trials (derived total 1,423 patients from 614, 304 and 505), so the added value depends on the effect-modification findings."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "Secondary MR with heart failure is common and carries high mortality."
+   },
+   "novelty": {
+    "score": 3,
+    "why": "Pooling is intuitive, so a prior synthesis may exist outside the appraised subset."
+   },
+   "equipoise": {
+    "score": 3,
+    "why": "Benefit is shown in two of three randomised trials, but selection remains unresolved."
+   },
+   "design": {
+    "score": 3,
+    "why": "Reconstructed IPD is credible but limited by published data."
+   },
+   "timeliness": {
+    "score": 3,
+    "why": "The 2024 trials are recent and no further trial reads out before 2030."
+   },
+   "citation": {
+    "score": 3,
+    "why": "Pooled analyses of landmark trials are cited moderately in the target journals."
+   },
+   "feasibility": {
+    "score": 5,
+    "why": "Uses the owner's established method."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "secondary mitral regurgitation",
+   "teer",
+   "reconstructed individual patient data",
+   "coapt",
+   "mitra-fr",
+   "heterogeneity of treatment effect"
+  ],
+  "next_actions": [
+   "Search PROSPERO and the full store for an existing IPD or reconstructed-IPD synthesis",
+   "Extract curves and numbers at risk for the three trials",
+   "Register the protocol on PROSPERO with pre-specified interaction analyses"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Generated from the D4 landscape synthesis"
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ },
+ {
+  "id": "D4-C2",
+  "title": "Target trial emulation of TEER versus medical therapy in secondary MR patients outside the COAPT criteria",
+  "domains": [
+   "D4"
+  ],
+  "pico": {
+   "population": "Patients with heart failure and moderate to severe secondary MR who would not meet trial eligibility (for example advanced LV dilatation, severe pulmonary hypertension, right ventricular dysfunction)",
+   "intervention": "TEER within 90 days of eligibility",
+   "comparator": "Continued medical therapy without TEER",
+   "outcomes": "All-cause death, heart failure hospitalisation, health status",
+   "timing": "Time zero at the first echocardiogram meeting criteria; 3 years"
+  },
+  "decision": "Whether TEER should be offered to patients excluded from the randomised trials",
+  "decision_maker": "Heart teams, heart failure clinicians, commissioners",
+  "why_now": "Registry analyses show worse outcomes in trial-ineligible patients (PMID 38267110: death or HFH HR 1.73, 95% CI 1.57 to 1.91; PMID 34886961) without a medical-therapy comparator; a transportability analysis (PMID 42233929) addresses only trial-eligible patients.",
+  "evidence_status": {
+   "key_pmids": [
+    "38267110",
+    "34886961",
+    "37730284",
+    "42233929",
+    "33243380",
+    "34193442"
+   ],
+   "latest_review": {
+    "pmid": "",
+    "date": ""
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT07758023",
+    "n": 520,
+    "primary_completion": "2030-09",
+    "note": "ACHILLES-HF, HFrEF; eligibility unspecified in the file"
+   },
+   {
+    "nct": "NCT07197021",
+    "n": 540,
+    "primary_completion": "2031-12-31",
+    "note": "TIMER, dynamic severe functional MR"
+   }
+  ],
+  "gap_type": "population excluded from trials",
+  "designs": {
+   "primary": "Target trial emulation using linked national heart failure, echocardiography and procedure data with clone-censor-weight handling of the grace period and inverse probability weighting",
+   "alternative": "Bayesian transport of COAPT effect estimates to the ineligible population with explicit assumptions"
+  },
+  "data_required": "Population-level echocardiography with MR grade and LV dimensions, linked hospital and mortality data, medication records, TEER procedure codes",
+  "data_sources": [
+   "National linked echocardiography and hospital data",
+   "EuroSMR-type registry cohort",
+   "TVT-type registry linked to claims"
+  ],
+  "feasibility": "Moderate to low; needs a linked echocardiography source and a collaborator with TEER-treated and untreated cohorts.",
+  "overlap": "No overlap with listed active projects.",
+  "target_journal": "Circulation or JACC",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Common decision in heart failure with outcomes judged on death and heart failure hospitalisation (PMID 38267110)."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Guideline position is unverified because guideline extracts have not been retrieved; G2 is judged on trial evidence only. No randomised evidence exists in the ineligible population in the trials file."
+   },
+   "G3": {
+    "pass": true,
+    "note": "Listed trials report in 2030 or later and are not framed around ineligible patients."
+   },
+   "G4": {
+    "pass": true,
+    "note": "Target trial emulation with a credible untreated comparator; a stated reason: registry-only designs without untreated patients cannot estimate the effect, and randomisation in this group is unlikely to be funded."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Not a single-centre series or subgroup analysis; it needs a national linked dataset."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "Trial-ineligible patients are 44.3% of 6,675 treated functional MR patients in PMID 38267110."
+   },
+   "novelty": {
+    "score": 4,
+    "why": "No comparative estimate in ineligible patients is in the subset."
+   },
+   "equipoise": {
+    "score": 4,
+    "why": "Benefit in ineligible patients is genuinely unknown."
+   },
+   "design": {
+    "score": 3,
+    "why": "Confounding by indication and immortal time are serious and depend on data richness."
+   },
+   "timeliness": {
+    "score": 3,
+    "why": "Registry and transportability publications are accumulating, with no trial due before 2030."
+   },
+   "citation": {
+    "score": 4,
+    "why": "Emulation papers on excluded populations reach target journals."
+   },
+   "feasibility": {
+    "score": 2,
+    "why": "The required linked echocardiography and untreated cohorts are not currently held by the owner."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "secondary mitral regurgitation",
+   "teer",
+   "trial ineligible",
+   "target trial emulation",
+   "heart failure"
+  ],
+  "next_actions": [
+   "Identify a national echocardiography-linked dataset and a collaborator",
+   "Specify the target trial protocol and eligibility mapping to COAPT criteria",
+   "Run a feasibility count of untreated eligible patients"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Generated from the D4 landscape synthesis"
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ },
+ {
+  "id": "D4-C3",
+  "title": "Target trial emulation of TEER versus no mitral intervention in cardiogenic shock with severe MR",
+  "domains": [
+   "D4",
+   "D2"
+  ],
+  "pico": {
+   "population": "Adults in cardiogenic shock with severe MR",
+   "intervention": "TEER within a defined window after shock onset",
+   "comparator": "No mitral intervention (medical and mechanical support only)",
+   "outcomes": "30-day and 1-year all-cause death, recurrent shock, heart failure hospitalisation",
+   "timing": "Time zero at shock diagnosis with MR confirmation"
+  },
+  "decision": "Whether to proceed to TEER during shock with severe MR",
+  "decision_maker": "Shock teams, interventional cardiologists",
+  "why_now": "PMID 36126766 (3,797 patients) associates device success with lower mortality but conditions on a post-baseline success measure; PMID 34463727 compares interventions with conservative care after infarction with confounding.",
+  "evidence_status": {
+   "key_pmids": [
+    "36126766",
+    "34463727",
+    "34126755"
+   ],
+   "latest_review": {
+    "pmid": "",
+    "date": ""
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT06282042",
+    "n": 250,
+    "primary_completion": "2027-06-16",
+    "note": "EMCAMI, early TEER after myocardial infarction; shock status not stated in the file"
+   }
+  ],
+  "gap_type": "no evidence",
+  "designs": {
+   "primary": "Target trial emulation with clone-censor-weight treatment of waiting time and device success excluded from baseline",
+   "alternative": "Individual-patient pooled cohort analysis across shock registries"
+  },
+  "data_required": "Shock registry data with echocardiographic MR grade, haemodynamics, support devices and mitral procedure indicators",
+  "data_sources": [
+   "BCIS AMI cardiogenic shock registry (collaborators)",
+   "ICNARC cardiogenic shock registry",
+   "Harefield cohort"
+  ],
+  "feasibility": "Uncertain; registries may not record MR grade or mitral procedures, and numbers treated are small.",
+  "overlap": "Overlaps the owner's state-of-the-art review of acute MR and cardiogenic shock; this is an original study, not a duplicate, but should be coordinated.",
+  "target_journal": "JACC or European Heart Journal",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "High-mortality setting judged on death."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Guideline position is unverified because guideline extracts have not been retrieved; G2 is judged on trial evidence only. Only observational comparisons exist."
+   },
+   "G3": {
+    "pass": true,
+    "note": "The one listed trial (NCT06282042, 250 participants, 2027-06-16) is not stated to include shock, but it could still affect the question and must be checked."
+   },
+   "G4": {
+    "pass": false,
+    "note": "Data adequacy is unresolved: a credible emulation needs MR grade and mitral procedure fields that the owner's registries may lack; the gate cannot be passed until a dataset is confirmed."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Not a surrogate-only or small-series design if adequate data are found."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 3,
+    "why": "Severe MR in shock is uncommon, but mortality is very high."
+   },
+   "novelty": {
+    "score": 4,
+    "why": "No comparison with untreated patients is in the subset."
+   },
+   "equipoise": {
+    "score": 4,
+    "why": "Observational data suffer survivor bias, so equipoise is real."
+   },
+   "design": {
+    "score": 2,
+    "why": "Small samples and missing variables limit credibility."
+   },
+   "timeliness": {
+    "score": 3,
+    "why": "Interest in shock systems is high, with one trial reporting in 2027."
+   },
+   "citation": {
+    "score": 3,
+    "why": "Shock papers are well cited but the population is niche."
+   },
+   "feasibility": {
+    "score": 3,
+    "why": "Owner holds shock registry routes, but mitral fields are uncertain."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "cardiogenic shock",
+   "severe mitral regurgitation",
+   "teer",
+   "acute mitral regurgitation",
+   "target trial emulation"
+  ],
+  "next_actions": [
+   "Check the data dictionaries of BCIS and ICNARC for MR and mitral procedure fields",
+   "Agree scope with the acute MR and shock review authors",
+   "Draft the emulation protocol"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Generated from the D4 landscape synthesis"
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ },
+ {
+  "id": "D4-C4",
+  "title": "Value of information for early intervention in asymptomatic severe degenerative MR",
+  "domains": [
+   "D4"
+  ],
+  "pico": {
+   "population": "Asymptomatic adults with severe degenerative MR and preserved LV function",
+   "intervention": "Early mitral repair (surgical or transcatheter)",
+   "comparator": "Watchful waiting with intervention on symptoms or LV triggers",
+   "outcomes": "Cardiovascular death, heart failure, quality-adjusted life years, costs",
+   "timing": "Lifetime horizon"
+  },
+  "decision": "Whether to refer asymptomatic patients for early repair and whether further trials are warranted",
+  "decision_maker": "Cardiologists, heart teams, guideline committees, funders",
+  "why_now": "Observational evidence favours early surgery (PMID 40799133: cardiovascular death HR 0.17, 95% CI 0.07 to 0.40) but is single-centre; one randomised trial (NCT03389542, 424 participants) is not due until 2033, so a model can size what that trial and others can resolve.",
+  "evidence_status": {
+   "key_pmids": [
+    "40799133",
+    "28663365",
+    "34767705",
+    "36702625"
+   ],
+   "latest_review": {
+    "pmid": "",
+    "date": ""
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT03389542",
+    "n": 424,
+    "primary_completion": "2033-04-10",
+    "note": "REVERSE-MR, early repair versus watchful waiting"
+   },
+   {
+    "nct": "NCT07366723",
+    "n": 260,
+    "primary_completion": "2029-06-01",
+    "note": "INTEGRATE, cardiac magnetic resonance in surgical decisions"
+   },
+   {
+    "nct": "NCT07709208",
+    "n": 246,
+    "primary_completion": "2029-06",
+    "note": "MARCER, TEER in exercise-induced severe MR"
+   }
+  ],
+  "gap_type": "underpowered trials",
+  "designs": {
+   "primary": "Patient-level Markov microsimulation with probabilistic sensitivity analysis and expected value of sample information",
+   "alternative": "Bayesian evidence synthesis of observational and randomised data feeding a trial design simulation"
+  },
+  "data_required": "Natural history and surgical outcome parameters from published cohorts, costs and utilities from national sources",
+  "data_sources": [
+   "Published cohorts (PMIDs above)",
+   "NHS reference costs"
+  ],
+  "feasibility": "High; matches the owner's microsimulation and VOI methods.",
+  "overlap": "No overlap with listed active projects.",
+  "target_journal": "European Heart Journal or Circulation",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Common decision, judged on cardiovascular death and heart failure."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Guideline position is unverified because guideline extracts have not been retrieved; G2 is judged on trial evidence only. The only randomised evidence is not yet reported."
+   },
+   "G3": {
+    "pass": true,
+    "note": "The one listed adequately sized randomised trial completes in 2033, beyond 24 months."
+   },
+   "G4": {
+    "pass": true,
+    "note": "VOI is the stated reason: it quantifies whether a trial is justified; a weaker design would not size the uncertainty."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Not a repeat meta-analysis or surrogate-only study; it depends on the model parameters being credible."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "Asymptomatic severe MR is a large patient group."
+   },
+   "novelty": {
+    "score": 4,
+    "why": "A VOI analysis for this decision is not in the subset."
+   },
+   "equipoise": {
+    "score": 3,
+    "why": "Observational data favour early repair, randomised data are pending."
+   },
+   "design": {
+    "score": 3,
+    "why": "A model is only as strong as its inputs, which are largely observational."
+   },
+   "timeliness": {
+    "score": 2,
+    "why": "No major readout before 2029."
+   },
+   "citation": {
+    "score": 3,
+    "why": "Decision models in the target journals are cited moderately."
+   },
+   "feasibility": {
+    "score": 5,
+    "why": "Direct fit to the owner's skills."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "asymptomatic mitral regurgitation",
+   "value of information",
+   "early surgery",
+   "degenerative mitral regurgitation",
+   "decision model"
+  ],
+  "next_actions": [
+   "Extract natural history and surgical outcome inputs from the stored records",
+   "Define model structure and perspective",
+   "Draft a PROSPERO-style protocol for the input synthesis"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Generated from the D4 landscape synthesis"
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ },
+ {
+  "id": "D4-C5",
+  "title": "Pre-registered synthesis of randomised TEER versus surgery trials in primary MR, timed to the readouts",
+  "domains": [
+   "D4"
+  ],
+  "pico": {
+   "population": "Adults with severe primary MR and elevated surgical risk or older age",
+   "intervention": "Transcatheter edge-to-edge repair",
+   "comparator": "Mitral surgery",
+   "outcomes": "Death, heart failure hospitalisation, MR recurrence, reintervention",
+   "timing": "1 to 5 years"
+  },
+  "decision": "Choice of TEER or surgery in primary MR",
+  "decision_maker": "Heart teams",
+  "why_now": "Observational comparison exists (PMID 38243821) and earlier trial follow-up is old (PMID 26718672: 5-year results for the first randomised comparison); several randomised trials are registered.",
+  "evidence_status": {
+   "key_pmids": [
+    "26718672",
+    "38243821",
+    "28663365",
+    "33945832"
+   ],
+   "latest_review": {
+    "pmid": "",
+    "date": ""
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT03271762",
+    "n": 330,
+    "primary_completion": "2026-12",
+    "note": "MITRA-HR"
+   },
+   {
+    "nct": "NCT04198870",
+    "n": 500,
+    "primary_completion": "2027-12",
+    "note": "MitraClip REPAIR MR Study"
+   },
+   {
+    "nct": "NCT05051033",
+    "n": 450,
+    "primary_completion": "2029-06-30",
+    "note": "PRIMARY"
+   }
+  ],
+  "gap_type": "underpowered trials",
+  "designs": {
+   "primary": "Prospectively registered meta-analysis with a pre-specified update at each readout, random-effects REML with Hartung-Knapp adjustment",
+   "alternative": "Reconstructed-IPD synthesis once the trials publish"
+  },
+  "data_required": "Trial results as they publish",
+  "data_sources": "Published trials and registry entries",
+  "feasibility": "High; uses the owner's same-day workflow.",
+  "overlap": "Fits the owner's same-day congress SRMA workflow; no overlap with listed projects.",
+  "target_journal": "JACC or European Heart Journal",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Common decision judged on hard outcomes."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Guideline position is unverified because guideline extracts have not been retrieved; G2 is judged on trial evidence only. Randomised evidence in primary MR is limited in the subset."
+   },
+   "G3": {
+    "pass": false,
+    "note": "Adequately sized randomised trials of the same comparison are listed to report within 24 months (NCT03271762 in 2026-12, NCT04198870 in 2027-12), so the question will be answered by the trials themselves; the value lies only in a timely pooled analysis."
+   },
+   "G4": {
+    "pass": true,
+    "note": "A pre-specified update gives a guideline-citable synthesis."
+   },
+   "G5": {
+    "pass": false,
+    "note": "Pooling a few trials after they report risks being an incremental repeat unless IPD or new analyses are added."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "Primary MR is common and the decision frequent."
+   },
+   "novelty": {
+    "score": 2,
+    "why": "The synthesis follows the trials rather than preceding them."
+   },
+   "equipoise": {
+    "score": 3,
+    "why": "Randomised evidence is pending."
+   },
+   "design": {
+    "score": 3,
+    "why": "Pre-registration is sound but each trial may be small."
+   },
+   "timeliness": {
+    "score": 5,
+    "why": "Several readouts fall within 24 months."
+   },
+   "citation": {
+    "score": 3,
+    "why": "Timed syntheses attract attention when published at the readout."
+   },
+   "feasibility": {
+    "score": 5,
+    "why": "Pre-positioned workflow."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "primary mitral regurgitation",
+   "teer versus surgery",
+   "mitral surgery",
+   "prospective meta-analysis",
+   "mitraclip"
+  ],
+  "next_actions": [
+   "Register the protocol before the first readout",
+   "Confirm comparators and primary outcomes from the trial publications when available",
+   "Pre-position the analysis code with a rerun function"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Generated from the D4 landscape synthesis"
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ }
+]

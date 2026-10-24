@@ -1,0 +1,750 @@
+[
+ {
+  "id": "D9-C1",
+  "title": "Time-varying effects of left atrial appendage closure versus oral anticoagulation by reconstructed individual patient data from the randomised device trials",
+  "domains": [
+   "D9",
+   "D8"
+  ],
+  "pico": {
+   "population": "Adults with non-valvular atrial fibrillation eligible for oral anticoagulation, in randomised trials of percutaneous left atrial appendage closure",
+   "intervention": "Percutaneous left atrial appendage closure",
+   "comparator": "Oral anticoagulation (NOAC or VKA)",
+   "outcomes": "Stroke or systemic embolism (ischaemic and haemorrhagic separately), non-procedural major bleeding, all-cause death, with landmark analysis before and after 30 days and 1 year",
+   "timing": "Procedure to maximum follow-up, with time-varying hazard ratios"
+  },
+  "decision": "Whether to offer left atrial appendage closure instead of long-term anticoagulation to patients who can take anticoagulants, and in whom the early procedural hazard is traded against later bleeding reduction.",
+  "decision_maker": "Electrophysiologists, interventional cardiologists and heart teams; guideline committees",
+  "why_now": "Recent randomised trials in the appraised subset report non-inferiority for efficacy in anticoagulation-eligible patients (PMID 41910347) and in post-ablation patients (PMID 39555822), while a trial in high-risk patients did not show non-inferiority to medical care (PMID 41849741). Three pooled analyses of randomised trials appeared in October 2026 in non-target journals (PMIDs 42860016, 42862780, 42898218) using aggregate risk ratios, with an ischaemic stroke signal in one (RR 1.41 [1.07-1.85], PMID 42860016) that aggregate data cannot place in time.",
+  "evidence_status": {
+   "key_pmids": [
+    "41910347",
+    "39555822",
+    "41849741",
+    "42860016",
+    "42862780",
+    "42898218",
+    "34459659",
+    "39570242"
+   ],
+   "latest_review": {
+    "pmid": "42860016",
+    "date": "2026-10-11"
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT03642509",
+    "n": 750,
+    "primary_completion": "2026-01",
+    "note": "Randomised comparison of closure with novel oral anticoagulation, title as registered. Registry status RECRUITING."
+   },
+   {
+    "nct": "NCT04226547",
+    "n": 2650,
+    "primary_completion": "2029-01",
+    "note": "Amulet versus NOAC. Registry status ACTIVE_NOT_RECRUITING."
+   },
+   {
+    "nct": "NCT04298723",
+    "n": 530,
+    "primary_completion": "2029-06",
+    "note": "Closure versus oral anticoagulation in a registered subpopulation. Registry status RECRUITING."
+   },
+   {
+    "nct": "NCT04394546",
+    "n": 3000,
+    "primary_completion": "2027-12",
+    "note": "Registered as CHAMPION-AF; primary completion in the file is later than the publication of PMID 41910347, so the relationship needs checking. Registry status ACTIVE_NOT_RECRUITING."
+   },
+   {
+    "nct": "NCT05353140",
+    "n": 1386,
+    "primary_completion": "2028-09",
+    "note": "Closure versus NOAC in AF with PCI. Registry status RECRUITING."
+   }
+  ],
+  "gap_type": "conflicting trials",
+  "designs": {
+   "primary": "Reconstructed individual patient data meta-analysis from published Kaplan-Meier curves with flexible parametric and landmark models, one-stage random effects, pre-registered on PROSPERO, with a pre-specified update when NCT03642509 and NCT04226547 report",
+   "alternative": "Full IPD pooling through a trialist consortium, which would permit effect modification by CHA2DS2-VASc, HAS-BLED, device type and prior ICH"
+  },
+  "data_required": "Published Kaplan-Meier curves and numbers at risk for all randomised closure trials; trial protocols for outcome definitions",
+  "data_sources": [
+   "Published trial reports in the store",
+   "ClinicalTrials.gov records",
+   "Trialist collaboration for full IPD"
+  ],
+  "feasibility": "High for reconstructed IPD with the owner's existing workflow; moderate for full IPD, which depends on sponsor and trialist agreement.",
+  "overlap": "No overlap with active owner projects; fits the same-day SRMA workflow when the next trial reports.",
+  "target_journal": "European Heart Journal or JACC",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Stroke, bleeding and death on a very common decision in atrial fibrillation."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Guideline position unverified (extracts not yet retrieved); equipoise judged on trial evidence only. Trials in the subset conflict on non-inferiority (PMIDs 41910347, 41849741)."
+   },
+   "G3": {
+    "pass": true,
+    "note": "No meta-analysis in a target- or general-tier journal appears in the appraised subset in the past 24 months for this comparison, but the subset is incomplete and this must be checked in the adversarial search; of the registered trials only NCT03642509 (750) falls due within 24 months and is not alone adequately powered."
+   },
+   "G4": {
+    "pass": true,
+    "note": "A guideline committee would cite a time-varying analysis; aggregate risk ratios hide the early-harm and late-benefit pattern."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Differs from the three October 2026 aggregate meta-analyses by analysing the time axis and event types, but is close to a repeat synthesis of the same trials and the adversarial check must test this."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 5,
+    "why": "Atrial fibrillation anticoagulation decisions affect a very large population with hard outcomes."
+   },
+   "novelty": {
+    "score": 3,
+    "why": "Aggregate meta-analyses exist; the time-varying angle is the new element."
+   },
+   "equipoise": {
+    "score": 4,
+    "why": "Trials in the subset disagree on non-inferiority."
+   },
+   "design": {
+    "score": 3,
+    "why": "Reconstructed IPD is credible but limited by curve quality and outcome definitions."
+   },
+   "timeliness": {
+    "score": 4,
+    "why": "Several trials in the store are due to report between 2026 and 2029."
+   },
+   "citation": {
+    "score": 3,
+    "why": "Closure trials appear in the NEJM and Circulation, but meta-analyses of aggregate data carry less weight."
+   },
+   "feasibility": {
+    "score": 4,
+    "why": "Matches the owner's reconstructed IPD workflow."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "left atrial appendage closure",
+   "left atrial appendage occlusion",
+   "oral anticoagulation",
+   "atrial fibrillation",
+   "reconstructed individual patient data",
+   "noac"
+  ],
+  "next_actions": [
+   "Search PubMed and PROSPERO for any existing IPD or reconstructed-IPD analysis of closure trials",
+   "Extract Kaplan-Meier curves and numbers at risk from the trials in the store",
+   "Register the protocol with a pre-specified update trigger"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Proposed from the D9 landscape; guideline position not yet verified."
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ },
+ {
+  "id": "D9-C2",
+  "title": "Prospective pre-registered synthesis of catheter-directed and mechanical therapies in intermediate-risk pulmonary embolism on hard clinical outcomes",
+  "domains": [
+   "D9"
+  ],
+  "pico": {
+   "population": "Adults with intermediate-risk or intermediate-high-risk acute pulmonary embolism",
+   "intervention": "Catheter-directed thrombolysis, ultrasound-facilitated thrombolysis or large-bore mechanical thrombectomy plus anticoagulation",
+   "comparator": "Anticoagulation alone or catheter-directed thrombolysis",
+   "outcomes": "All-cause death, haemodynamic decompensation, major bleeding, and the original hierarchical composites reported on a common scale",
+   "timing": "In hospital to 30 days, and longest available follow-up"
+  },
+  "decision": "Which patients with intermediate-risk pulmonary embolism should receive an interventional therapy, and which modality.",
+  "decision_maker": "Pulmonary embolism response teams, interventional cardiologists, pulmonologists and radiologists; guideline committees",
+  "why_now": "Four randomised trials in the subset reported between 2025 and 2026 with different comparators and composites: PEERLESS (PMID 39470698), STORM-PE (PMID 41183181), a trial of ultrasound-facilitated fibrinolysis (PMID 41910345) and a trial of catheter-directed thrombolysis (PMID 42678032). A registry shows a shift from catheter-directed thrombolysis to thrombectomy (PMID 41739022). Further trials are registered, including NCT05591118, NCT06055920 and NCT04430569.",
+  "evidence_status": {
+   "key_pmids": [
+    "39470698",
+    "41183181",
+    "41910345",
+    "42678032",
+    "41739022",
+    "42910977"
+   ],
+   "latest_review": {
+    "pmid": "",
+    "date": ""
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT05591118",
+    "n": 500,
+    "primary_completion": "2027-03",
+    "note": "PE-TRACT; catheter-directed therapy trial. Registry status ACTIVE_NOT_RECRUITING."
+   },
+   {
+    "nct": "NCT06055920",
+    "n": 1200,
+    "primary_completion": "2026-07",
+    "note": "The PEERLESS II Study; comparator not stated in the trials file. Registry status ACTIVE_NOT_RECRUITING."
+   },
+   {
+    "nct": "NCT04430569",
+    "n": 800,
+    "primary_completion": "2026-04",
+    "note": "PEITHO-3. Registry status ACTIVE_NOT_RECRUITING."
+   },
+   {
+    "nct": "NCT06453876",
+    "n": 210,
+    "primary_completion": "2028-06",
+    "note": "STRATIFY-II; embolectomy, low-dose thrombolysis or heparin. Registry status RECRUITING."
+   },
+   {
+    "nct": "NCT07452991",
+    "n": 300,
+    "primary_completion": "2029-09",
+    "note": "ULTRA-PE. Registry status RECRUITING."
+   }
+  ],
+  "gap_type": "underpowered trials",
+  "designs": {
+   "primary": "Pre-registered living network meta-analysis with a Bayesian random-effects model and a common hierarchical outcome definition, updated as each registered trial reports",
+   "alternative": "Reconstructed IPD of win-ratio components where full IPD are unavailable"
+  },
+  "data_required": "Published results of all randomised trials with hard outcome components; registered protocols",
+  "data_sources": [
+   "Published trial reports in the store",
+   "ClinicalTrials.gov records",
+   "PERT Consortium registry reports"
+  ],
+  "feasibility": "High; network meta-analysis is within the owner's methods.",
+  "overlap": "No overlap with active owner projects.",
+  "target_journal": "Circulation or JACC",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Death and decompensation in a high-mortality acute setting."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Guideline position unverified (extracts not yet retrieved); equipoise judged on trial evidence only. Trials in the subset use different composites, none shows a mortality difference, and several are small."
+   },
+   "G3": {
+    "pass": true,
+    "note": "Individual trials are each likely underpowered for death, so a pooled estimate is not expected from a single registered trial; PE-TRACT (500) and PEERLESS II (1200) will add data within 24 months. Adequate power of each cannot be judged from the file, so this gate needs the adversarial check."
+   },
+   "G4": {
+    "pass": true,
+    "note": "A pre-registered living network synthesis would be cited by guideline committees reconsidering advanced therapies."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Not a repeat of an existing meta-analysis in the subset; the risk is a competing synthesis already in preparation."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "Pulmonary embolism is common and advanced therapy use is rising (PMID 41739022)."
+   },
+   "novelty": {
+    "score": 3,
+    "why": "Pooled analyses of this field are likely to be in preparation elsewhere."
+   },
+   "equipoise": {
+    "score": 4,
+    "why": "Trials report composites and early surrogates without a mortality difference."
+   },
+   "design": {
+    "score": 3,
+    "why": "Heterogeneous comparators and outcomes limit network transitivity."
+   },
+   "timeliness": {
+    "score": 5,
+    "why": "Multiple trials are due to report within two years."
+   },
+   "citation": {
+    "score": 3,
+    "why": "Network meta-analyses in a hot field attract citations but not at the level of the trials."
+   },
+   "feasibility": {
+    "score": 4,
+    "why": "Standard owner methods."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "pulmonary embolism",
+   "catheter-directed thrombolysis",
+   "mechanical thrombectomy",
+   "intermediate-risk",
+   "network meta-analysis"
+  ],
+  "next_actions": [
+   "Search for existing pulmonary embolism intervention network meta-analyses",
+   "Draft a common outcome map across the four reported trials",
+   "Register the protocol with a trial-by-trial update plan"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Proposed from the D9 landscape; guideline position not yet verified."
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ },
+ {
+  "id": "D9-C3",
+  "title": "Value-of-information analysis for a hard-endpoint trial of renal denervation in hypertension",
+  "domains": [
+   "D9"
+  ],
+  "pico": {
+   "population": "Adults with uncontrolled or resistant hypertension",
+   "intervention": "Catheter-based renal denervation plus usual care",
+   "comparator": "Usual care or sham procedure",
+   "outcomes": "Modelled stroke, myocardial infarction, heart failure, death, and quality-adjusted life years with costs",
+   "timing": "Lifetime horizon"
+  },
+  "decision": "Whether funders should commission a hard-endpoint renal denervation trial, and its size.",
+  "decision_maker": "Trial funders, health technology assessment bodies, guideline committees",
+  "why_now": "Sham-controlled trials in the subset show blood pressure reductions (PMIDs 34010611, 36853250, 36130612) and a meta-analysis of ten sham-controlled trials (2478 patients) reports 24-hour systolic reductions of 4.4 mm Hg (95% CI 2.7 to 6.1) with an all-cause death odds ratio of 1.76 (95% CI 0.34 to 9.20) (PMID 39355923). A consensus statement positions the procedure as an adjunct (PMID 36790101). No trial in the subset reports clinical events.",
+  "evidence_status": {
+   "key_pmids": [
+    "39355923",
+    "34010611",
+    "36853250",
+    "36130612",
+    "36790101"
+   ],
+   "latest_review": {
+    "pmid": "39355923",
+    "date": "2024-11-12"
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT05198674",
+    "n": 1899,
+    "primary_completion": "2026-03",
+    "note": "SPYRAL AFFIRM; global study of renal denervation. Registry status ACTIVE_NOT_RECRUITING."
+   },
+   {
+    "nct": "NCT07602790",
+    "n": 1000,
+    "primary_completion": "2030-11",
+    "note": "EMBRACE; renal denervation, full title truncated in the file. Registry status NOT_YET_RECRUITING."
+   },
+   {
+    "nct": "NCT06559891",
+    "n": 261,
+    "primary_completion": "2027-03",
+    "note": "THRIVE; intravascular ultrasound renal denervation. Registry status RECRUITING."
+   }
+  ],
+  "gap_type": "no evidence",
+  "designs": {
+   "primary": "Patient-level Markov microsimulation with probabilistic sensitivity analysis and expected value of perfect and partial perfect information, followed by sizing of a registry-based randomised trial",
+   "alternative": "Target trial emulation of blood pressure reduction effects on events in UK Biobank as a model input, with explicit limits"
+  },
+  "data_required": "Blood pressure effects from sham trials, event risk equations, device and procedure costs, utility values",
+  "data_sources": [
+   "Published sham-controlled trials in the store",
+   "UK Biobank (QMUL extract)",
+   "UK national cost sources"
+  ],
+  "feasibility": "High; matches the owner's Markov microsimulation and value-of-information methods.",
+  "overlap": "Method overlaps with the Impella microsimulation project but the topic does not.",
+  "target_journal": "JAMA Cardiology or European Heart Journal",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Hypertension is among the commonest conditions and the decision is on events modelled from blood pressure."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Guideline position unverified (extracts not yet retrieved); equipoise judged on trial evidence only. No hard-endpoint trial result exists in the subset."
+   },
+   "G3": {
+    "pass": true,
+    "note": "No trial in the file lists a hard-endpoint primary outcome within 24 months, though the primary outcome field is empty for most registry entries and must be checked."
+   },
+   "G4": {
+    "pass": true,
+    "note": "A value-of-information analysis justifies and sizes a trial, which funders would cite."
+   },
+   "G5": {
+    "pass": false,
+    "note": "The model rests on a blood pressure surrogate and may be judged surrogate-only by a target-journal editor; it passes only if framed as sizing a trial rather than estimating benefit."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "Very large population, though effect on events is modelled."
+   },
+   "novelty": {
+    "score": 3,
+    "why": "Cost-effectiveness models of renal denervation exist in the wider literature, which this subset does not show."
+   },
+   "equipoise": {
+    "score": 3,
+    "why": "Blood pressure effect is established; event effect is unknown."
+   },
+   "design": {
+    "score": 3,
+    "why": "Credible method with surrogate dependence."
+   },
+   "timeliness": {
+    "score": 3,
+    "why": "Device approvals and guideline interest are rising."
+   },
+   "citation": {
+    "score": 2,
+    "why": "Modelling papers on devices rarely reach the top citation decile."
+   },
+   "feasibility": {
+    "score": 5,
+    "why": "Direct fit with the owner's methods."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "renal denervation",
+   "hypertension",
+   "value of information",
+   "microsimulation",
+   "cost-effectiveness"
+  ],
+  "next_actions": [
+   "Search for published renal denervation cost-effectiveness and value-of-information models",
+   "Extract treatment effects from sham-controlled trials in the store",
+   "Specify model structure and risk equations"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Proposed from the D9 landscape; G5 fails as currently framed."
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ },
+ {
+  "id": "D9-C4",
+  "title": "Prospective synthesis of surgical left atrial appendage occlusion trials by atrial fibrillation status",
+  "domains": [
+   "D9"
+  ],
+  "pico": {
+   "population": "Adults undergoing cardiac surgery, with and without atrial fibrillation",
+   "intervention": "Concomitant surgical left atrial appendage occlusion",
+   "comparator": "No occlusion",
+   "outcomes": "Stroke or systemic embolism, stroke, TIA or cardiovascular death, bleeding, death",
+   "timing": "Perioperative to maximum follow-up"
+  },
+  "decision": "Whether to occlude the appendage at cardiac surgery in patients without a history of atrial fibrillation.",
+  "decision_maker": "Cardiac surgeons and heart teams",
+  "why_now": "LAAOS III reduced stroke or systemic embolism in atrial fibrillation (hazard ratio 0.67; 95% CI 0.53 to 0.85; PMID 33999547), whereas OPINION in patients without atrial fibrillation did not reach significance (hazard ratio 0.83; 95% CI 0.61 to 1.14; PMID 40888584). LAACS-2, LAA-CLOSURE and LeAAPS are registered.",
+  "evidence_status": {
+   "key_pmids": [
+    "33999547",
+    "37732457",
+    "40888584"
+   ],
+   "latest_review": {
+    "pmid": "",
+    "date": ""
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT03724318",
+    "n": 1500,
+    "primary_completion": "2025-10",
+    "note": "LAACS-2. Registry status ACTIVE_NOT_RECRUITING."
+   },
+   {
+    "nct": "NCT02321137",
+    "n": 1040,
+    "primary_completion": "2025-04",
+    "note": "LAA-CLOSURE. Registry status ACTIVE_NOT_RECRUITING."
+   },
+   {
+    "nct": "NCT05478304",
+    "n": 6573,
+    "primary_completion": "2031-12",
+    "note": "LeAAPS. Registry status ACTIVE_NOT_RECRUITING."
+   },
+   {
+    "nct": "NCT05963698",
+    "n": 4000,
+    "primary_completion": "2029-09",
+    "note": "LAAOS-4. Registry status RECRUITING."
+   }
+  ],
+  "gap_type": "population excluded from trials",
+  "designs": {
+   "primary": "Pre-registered meta-analysis with a pre-specified update at each readout and an interaction test by atrial fibrillation status",
+   "alternative": "Registry-based randomised trial in patients without atrial fibrillation"
+  },
+  "data_required": "Trial-level results by atrial fibrillation status",
+  "data_sources": [
+   "Published trial reports",
+   "ClinicalTrials.gov"
+  ],
+  "feasibility": "High for synthesis; trial option needs a surgical consortium.",
+  "overlap": "No overlap with active owner projects.",
+  "target_journal": "European Heart Journal or JACC",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Stroke prevention at a common operation."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Guideline position unverified (extracts not yet retrieved); equipoise judged on trial evidence only. Two randomised trials in the subset give different results by population."
+   },
+   "G3": {
+    "pass": false,
+    "note": "LAACS-2 (1500, primary completion 2025-10) and LAA-CLOSURE (1040, primary completion 2025-04) are past primary completion and are likely to report within 24 months; LeAAPS (6573) and LAAOS-4 (4000) follow later."
+   },
+   "G4": {
+    "pass": true,
+    "note": "A trial-level synthesis with an interaction test would be cited."
+   },
+   "G5": {
+    "pass": false,
+    "note": "With few trials the synthesis is a pooled analysis of a small number of studies until the registered trials report."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 3,
+    "why": "Cardiac surgery volume is large but the incremental population is narrower."
+   },
+   "novelty": {
+    "score": 2,
+    "why": "Synthesis follows trials that will answer the question directly."
+   },
+   "equipoise": {
+    "score": 3,
+    "why": "The two trials point in the same direction with different significance."
+   },
+   "design": {
+    "score": 3,
+    "why": "Credible but dependent on pending readouts."
+   },
+   "timeliness": {
+    "score": 4,
+    "why": "Several trials are due soon."
+   },
+   "citation": {
+    "score": 2,
+    "why": "Lower than the primary trials."
+   },
+   "feasibility": {
+    "score": 4,
+    "why": "Owner methods."
+   }
+  },
+  "subspecialty_only": true,
+  "keywords": [
+   "surgical left atrial appendage occlusion",
+   "cardiac surgery",
+   "atrial fibrillation",
+   "laaos"
+  ],
+  "next_actions": [
+   "Monitor readouts of the registered trials",
+   "Draft a protocol to register before the first readout",
+   "Re-test gates G3 and G5 after each readout"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Recorded with failed gates G3 and G5; not for promotion."
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ },
+ {
+  "id": "D9-C5",
+  "title": "Heterogeneity of interatrial shunt effect by ejection fraction across the sham-controlled heart failure trials",
+  "domains": [
+   "D9"
+  ],
+  "pico": {
+   "population": "Adults with symptomatic heart failure with elevated filling pressures, by left ventricular ejection fraction",
+   "intervention": "Interatrial shunt device",
+   "comparator": "Sham procedure",
+   "outcomes": "Hierarchical composite, heart failure events, safety events",
+   "timing": "Two years"
+  },
+  "decision": "Whether shunt devices have any role in reduced or preserved ejection fraction heart failure.",
+  "decision_maker": "Heart failure specialists and device regulators",
+  "why_now": "REDUCE LAP-HF II showed no difference (win ratio 1.0; 95% CI 0.8 to 1.2; PMID 35120593) and RELIEVE-HF none overall (win ratio 0.86; 95% CI 0.61 to 1.22; PMID 39308371), with opposite signals by ejection fraction reported in RELIEVE-HF (PMID 39308371, PMID 42886087).",
+  "evidence_status": {
+   "key_pmids": [
+    "35120593",
+    "39308371",
+    "42886087"
+   ],
+   "latest_review": {
+    "pmid": "",
+    "date": ""
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT07696975",
+    "n": 250,
+    "primary_completion": "2029-03",
+    "note": "RELIEVE-HFrEF. Registry status NOT_YET_RECRUITING."
+   },
+   {
+    "nct": "NCT07820410",
+    "n": 208,
+    "primary_completion": "2027-12",
+    "note": "PAST-HFrEF. Registry status RECRUITING."
+   },
+   {
+    "nct": "NCT06812533",
+    "n": 350,
+    "primary_completion": "2028-12",
+    "note": "Alleviant ALLAY-HFrEF. Registry status RECRUITING."
+   },
+   {
+    "nct": "NCT05685303",
+    "n": 700,
+    "primary_completion": "2027-12",
+    "note": "Alleviant ALLAY-HF. Registry status RECRUITING."
+   }
+  ],
+  "gap_type": "conflicting trials",
+  "designs": {
+   "primary": "Pooled patient-level analysis of the sham-controlled trials with a pre-specified ejection fraction interaction",
+   "alternative": "Wait for the dedicated reduced-ejection-fraction trials"
+  },
+  "data_required": "Patient-level data from sponsor-held trials",
+  "data_sources": [
+   "Sponsor and trialist collaboration"
+  ],
+  "feasibility": "Low; patient-level data are industry-held and win-ratio outcomes cannot be reconstructed from published curves.",
+  "overlap": "No overlap with active owner projects.",
+  "target_journal": "JACC: Heart Failure",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Heart failure events and death."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Guideline position unverified (extracts not yet retrieved); equipoise judged on trial evidence only. Trials show opposite subgroup signals."
+   },
+   "G3": {
+    "pass": true,
+    "note": "The reduced-ejection-fraction trials in the file have primary completion from 2028-12 onward, beyond 24 months, with small N (208 to 350)."
+   },
+   "G4": {
+    "pass": false,
+    "note": "Without patient-level access no credible design exists, and published data do not permit the analysis."
+   },
+   "G5": {
+    "pass": false,
+    "note": "Relies on an unprespecified subgroup analysis of two trials, which is excluded by the gate."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 2,
+    "why": "Device use is narrow after two neutral trials."
+   },
+   "novelty": {
+    "score": 2,
+    "why": "Subgroup findings are already published."
+   },
+   "equipoise": {
+    "score": 3,
+    "why": "Signals conflict by subgroup."
+   },
+   "design": {
+    "score": 1,
+    "why": "No credible design with available data."
+   },
+   "timeliness": {
+    "score": 2,
+    "why": "Dedicated trials report after 2028."
+   },
+   "citation": {
+    "score": 2,
+    "why": "Subspecialty readership."
+   },
+   "feasibility": {
+    "score": 1,
+    "why": "Data access is the barrier."
+   }
+  },
+  "subspecialty_only": true,
+  "keywords": [
+   "interatrial shunt",
+   "heart failure",
+   "ejection fraction",
+   "sham-controlled"
+  ],
+  "next_actions": [
+   "Re-assess when a reduced-ejection-fraction trial reports",
+   "Ask sponsors about data-sharing terms",
+   "Do not promote unless G4 and G5 change"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Recorded with failed gates G4 and G5; subspecialty only."
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ }
+]

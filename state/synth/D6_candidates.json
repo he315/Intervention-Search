@@ -1,0 +1,414 @@
+[
+ {
+  "id": "D6-C1",
+  "title": "Does the benefit of an invasive strategy in older patients with NSTE-ACS or MI depend on frailty and follow-up time? A patient-level synthesis of the older-patient invasive-strategy trials",
+  "domains": [
+   "D6"
+  ],
+  "pico": {
+   "population": "Patients aged 75 years or older (or 80 or older) with NSTEMI, unstable angina or MI managed with an invasive or a conservative strategy, with baseline frailty measured",
+   "intervention": "Routine early invasive strategy with revascularisation where appropriate",
+   "comparator": "Initial conservative strategy with selective invasive management",
+   "outcomes": "Cardiovascular death or MI, all-cause death, MI, disability-free survival, major bleeding, with time-varying hazard and competing-risk analyses",
+   "timing": "Follow-up to the longest available (median 4.1 years in 39225274, 5.3 years in 37968019)"
+  },
+  "decision": "Whether to offer angiography and revascularisation to an older or frail patient with NSTE-ACS, and when to stop offering it",
+  "decision_maker": "Interventional and general cardiologists, geriatricians and the patient",
+  "why_now": "The most recent IPD meta-analysis (38596853, published 2024-06) pooled six studies with 1479 participants and reported a hazard ratio of 0.87 (95% CI 0.63-1.22). A trial of 1518 patients aged 75 years or older (39225274, published 2024-11, 32% frail) reported a hazard ratio of 0.94 (95% CI 0.77-1.14), while long-term follow-up of the trial in patients aged 80 years or older (37968019) reported an incidence rate ratio of 0.76 (95% CI 0.63-0.93). Adding 1518 to 1479 (derived, sum 2997) would roughly double the pooled sample, if the larger trial was not in the earlier pooling (to be confirmed from the full text of 38596853).",
+  "evidence_status": {
+   "key_pmids": [
+    "39225274",
+    "37968019",
+    "26794722",
+    "38596853",
+    "28626044",
+    "39548842",
+    "36503287",
+    "41250995"
+   ],
+   "latest_review": {
+    "pmid": "38596853",
+    "date": "2024-06-01"
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT01311323",
+    "n": 1000,
+    "primary_completion": "2028-12",
+    "note": "MILESTONE, NSTE-ACS with severe coronary disease, not restricted to older patients; completion after the 24-month window"
+   }
+  ],
+  "gap_type": "conflicting trials",
+  "designs": {
+   "primary": "One-stage IPD meta-analysis of randomised trials of invasive versus conservative management in older patients with NSTE-ACS or MI, with pre-specified frailty-by-treatment interaction, restricted mean survival time and time-varying hazard analyses",
+   "alternative": "Reconstructed-IPD analysis from published Kaplan-Meier curves if IPD sharing is incomplete, followed by a target trial emulation of revascularisation by frailty stratum in a national ACS registry"
+  },
+  "data_required": "Participant-level data from the older-patient invasive-strategy trials with a common frailty measure (or harmonisable frailty index), baseline risk and outcomes with dates",
+  "data_sources": [
+   "Trial groups for 39225274, 37968019 and 26794722",
+   "Published Kaplan-Meier curves for reconstruction",
+   "National ACS registries with frailty coding (for the alternative design)"
+  ],
+  "feasibility": "Medium. IPD sharing needs trial-group agreement; the owner's reconstructed-IPD method provides a fallback and the BCIS link offers a UK registry route. Frailty scales differ between trials.",
+  "overlap": "None with active projects. Adjacent to the non-culprit lesion NMA only through the older-patient complete revascularisation trials (39217603), which this question excludes.",
+  "target_journal": "European Heart Journal or Circulation (JACC as alternative)",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Angiography in older and frail patients with NSTE-ACS is a common, high-mortality decision; endpoints are death, MI and bleeding."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Trials conflict (39225274 hazard ratio 0.94, 95% CI 0.77-1.14; 37968019 incidence rate ratio 0.76, 95% CI 0.63-0.93). Guideline position is unverified; G2 judged on trial evidence only."
+   },
+   "G3": {
+    "pass": true,
+    "note": "The latest IPD meta-analysis in a target-tier journal (38596853) was published 2024-06, outside the 24-month window; no adequately powered older-patient RCT in the trials file completes within 24 months (NCT01311323 completes 2028-12 and is not age-restricted)."
+   },
+   "G4": {
+    "pass": true,
+    "note": "A guideline committee would cite an IPD analysis with pre-specified frailty interaction because single trials were underpowered for effect modification and a trial-level meta-analysis cannot test it."
+   },
+   "G5": {
+    "pass": true,
+    "note": "It is not a repeat of 38596853: it adds a trial of 1518 patients, tests frailty effect modification and time-varying effects, and uses participant-level data."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "Older patients form a large and growing share of NSTE-ACS, and the decision carries mortality and bleeding consequences."
+   },
+   "novelty": {
+    "score": 3,
+    "why": "An IPD meta-analysis already exists, so novelty rests on the added trial and the frailty and time-varying analyses."
+   },
+   "equipoise": {
+    "score": 4,
+    "why": "Two large trials point in different directions on the primary outcome."
+   },
+   "design": {
+    "score": 4,
+    "why": "One-stage IPD with pre-specified interaction tests is a credible design, limited by frailty measurement differences."
+   },
+   "timeliness": {
+    "score": 3,
+    "why": "A readout within the window is not expected, but a recent AHA statement on revascularisation in older adults (41250995) shows guideline interest."
+   },
+   "citation": {
+    "score": 3,
+    "why": "Older-patient IPD analyses in the stored records sit mostly in target-tier journals, but the benchmark has not yet been consulted for this archetype."
+   },
+   "feasibility": {
+    "score": 3,
+    "why": "IPD access from three or more trial groups is uncertain; the reconstructed-IPD fallback is within the owner's methods."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "older patients",
+   "frailty",
+   "invasive strategy",
+   "nstemi",
+   "conservative strategy",
+   "individual patient data",
+   "elderly acs",
+   "non-st-elevation"
+  ],
+  "next_actions": [
+   "Register the protocol on PROSPERO and write to the principal investigators of the three older-patient trials about IPD sharing",
+   "Confirm from the full text of 38596853 which trials were pooled and whether 39225274 is excluded",
+   "Harmonise frailty measures across trials and pre-specify the interaction and restricted mean survival time analyses"
+  ],
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Generated from Tier A and B records for D6 in the baseline synthesis"
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "status": "candidate",
+  "audit": [],
+  "adversarial": {}
+ },
+ {
+  "id": "D6-C2",
+  "title": "Incretin-based therapy after myocardial infarction in people with obesity or diabetes: target trial emulation of cardiovascular and heart failure outcomes",
+  "domains": [
+   "D6"
+  ],
+  "pico": {
+   "population": "Adults discharged after a first MI with obesity or type 2 diabetes who are eligible for GLP-1 receptor agonist therapy",
+   "intervention": "Initiation of a GLP-1 receptor agonist or dual incretin agonist within 12 months of MI",
+   "comparator": "No incretin initiation (and, as a sensitivity analysis, SGLT2 inhibitor initiation as an active comparator)",
+   "outcomes": "All-cause death, recurrent MI, stroke, heart failure hospitalisation, major bleeding",
+   "timing": "Time zero at the date of eligibility after discharge, follow-up to 3 years"
+  },
+  "decision": "Whether to start an incretin-based agent as part of secondary prevention after MI in people with obesity or diabetes",
+  "decision_maker": "Cardiologists and diabetes physicians, with commissioners deciding on access",
+  "why_now": "The appraised subset contains one cardiovascular outcome trial of semaglutide in obesity without diabetes (37952131) and two empagliflozin trials after MI (38587237, hazard ratio 0.90 for heart failure hospitalisation or death; and 36036746) but no outcome trial of an incretin agent initiated after MI. Large obesity outcome trials will report within the window but are not MI-specific.",
+  "evidence_status": {
+   "key_pmids": [
+    "37952131",
+    "38587237",
+    "36036746",
+    "38581389"
+   ],
+   "latest_review": {
+    "pmid": "",
+    "date": ""
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT05556512",
+    "n": 15374,
+    "primary_completion": "2027-10",
+    "note": "SURMOUNT-MMO, tirzepatide in obesity; not MI-specific, prior-MI subgroup size not stated in the registry fields"
+   },
+   {
+    "nct": "NCT06383390",
+    "n": 10000,
+    "primary_completion": "2029-02",
+    "note": "TRIUMPH-Outcomes, retatrutide in obesity; not MI-specific"
+   }
+  ],
+  "gap_type": "no evidence",
+  "designs": {
+   "primary": "Target trial emulation with new-user, active-comparator and clone-censor-weight methods in linked national registry and primary care data",
+   "alternative": "Registry-based randomised trial of early incretin initiation after MI embedded in a national MI registry"
+  },
+  "data_required": "Linked MI registry, prescribing, hospital episode and mortality data with BMI and diabetes status",
+  "data_sources": [
+   "UK Biobank QMUL extract (limited number of post-MI incretin users)",
+   "Linked UK primary care and hospital data via collaborators",
+   "Nordic national registries via planned research visits"
+  ],
+  "feasibility": "Medium to low in the owner's own data: UK Biobank has few post-MI incretin users, so a linked primary care or Nordic registry route through collaborators is needed.",
+  "overlap": "None with active projects.",
+  "target_journal": "JAMA Cardiology or European Heart Journal",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Recurrent events and heart failure after MI are common, and the decision is made for a large population with obesity or diabetes."
+   },
+   "G2": {
+    "pass": true,
+    "note": "No outcome trial of incretin therapy initiated after MI appears in the appraised subset; guideline position is unverified and the subset may omit relevant trials."
+   },
+   "G3": {
+    "pass": true,
+    "note": "Registry fields show obesity outcome trials (NCT05556512, NCT06383390) but none restricted to post-MI initiation; whether the prior-MI subgroup of NCT05556512 would answer the question is not stated and needs checking."
+   },
+   "G4": {
+    "pass": true,
+    "note": "A target trial emulation with active-comparator new-user design is the realistic option before a dedicated trial and would be cited if immortal time and confounding by indication are handled; a naive cohort would not."
+   },
+   "G5": {
+    "pass": true,
+    "note": "It is a new question using a causal design, not a surrogate, subgroup or small series."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "Obesity and diabetes are common after MI and the decision affects large numbers of patients."
+   },
+   "novelty": {
+    "score": 4,
+    "why": "No post-MI incretin outcome evidence is present in the appraised subset."
+   },
+   "equipoise": {
+    "score": 3,
+    "why": "There is no direct trial evidence, but extrapolation from non-MI trials makes clinical equipoise less than complete."
+   },
+   "design": {
+    "score": 3,
+    "why": "Target trial emulation is credible but residual confounding by indication and prescribing practice limit it."
+   },
+   "timeliness": {
+    "score": 4,
+    "why": "Incretin use is expanding fast and obesity outcome trials report from 2027."
+   },
+   "citation": {
+    "score": 4,
+    "why": "Incretin cardiovascular questions attract high attention, but the benchmark has not yet been consulted."
+   },
+   "feasibility": {
+    "score": 2,
+    "why": "The owner's own datasets hold few exposed patients, so collaboration is needed."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "glp-1",
+   "semaglutide",
+   "tirzepatide",
+   "incretin",
+   "myocardial infarction",
+   "obesity",
+   "target trial emulation",
+   "secondary prevention"
+  ],
+  "next_actions": [
+   "Search the registry for any MI-specific incretin trial and check the prior-MI enrolment of NCT05556512",
+   "Count incretin initiators after MI in the QMUL UK Biobank extract and identify a linked primary care or Nordic data partner",
+   "Write the target trial protocol with eligibility, time zero, strategies and estimand"
+  ],
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Generated from Tier A and B records for D6 in the baseline synthesis"
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "status": "candidate",
+  "audit": [],
+  "adversarial": {}
+ },
+ {
+  "id": "D6-C3",
+  "title": "Continuation or withdrawal of renin-angiotensin system inhibitors after myocardial infarction with preserved ejection fraction: a registry-based randomised trial",
+  "domains": [
+   "D6"
+  ],
+  "pico": {
+   "population": "Patients one year or more after MI with LVEF of 50% or more, no heart failure and no other compelling indication for RAAS inhibition",
+   "intervention": "Discontinuation of ACE inhibitor or ARB",
+   "comparator": "Continuation",
+   "outcomes": "Death, MI, stroke, heart failure hospitalisation, hypotension and renal events, patient-reported burden",
+   "timing": "Randomisation at a routine follow-up visit, follow-up to 3 years through registry linkage"
+  },
+  "decision": "Whether to stop long-term RAAS inhibitors in low-risk survivors of MI, which parallels the beta-blocker withdrawal question",
+  "decision_maker": "Cardiologists and general practitioners",
+  "why_now": "Open-label trials in MI with preserved ejection fraction reported neutral or modestly positive results for beta-blockers (38587241 hazard ratio 0.96; 40888702 hazard ratio 1.04; 40888716 hazard ratio 0.85; IPD 41211954 hazard ratio 0.97) and a spironolactone trial reported 0.91 (39555814). Together they have opened the question of which post-MI drugs remain justified in low-risk patients. The appraised subset contains no RAAS withdrawal trial; the original ACE inhibitor trials predate the store.",
+  "evidence_status": {
+   "key_pmids": [
+    "38587241",
+    "40888702",
+    "40888716",
+    "41211954",
+    "39555814",
+    "34758252",
+    "42669300"
+   ],
+   "latest_review": {
+    "pmid": "41211954",
+    "date": "2026-02-01"
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT07032389",
+    "n": 1000,
+    "primary_completion": "2030-06",
+    "note": "PolyACS, polypill in ACS; not a withdrawal comparison"
+   }
+  ],
+  "gap_type": "evidence outdated by a new trial",
+  "designs": {
+   "primary": "Registry-based randomised non-inferiority trial embedded in a national MI registry, with outcomes from linked records",
+   "alternative": "Target trial emulation of RAAS inhibitor discontinuation in UK Biobank and national registries as a feasibility step"
+  },
+  "data_required": "National MI registry with linked prescribing, hospitalisation and mortality data and an embedded randomisation module",
+  "data_sources": [
+   "Registry-embedded trial platform being developed by collaborators",
+   "UK Biobank QMUL extract for the emulation"
+  ],
+  "feasibility": "Medium. It fits the owner's registry-embedded trial methodology but needs a registry partner and funding; the emulation is feasible in UK Biobank.",
+  "overlap": "Method overlap with the registry-embedded cardiogenic shock platform ambition only; no overlap with active projects.",
+  "target_journal": "European Heart Journal, Circulation or JAMA Cardiology",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "RAAS inhibitors are prescribed to a very large population after MI and the decision concerns death, MI and heart failure."
+   },
+   "G2": {
+    "pass": true,
+    "note": "No withdrawal trial in the appraised subset; guideline position is unverified and the subset omits pre-2016 trials, so equipoise rests on the absence of contemporary evidence in low-risk patients."
+   },
+   "G3": {
+    "pass": true,
+    "note": "No registry entry in the trials file tests RAAS inhibitor withdrawal after MI; the only related entry is a polypill trial (NCT07032389)."
+   },
+   "G4": {
+    "pass": true,
+    "note": "A pragmatic randomised non-inferiority design would be cited by a guideline committee; observational data cannot settle withdrawal because of confounding by indication."
+   },
+   "G5": {
+    "pass": true,
+    "note": "It is a new randomised comparison, not a repeat synthesis or a surrogate study."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "Very large exposed population and a decision made at every post-MI review."
+   },
+   "novelty": {
+    "score": 4,
+    "why": "No contemporary RAAS withdrawal trial appears in the appraised subset."
+   },
+   "equipoise": {
+    "score": 3,
+    "why": "Strong older evidence in reduced ejection fraction and in high-risk patients limits equipoise in the preserved-ejection-fraction low-risk subgroup, but that reduces the need rather than the question."
+   },
+   "design": {
+    "score": 4,
+    "why": "Registry-based non-inferiority trials have precedent in the beta-blocker withdrawal trials in the records."
+   },
+   "timeliness": {
+    "score": 4,
+    "why": "The beta-blocker trials have just reported and the same logic is being applied to other post-MI drugs."
+   },
+   "citation": {
+    "score": 3,
+    "why": "Strategy trials of this kind reached NEJM and Lancet in the stored records, but benchmark calibration is pending."
+   },
+   "feasibility": {
+    "score": 3,
+    "why": "It suits the owner's registry-embedded methods but needs a partner registry and funding."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "ace inhibitor",
+   "arb",
+   "raas",
+   "renin-angiotensin",
+   "withdrawal",
+   "discontinuation",
+   "preserved ejection fraction",
+   "myocardial infarction",
+   "registry-based randomised trial"
+  ],
+  "next_actions": [
+   "Search the full store and PubMed for contemporary RAAS inhibitor trials and withdrawal studies after MI to confirm the gap",
+   "Run a UK Biobank target trial emulation as a feasibility and effect-size check",
+   "Approach registry-based trial groups about a non-inferiority platform and a margin"
+  ],
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Generated from Tier A and B records for D6 in the baseline synthesis"
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "status": "candidate",
+  "audit": [],
+  "adversarial": {}
+ }
+]

@@ -1,0 +1,643 @@
+[
+ {
+  "id": "D7-C1",
+  "title": "Does systematic coronary imaging with guideline-directed prevention improve outcomes after type 2 myocardial infarction?",
+  "domains": [
+   "D7"
+  ],
+  "pico": {
+   "population": "Adults with adjudicated type 2 MI (Fourth Universal Definition)",
+   "intervention": "Systematic coronary CTA (with invasive angiography for significant disease) plus protocolised secondary prevention",
+   "comparator": "Usual care without systematic coronary evaluation",
+   "outcomes": "Cardiovascular death, MI, HF hospitalisation and all-cause death",
+   "timing": "Randomisation during index admission; follow-up at least 2 years"
+  },
+  "decision": "Whether to image the coronary arteries and start long-term prevention after type 2 MI rather than treat only the precipitant",
+  "decision_maker": "Cardiologists and acute medicine physicians",
+  "why_now": "Observational studies report high MACE after type 2 MI and a high prevalence of previously unrecognised coronary disease, yet no randomised evidence exists.",
+  "evidence_status": {
+   "key_pmids": [
+    "35341327",
+    "37777947",
+    "41553312",
+    "29020401",
+    "31902228",
+    "32138959",
+    "31587565"
+   ],
+   "latest_review": {
+    "pmid": "41553312",
+    "date": "2026-05-05"
+   },
+   "guideline_position": []
+  },
+  "competing": [],
+  "gap_type": "no evidence",
+  "designs": {
+   "primary": "Registry-based randomised trial embedded in a national MI or hospital-episode registry",
+   "alternative": "Target trial emulation of coronary CTA or angiography within 30 days versus none in linked national data"
+  },
+  "data_required": "Adjudicated type 2 MI cases with linked outcomes",
+  "data_sources": "Linked national registers (for example MINAP-type audits with HES), SWEDEHEART-style registry platforms, UK Biobank extract for emulation",
+  "feasibility": "Trial needs a registry partner and consortium; the emulation is deliverable with current access but suffers confounding by indication.",
+  "overlap": "No overlap with active owner projects. Complements owner registry-embedded trial methodology.",
+  "target_journal": "Circulation or European Heart Journal",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Common decision; hard outcomes (death, MI, HF hospitalisation) in a population with 1-year mortality of 13.8% in PMID 29020401."
+   },
+   "G2": {
+    "pass": true,
+    "note": "No randomised trial of any strategy in type 2 MI in the input files; Guideline position unverified (extracts not yet retrieved); equipoise judged on trial evidence only."
+   },
+   "G3": {
+    "pass": true,
+    "note": "No ongoing type 2 MI trial in the trials file; the IPD meta-analysis PMID 41553312 (2026-05-05) is prognostic and does not address treatment."
+   },
+   "G4": {
+    "pass": true,
+    "note": "A pragmatic registry-based randomised comparison would be citable by a guideline committee; observational emulation alone would not resolve confounding by indication."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Not a repeat synthesis; first randomised treatment-strategy question in type 2 MI."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "Type 2 MI is a large fraction of troponin-positive admissions (22% rise in diagnosis in PMID 31587565) with mortality comparable to type 1 MI."
+   },
+   "novelty": {
+    "score": 5,
+    "why": "No randomised treatment evidence appears in the inputs."
+   },
+   "equipoise": {
+    "score": 5,
+    "why": "Practice varies and the aetiology-directed benefit of coronary evaluation is untested."
+   },
+   "design": {
+    "score": 3,
+    "why": "Heterogeneous precipitants and imaging uptake complicate a pragmatic trial."
+   },
+   "timeliness": {
+    "score": 3,
+    "why": "A 2026 IPD meta-analysis (PMID 41553312) has just defined the risk."
+   },
+   "citation": {
+    "score": 4,
+    "why": "Large pragmatic trials in untreated populations are suited to the target journals."
+   },
+   "feasibility": {
+    "score": 2,
+    "why": "Requires a registry consortium and funding; emulation is feasible in the short term."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "type 2 myocardial infarction",
+   "coronary computed tomography angiography",
+   "registry-based randomised trial",
+   "secondary prevention"
+  ],
+  "next_actions": [
+   "Extract coronary imaging yield and outcome estimates from PMID 35341327 and PMID 37777947 for sample size inputs",
+   "Approach a registry partner about embedding randomisation",
+   "Draft a target trial specification as a fallback emulation"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Proposed from D7 landscape"
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ },
+ {
+  "id": "D7-C2",
+  "title": "Is initiation of statin, renin-angiotensin or beta-blocker therapy after type 2 MI associated with lower cardiovascular events in national linked data?",
+  "domains": [
+   "D7"
+  ],
+  "pico": {
+   "population": "Adults discharged after type 2 MI without prior use of the drug class",
+   "intervention": "Initiation of statin, ACE inhibitor or ARB, or beta-blocker within 30 days of discharge",
+   "comparator": "No initiation (grace-period clone-censor-weight design)",
+   "outcomes": "Cardiovascular death, MI, HF hospitalisation, all-cause death",
+   "timing": "Time zero at discharge; follow-up up to 5 years"
+  },
+  "decision": "Whether to prescribe long-term preventive therapy after type 2 MI",
+  "decision_maker": "Cardiologists and general physicians",
+  "why_now": "Type 2 MI has an adverse prognosis (PMID 41553312, PMID 31902228) but no trial of preventive drugs, and uptake in practice is unknown.",
+  "evidence_status": {
+   "key_pmids": [
+    "41553312",
+    "31902228",
+    "32138959",
+    "29020401",
+    "34431993",
+    "35341327"
+   ],
+   "latest_review": {
+    "pmid": "41553312",
+    "date": "2026-05-05"
+   },
+   "guideline_position": []
+  },
+  "competing": [],
+  "gap_type": "population excluded from trials",
+  "designs": {
+   "primary": "Target trial emulation in linked national registers or biobank",
+   "alternative": "Registry-based randomised trial of a statin-based package"
+  },
+  "data_required": "Type 2 MI diagnoses with prescribing and outcome linkage",
+  "data_sources": "UK Biobank QMUL extract with hospital and primary care linkage; national audits; Scandinavian registers",
+  "feasibility": "Owner has UK Biobank access; type 2 MI numbers in the biobank may be small and case ascertainment needs checking.",
+  "overlap": "No overlap with active owner projects. Uses owner UK Biobank experience.",
+  "target_journal": "JAMA Cardiology or European Heart Journal",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Common prescribing decision with hard outcomes."
+   },
+   "G2": {
+    "pass": true,
+    "note": "No randomised evidence appears in the inputs; Guideline position unverified (extracts not yet retrieved); equipoise judged on trial evidence only."
+   },
+   "G3": {
+    "pass": true,
+    "note": "No ongoing trial of preventive drugs in type 2 MI in the trials file."
+   },
+   "G4": {
+    "pass": false,
+    "note": "Emulation can only partly address confounding by indication and uncertain diagnostic coding of type 2 MI; acceptable as hypothesis-generating unless a stated identification strategy and negative controls are shown."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Not a repeat synthesis or a surrogate-only study."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "Large untreated population with high mortality."
+   },
+   "novelty": {
+    "score": 4,
+    "why": "No drug-class evidence after type 2 MI appears in the inputs."
+   },
+   "equipoise": {
+    "score": 4,
+    "why": "Treatment effect unknown; no randomised data."
+   },
+   "design": {
+    "score": 2,
+    "why": "Confounding by indication and coding validity limit credibility."
+   },
+   "timeliness": {
+    "score": 3,
+    "why": "Fits the recent prognostic IPD synthesis."
+   },
+   "citation": {
+    "score": 3,
+    "why": "Observational emulation in a niche population is likely to suit a cardiology main journal only if well identified."
+   },
+   "feasibility": {
+    "score": 4,
+    "why": "Owner has UK Biobank and emulation methods."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "type 2 myocardial infarction",
+   "target trial emulation",
+   "statin",
+   "beta-blocker",
+   "uk biobank"
+  ],
+  "next_actions": [
+   "Count type 2 MI cases and drug initiation in UK Biobank",
+   "Write a target trial protocol with negative control outcomes",
+   "Validate case definitions against adjudicated cohorts such as PMID 32138959"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Proposed from D7 landscape"
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ },
+ {
+  "id": "D7-C3",
+  "title": "Does routine postoperative troponin surveillance with a protocolised response reduce cardiovascular events after major noncardiac surgery?",
+  "domains": [
+   "D7"
+  ],
+  "pico": {
+   "population": "Adults aged 45 years or older having major noncardiac surgery",
+   "intervention": "Routine postoperative hs-troponin surveillance with a protocolised cardiology response to myocardial injury",
+   "comparator": "Troponin on clinical suspicion only",
+   "outcomes": "Major adverse cardiovascular events and all-cause death at 1 year",
+   "timing": "Postoperative days 1 to 3 for testing; follow-up 1 year"
+  },
+  "decision": "Whether hospitals should adopt systematic postoperative troponin surveillance",
+  "decision_maker": "Perioperative physicians, anaesthetists, surgeons and cardiologists",
+  "why_now": "Cohort data show high mortality associated with perioperative injury (PMID 28444280, PMID 29203498, PMID 36705050), and MANAGE (PMID 29900874) suggested a treatable target, but surveillance has not been tested.",
+  "evidence_status": {
+   "key_pmids": [
+    "28444280",
+    "29203498",
+    "36705050",
+    "29900874",
+    "34601955",
+    "42880712",
+    "37640035"
+   ],
+   "latest_review": {
+    "pmid": "",
+    "date": ""
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT04681508",
+    "n": 600,
+    "primary_completion": "2025-07-31",
+    "note": "MINS, AKI and pulmonary pathology in acute abdominal surgery; allocation not applicable; not an adequately powered randomised test of surveillance."
+   }
+  ],
+  "gap_type": "no evidence",
+  "designs": {
+   "primary": "Stepped-wedge cluster registry-based trial using hospital episode and audit data",
+   "alternative": "Target trial emulation using differential hospital surveillance policy as an instrument"
+  },
+  "data_required": "Surgical episodes with postoperative troponin results and outcomes",
+  "data_sources": "National surgical audit linked to HES; VISION-type cohort investigators",
+  "feasibility": "Needs hospital engagement and a funded response protocol; population is very large.",
+  "overlap": "No overlap with active owner projects.",
+  "target_journal": "Circulation, JAMA Cardiology or European Heart Journal",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Very common surgery; hard outcomes."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Prognostic data exist but no trial tests surveillance; Guideline position unverified (extracts not yet retrieved); equipoise judged on trial evidence only."
+   },
+   "G3": {
+    "pass": true,
+    "note": "No adequately powered randomised surveillance trial in the trials file; NCT04681508 is small and non-randomised."
+   },
+   "G4": {
+    "pass": true,
+    "note": "Stepped-wedge registry design is a credible route; a cohort cannot separate detection from effect."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Strategy question, not a repeat synthesis; endpoint is MACE, not troponin level."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 5,
+    "why": "Millions of major surgeries; MINS is common (PMID 29203498 reports 16% of surgeries)."
+   },
+   "novelty": {
+    "score": 4,
+    "why": "Surveillance has not been tested; treatment trials dominate the literature."
+   },
+   "equipoise": {
+    "score": 4,
+    "why": "Treatment effect of MINS therapy is uncertain (PMID 29900874 single positive trial; neutral trials in PMID 37640035, PMID 40884771, PMID 40511609)."
+   },
+   "design": {
+    "score": 3,
+    "why": "Needs an effective response protocol or the trial tests only detection."
+   },
+   "timeliness": {
+    "score": 3,
+    "why": "Several MINS prevention trials are due to report."
+   },
+   "citation": {
+    "score": 4,
+    "why": "Perioperative strategy trials of this size reach the general and target tiers."
+   },
+   "feasibility": {
+    "score": 2,
+    "why": "Large multi-hospital collaboration required."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "myocardial injury after noncardiac surgery",
+   "postoperative troponin surveillance",
+   "stepped-wedge",
+   "perioperative"
+  ],
+  "next_actions": [
+   "Define the response protocol from MANAGE (PMID 29900874) and the AHA statement (PMID 34601955)",
+   "Identify national audit data with postoperative troponin",
+   "Approach perioperative investigators from PMID 28444280"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Proposed from D7 landscape"
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ },
+ {
+  "id": "D7-C4",
+  "title": "Do rapid rule-out pathways for suspected MI differ in 12-month ischaemic events: a reconstructed-IPD synthesis of randomised pathway trials timed to DanRUSH?",
+  "domains": [
+   "D7"
+  ],
+  "pico": {
+   "population": "Patients with suspected MI in the emergency department",
+   "intervention": "Accelerated hs-troponin rule-out (0/1h, single low threshold, point-of-care or prehospital)",
+   "comparator": "Standard 0/3h pathway",
+   "outcomes": "Death or MI at 30 days and 12 months; invasive angiography",
+   "timing": "Pre-specified update at the DanRUSH readout"
+  },
+  "decision": "Which rule-out pathway to adopt and how long safety must be observed",
+  "decision_maker": "Emergency physicians, guideline committees",
+  "why_now": "30-day non-inferiority (PMID 31478763) conflicts with a 12-month signal (PMID 33998255) and a non-inferiority failure (PMID 33752439).",
+  "evidence_status": {
+   "key_pmids": [
+    "31478763",
+    "33998255",
+    "33752439",
+    "30170853",
+    "37477353",
+    "42895015",
+    "41706062"
+   ],
+   "latest_review": {
+    "pmid": "",
+    "date": ""
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT07727135",
+    "n": 28000,
+    "primary_completion": "2028-09-01",
+    "note": "DanRUSH; rapid or ultra-rapid MI diagnosis."
+   },
+   {
+    "nct": "NCT07636642",
+    "n": 19500,
+    "primary_completion": "2028-05",
+    "note": "STEREO-MI; non-randomised."
+   }
+  ],
+  "gap_type": "conflicting trials",
+  "designs": {
+   "primary": "Reconstructed-IPD network meta-analysis of randomised rule-out pathway trials with registered protocol and pre-specified update",
+   "alternative": "Bayesian reanalysis with non-inferiority margins"
+  },
+  "data_required": "Published Kaplan-Meier curves and event counts from randomised pathway trials",
+  "data_sources": "Published trial reports",
+  "feasibility": "Fully deliverable with the owner's reconstructed-IPD workflow.",
+  "overlap": "No overlap with active owner projects. Matches the same-day SRMA workflow.",
+  "target_journal": "European Heart Journal or Circulation",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Very common decision, with safety defined by death and MI."
+   },
+   "G2": {
+    "pass": true,
+    "note": "Trials conflict on safety at different horizons; Guideline position unverified (extracts not yet retrieved); equipoise judged on trial evidence only."
+   },
+   "G3": {
+    "pass": false,
+    "note": "DanRUSH (NCT07727135, N 28000, 2028-09-01) is an adequately powered randomised trial expected within 24 months of 24 October 2026; only the timed update angle survives."
+   },
+   "G4": {
+    "pass": true,
+    "note": "Pre-registered pooled analysis with the readout update is citable."
+   },
+   "G5": {
+    "pass": true,
+    "note": "Reconstructed IPD addresses horizon-specific effects, not a repeat of pooled estimates, though the trial set is small."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 4,
+    "why": "Rule-out decisions are made on millions of presentations."
+   },
+   "novelty": {
+    "score": 3,
+    "why": "Individual trials are published; horizon-specific pooling is new."
+   },
+   "equipoise": {
+    "score": 4,
+    "why": "Safety signal at 12 months in one trial against non-inferiority at 30 days."
+   },
+   "design": {
+    "score": 3,
+    "why": "Few trials and heterogeneous pathways."
+   },
+   "timeliness": {
+    "score": 4,
+    "why": "DanRUSH readout due 2028."
+   },
+   "citation": {
+    "score": 3,
+    "why": "Diagnostic pathway syntheses are cited but rarely top decile."
+   },
+   "feasibility": {
+    "score": 5,
+    "why": "Within existing owner methods."
+   }
+  },
+  "subspecialty_only": false,
+  "keywords": [
+   "rule-out pathway",
+   "high-sensitivity troponin",
+   "0/1-hour",
+   "reconstructed ipd",
+   "danrush"
+  ],
+  "next_actions": [
+   "Register the protocol on PROSPERO with a pre-specified DanRUSH update",
+   "Extract Kaplan-Meier curves from PMID 33998255 and PMID 31478763",
+   "Pre-position the metafor rerun function"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Proposed from D7 landscape"
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ },
+ {
+  "id": "D7-C5",
+  "title": "Does colchicine reduce myocardial injury and cardiovascular events after noncardiac surgery: synthesis timed to the POPCORN and COLCAT readouts?",
+  "domains": [
+   "D7"
+  ],
+  "pico": {
+   "population": "Adults having noncardiac surgery",
+   "intervention": "Perioperative colchicine",
+   "comparator": "Placebo or usual care",
+   "outcomes": "Myocardial injury after noncardiac surgery; MACE and death at 30 days",
+   "timing": "Update at readouts of NCT05618353 and NCT06279000"
+  },
+  "decision": "Whether to give perioperative colchicine",
+  "decision_maker": "Anaesthetists, surgeons, cardiologists",
+  "why_now": "COP-AF did not show a significant MINS reduction (PMID 37640035) and further colchicine trials are due.",
+  "evidence_status": {
+   "key_pmids": [
+    "37640035",
+    "29900874",
+    "40511609",
+    "40884771"
+   ],
+   "latest_review": {
+    "pmid": "",
+    "date": ""
+   },
+   "guideline_position": []
+  },
+  "competing": [
+   {
+    "nct": "NCT05618353",
+    "n": 700,
+    "primary_completion": "2028-07-31",
+    "note": "POPCORN."
+   },
+   {
+    "nct": "NCT06279000",
+    "n": 880,
+    "primary_completion": "2028-03-30",
+    "note": "COLCAT."
+   },
+   {
+    "nct": "NCT06118034",
+    "n": 768,
+    "primary_completion": "2026-08-31",
+    "note": "Colchicine in cardiac surgery."
+   }
+  ],
+  "gap_type": "underpowered trials",
+  "designs": {
+   "primary": "Prospective meta-analysis with pre-specified update",
+   "alternative": "Bayesian reanalysis of COP-AF"
+  },
+  "data_required": "Trial-level data",
+  "data_sources": "Published trials and registry results",
+  "feasibility": "Deliverable by the owner; trials are small.",
+  "overlap": "No overlap with active owner projects.",
+  "target_journal": "Subspecialty journal likely",
+  "precedent_pmids": [],
+  "gates": {
+   "G1": {
+    "pass": true,
+    "note": "Perioperative MI and death are hard outcomes."
+   },
+   "G2": {
+    "pass": true,
+    "note": "One neutral trial and several ongoing; Guideline position unverified (extracts not yet retrieved); equipoise judged on trial evidence only."
+   },
+   "G3": {
+    "pass": true,
+    "note": "No adequately powered trial is expected; the individual trials are small."
+   },
+   "G4": {
+    "pass": true,
+    "note": "A prospective synthesis is citable only if trials report hard outcomes."
+   },
+   "G5": {
+    "pass": false,
+    "note": "Pooling a few small trials with a biomarker-defined primary outcome is incremental and may not reach a parent journal."
+   }
+  },
+  "scores": {
+   "impact": {
+    "score": 3,
+    "why": "Large surgical population but uncertain effect size."
+   },
+   "novelty": {
+    "score": 2,
+    "why": "Pooling of trials under way."
+   },
+   "equipoise": {
+    "score": 4,
+    "why": "One neutral trial and no confirmation."
+   },
+   "design": {
+    "score": 2,
+    "why": "Few small trials, surrogate-leaning outcome."
+   },
+   "timeliness": {
+    "score": 4,
+    "why": "Readouts due 2028."
+   },
+   "citation": {
+    "score": 2,
+    "why": "Small-trial pooled analyses seldom reach the top decile."
+   },
+   "feasibility": {
+    "score": 5,
+    "why": "Within owner methods."
+   }
+  },
+  "subspecialty_only": true,
+  "keywords": [
+   "colchicine",
+   "myocardial injury after noncardiac surgery",
+   "prospective meta-analysis"
+  ],
+  "next_actions": [
+   "Monitor trial registry status",
+   "Draft a PROSPERO protocol",
+   "Define a hard-outcome primary"
+  ],
+  "status": "candidate",
+  "status_history": [
+   {
+    "date": "2026-10-24",
+    "status": "candidate",
+    "reason": "Proposed from D7 landscape"
+   }
+  ],
+  "created": "2026-10-24",
+  "last_reviewed": "2026-10-24",
+  "audit": [],
+  "adversarial": {}
+ }
+]
