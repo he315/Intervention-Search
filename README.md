@@ -2,19 +2,19 @@
 
 ## Status
 
-- Last run: 2026-10-23 10:10 (Europe/London), daily.
-- Result: OK.
+- Last run: 2026-10-24 09:58 (Europe/London), daily.
+- Result: DEGRADED, source failure: europepmc.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: none recorded.
-- Backlog awaiting appraisal: 9083.
-- Records in the store: 51220 (Tier A 75, Tier B 874, Tier C 27917, Tier D 13271, untiered 9083).
+- Backlog awaiting appraisal: 8744.
+- Records in the store: 51329 (Tier A 75, Tier B 957, Tier C 28201, Tier D 13352, untiered 8744).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-10-23 |
-| europepmc | ok | 2026-10-23 |
-| medrxiv | ok | 2026-10-23 |
-| crossref | ok | 2026-10-23 |
-| ctgov | ok | 2026-10-23 |
+| pubmed | ok | 2026-10-24 |
+| europepmc | error: HTTP 503 for https://www.ebi.ac.uk/europepmc/webservices/rest/search?quer | 2026-10-23 |
+| medrxiv | ok | 2026-10-24 |
+| crossref | ok | 2026-10-24 |
+| ctgov | ok | 2026-10-24 |
 
 Warnings:
 
@@ -111,7 +111,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 - Weekly: [2026-W43](outputs/weekly/2026-W43.md)
 - Monthly: none yet
-- Daily: [2026-10-23](outputs/daily/2026/2026-10-23.md)
+- Daily: [2026-10-24](outputs/daily/2026/2026-10-24.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 
