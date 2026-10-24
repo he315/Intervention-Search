@@ -6,7 +6,7 @@
 - Result: DEGRADED, source failure: europepmc.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: none recorded.
 - Backlog awaiting appraisal: 8744.
-- Records in the store: 51339 (Tier A 75, Tier B 957, Tier C 28201, Tier D 13354, untiered 8752).
+- Records in the store: 51343 (Tier A 75, Tier B 957, Tier C 28201, Tier D 13354, untiered 8756).
 
 | Source | Health | Watermark |
 |---|---|---|
@@ -22,22 +22,22 @@ Warnings:
 
 ## Top ten priorities
 
-1. Q-026: Does systematic coronary imaging with guideline-directed prevention improve outcomes after type 2 myocardial infarction?, composite 80.0
-2. Q-006: Transportability of the microaxial flow pump trial result to unselected AMI-CS: target trial emulation by DanGer Shock eligibility, age and sex, composite 73.0
-3. Q-010: First-line inotrope and vasopressor strategy in SCAI stage C to D cardiogenic shock: registry-embedded multi-arm randomised trial, composite 73.0
-4. Q-028: Does routine postoperative troponin surveillance with a protocolised response reduce cardiovascular events after major noncardiac surgery?, composite 72.0
-5. Q-025: Continuation or withdrawal of renin-angiotensin system inhibitors after myocardial infarction with preserved ejection fraction: a registry-based randomised trial, composite 71.0
-6. Q-001: Time-varying effects of revascularisation versus medical therapy on spontaneous MI and cardiac death in stable coronary disease: reconstructed-IPD network meta-analysis, composite 70.0
-7. Q-016: Target trial emulation of TEER versus medical therapy in secondary MR patients outside the COAPT criteria, composite 69.0
-8. Q-018: Value of information for early intervention in asymptomatic severe degenerative MR, composite 69.0
-9. Q-004: PCI versus CABG in patients aged 75 years or older with multivessel or left main disease: target trial emulation in national registries, composite 68.0
-10. Q-011: Antithrombotic strategy after TAVI by atrial fibrillation status and CT leaflet thrombosis: reconstructed-IPD network meta-analysis with a pre-specified update at the next trial readouts, composite 68.0
+1. Q-026: Does systematic coronary imaging with guideline-directed prevention improve outcomes after type 2 myocardial infarction?, composite 76.0 ([brief](register/briefs/Q-026.md))
+2. Q-006: Transportability of the microaxial flow pump trial result to unselected AMI-CS: target trial emulation by DanGer Shock eligibility, age and sex, composite 73.0 ([brief](register/briefs/Q-006.md))
+3. Q-010: First-line inotrope and vasopressor strategy in SCAI stage C to D cardiogenic shock: registry-embedded multi-arm randomised trial, composite 73.0 ([brief](register/briefs/Q-010.md))
+4. Q-028: Does routine postoperative troponin surveillance with a protocolised response reduce cardiovascular events after major noncardiac surgery?, composite 72.0 ([brief](register/briefs/Q-028.md))
+5. Q-001: Time-varying effects of revascularisation versus medical therapy on spontaneous MI and cardiac death in stable coronary disease: reconstructed-IPD network meta-analysis, composite 70.0 ([brief](register/briefs/Q-001.md))
+6. Q-016: Target trial emulation of TEER versus medical therapy in secondary MR patients outside the COAPT criteria, composite 69.0 ([brief](register/briefs/Q-016.md))
+7. Q-011: Antithrombotic strategy after TAVI by atrial fibrillation status and CT leaflet thrombosis: reconstructed-IPD network meta-analysis with a pre-specified update at the next trial readouts, composite 68.0 ([brief](register/briefs/Q-011.md))
+8. Q-024: Incretin-based therapy after myocardial infarction in people with obesity or diabetes: target trial emulation of cardiovascular and heart failure outcomes, composite 68.0
+9. Q-025: Continuation or withdrawal of renin-angiotensin system inhibitors after myocardial infarction with preserved ejection fraction: a registry-based randomised trial, composite 67.0 ([brief](register/briefs/Q-025.md))
+10. Q-018: Value of information for early intervention in asymptomatic severe degenerative MR, composite 65.0
 
 Full ranking and next actions: [PRIORITIES.md](PRIORITIES.md). Full register: [register/QUESTIONS.md](register/QUESTIONS.md).
 
 ## Register
 
-By status: candidate 16, merged 1, parked 22.
+By status: candidate 15, merged 1, parked 23.
 
 By domain: D1 6, D2 7, D3 5, D4 5, D5 3, D6 6, D7 5, D8 6, D9 5.
 

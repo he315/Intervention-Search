@@ -6,7 +6,7 @@ Refreshed 24 October 2026. Ranked by composite score among questions that pass a
 
 ### 1. Q-026: Does systematic coronary imaging with guideline-directed prevention improve outcomes after type 2 myocardial infarction?
 
-Composite 80.0. Status: candidate. Domains: D7. Target journal: Circulation or European Heart Journal.
+Composite 76.0. Status: candidate. Domains: D7. Target journal: Circulation or European Heart Journal.
 
 Design: Registry-based randomised trial embedded in a national MI or hospital-episode registry
 
@@ -19,6 +19,8 @@ Next three actions:
 1. Extract coronary imaging yield and outcome estimates from PMID 35341327 and PMID 37777947 for sample size inputs
 2. Approach a registry partner about embedding randomisation
 3. Draft a target trial specification as a fallback emulation
+
+Full brief: [register/briefs/Q-026.md](register/briefs/Q-026.md)
 
 ### 2. Q-006: Transportability of the microaxial flow pump trial result to unselected AMI-CS: target trial emulation by DanGer Shock eligibility, age and sex
 
@@ -36,6 +38,8 @@ Next three actions:
 2. Confirm variable availability and linkage permissions with BCIS and ICNARC collaborators.
 3. Run the benchmarking emulation on the eligible stratum before any extension.
 
+Full brief: [register/briefs/Q-006.md](register/briefs/Q-006.md)
+
 ### 3. Q-010: First-line inotrope and vasopressor strategy in SCAI stage C to D cardiogenic shock: registry-embedded multi-arm randomised trial
 
 Composite 73.0. Status: candidate. Domains: D2. Target journal: JAMA Cardiology or Circulation.
@@ -51,6 +55,8 @@ Next three actions:
 1. Review the registered protocols of DOREMI-2 and ACTION-CS to define non-overlapping arms.
 2. Specify the registry fields needed for embedded randomisation.
 3. Run a target trial emulation as a feasibility check.
+
+Full brief: [register/briefs/Q-010.md](register/briefs/Q-010.md)
 
 ### 4. Q-028: Does routine postoperative troponin surveillance with a protocolised response reduce cardiovascular events after major noncardiac surgery?
 
@@ -68,23 +74,9 @@ Next three actions:
 2. Identify national audit data with postoperative troponin
 3. Approach perioperative investigators from PMID 28444280
 
-### 5. Q-025: Continuation or withdrawal of renin-angiotensin system inhibitors after myocardial infarction with preserved ejection fraction: a registry-based randomised trial
+Full brief: [register/briefs/Q-028.md](register/briefs/Q-028.md)
 
-Composite 71.0. Status: candidate. Domains: D6. Target journal: European Heart Journal, Circulation or JAMA Cardiology.
-
-Design: Registry-based randomised non-inferiority trial embedded in a national MI registry, with outcomes from linked records
-
-Why now: Open-label trials in MI with preserved ejection fraction reported neutral or modestly positive results for beta-blockers (38587241 hazard ratio 0.96; 40888702 hazard ratio 1.04; 40888716 hazard ratio 0.85; IPD 41211954 hazard ratio 0.97) and a spironolactone trial reported 0.91 (39555814). Together they have opened the question of which post-MI drugs remain justified in low-risk patients. The appraised subset contains no RAAS withdrawal trial; the original ACE inhibitor trials predate the store.
-
-Feasibility for the owner: It suits the owner's registry-embedded methods but needs a partner registry and funding.
-
-Next three actions:
-
-1. Search the full store and PubMed for contemporary RAAS inhibitor trials and withdrawal studies after MI to confirm the gap
-2. Run a UK Biobank target trial emulation as a feasibility and effect-size check
-3. Approach registry-based trial groups about a non-inferiority platform and a margin
-
-### 6. Q-001: Time-varying effects of revascularisation versus medical therapy on spontaneous MI and cardiac death in stable coronary disease: reconstructed-IPD network meta-analysis
+### 5. Q-001: Time-varying effects of revascularisation versus medical therapy on spontaneous MI and cardiac death in stable coronary disease: reconstructed-IPD network meta-analysis
 
 Composite 70.0. Status: candidate. Domains: D1. Target journal: Circulation or JACC (European Heart Journal as alternative).
 
@@ -100,7 +92,9 @@ Next three actions:
 2. Extract Kaplan-Meier curves and numbers at risk from PMIDs 32227755, 36335918, 41540107, 36027563 and the trials in PMIDs 32794407 and 34002203.
 3. Run a search outside the appraised subset for target-journal meta-analyses from 2024 to 2026 before committing.
 
-### 7. Q-016: Target trial emulation of TEER versus medical therapy in secondary MR patients outside the COAPT criteria
+Full brief: [register/briefs/Q-001.md](register/briefs/Q-001.md)
+
+### 6. Q-016: Target trial emulation of TEER versus medical therapy in secondary MR patients outside the COAPT criteria
 
 Composite 69.0. Status: candidate. Domains: D4. Target journal: Circulation or JACC.
 
@@ -116,39 +110,9 @@ Next three actions:
 2. Specify the target trial protocol and eligibility mapping to COAPT criteria
 3. Run a feasibility count of untreated eligible patients
 
-### 8. Q-018: Value of information for early intervention in asymptomatic severe degenerative MR
+Full brief: [register/briefs/Q-016.md](register/briefs/Q-016.md)
 
-Composite 69.0. Status: candidate. Domains: D4. Target journal: European Heart Journal or Circulation.
-
-Design: Patient-level Markov microsimulation with probabilistic sensitivity analysis and expected value of sample information
-
-Why now: Observational evidence favours early surgery (PMID 40799133: cardiovascular death HR 0.17, 95% CI 0.07 to 0.40) but is single-centre; one randomised trial (NCT03389542, 424 participants) is not due until 2033, so a model can size what that trial and others can resolve.
-
-Feasibility for the owner: Direct fit to the owner's skills.
-
-Next three actions:
-
-1. Extract natural history and surgical outcome inputs from the stored records
-2. Define model structure and perspective
-3. Draft a PROSPERO-style protocol for the input synthesis
-
-### 9. Q-004: PCI versus CABG in patients aged 75 years or older with multivessel or left main disease: target trial emulation in national registries
-
-Composite 68.0. Status: candidate. Domains: D1. Target journal: European Heart Journal or Circulation.
-
-Design: Target trial emulation using clone-censor-weight methods in a national registry linked to surgical and PCI audits
-
-Why now: Evidence conflicts and is mostly observational or a small subgroup: excess mortality with PCI in patients aged 74 or older (PMID 27009629) against no difference at 10 years in 575 elderly SYNTAXES patients (PMID 34082905); registry analyses in left main and NSTEMI favour CABG (PMIDs 37288564, 39601339).
-
-Feasibility for the owner: Registry access plausible through collaborators and visits but unconfirmed.
-
-Next three actions:
-
-1. Confirm registry access and available frailty proxies.
-2. Write the target trial protocol with clone-censor-weight analysis.
-3. Check outside the subset for recent age-specific PCI versus CABG analyses.
-
-### 10. Q-011: Antithrombotic strategy after TAVI by atrial fibrillation status and CT leaflet thrombosis: reconstructed-IPD network meta-analysis with a pre-specified update at the next trial readouts
+### 7. Q-011: Antithrombotic strategy after TAVI by atrial fibrillation status and CT leaflet thrombosis: reconstructed-IPD network meta-analysis with a pre-specified update at the next trial readouts
 
 Composite 68.0. Status: candidate. Domains: D3, D8. Target journal: European Heart Journal or JACC.
 
@@ -164,12 +128,63 @@ Next three actions:
 2. Extract Kaplan-Meier curves and event counts from the nine key trials and build the reconstruction pipeline
 3. Check D8 candidates for duplication and agree a single owner of the question
 
+Full brief: [register/briefs/Q-011.md](register/briefs/Q-011.md)
+
+### 8. Q-024: Incretin-based therapy after myocardial infarction in people with obesity or diabetes: target trial emulation of cardiovascular and heart failure outcomes
+
+Composite 68.0. Status: candidate. Domains: D6. Target journal: JAMA Cardiology or European Heart Journal.
+
+Design: Target trial emulation with new-user, active-comparator and clone-censor-weight methods in linked national registry and primary care data
+
+Why now: The appraised subset contains one cardiovascular outcome trial of semaglutide in obesity without diabetes (37952131) and two empagliflozin trials after MI (38587237, hazard ratio 0.90 for heart failure hospitalisation or death; and 36036746) but no outcome trial of an incretin agent initiated after MI. Large obesity outcome trials will report within the window but are not MI-specific.
+
+Feasibility for the owner: The owner's own datasets hold few exposed patients, so collaboration is needed.
+
+Next three actions:
+
+1. Search the registry for any MI-specific incretin trial and check the prior-MI enrolment of NCT05556512
+2. Count incretin initiators after MI in the QMUL UK Biobank extract and identify a linked primary care or Nordic data partner
+3. Write the target trial protocol with eligibility, time zero, strategies and estimand
+
+### 9. Q-025: Continuation or withdrawal of renin-angiotensin system inhibitors after myocardial infarction with preserved ejection fraction: a registry-based randomised trial
+
+Composite 67.0. Status: candidate. Domains: D6. Target journal: European Heart Journal, Circulation or JAMA Cardiology.
+
+Design: Registry-based randomised non-inferiority trial embedded in a national MI registry, with outcomes from linked records
+
+Why now: Open-label trials in MI with preserved ejection fraction reported neutral or modestly positive results for beta-blockers (38587241 hazard ratio 0.96; 40888702 hazard ratio 1.04; 40888716 hazard ratio 0.85; IPD 41211954 hazard ratio 0.97) and a spironolactone trial reported 0.91 (39555814). Together they have opened the question of which post-MI drugs remain justified in low-risk patients. The appraised subset contains no RAAS withdrawal trial; the original ACE inhibitor trials predate the store.
+
+Feasibility for the owner: It suits the owner's registry-embedded methods but needs a partner registry and funding.
+
+Next three actions:
+
+1. Search the full store and PubMed for contemporary RAAS inhibitor trials and withdrawal studies after MI to confirm the gap
+2. Run a UK Biobank target trial emulation as a feasibility and effect-size check
+3. Approach registry-based trial groups about a non-inferiority platform and a margin
+
+Full brief: [register/briefs/Q-025.md](register/briefs/Q-025.md)
+
+### 10. Q-018: Value of information for early intervention in asymptomatic severe degenerative MR
+
+Composite 65.0. Status: candidate. Domains: D4. Target journal: European Heart Journal or Circulation.
+
+Design: Patient-level Markov microsimulation with probabilistic sensitivity analysis and expected value of sample information
+
+Why now: Observational evidence favours early surgery (PMID 40799133: cardiovascular death HR 0.17, 95% CI 0.07 to 0.40) but is single-centre; one randomised trial (NCT03389542, 424 participants) is not due until 2033, so a model can size what that trial and others can resolve.
+
+Feasibility for the owner: Direct fit to the owner's skills.
+
+Next three actions:
+
+1. Extract natural history and surgical outcome inputs from the stored records
+2. Define model structure and perspective
+3. Draft a PROSPERO-style protocol for the input synthesis
+
 ## Watch list (ranks 11 to 25)
 
-11. Q-020: Heterogeneity of treatment effect of transcatheter tricuspid intervention by baseline risk, using reconstructed and trial-level data from the randomised trials, timed to the next pivotal readouts (composite 68.0)
-12. Q-024: Incretin-based therapy after myocardial infarction in people with obesity or diabetes: target trial emulation of cardiovascular and heart failure outcomes (composite 68.0)
-13. Q-015: Does the benefit of TEER in secondary MR vary by baseline risk and over time? A reconstructed-IPD meta-analysis of the randomised trials (composite 67.0)
-14. Q-012: Cardiometabolic and neurohormonal drugs after TAVI: target trial emulation benchmarked against the DapaTAVI randomised result (composite 64.0)
-15. Q-023: Does the benefit of an invasive strategy in older patients with NSTE-ACS or MI depend on frailty and follow-up time? A patient-level synthesis of the older-patient invasive-strategy trials (composite 64.0)
-16. Q-003: Operator and hospital volume thresholds for complex PCI: natural-experiment analysis in a national registry (composite 62.0)
+11. Q-004: PCI versus CABG in patients aged 75 years or older with multivessel or left main disease: target trial emulation in national registries (composite 64.0)
+12. Q-012: Cardiometabolic and neurohormonal drugs after TAVI: target trial emulation benchmarked against the DapaTAVI randomised result (composite 64.0)
+13. Q-023: Does the benefit of an invasive strategy in older patients with NSTE-ACS or MI depend on frailty and follow-up time? A patient-level synthesis of the older-patient invasive-strategy trials (composite 64.0)
+14. Q-003: Operator and hospital volume thresholds for complex PCI: natural-experiment analysis in a national registry (composite 62.0)
+15. Q-020: Heterogeneity of treatment effect of transcatheter tricuspid intervention by baseline risk, using reconstructed and trial-level data from the randomised trials, timed to the next pivotal readouts (composite 61.0)
 
