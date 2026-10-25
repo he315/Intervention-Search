@@ -119,7 +119,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 ## Latest reports
 
 - Weekly: [2026-W43](outputs/weekly/2026-W43.md)
-- Monthly: none yet
+- Monthly: [2026-10](outputs/monthly/2026-10.md)
 - Daily: [2026-10-25](outputs/daily/2026/2026-10-25.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)

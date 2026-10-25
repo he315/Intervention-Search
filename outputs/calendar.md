@@ -1,6 +1,6 @@
 # Calendar
 
-Updated 24 October 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
+Updated 25 October 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
 
 ## Congresses
 
@@ -24,7 +24,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 
 | NCT | Acronym | Title | N | Primary completion | Status | Domains |
 |---|---|---|---|---|---|---|
-| NCT06522997 | ALPINE 1 | A Study to Learn About How Well BAY3283142 Works and Its Safety in Participants With Chronic Kidney  | 1222 | 2025-10-24 () | completed | D6 |
 | NCT05648279 | PELICAN | Personalized Hemodynamic Management in High-risk Major Abdominal Surgery | 1128 | 2025-10-25 () | completed | D6, D7 |
 | NCT03298659 | iMODERN | iFR Guided Multi-vessel Revascularization During Percutaneous Coronary Intervention for Acute Myocar | 1146 | 2025-10-28 () | active not recruiting | D1, D6 |
 | NCT05752916 | OPTION | Intravenous Thrombolysis With rhTNK-tPA for Acute Non-large Vessel Occlusion in Extended Time Window | 570 | 2025-10-28 () | completed | D4 |
