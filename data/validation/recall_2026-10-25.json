@@ -1,0 +1,56 @@
+{
+  "D1": {
+    "n": 12,
+    "hit": 12,
+    "missed": [],
+    "recall": 1.0
+  },
+  "D2": {
+    "n": 5,
+    "hit": 5,
+    "missed": [],
+    "recall": 1.0
+  },
+  "D3": {
+    "n": 7,
+    "hit": 7,
+    "missed": [],
+    "recall": 1.0
+  },
+  "D4": {
+    "n": 3,
+    "hit": 3,
+    "missed": [],
+    "recall": 1.0
+  },
+  "D5": {
+    "n": 3,
+    "hit": 3,
+    "missed": [],
+    "recall": 1.0
+  },
+  "D6": {
+    "n": 6,
+    "hit": 6,
+    "missed": [],
+    "recall": 1.0
+  },
+  "D8": {
+    "n": 8,
+    "hit": 8,
+    "missed": [],
+    "recall": 1.0
+  },
+  "D9": {
+    "n": 4,
+    "hit": 4,
+    "missed": [],
+    "recall": 1.0
+  },
+  "D7": {
+    "n": 21,
+    "hit": 21,
+    "missed": [],
+    "recall": 1.0
+  }
+}

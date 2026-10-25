@@ -1,0 +1,178 @@
+{
+  "window": [
+    "2026-07-27",
+    "2026-10-25"
+  ],
+  "journals": {
+    "European Heart Journal": {
+      "crossref_items": 274,
+      "in_scope_by_text_rules": 45,
+      "indexed_in_pubmed": 45,
+      "missing_from_store": 8
+    },
+    "Circulation": {
+      "crossref_items": 51,
+      "in_scope_by_text_rules": 9,
+      "indexed_in_pubmed": 9,
+      "missing_from_store": 3
+    },
+    "Journal of the American College of Cardiology": {
+      "crossref_items": 0,
+      "in_scope_by_text_rules": 0,
+      "indexed_in_pubmed": 0,
+      "missing_from_store": 0
+    },
+    "JAMA Cardiology": {
+      "crossref_items": 47,
+      "in_scope_by_text_rules": 1,
+      "indexed_in_pubmed": 1,
+      "missing_from_store": 1
+    },
+    "New England Journal of Medicine": {
+      "crossref_items": 35,
+      "in_scope_by_text_rules": 5,
+      "indexed_in_pubmed": 5,
+      "missing_from_store": 0
+    },
+    "The Lancet": {
+      "crossref_items": 0,
+      "in_scope_by_text_rules": 0,
+      "indexed_in_pubmed": 0,
+      "missing_from_store": 0
+    },
+    "JAMA": {
+      "crossref_items": 290,
+      "in_scope_by_text_rules": 6,
+      "indexed_in_pubmed": 6,
+      "missing_from_store": 0
+    },
+    "BMJ": {
+      "crossref_items": 0,
+      "in_scope_by_text_rules": 0,
+      "indexed_in_pubmed": 0,
+      "missing_from_store": 0
+    },
+    "Nature Medicine": {
+      "crossref_items": 197,
+      "in_scope_by_text_rules": 1,
+      "indexed_in_pubmed": 1,
+      "missing_from_store": 0
+    }
+  },
+  "missing": [
+    {
+      "journal": "European Heart Journal",
+      "doi": "10.1093/eurheartj/ehag580",
+      "pmid": "42555035",
+      "title": "Hydroxychloroquine-associated myocardial injury in systemic lupus erythematosus: cardiac MRI and histologic findings",
+      "pub_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "journal": "European Heart Journal",
+      "doi": "10.1093/eurheartj/ehag612",
+      "pmid": "42583869",
+      "title": "Gender-related risk of myocardial infarction and subclinical coronary atherosclerosis: a Danish population cohort study",
+      "pub_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "journal": "European Heart Journal",
+      "doi": "10.1093/eurheartj/ehag658",
+      "pmid": "42619315",
+      "title": "Surgical aortic valve replacement in patients with moderately dilated aorta: long-term risk of aortic events",
+      "pub_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "journal": "European Heart Journal",
+      "doi": "10.1093/eurheartj/ehag553",
+      "pmid": "42596600",
+      "title": "Immunological risk identified by single-cell multi-omics and cardiovascular outcomes",
+      "pub_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "journal": "European Heart Journal",
+      "doi": "10.1093/eurheartj/ehag681",
+      "pmid": "42690735",
+      "title": "Ischaemic stroke in atrial flutter vs fibrillation: a Finnish nationwide study",
+      "pub_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "journal": "European Heart Journal",
+      "doi": "10.1093/eurheartj/ehag705",
+      "pmid": "42661450",
+      "title": "Microvascular resistance reserve and cardiovascular outcomes: the FLOW-CMD registry",
+      "pub_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "journal": "European Heart Journal",
+      "doi": "10.1093/eurheartj/ehag704",
+      "pmid": "42670784",
+      "title": "Auto-regulated bioprosthetic total artificial heart as bridge to transplantation: the EFICAS study",
+      "pub_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "journal": "European Heart Journal",
+      "doi": "10.1093/eurheartj/ehag802",
+      "pmid": "42856041",
+      "title": "Ethnicity does not equal region and patient-level evidence should always prevail over aggregate-data inference: the treatment effects of clopidogrel are consistent across Asian and non-Asian regions of enrolment",
+      "pub_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "journal": "Circulation",
+      "doi": "10.1161/circulationaha.126.082436",
+      "pmid": "42670293",
+      "title": "Effects of Evolocumab on Mortality Outcomes in Patients Without Previous Myocardial Infarction or Stroke: A Prespecified Analysis of the VESALIUS-CV Randomized Clinical Trial",
+      "pub_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "journal": "Circulation",
+      "doi": "10.1161/circulationaha.126.080483",
+      "pmid": "42708217",
+      "title": "Macrotroponin Complexes and Risk of Cardiovascular Events",
+      "pub_types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "journal": "Circulation",
+      "doi": "10.1161/cir.0000000000001474",
+      "pmid": "42817881",
+      "title": "Impact of Undertreated Antithrombotic Therapy on Adverse Patient Outcomes: A Scientific Statement From the American Heart Association",
+      "pub_types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "journal": "JAMA Cardiology",
+      "doi": "10.1001/jamacardio.2026.4222",
+      "pmid": "42814420",
+      "title": "No-Touch vs Conventional Vein Grafts in Coronary Surgery",
+      "pub_types": [
+        "Journal Article"
+      ]
+    }
+  ],
+  "summary": {
+    "indexed_in_scope": 67,
+    "missing": 12,
+    "completeness": 0.821
+  }
+}
