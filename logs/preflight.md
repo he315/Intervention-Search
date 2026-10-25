@@ -13,3 +13,5 @@
 2026-10-23: resume run. Previous attempt detected. Network: PubMed, Europe PMC, Crossref, ClinicalTrials.gov, medRxiv reachable (200); OpenAlex 429 (fallback to Europe PMC). CONTACT_EMAIL not set. Pushed to main as the task prompt directs.
 
 2026-10-24: resume run. Previous attempt detected. Network: PubMed, Crossref, ClinicalTrials.gov, medRxiv reachable (200); Europe PMC 503 on first probe; OpenAlex 429 (fallback to Europe PMC). CONTACT_EMAIL not set. Pushed to main as the task prompt directs.
+
+2026-10-25: resume run. Previous attempt detected. The 18 synthesis commits (landscapes, register, briefs) sat only on the claude/ branch; main fast-forwarded to include them. Network: PubMed, Europe PMC, Crossref, ClinicalTrials.gov, medRxiv reachable (200); OpenAlex 429 (fallback to Europe PMC). CONTACT_EMAIL not set. pytest not importable under the default python3 at first check.
