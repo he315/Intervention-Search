@@ -1,6 +1,6 @@
 # Calendar
 
-Updated 25 October 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
+Updated 26 October 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
 
 ## Congresses
 
@@ -24,7 +24,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 
 | NCT | Acronym | Title | N | Primary completion | Status | Domains |
 |---|---|---|---|---|---|---|
-| NCT05648279 | PELICAN | Personalized Hemodynamic Management in High-risk Major Abdominal Surgery | 1128 | 2025-10-25 () | completed | D6, D7 |
 | NCT03298659 | iMODERN | iFR Guided Multi-vessel Revascularization During Percutaneous Coronary Intervention for Acute Myocar | 1146 | 2025-10-28 () | active not recruiting | D1, D6 |
 | NCT05752916 | OPTION | Intravenous Thrombolysis With rhTNK-tPA for Acute Non-large Vessel Occlusion in Extended Time Window | 570 | 2025-10-28 () | completed | D4 |
 | NCT05454150 | BEST | Balloon-Expandable Versus Self-expanding Transcatheter Heart Valve for Treatment of Symptomatic Nati | 1960 | 2025-10-29 () | active not recruiting | D3, D8 |
@@ -1063,7 +1062,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT06143488 |  | Endovascular Therapy Versus Best Medical Treatment for Acute Large Vessel Occlusion Stroke With Low  | 264 | 2027-12-31 () | recruiting | D6, D8 |
 | NCT06322953 | RESTARTtlCrH | Timing to Restart Direct Oral Anticoagulants After Traumatic Intracranial Haemorrhage | 1084 | 2027-12-31 () | recruiting | D4, D6, D8 |
 | NCT06374277 | MedAAAction | Pharmacy-led Transitions of Care Intervention to Improve Medication Adherence | 388 | 2027-12-31 () | recruiting | D6 |
-| NCT06409117 |  | 3rd Generation Resorbable Magnesium Scaffolds vs Biodegradable Polymer Stents in NSTE/ACS | 220 | 2027-12-31 () | not yet recruiting | D1, D6 |
 | NCT06465719 | RAINBOW-MBH | A Trial for Minimally Invasive Neurosurgery With AI-assisted Robotic Guidance for Moderate Basal Gan | 330 | 2027-12-31 () | recruiting | D4 |
 | NCT06654375 |  | Thrombectomy Versus Best Medical Management in Large Vessel Occlusion Stroke Patients Presenting Bey | 350 | 2027-12-31 () | recruiting | D4 |
 | NCT06708000 | PERMI | Personalized Evaluation of Susptected Myocardial Ischemia | 2000 | 2027-12-31 () | enrolling by invitation | D1, D6 |

@@ -1,1 +1,506 @@
-[]
+[
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.1546",
+    "qid": "Q-010",
+    "hits": [
+      "dobutamine",
+      "epinephrine",
+      "cardiogenic shock"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.1549",
+    "qid": "Q-006",
+    "hits": [
+      "microaxial flow pump",
+      "impella",
+      "cardiogenic shock"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.1557",
+    "qid": "Q-010",
+    "hits": [
+      "dobutamine",
+      "epinephrine",
+      "cardiogenic shock"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.1560",
+    "qid": "Q-010",
+    "hits": [
+      "epinephrine",
+      "vasopressor",
+      "cardiogenic shock"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.1563",
+    "qid": "Q-006",
+    "hits": [
+      "microaxial flow pump",
+      "impella",
+      "cardiogenic shock"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.1626",
+    "qid": "Q-004",
+    "hits": [
+      "left main",
+      "heart team",
+      "registry"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.1802",
+    "qid": "Q-004",
+    "hits": [
+      "older patients",
+      "left main",
+      "registry"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.1807",
+    "qid": "Q-006",
+    "hits": [
+      "cardiogenic shock",
+      "older patients",
+      "women"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.1830",
+    "qid": "Q-004",
+    "hits": [
+      "older patients",
+      "left main",
+      "registry"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.1838",
+    "qid": "Q-024",
+    "hits": [
+      "myocardial infarction",
+      "obesity",
+      "secondary prevention"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.1842",
+    "qid": "Q-028",
+    "hits": [
+      "myocardial injury after noncardiac surgery",
+      "perioperative"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.1916",
+    "qid": "Q-025",
+    "hits": [
+      "withdrawal",
+      "discontinuation",
+      "myocardial infarction"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.1924",
+    "qid": "Q-025",
+    "hits": [
+      "withdrawal",
+      "discontinuation",
+      "myocardial infarction"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.1934",
+    "qid": "Q-023",
+    "hits": [
+      "older patients",
+      "nstemi",
+      "elderly acs"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.1993",
+    "qid": "Q-023",
+    "hits": [
+      "frailty",
+      "nstemi",
+      "non-st-elevation"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.1997",
+    "qid": "Q-023",
+    "hits": [
+      "frailty",
+      "invasive strategy",
+      "nstemi",
+      "non-st-elevation"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2042",
+    "qid": "Q-010",
+    "hits": [
+      "inotrope",
+      "dobutamine",
+      "epinephrine",
+      "vasopressor",
+      "cardiogenic shock"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2053",
+    "qid": "Q-006",
+    "hits": [
+      "impella",
+      "cardiogenic shock",
+      "danger shock"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2055",
+    "qid": "Q-006",
+    "hits": [
+      "microaxial flow pump",
+      "impella",
+      "cardiogenic shock"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2066",
+    "qid": "Q-006",
+    "hits": [
+      "microaxial flow pump",
+      "impella",
+      "cardiogenic shock"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2070",
+    "qid": "Q-010",
+    "hits": [
+      "dobutamine",
+      "adrenaline",
+      "epinephrine",
+      "cardiogenic shock"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2074",
+    "qid": "Q-006",
+    "hits": [
+      "impella",
+      "cardiogenic shock",
+      "danger shock"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2092",
+    "qid": "Q-016",
+    "hits": [
+      "teer",
+      "heart failure"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2146",
+    "qid": "Q-016",
+    "hits": [
+      "secondary mitral regurgitation",
+      "teer",
+      "heart failure"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2149",
+    "qid": "Q-020",
+    "hits": [
+      "tricuspid",
+      "tricuspid regurgitation",
+      "transcatheter tricuspid valve replacement"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2242",
+    "qid": "Q-016",
+    "hits": [
+      "teer",
+      "heart failure"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2243",
+    "qid": "Q-016",
+    "hits": [
+      "teer",
+      "heart failure"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2757",
+    "qid": "Q-023",
+    "hits": [
+      "frailty",
+      "invasive strategy",
+      "nstemi"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2798",
+    "qid": "Q-023",
+    "hits": [
+      "frailty",
+      "invasive strategy",
+      "conservative strategy"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2887",
+    "qid": "Q-012",
+    "hits": [
+      "dapagliflozin",
+      "glp-1 receptor agonist",
+      "transcatheter aortic valve"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2896",
+    "qid": "Q-016",
+    "hits": [
+      "teer",
+      "heart failure"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2897",
+    "qid": "Q-016",
+    "hits": [
+      "secondary mitral regurgitation",
+      "teer"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2899",
+    "qid": "Q-016",
+    "hits": [
+      "teer",
+      "heart failure"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2906",
+    "qid": "Q-016",
+    "hits": [
+      "secondary mitral regurgitation",
+      "teer"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2908",
+    "qid": "Q-016",
+    "hits": [
+      "teer",
+      "heart failure"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2908",
+    "qid": "Q-020",
+    "hits": [
+      "tricuspid",
+      "tricuspid regurgitation",
+      "tricuspid teer"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2913",
+    "qid": "Q-020",
+    "hits": [
+      "tricuspid",
+      "tricuspid regurgitation",
+      "transcatheter tricuspid valve replacement"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2920",
+    "qid": "Q-020",
+    "hits": [
+      "tricuspid",
+      "tricuspid regurgitation",
+      "transcatheter tricuspid valve replacement"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2928",
+    "qid": "Q-020",
+    "hits": [
+      "tricuspid",
+      "tricuspid regurgitation",
+      "transcatheter tricuspid valve replacement"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2932",
+    "qid": "Q-020",
+    "hits": [
+      "tricuspid",
+      "tricuspid regurgitation",
+      "transcatheter tricuspid valve replacement"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2933",
+    "qid": "Q-020",
+    "hits": [
+      "tricuspid",
+      "tricuspid regurgitation",
+      "transcatheter tricuspid valve replacement"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.2968",
+    "qid": "Q-010",
+    "hits": [
+      "epinephrine",
+      "vasopressor",
+      "cardiogenic shock"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.3193",
+    "qid": "Q-004",
+    "hits": [
+      "older patients",
+      "left main",
+      "registry"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.3329",
+    "qid": "Q-024",
+    "hits": [
+      "myocardial infarction",
+      "obesity",
+      "secondary prevention"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.3764",
+    "qid": "Q-006",
+    "hits": [
+      "microaxial flow pump",
+      "cardiogenic shock",
+      "women"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.3815",
+    "qid": "Q-023",
+    "hits": [
+      "frailty",
+      "nstemi",
+      "elderly acs"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.3904",
+    "qid": "Q-016",
+    "hits": [
+      "teer",
+      "heart failure"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.4092",
+    "qid": "Q-011",
+    "hits": [
+      "single antiplatelet",
+      "direct oral anticoagulant",
+      "network meta-analysis"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.4418",
+    "qid": "Q-023",
+    "hits": [
+      "invasive strategy",
+      "nstemi",
+      "conservative strategy"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.4450",
+    "qid": "Q-006",
+    "hits": [
+      "microaxial flow pump",
+      "impella",
+      "cardiogenic shock",
+      "danger shock"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "doi:10.1093/eurheartj/ehag785.956",
+    "qid": "Q-016",
+    "hits": [
+      "teer",
+      "heart failure"
+    ],
+    "trial_overlap": []
+  }
+]
