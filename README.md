@@ -2,23 +2,22 @@
 
 ## Status
 
-- Last run: 2026-10-26 08:57 (Europe/London), daily.
-- Result: OK.
+- Last run: 2026-10-27 08:58 (Europe/London), daily.
+- Result: DEGRADED, source failure: europepmc.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: none recorded.
-- Backlog awaiting appraisal: 9343.
-- Records in the store: 52778 (Tier A 76, Tier B 1009, Tier C 28883, Tier D 13455, untiered 9355).
+- Backlog awaiting appraisal: 8990.
+- Records in the store: 52844 (Tier A 76, Tier B 1029, Tier C 29106, Tier D 13631, untiered 9002).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-10-26 |
-| europepmc | ok | 2026-10-26 |
-| medrxiv | ok | 2026-10-26 |
-| crossref | ok | 2026-10-26 |
-| ctgov | ok | 2026-10-26 |
+| pubmed | ok | 2026-10-27 |
+| europepmc | error: HTTP 503 for https://www.ebi.ac.uk/europepmc/webservices/rest/search?quer | 2026-10-26 |
+| medrxiv | ok | 2026-10-27 |
+| crossref | ok | 2026-10-27 |
+| ctgov | ok | 2026-10-27 |
 
 Warnings:
 
-- New-record count 1364 is above three times the 28-run median (79); query self-check recommended.
 - CONTACT_EMAIL is not set in the environment, so NCBI, Crossref and OpenAlex requests carry no contact address.
 
 ## Top ten priorities
@@ -44,7 +43,7 @@ By domain: D1 6, D2 7, D3 5, D4 5, D5 3, D6 6, D7 5, D8 6, D9 5.
 
 ## Tier A in the past seven days
 
-- [Temporary mechanical circulatory support in cardiogenic shock.](https://pubmed.ncbi.nlm.nih.gov/42870411/) (European heart journal)
+None.
 
 ## Next eight weeks
 
@@ -121,7 +120,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 - Weekly: [2026-W44](outputs/weekly/2026-W44.md)
 - Monthly: [2026-10](outputs/monthly/2026-10.md)
-- Daily: [2026-10-26](outputs/daily/2026/2026-10-26.md)
+- Daily: [2026-10-27](outputs/daily/2026/2026-10-27.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 

@@ -1,6 +1,6 @@
 # Calendar
 
-Updated 26 October 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
+Updated 27 October 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
 
 ## Congresses
 
@@ -180,7 +180,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT05554588 | ATTRACTIVE | Intrathrombus Thrombolysis Versus Aspiration Thrombectomy During Primary PCI | 2500 | 2026-03-01 () | unknown | D1, D2, D6 |
 | NCT05668559 |  | Transcranial Magnetic Stimulation and Perioperative Neurocognitive Disorders | 280 | 2026-03-01 () | unknown | D6 |
 | NCT05731687 | Hybrid DEB | Bifurcation PCI With a Hybrid Strategy With Drug Eluting Balloons Versus a Stepwise Provisional Two- | 500 | 2026-03 () | recruiting | D1, D6 |
-| NCT05940597 | FACIL AF | Pulsed Field Ablation vs Cryoablation In Paroxysmal Atrial Fibrillation | 350 | 2026-03 () | active not recruiting | D6 |
 | NCT06203873 | BioMetal | A Comparison of Biodegradable and Metal Occluders in Patients With PFO and Migraine | 400 | 2026-03-01 () | recruiting | D9 |
 | NCT06323018 | PRINCIPAL | Effects of Remote Ischaemic Preconditioning in Cemented Hip Arthroplasty. | 200 | 2026-03 () | recruiting | D6, D7 |
 | NCT06696820 | CAPTAIN | Efficacy and Safety of Early Combined Therapy With PCSK9 Inhibitors and Statins in Acute Ischemic St | 429 | 2026-03-01 () | completed | D4 |
@@ -197,6 +196,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT06301412 | COTTIS-2 | Combination of Hypothermia and Thrombectomy in Acute Stroke | 400 | 2026-03-18 () | recruiting | D4 |
 | NCT05225961 | ATILA | ATILA Project: Aspirin Versus Tirofiban in Endovascular Treatment for Patients With Acute Ischemic S | 240 | 2026-03-20 () | completed | D4, D8 |
 | NCT05143177 |  | A Study to Evaluate the Efficacy and Safety of DA-1229 (Evogliptin) in Patient's Calcific Aortic Val | 486 | 2026-03-21 () | terminated | D3, D6 |
+| NCT05940597 | FACIL AF | Pulsed Field Ablation vs Cryoablation In Paroxysmal Atrial Fibrillation | 354 | 2026-03-23 () | completed | D6 |
 | NCT05493163 | PRAGUE-26 | Catheter-directed Thrombolysis in Intermediate-high Risk Acute Pulmonary Embolism | 558 | 2026-03-30 () | completed | D2, D9 |
 | NCT05800002 | ULTIMATE IV | IVUS-guided DES Implantation in Coronary Calcification | 864 | 2026-03-30 () | recruiting | D1, D6 |
 | NCT06541691 | COATED-AIR | Coated or Chewable Aspirin and a Hybrid Strategy to Mitigate Adverse Effects of Air Pollution in Sta | 3000 | 2026-03-30 () | recruiting | D6, D8 |
@@ -286,6 +286,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT06284837 | SAFER-TAVI | Secondary Access - FEmoral or Radial in Transcatheter Aortic Valve Implantation? | 542 | 2026-06-10 () | completed | D3, D6 |
 | NCT02662751 | VASCU | Performing a Low-dose, Whole-body Angiography as the First Element of an Imaging Assessment Followin | 260 | 2026-06-12 () | recruiting | D9 |
 | NCT05953480 | Revive | A Phase 2b, Randomized, Double-blind Study of Redasemtide (S-005151) in Adult Participants With Acut | 680 | 2026-06-15 () | completed | D4 |
+| NCT04750616 | NACAM | NAD+ Augmentation in Cardiac Surgery Associated Myocardial Injury Trial | 331 | 2026-06-19 () | completed | D7 |
 | NCT05511792 | TAILOR-TAVR | Down Sizing Strategy (HANGZHOU Solution) vs Standard Sizing Strategy TAVR in Bicuspid Aortic Stenosi | 206 | 2026-06-22 () | active not recruiting | D3 |
 | NCT05132361 |  | SELUTION4SFA Trial | 300 | 2026-06-24 () | active not recruiting | D6 |
 | NCT06951451 |  | Effect of Smartphone Application (MED-AD) on Medication Adherence Among Patients With Cardiovascular | 1000 | 2026-06-28 () | enrolling by invitation | D6 |
@@ -874,7 +875,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT05219110 | HIKO-STEC | Hyperhydration in Children With Shiga Toxin-Producing E. Coli Infection | 1040 | 2027-08-31 () | recruiting | D6 |
 | NCT06904664 |  | An Application That Can Provide Early Warning of Temperature Health Risks and Give Protective Sugges | 10184 | 2027-08-31 () | not yet recruiting | D4 |
 | NCT07252544 |  | Isosorbide Mononitrate and Butylphthalide to Reduce the Risk of Disability in Patients With Acute La | 3156 | 2027-08-31 () | not yet recruiting | D4, D6 |
-| NCT07353749 |  | Efficacy and Safety of Methylprednisolone After Flow-Diverter Stent Implantation in Unruptured Intra | 864 | 2027-08-31 () | not yet recruiting | D4 |
 | NCT05149755 |  | Evolut™ EXPAND TAVR II Pivotal Trial | 650 | 2027-09 () | active not recruiting | D3 |
 | NCT05268094 | COMPASS | Comparison of Methods of Pulmonary Blood Flow Augmentation in Neonates: Shunt Versus Stent (The COMP | 300 | 2027-09-01 () | active not recruiting | D1 |
 | NCT05292651 | PERFECTPSP | Optimal Stent Deployment Strategy of Contemporary Stents | 248 | 2027-09-01 () | recruiting | D1, D6 |
@@ -965,7 +965,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT06095765 | COL BE PCI | Colchicine in Belgium in Patients With Coronary Artery Disease After Percutaneous Coronary Intervent | 2770 | 2027-11-01 () | recruiting | D1, D6 |
 | NCT06588634 |  | The PERSEVERE Study | 200 | 2027-11 () | recruiting | D9 |
 | NCT06692075 | ECLS-OHCA | Emergency Total ECLS vs Standard ACLS With ECMO Bailout for Survival in Refractory OHCA | 332 | 2027-11 () | active not recruiting | D1, D2 |
-| NCT06767345 |  | Comparison of Moderate-Intensity Statin Plus Ezetimibe vs. High-Intensity Statin for Coronary Plaque | 408 | 2027-11 () | active not recruiting | D1, D6 |
+| NCT06767345 |  | Comparison of Moderate-Intensity Statin Plus Ezetimibe vs. High-Intensity Statin for Coronary Plaque | 410 | 2027-11 () | active not recruiting | D1, D6 |
 | NCT07038265 | BREAK | Patient-centered Personalized Cardiac Rehabilitation in Post Acute Coronary Syndrome (BREAK-trial) | 202 | 2027-11 () | recruiting | D6 |
 | NCT07157631 | ESTA | Efficacy and Safety of Tranexamic Acid in Adult Liver Transplantation---ESTA Trial | 1546 | 2027-11-01 () | recruiting | D7 |
 | NCT07191860 | OXYGEN-RCT | Paclitaxel-Coated Pulmonary Balloon for the Treatment of Benign Central Airway Stenosis | 200 | 2027-11-01 () | recruiting | D1 |
@@ -1432,6 +1432,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07175649 | PEARL-MERIT | Methylprednisolone Sodium Succinate With Endovascular ThRombectomy for Large Ischemic STroke | 912 | 2028-12 () | not yet recruiting | D4 |
 | NCT07237048 |  | Minocycline in Stroke Study at Maimonides | 1164 | 2028-12-01 () | recruiting | D4 |
 | NCT07302854 | MeVO-TNK Ⅱ | Intra-arterial Recombinant Human Tenecteplase Tissue-type Plasminogen Activator (rhTNK-tPA) Thrombol | 382 | 2028-12 () | recruiting | D4 |
+| NCT07353749 |  | Efficacy and Safety of Methylprednisolone After Flow-Diverter Stent Implantation in Unruptured Intra | 864 | 2028-12-01 () | not yet recruiting | D4, D6 |
 | NCT07475949 | UTOPIA | Unknown Time of Onset Stroke RePerfusIon Without Advanced Imaging | 352 | 2028-12 () | recruiting | D4 |
 | NCT07583446 | RESCUE HF-CS | Randomized Evaluation of Istaroxime for Stabilization in Acute Heart Failure-Cardiogenic Shock | 600 | 2028-12 () | recruiting | D2, D6 |
 | NCT07594301 |  | Minocycline After Successful Endovascular Thrombectomy Recanalization in Posterior Circulation Arter | 234 | 2028-12 () | recruiting | D4 |
@@ -1723,4 +1724,5 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07795398 | DAN-RELEASE | DAN-RELEASE - Reconsidering Long-Term Aspirin in the Elderly Patients With Stable Ischemic Heart Dis | 7000 | 2029-10 () | recruiting | D1, D6 |
 | NCT07190690 | DestinACSion | Comparison of a Contemporary Sirolimus-eluting Stent (ihtDEStiny®) With Another Everolimus-eluting S | 2100 | 2029-10-15 () | recruiting | D1, D6 |
 | NCT07671469 | PerP | Personalized Blood Transfusion Protocol for Cardiac Patients | 900 | 2029-10-19 () | not yet recruiting | D6 |
+| NCT07000357 | AZURE-Outcomes | A Phase III Study of AZD0780 on Major Adverse CV Events in Patients With a History of ASCVD Events o | 15100 | 2029-10-26 () | recruiting | D1, D6 |
 
