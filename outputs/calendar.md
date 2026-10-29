@@ -1,6 +1,6 @@
 # Calendar
 
-Updated 28 October 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
+Updated 29 October 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
 
 ## Congresses
 
@@ -24,8 +24,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 
 | NCT | Acronym | Title | N | Primary completion | Status | Domains |
 |---|---|---|---|---|---|---|
-| NCT03298659 | iMODERN | iFR Guided Multi-vessel Revascularization During Percutaneous Coronary Intervention for Acute Myocar | 1146 | 2025-10-28 () | active not recruiting | D1, D6 |
-| NCT05752916 | OPTION | Intravenous Thrombolysis With rhTNK-tPA for Acute Non-large Vessel Occlusion in Extended Time Window | 570 | 2025-10-28 () | completed | D4 |
 | NCT05454150 | BEST | Balloon-Expandable Versus Self-expanding Transcatheter Heart Valve for Treatment of Symptomatic Nati | 1960 | 2025-10-29 () | active not recruiting | D3, D8 |
 | NCT03969953 | TRACK | Treatment of Cardiovascular Disease With Low Dose Rivaroxaban in Advanced Chronic Kidney Disease | 1753 | 2025-10-30 () | completed | D6 |
 | NCT06189950 |  | Registration Trial of the Intracranial Visualized Stent for the Wide-necked Intracranial Aneurysms:R | 200 | 2025-10-30 () | recruiting | D4 |
@@ -903,7 +901,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07756801 | OFFLOAD-SHOCK | Capital Offload-Shock | 456 | 2027-09 () | not yet recruiting | D2, D6 |
 | NCT07820800 | PREMAP | NMR Metabolomics-Based Risk Assessment and Stratified Digital Health Interventions in Middle-Aged Ad | 1400 | 2027-09 () | recruiting | D6 |
 | NCT07545369 | TAVR | ULTRA-EVOLUT RCT: A Comparison of Latest-Generation TAVR Valves | 200 | 2027-09-12 () | not yet recruiting | D3 |
-| NCT03418961 |  | S1501 Dual Observational and Randomized Cohort Study of Patients With Metastatic HER-2+ Breast Cance | 491 | 2027-09-15 () | recruiting | D6 |
 | NCT07100483 |  | Comparing Surgical Management Methods of Atrial Fibrillation | 220 | 2027-09-15 () | enrolling by invitation | D9 |
 | NCT07004530 |  | the MCCE vs EGD Trial | 238 | 2027-09-24 () | not yet recruiting | D6 |
 | NCT05488665 | COMPLETE | The COMPLETE Treatment of Bifurcation With Two-stent Techniques: Randomized Comparison of Crush Vers | 512 | 2027-09-27 () | recruiting | D1, D6 |
@@ -1238,7 +1235,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07592312 | CT-PROVE | Computed Tomography Angiography Based Procedural Planning in PeRcutaneOus Coronary InterVEntion | 200 | 2028-05-20 () | not yet recruiting | D1, D2, D6 |
 | NCT07641231 | RAPID-STEMI | Reperfusion Approach in Predicted In-hospital Delay for Primary PCI in STEMI | 240 | 2028-05-20 () | not yet recruiting | D1, D2, D6, D8 |
 | NCT06711016 | TDMCO-ECPR | Target-directed Management of Cerebral Oxygenation in Patients After Receiving ECPR | 654 | 2028-05-30 () | recruiting | D2 |
-| NCT07598799 | RAPIDIMPROVE | Rapid Local Ischemic Postconditioning on Stroke After Thrombectomy | 448 | 2028-05-30 () | not yet recruiting | D4 |
+| NCT07598799 | RAPIDIMPROVE | Rapid Local Ischemic Postconditioning on Stroke After Thrombectomy | 448 | 2028-05-30 () | recruiting | D4 |
 | NCT07713355 |  | The Impact of Multimodal Brain Monitoring on Postoperative Outcomes in Elderly Patients Undergoing M | 368 | 2028-05-30 () | not yet recruiting | D6, D7 |
 | NCT03915327 |  | Short-term Intravenous Iron Isomaltose Anhydride for IDA | 1600 | 2028-05-31 () | not yet recruiting | D6 |
 | NCT06898086 | PURETAVI | Transfemoral TAVI With or Without Coronary Angiogram in Patients With Severe Aortic Stenosis (PURE T | 620 | 2028-05-31 () | enrolling by invitation | D3, D6 |

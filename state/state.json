@@ -752,23 +752,23 @@
     "retrieval_pending": 0
   },
   "watermarks": {
-    "pubmed:D1": "2026-10-28",
-    "pubmed:D2": "2026-10-28",
-    "pubmed:D3": "2026-10-28",
-    "pubmed:D4": "2026-10-28",
-    "pubmed:D5": "2026-10-28",
-    "pubmed:D6": "2026-10-28",
-    "pubmed:D7": "2026-10-28",
-    "pubmed:D8": "2026-10-28",
-    "pubmed:D9": "2026-10-28",
-    "pubmed:corrections": "2026-10-28",
-    "europepmc:preprints": "2026-10-28",
-    "medrxiv": "2026-10-28",
-    "ctgov": "2026-10-28",
-    "crossref": "2026-10-28"
+    "pubmed:D1": "2026-10-29",
+    "pubmed:D2": "2026-10-29",
+    "pubmed:D3": "2026-10-29",
+    "pubmed:D4": "2026-10-29",
+    "pubmed:D5": "2026-10-29",
+    "pubmed:D6": "2026-10-29",
+    "pubmed:D7": "2026-10-29",
+    "pubmed:D8": "2026-10-29",
+    "pubmed:D9": "2026-10-29",
+    "pubmed:corrections": "2026-10-29",
+    "europepmc:preprints": "2026-10-29",
+    "medrxiv": "2026-10-29",
+    "ctgov": "2026-10-29",
+    "crossref": "2026-10-29"
   },
   "last_runs": {
-    "daily": "2026-10-28",
+    "daily": "2026-10-29",
     "weekly": "2026-W44",
     "monthly": "2026-10",
     "quarterly": null
