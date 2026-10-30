@@ -1,22 +1,12 @@
 [
   {
-    "record": "42948648",
-    "qid": "Q-020",
+    "record": "42954693",
+    "qid": "Q-010",
     "hits": [
-      "tricuspid",
-      "tricuspid regurgitation",
-      "transcatheter tricuspid valve replacement"
+      "epinephrine",
+      "vasopressor",
+      "cardiogenic shock"
     ],
     "trial_overlap": []
-  },
-  {
-    "record": "42951053",
-    "qid": "Q-011",
-    "hits": [
-      "transcatheter aortic valve"
-    ],
-    "trial_overlap": [
-      "NCT06518317"
-    ]
   }
 ]
