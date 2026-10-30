@@ -1,6 +1,6 @@
 # Research question register
 
-Rendered 29 October 2026. Source of truth: register/questions.jsonl. Composite is out of 100.
+Rendered 30 October 2026. Source of truth: register/questions.jsonl. Composite is out of 100.
 
 Status counts: candidate 15, merged 1, parked 23.
 
