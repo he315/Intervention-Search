@@ -19,3 +19,5 @@
 2026-10-27: resume run. Previous attempt detected; main and the claude/ branch are at the same commit. Network: PubMed, Crossref, ClinicalTrials.gov, medRxiv reachable (200); Europe PMC 503; OpenAlex 429 (fallback to Europe PMC). CONTACT_EMAIL not set. Pushed to main as the task prompt directs.
 
 2026-10-29: resume run. Previous attempt detected; on main at origin/main. Network: PubMed, Europe PMC, Crossref, ClinicalTrials.gov, medRxiv reachable (200); OpenAlex 429 (fallback to Europe PMC). CONTACT_EMAIL not set. Pushed to main as the task prompt directs.
+
+2026-10-31: resume run. Previous attempt detected; on main at origin/main. Network: PubMed, Europe PMC, ClinicalTrials.gov, medRxiv reachable (200); Crossref 429 and OpenAlex 429 on the probe (rate limited, not blocked). CONTACT_EMAIL not set. pytest was missing and was installed.
