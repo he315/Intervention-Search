@@ -1,11 +1,10 @@
 [
   {
-    "record": "42954693",
-    "qid": "Q-010",
+    "record": "42961390",
+    "qid": "Q-016",
     "hits": [
-      "epinephrine",
-      "vasopressor",
-      "cardiogenic shock"
+      "teer",
+      "heart failure"
     ],
     "trial_overlap": []
   }
