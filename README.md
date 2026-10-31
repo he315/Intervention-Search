@@ -2,19 +2,19 @@
 
 ## Status
 
-- Last run: 2026-10-30 08:58 (Europe/London), daily.
+- Last run: 2026-10-31 08:56 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: none recorded.
-- Backlog awaiting appraisal: 7977.
-- Records in the store: 53107 (Tier A 76, Tier B 1126, Tier C 29896, Tier D 14020, untiered 7989).
+- Backlog awaiting appraisal: 7637.
+- Records in the store: 53194 (Tier A 76, Tier B 1202, Tier C 30170, Tier D 14097, untiered 7649).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-10-30 |
-| europepmc | ok | 2026-10-30 |
-| medrxiv | ok | 2026-10-30 |
-| crossref | ok | 2026-10-30 |
-| ctgov | ok | 2026-10-30 |
+| pubmed | ok | 2026-10-31 |
+| europepmc | ok | 2026-10-31 |
+| medrxiv | ok | 2026-10-31 |
+| crossref | ok | 2026-10-31 |
+| ctgov | ok | 2026-10-31 |
 
 Warnings:
 
@@ -55,11 +55,6 @@ Congresses:
 
 Randomised trials with at least 500 participants whose primary completion date falls in the period (registry dates, often estimated):
 
-- NCT04143646 NET-IPP: New Technologies for Intensive Prevention Programs - NET-IPP; N 864; primary completion 2026-10-30 (type not stated); active not recruiting
-- NCT05937685 BP-REACH: Reducing Blood Pressure in Patients With High Cardiovascular Risk; N 546; primary completion 2026-10-30 (type not stated); active not recruiting
-- NCT06014047 : Radial Artery Versus No-touch Saphenous Vein; N 774; primary completion 2026-10-30 (type not stated); not yet recruiting
-- NCT06645522 : Safety and Efficacy of Edaravone Dexborneol for Acute Ischemic Stroke; N 1200; primary completion 2026-10-30 (type not stated); not yet recruiting
-- NCT07290751 : Intravenous Thrombolysis Combined With Tirofiban in Acute Ischemic Stroke; N 976; primary completion 2026-10-30 (type not stated); recruiting
 - NCT03487185 SLEEP: Continuous Positive Airway Pressure (CPAP) for Sleep Apnea in Pregnancy; N 1500; primary completion 2026-10-31 (type not stated); active not recruiting
 - NCT07316049 : Construction and Evaluation of an Intelligent Decision System for Reperfusion Therapy in Acute Ischemic Stroke; N 3000; primary completion 2026-10-31 (type not stated); not yet recruiting
 - NCT03812653 Sleep SMART: Sleep for Stroke Management and Recovery Trial; N 3062; primary completion 2026-11 (type not stated); active not recruiting
@@ -89,7 +84,6 @@ Randomised trials with at least 500 participants whose primary completion date f
 - NCT04229758 Restart tICrH: Restarting Anticoagulation After Traumatic Intracranial Hemorrhage; N 1100; primary completion 2026-12 (type not stated); not yet recruiting
 - NCT04433052 : Clinical Value and Cost-effectiveness of a Personalized Prevention Program (PPP) in Patients With High Risk St; N 12000; primary completion 2026-12 (type not stated); recruiting
 - NCT04701242 EzAMI: Ezetimibe Utilization Early After Acute Myocardial Infarction, "EzAMI Trial"; N 500; primary completion 2026-12 (type not stated); recruiting
-- NCT04715581 : Multicomponent Prehabilitation and Outcomes in Elderly Patients With Frailty; N 540; primary completion 2026-12 (type not stated); recruiting
 - NCT04926597 EFFORT II: Effect of Continued Nutritional Support at Hospital Discharge on Mortality, Frailty, Functional Outcomes and R; N 1200; primary completion 2026-12 (type not stated); recruiting
 - NCT05015660 : Conduction System Pacing With Left Bundle Branch Pacing as Compared to Standard Right Ventricular Pacing; N 1300; primary completion 2026-12-01 (type not stated); recruiting
 - NCT05029063 TRIM-Line: Primary Thromboprophylaxis in Patients With Malignancy and Central Venous Catheters; N 1828; primary completion 2026-12 (type not stated); recruiting
@@ -120,7 +114,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 - Weekly: [2026-W44](outputs/weekly/2026-W44.md)
 - Monthly: [2026-10](outputs/monthly/2026-10.md)
-- Daily: [2026-10-30](outputs/daily/2026/2026-10-30.md)
+- Daily: [2026-10-31](outputs/daily/2026/2026-10-31.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 

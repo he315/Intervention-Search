@@ -1,6 +1,6 @@
 # Calendar
 
-Updated 30 October 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
+Updated 31 October 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
 
 ## Congresses
 
@@ -24,9 +24,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 
 | NCT | Acronym | Title | N | Primary completion | Status | Domains |
 |---|---|---|---|---|---|---|
-| NCT03969953 | TRACK | Treatment of Cardiovascular Disease With Low Dose Rivaroxaban in Advanced Chronic Kidney Disease | 1753 | 2025-10-30 () | completed | D6 |
-| NCT06189950 |  | Registration Trial of the Intracranial Visualized Stent for the Wide-necked Intracranial Aneurysms:R | 200 | 2025-10-30 () | recruiting | D4 |
-| NCT06628817 | ICB-MRAIS | The Intensive Care Bundle with Mortality Reduction in Acute Ischemic Stroke Trial | 55000 | 2025-10-30 () | not yet recruiting | D4 |
 | NCT02004509 | SILENT | Subclinical AtrIal FibrilLation and StrokE PreveNtion Trial | 2054 | 2025-10-31 () | unknown | D6, D8 |
 | NCT03724318 | LAACS-2 | Left Atrial Appendage Closure by Surgery-2 | 1500 | 2025-10-31 () | active not recruiting | D9 |
 | NCT04320979 |  | Postmastecomy Internal Mammary Nodal Irradiation for High-risk Breast Cancer Patients | 2400 | 2025-11-01 () | active not recruiting | D6 |
@@ -228,7 +225,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT05178420 | STREAM | STREAM Trial - Statins in Multimorbid Older Adults Without Cardiovascular Disease | 1880 | 2026-04-30 () | completed | D6 |
 | NCT05587621 | GoT | Intensive Lipid-lowering in Patients With STEMI and NSTEMI (Germany on Target) | 300 | 2026-04-30 () | not yet recruiting | D6 |
 | NCT05920629 | Moderate | Moderate Alcohol Consumption and Heart Function in Patients With a Recent Myocardial Infarction | 220 | 2026-04-30 () | recruiting | D6 |
-| NCT06225752 |  | Probucol for Symptomatic Intracranial and Extracranial Artery Stenosis | 5452 | 2026-04-30 () | recruiting | D4, D6 |
 | NCT06406218 | AID | The Impact of Phase I Cardiac Rehabilitation on the Prognosis of AMI Patients After PCI | 1100 | 2026-04-30 () | unknown | D1, D6 |
 | NCT06847568 |  | The Investigator Administers Intracoronary Adrenaline Via the Catheter in STEMI Patients During Prim | 1000 | 2026-04-30 () | recruiting | D1, D6 |
 | NCT07652567 |  | Study of Antihypertensive Treatment and Cardiovascular Risk in Chinese Prehypertensive Population | 690 | 2026-04-30 () | completed | D1, D6 |
@@ -342,6 +338,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07370116 |  | Omitting Nasogastric Tube Decompression in Minimally Invasive Pancreaticoduodenectomy | 200 | 2026-07-30 () | not yet recruiting | D9 |
 | NCT04258813 | ONE TEAM | Onco-primary Care Networking to Support TEAM-based Care | 313 | 2026-07-31 () | active not recruiting | D6 |
 | NCT05198791 | StratMedMINOCA | Stratified Medicine of Eplerenone in Acute Myocardial Infarction or Injury and no Obstructive Corona | 400 | 2026-07-31 () | recruiting | D6, D7 |
+| NCT05922917 | PIVCO | Pulsed-field Ablation in Patients With Persistent Atrial Fibrillation | 518 | 2026-07-31 () | completed | D6 |
 | NCT06373042 | ADJUVANT-2 | Tirofiban for Successful Endovascular Stroke Thrombectomy | 712 | 2026-07-31 () | not yet recruiting | D4, D6 |
 | NCT06414499 | TRACE Ⅳ | Teneteplase Reperfusion Therapy in Acute Ischemic Cerebrovascular Events-Ⅳ | 1386 | 2026-07-31 () | recruiting | D4, D6, D8 |
 | NCT05763862 |  | Genotype Guided Antiplatelet Therapy In Ischemic Stroke | 350 | 2026-08 () | active not recruiting | D6, D8 |
@@ -388,7 +385,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT06559436 |  | Extending the Time Window for Intravenous Tenecteplase in Patients With Distal Medium Vessel Occlusi | 560 | 2026-09-01 () | recruiting | D4 |
 | NCT07021976 |  | A Phase III Trial of HRS-1893 in Patients With Obstructive Hypertrophic Cardiomyopathy | 228 | 2026-09 () | active not recruiting | D3, D6 |
 | NCT05636176 | HERMES | A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure  | 4874 | 2026-09-03 () | terminated | D6 |
-| NCT03417388 | WARRIOR | Women's IschemiA TRial to Reduce Events In Non-ObstRuctive CAD | 2476 | 2026-09-14 () | active not recruiting | D2, D6 |
 | NCT03484936 | SERIC-sICH | Safety and Efficacy of Remote Ischemic Conditioning in Patients With Spontaneous Intracerebral Hemor | 530 | 2026-09-15 () | not yet recruiting | D4 |
 | NCT06615609 | SMART | "Smart Family Doctor" Assisted Comprehensive Management of Secondary Prevention Among Post Coronary  | 536 | 2026-09-15 () | recruiting | D1, D6 |
 | NCT07233070 |  | HRS-7450 Injection Phase II Clinical Trial for Acute Ischemic Stroke. | 210 | 2026-09-17 () | completed | D4 |
@@ -490,7 +486,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT04433052 |  | Clinical Value and Cost-effectiveness of a Personalized Prevention Program (PPP) in Patients With Hi | 12000 | 2026-12 () | recruiting | D6 |
 | NCT04511247 | FUTURE-BTK | SirolimUs CoaTed Balloon for The TrEatment of Below The Knee Arterial Disease | 219 | 2026-12 () | recruiting | D1 |
 | NCT04701242 | EzAMI | Ezetimibe Utilization Early After Acute Myocardial Infarction, "EzAMI Trial" | 500 | 2026-12 () | recruiting | D6 |
-| NCT04715581 |  | Multicomponent Prehabilitation and Outcomes in Elderly Patients With Frailty | 540 | 2026-12 () | recruiting | D6 |
 | NCT04916197 |  | Effect of Postoperative Prolonged Sedation With Dexmedetomidine After Successful Reperfusion With EV | 368 | 2026-12 () | recruiting | D4 |
 | NCT04926597 | EFFORT II | Effect of Continued Nutritional Support at Hospital Discharge on Mortality, Frailty, Functional Outc | 1200 | 2026-12 () | recruiting | D6 |
 | NCT05015660 |  | Conduction System Pacing With Left Bundle Branch Pacing as Compared to Standard Right Ventricular Pa | 1300 | 2026-12-01 () | recruiting | D4, D5 |
@@ -664,7 +659,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT06723145 | OPERATION | Optimal PERioperative Antiplatelet Therapy Investigation ON Abdominal Surgery After Coronary Stent I | 1200 | 2027-02-28 () | recruiting | D1, D6, D7, D8 |
 | NCT06954155 | TRACE-BEYOND | Tenecteplase Reperfusion Therapy in Acute Ischemic Cerebrovascular Events-BEYOND | 330 | 2027-02-28 () | recruiting | D4 |
 | NCT07095790 | TiMIS | Tirofiban With Sequential Dual Antiplatelet Therapy in Mild Stroke | 580 | 2027-02-28 () | recruiting | D4, D6, D8 |
-| NCT07684469 |  | Comparative Assessment of Inclisiran on Top of Standard of Care Versus Standard of Care Alone for LD | 300 | 2027-02-28 () | not yet recruiting | D6 |
 | NCT04192955 | EVOLVE | Evaluating Oral Peri-operative Acetylsalicylic Acid in Subjects Undergoing Endovascular Coiling-only | 440 | 2027-03 () | recruiting | D6 |
 | NCT05175274 |  | Colchicine Use for Primary Prevention of Coronary Artery Disease | 6792 | 2027-03-01 () | not yet recruiting | D6 |
 | NCT05642715 |  | Trial of a Harm Reduction Strategy for People With HIV Who Smoke Cigarettes | 400 | 2027-03 () | recruiting | D6 |
@@ -848,7 +842,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT05472987 | ROVHR | Robotic Versus Open Ventral Hernia Repair | 200 | 2027-08-01 () | recruiting | D6 |
 | NCT05491200 |  | Comparison Of Reduced DAPT Followed by P2Y12 Inhibitor Monotherapy With Prasugrel vs stAndard Regime | 1656 | 2027-08-01 () | recruiting | D6, D8 |
 | NCT05918861 | dal-GenE-2 | Effect of Dalcetrapib on CV Risk in a Genetically Defined Population With a Recent ACS | 2000 | 2027-08 () | recruiting | D6 |
-| NCT06396858 | ARCHIMEDES | Anti-inflammatory and Anti-thrombotic Therapy With colcHicine and Low Dose Rivaroxaban for Major Adv | 4500 | 2027-08 () | not yet recruiting | D6, D8 |
 | NCT06464510 | NoVa | Norepinephrine and Vasopressin for Rescue Versus Early Vasopressin for Vasopressor Dependent Sepsis | 2800 | 2027-08 () | recruiting | D6 |
 | NCT06472336 |  | IntraCranial Atherosclerosis Related Large-vessel Occlusion Treated With Urgent Stenting (ICARUS) | 498 | 2027-08 () | recruiting | D4, D8 |
 | NCT06621407 | SUPERDURA | A National Study Examining the Most Effective Drainage Method After Burr Hole Evacuation of Chronic  | 354 | 2027-08 () | recruiting | D4 |
@@ -882,6 +875,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT05895838 | DANOHCA | The Danish Out-of-Hospital Cardiac Arrest Study | 1000 | 2027-09 () | recruiting | D4, D7 |
 | NCT05897632 | CARE-CP | CARE-CP (Testing a Cardiovascular Ambulatory Rapid Evaluation for Patients With Chest Pain) | 502 | 2027-09 () | recruiting | D1, D6 |
 | NCT05946629 |  | SELUTION 4 De Novo Small Vessel IDE Trial | 960 | 2027-09 () | active not recruiting | D1, D6 |
+| NCT06030804 |  | Perioperative Dexmedetomidine and Long-term Survival After Cancer Surgery | 4532 | 2027-09 () | recruiting | D6 |
 | NCT06511505 | NOTABLE | NOrthwestern Tempus AI-enaBLed Electrocardiography (NOTABLE) Trial | 1000 | 2027-09 () | recruiting | D3, D4, D5, D6 |
 | NCT06657924 |  | Preoperative Tranexamic Acid (TXA) to Prevent Bleeding in Patients Undergoing Major Colorectal Surge | 394 | 2027-09-01 () | recruiting | D6, D8 |
 | NCT06744361 | KETOHCA | Ketamine Sedation As Neuroprotective Agent Following Out-of-hospital Cardiac Arrest | 282 | 2027-09-01 () | recruiting | D4 |
@@ -987,6 +981,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT04394546 | CHAMPION-AF | CHAMPION-AF Clinical Trial | 3000 | 2027-12 () | active not recruiting | D9 |
 | NCT04434807 | EVACUATE | Ultra-Early, Minimally inVAsive intraCerebral Haemorrhage evacUATion Versus Standard trEatment | 240 | 2027-12 () | recruiting | D4 |
 | NCT04700826 | DaRe2THINK | Preventing Stroke, Premature Death and Cognitive Decline in a Broader Community of Patients With Atr | 3000 | 2027-12 () | recruiting | D6, D8 |
+| NCT04715581 |  | Perioperative Multicomponent Rehabilitation and Outcomes in Elderly Patients With Frailty | 540 | 2027-12 () | recruiting | D6 |
 | NCT04915027 |  | Rehabkompassen® - a Patient-centered Digital Follow-up Tool in the Post-stroke Continuum of Care | 1106 | 2027-12 () | recruiting | D4 |
 | NCT04948749 | DREAM-PRIDE | Drug Eluting Stenting and Aggressive Medical Treatment for Preventing Recurrent Stroke in Intracrani | 358 | 2027-12 () | recruiting | D1, D6, D8 |
 | NCT05076019 | STARC | Statin Therapy With Atorvastatin in Surgical Aortic Valve Replacement | 266 | 2027-12-01 () | recruiting | D3, D6, D7 |
@@ -1075,7 +1070,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07203625 | OPTION-2 | Tenecteplase Before Interhospital Transfer in Acute Basilar Artery Occlusion at 4.5 to 24 Hours | 316 | 2027-12-31 () | recruiting | D4 |
 | NCT07208006 |  | Very Early PCSK9 Inhibition for Acute Myocardial Infarction | 1518 | 2027-12-31 () | recruiting | D1, D6 |
 | NCT07208097 | STEPS | Stereotactic Thrombolysis With Tenecteplase for Supratentorial Intracerebral Hemorrhage | 768 | 2027-12-31 () | recruiting | D4 |
-| NCT07220538 | GiCIIS | A Study Testing How Well the Drug Extract of Ginkgo Biloba Leaves Tablets Works for People With Memo | 400 | 2027-12-31 () | recruiting | D4 |
+| NCT07220538 | GiCIIS | A Study Testing How Well the Drug Extract of Ginkgo Biloba Leaves Tablets Works for People With Memo | 400 | 2027-12-31 () | active not recruiting | D4 |
 | NCT07241897 |  | DPP4 Inhibitor Intervention on Post-stroke Cognitive Impairment in Ischemic Stroke Patients With Typ | 312 | 2027-12-31 () | not yet recruiting | D4 |
 | NCT07261098 |  | The Efficacy and Safety of ARNI on the Outcome of Advanced Lung Cancer With Concurrent Hypertension | 200 | 2027-12-31 () | not yet recruiting | D6 |
 | NCT07302659 | PROTECT-CABG | Aortic No-Touch vs Partial Aortic Clamping in Off-Pump CABG | 380 | 2027-12-31 () | recruiting | D6 |
@@ -1111,6 +1106,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT05976685 | ELAPSE | Early Closure of Left Atrial Appendage for Patients With Atrial Fibrillation and Ischemic Stroke Des | 482 | 2028-01-01 () | recruiting | D9 |
 | NCT06204640 | SPONSoR | SPironolactONe for the Maintenance of Sinus Rhythm in Patients With Atrial Fibrillation | 580 | 2028-01-01 () | not yet recruiting | D6 |
 | NCT06321432 | LightCARE | Intensive Weight Loss Intervention Versus Usual Care for Adults With Obesity | 480 | 2028-01 () | active not recruiting | D1, D6 |
+| NCT06396858 | ARCHIMEDES | Anti-inflammatory and Anti-thrombotic Therapy With colcHicine and Low Dose Rivaroxaban for Major Adv | 4500 | 2028-01 () | not yet recruiting | D6, D8 |
 | NCT06626126 | ApoB-guidedLLT | Efficacy of Lipid-Lowering Therapy Based on Apolipoprotein B Versus LDL-Cholesterol Levels in Patien | 1448 | 2028-01-01 () | not yet recruiting | D1, D6 |
 | NCT06763055 | INTERACT5 | The Fifth INTEnsive pReventing Secondary Injury in Acute Cerebral Haemorrhage Trial Within ACT-GLOBA | 2000 | 2028-01 () | recruiting | D4 |
 | NCT06820970 | CRCMF | CRIC Combined With MFT for Cardiovascular Adverse Events in Patients With Incomplete Revascularizati | 2000 | 2028-01-01 () | recruiting | D6 |
@@ -1147,6 +1143,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT05777655 | STAPP | Improving Adherence to Statin Therapy Through a Medication Management Application | 250 | 2028-02-28 () | recruiting | D1, D4, D6 |
 | NCT07721545 | CORAL | Y-6 Sublingual Tablets for Acute Penetrating Artery Infarction | 944 | 2028-02-28 () | not yet recruiting | D4, D6 |
 | NCT07046299 | BAOCHE3 | Basilar Artery Occlusion Chinese Endovascular Trial in Patients With Large Core Infarct | 314 | 2028-02-29 () | not yet recruiting | D4 |
+| NCT07684469 |  | Comparative Assessment of Inclisiran on Top of Standard of Care Versus Standard of Care Alone for LD | 300 | 2028-02-29 () | not yet recruiting | D6 |
 | NCT06096909 |  | Early Initiation of Tafolecimab for Patients With Acute Coronary Syndromeundergoing Percutaneous Cor | 3684 | 2028-03-01 () | recruiting | D1, D6, D7 |
 | NCT06321458 | LightWAY | Intensive Weight Loss Intervention Versus Usual Care for Adults With Severe and Complex Obesity | 605 | 2028-03 () | active not recruiting | D1, D6 |
 | NCT06391073 |  | Reach Out 2: Emergency Department-Initiated Hypertension Mobile Health Intervention Connecting Multi | 500 | 2028-03-01 () | recruiting | D6 |
@@ -1212,6 +1209,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT06515730 | RESOLVE-AMI | Treatment With Apixaban Versus Warfarin in Patients With Left Ventricular Thrombus After Acute Myoca | 212 | 2028-04-08 () | recruiting | D6 |
 | NCT07791810 | LARGE CORE-MT | Endovascular Treatment for Acute Large Vessel Occlusion With Ultra-Large Ischemic Core | 450 | 2028-04-18 () | not yet recruiting | D4 |
 | NCT05383742 |  | Trial of a Six-Month Regimen of High-Dose Rifampicin, High-Dose Isoniazid, Linezolid, and Pyrazinami | 330 | 2028-04-30 () | recruiting | D4 |
+| NCT06225752 |  | Probucol for Symptomatic Intracranial and Extracranial Artery Stenosis | 5452 | 2028-04-30 () | recruiting | D4, D6 |
 | NCT06385834 |  | The Effect of Morning vs Evening Aerobic Exercise Training on Cardiac Remodeling and Function Improv | 201 | 2028-04-30 () | recruiting | D6 |
 | NCT06719921 | NON-FLUORO-LAB | Catheter Ablation for Atrial Fibrillation in Non-Fluoroscopic Lab | 724 | 2028-04-30 () | enrolling by invitation | D6 |
 | NCT06825897 | DIRECT | Delay AvoIding Primary Evaluation for ThRombectomy of Acute StrokE Patients With Large Vessel OCclus | 2039 | 2028-04-30 () | recruiting | D4 |
@@ -1393,7 +1391,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07245264 | RATATA | Adjuvant Tranexamic Acid (TXA) Versus Surgery Alone for Adult Patients With Chronic Subdural Hematom | 274 | 2028-11-01 () | recruiting | D4 |
 | NCT07324837 | FRIDA-CT | Single Bolus Non-immunogenic Staphylokinase in Patients With Acute Ischemic Stroke Within 4.5-24 Hou | 990 | 2028-11-01 () | recruiting | D4 |
 | NCT07560436 | REPRIEVED | Coronary Artery Stents in Heart Failure With Preserved Ejection Fraction | 350 | 2028-11 () | recruiting | D1, D8 |
-| NCT07872020 | SYMMETRY | SYMmetric Valve fraME Expansion To Reduce hYpoattenuated Leaflet Thickening After Balloon-expandable | 422 | 2028-11-01 () | not yet recruiting | D3 |
+| NCT07872020 | SYMMETRY | SYMmetric Valve fraME Expansion To Reduce hYpoattenuated Leaflet Thickening After Balloon-expandable | 422 | 2028-11-01 () | recruiting | D3 |
 | NCT07885462 | MAID | Coronary MicrovAscular Diseases Intervention With Compound Danshen Dropping Pills | 496 | 2028-11 () | not yet recruiting | D6 |
 | NCT06615492 | REVOLUTION | Routine vs On-demand ECMO for Lung Transplantation | 218 | 2028-11-05 () | recruiting | D4 |
 | NCT07301034 | ZEPHYR | A Research Study to Look at the Effect of Ziltivekimab on Plaque in the Blood Vessels of the Heart,  | 332 | 2028-11-14 () | recruiting | D1, D6 |
