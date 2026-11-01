@@ -1,6 +1,6 @@
 # Calendar
 
-Updated 31 October 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
+Updated 1 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
 
 ## Congresses
 
@@ -24,8 +24,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 
 | NCT | Acronym | Title | N | Primary completion | Status | Domains |
 |---|---|---|---|---|---|---|
-| NCT02004509 | SILENT | Subclinical AtrIal FibrilLation and StrokE PreveNtion Trial | 2054 | 2025-10-31 () | unknown | D6, D8 |
-| NCT03724318 | LAACS-2 | Left Atrial Appendage Closure by Surgery-2 | 1500 | 2025-10-31 () | active not recruiting | D9 |
 | NCT04320979 |  | Postmastecomy Internal Mammary Nodal Irradiation for High-risk Breast Cancer Patients | 2400 | 2025-11-01 () | active not recruiting | D6 |
 | NCT04576533 |  | Patients Undergoing Laparoscopic Colorectal Surgery Walk Out From Operating Room After Surgery ( WOF | 300 | 2025-11-01 () | unknown | D6 |
 | NCT05555667 | LOSREB | Long-term Sedation With Remimazolam Besylate in Critically Ill Patients | 728 | 2025-11-01 () | unknown | D6 |
@@ -1726,4 +1724,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07190690 | DestinACSion | Comparison of a Contemporary Sirolimus-eluting Stent (ihtDEStiny®) With Another Everolimus-eluting S | 2100 | 2029-10-15 () | recruiting | D1, D6 |
 | NCT07671469 | PerP | Personalized Blood Transfusion Protocol for Cardiac Patients | 900 | 2029-10-19 () | not yet recruiting | D6 |
 | NCT07000357 | AZURE-Outcomes | A Phase III Study of AZD0780 on Major Adverse CV Events in Patients With a History of ASCVD Events o | 15100 | 2029-10-26 () | recruiting | D1, D6 |
+| NCT06990867 | ORION | Optimizing Reperfusion to Improve Outcomes and Neurologic Function | 740 | 2029-10-31 () | recruiting | D4 |
+| NCT07715279 | VERIFICATION | Vericiguat for the Inhibition of Calcific Aortic Valve Stenosis Progression | 238 | 2029-10-31 () | recruiting | D3, D6 |
 

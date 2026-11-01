@@ -2,22 +2,23 @@
 
 ## Status
 
-- Last run: 2026-10-31 08:56 (Europe/London), daily.
+- Last run: 2026-11-01 08:57 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: none recorded.
-- Backlog awaiting appraisal: 7637.
-- Records in the store: 53194 (Tier A 76, Tier B 1202, Tier C 30170, Tier D 14097, untiered 7649).
+- Backlog awaiting appraisal: 7271.
+- Records in the store: 54227 (Tier A 79, Tier B 1302, Tier C 30435, Tier D 15128, untiered 7283).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-10-31 |
-| europepmc | ok | 2026-10-31 |
-| medrxiv | ok | 2026-10-31 |
-| crossref | ok | 2026-10-31 |
-| ctgov | ok | 2026-10-31 |
+| pubmed | ok | 2026-11-01 |
+| europepmc | ok | 2026-11-01 |
+| medrxiv | ok | 2026-11-01 |
+| crossref | ok | 2026-11-01 |
+| ctgov | ok | 2026-11-01 |
 
 Warnings:
 
+- New-record count 1033 is above three times the 28-run median (79); query self-check recommended.
 - CONTACT_EMAIL is not set in the environment, so NCBI, Crossref and OpenAlex requests carry no contact address.
 
 ## Top ten priorities
@@ -43,20 +44,17 @@ By domain: D1 6, D2 7, D3 5, D4 5, D5 3, D6 6, D7 5, D8 6, D9 5.
 
 ## Tier A in the past seven days
 
-None.
+- [Transcatheter Aortic Valve Replacement in Pure Aortic Regurgitation: The Randomized SEASON-AR Clinical Trial.](https://pubmed.ncbi.nlm.nih.gov/42965504/) (Circulation)
 
 ## Next eight weeks
 
 Congresses:
 
-- TCT 2026, 31 October 2026 to 3 November 2026, San Diego, USA. Programme: https://www.tctconference.com/program-guide
 - AHA Scientific Sessions 2026, 6 November 2026 to 9 November 2026, Chicago, USA. Programme: https://professional.heart.org/en/meetings/scientific-sessions/programming
 - PCR London Valves 2026, 22 November 2026 to 24 November 2026, London, United Kingdom. Programme: https://www.pcronline.com/Courses/PCR-London-Valves/Programme/2026/Course-Programme
 
 Randomised trials with at least 500 participants whose primary completion date falls in the period (registry dates, often estimated):
 
-- NCT03487185 SLEEP: Continuous Positive Airway Pressure (CPAP) for Sleep Apnea in Pregnancy; N 1500; primary completion 2026-10-31 (type not stated); active not recruiting
-- NCT07316049 : Construction and Evaluation of an Intelligent Decision System for Reperfusion Therapy in Acute Ischemic Stroke; N 3000; primary completion 2026-10-31 (type not stated); not yet recruiting
 - NCT03812653 Sleep SMART: Sleep for Stroke Management and Recovery Trial; N 3062; primary completion 2026-11 (type not stated); active not recruiting
 - NCT05482386 STREAM-Bio: STREAM Trial - Biomarker; N 500; primary completion 2026-11 (type not stated); recruiting
 - NCT05482399 STREAM-SubATS: STREAM Trial - Subclinical Atherosclerosis; N 500; primary completion 2026-11 (type not stated); recruiting
@@ -114,7 +112,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 - Weekly: [2026-W44](outputs/weekly/2026-W44.md)
 - Monthly: [2026-10](outputs/monthly/2026-10.md)
-- Daily: [2026-10-31](outputs/daily/2026/2026-10-31.md)
+- Daily: [2026-11-01](outputs/daily/2026/2026-11-01.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 
