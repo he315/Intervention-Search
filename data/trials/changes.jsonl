@@ -430,3 +430,5 @@
 {"date": "2026-10-31", "id": "NCT07905963", "change": "new_registration", "title": "Bioimpedance and Multiparametric Ultrasound-Guided Fluid Management After Kidney Transplantation", "acronym": "VLMM-MC", "domains": ["D6"]}
 {"date": "2026-10-31", "id": "NCT05922917", "change": "new_registration", "title": "Pulsed-field Ablation in Patients With Persistent Atrial Fibrillation", "acronym": "PIVCO", "domains": ["D6"]}
 {"date": "2026-10-31", "id": "NCT07908082", "change": "new_registration", "title": "Aspirin for the Prevention of Ischemic Complications in Giant Cell Arteritis", "acronym": "ASPIRE-GCA", "domains": ["D6"]}
+{"date": "2026-11-02", "id": "ISRCTN12051349", "change": "new_registration", "title": "Understanding heart attack symptoms and treatment outcomes in Ghana", "acronym": null, "domains": ["D1", "D6", "D8"]}
+{"date": "2026-11-02", "id": "NCT04281771", "change": "status", "from": "ACTIVE_NOT_RECRUITING", "to": "UNKNOWN", "title": "Assessment of Paravalvular Leak After TAVI by Hemodynamic Measurements and Cardiac MRI", "acronym": "APPOSE", "domains": ["D3"]}

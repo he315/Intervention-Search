@@ -458,6 +458,11 @@ def cmd_queue_baseline(args):
     return 0
 
 
+def cmd_benchmark(args):
+    from . import benchmark
+    print(benchmark.run())
+
+
 def cmd_due(args):
     s = st.load()
     today = config.london_today()
@@ -480,6 +485,7 @@ def main(argv=None):
     a = sub.add_parser("trends"); a.add_argument("--minutes", type=float, default=7.5); a.add_argument("--recount", type=int, default=0); a.set_defaults(fn=cmd_trends)
     a = sub.add_parser("verify"); a.set_defaults(fn=cmd_verify)
     a = sub.add_parser("status"); a.set_defaults(fn=cmd_status)
+    a = sub.add_parser("benchmark"); a.set_defaults(fn=cmd_benchmark)
     a = sub.add_parser("due"); a.set_defaults(fn=cmd_due)
     a = sub.add_parser("render"); a.set_defaults(fn=cmd_render)
     a = sub.add_parser("add-records"); a.add_argument("pmids", nargs="+"); a.set_defaults(fn=cmd_add_records)

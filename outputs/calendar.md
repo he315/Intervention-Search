@@ -1,6 +1,6 @@
 # Calendar
 
-Updated 1 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
+Updated 2 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
 
 ## Congresses
 
@@ -24,13 +24,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 
 | NCT | Acronym | Title | N | Primary completion | Status | Domains |
 |---|---|---|---|---|---|---|
-| NCT04320979 |  | Postmastecomy Internal Mammary Nodal Irradiation for High-risk Breast Cancer Patients | 2400 | 2025-11-01 () | active not recruiting | D6 |
-| NCT04576533 |  | Patients Undergoing Laparoscopic Colorectal Surgery Walk Out From Operating Room After Surgery ( WOF | 300 | 2025-11-01 () | unknown | D6 |
-| NCT05555667 | LOSREB | Long-term Sedation With Remimazolam Besylate in Critically Ill Patients | 728 | 2025-11-01 () | unknown | D6 |
-| NCT06112028 |  | Clinical Study of Tongxinluo Capsule in Preventing and Treating Restenosis After Intracranial and Ex | 200 | 2025-11 () | not yet recruiting | D8 |
-| NCT06248190 | ENHANCE | ENHANCE-EvideNce Led Co-created HeAlth Systems interventioNs for MLTCs CarE | 1837 | 2025-11-01 () | completed | D6 |
-| NCT06472921 |  | Efficacy and Safety of Early Initiation of Butylphthalide Treatment in Patients With Acute Ischemic  | 204 | 2025-11-01 () | completed | D4, D6 |
-| NCT06542575 |  | Efficacy of the Integration of Digital Therapeutics and Home-based Cardiac Rehabilitation in High-Ri | 366 | 2025-11 () | unknown | D1, D6 |
 | NCT03012529 | VA INTREPID | Investigation of Rifampin to Reduce Pedal Amputations for Osteomyelitis in Diabetics | 843 | 2025-11-05 () | completed | D6 |
 | NCT03250247 | C-TRACT | Chronic Venous Thrombosis: Relief With Adjunctive Catheter-Directed Therapy (The C-TRACT Trial) | 225 | 2025-11-11 () | active not recruiting | D1 |
 | NCT07492901 |  | Impact of Ligament of Marshall Resection on Atrial Fibrillation Occurrence in Patients Undergoing Co | 220 | 2025-11-11 () | completed | D6, D7, D8, D9 |
@@ -510,7 +503,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT06570681 |  | Video Call Assisted Assessment of Acute Stroke | 512 | 2026-12-01 () | recruiting | D4 |
 | NCT06658197 | TNK-LVO | Efficacy and Safety of Tenecteplase Bridging Mechanical Thrombectomy for Acute Large Vessel Occlusio | 850 | 2026-12-01 () | recruiting | D4, D6, D9 |
 | NCT06688448 | VANGUARD | Valvular Assessment of New Generation Aortic Replacement Devices | 200 | 2026-12-01 () | recruiting | D3 |
-| NCT06689839 | SHIELD | Trial of the F2 Filter and Delivery System for Embolic Protection During TAVR | 500 | 2026-12 () | recruiting | D3, D4 |
+| NCT06689839 | SHIELD | Trial of the F2 Filter and Delivery System for Embolic Protection During TAVR | 500 | 2026-12 () | recruiting | D3 |
 | NCT06696079 | RELACS | Restarting Early Versus Later Anticoagulation for Chronic Subdural Hematoma With Atrial Fibrillation | 332 | 2026-12 () | recruiting | D4 |
 | NCT06756945 | LEAST | Low-dose Evaluation of Aspirin After STEMI Patients With PCI: A Multicenter, Double-blind, Randomize | 3612 | 2026-12 () | not yet recruiting | D6, D8 |
 | NCT06816888 | Echo Prompts | Impact of Automatic Prompts in Echocardiographic Reports on Referral to Cardiology | 300 | 2026-12-01 () | active not recruiting | D3, D4 |
@@ -1025,7 +1018,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT03951467 | ILIADE | Using an Intervention Adapted to the Health Literacy Level to Improve Adherence to Medical Recommend | 300 | 2027-12-26 () | recruiting | D6 |
 | NCT05105945 |  | Clinical Study on the Efficacy of Single-port Inflatable Mediastinoscopy Combined With Laparoscopic- | 1164 | 2027-12-28 () | not yet recruiting | D6 |
 | NCT05712200 | LILAC-TIMI 76 | Study to evaLuate the effIcacy and Safety of abeLacimab in High-risk Patients With Atrial Fibrillati | 2500 | 2027-12-30 () | recruiting | D6, D8 |
-| NCT06166654 | DRAIN-AHF | Optimal Diuretic Therapies for Acute Heart Failure With Volume Overload | 939 | 2027-12-30 () | recruiting | D6 |
 | NCT06332547 | TICVS | Transfusion in Cardiac Valve Surgery | 1600 | 2027-12-30 () | not yet recruiting | D6 |
 | NCT06769256 | H2-THROMBUS | Intracoronary rhTNK-tPA Versus Tirofiban in Patients With STEMI and High Thrombus Burden | 300 | 2027-12-30 () | recruiting | D6 |
 | NCT06814223 |  | Using Antibiotics to Prevent Infections in Hemodialysis Patients During Catheter Placement | 200 | 2027-12-30 () | recruiting | D6 |
@@ -1726,4 +1718,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07000357 | AZURE-Outcomes | A Phase III Study of AZD0780 on Major Adverse CV Events in Patients With a History of ASCVD Events o | 15100 | 2029-10-26 () | recruiting | D1, D6 |
 | NCT06990867 | ORION | Optimizing Reperfusion to Improve Outcomes and Neurologic Function | 740 | 2029-10-31 () | recruiting | D4 |
 | NCT07715279 | VERIFICATION | Vericiguat for the Inhibition of Calcific Aortic Valve Stenosis Progression | 238 | 2029-10-31 () | recruiting | D3, D6 |
+| NCT06864715 | LIVE-WEL | Behavioral Activation for the PreVention of Post-strokE Depression in LoW-incomE Older Stroke Surviv | 350 | 2029-11-01 () | recruiting | D4 |
+| NCT07115940 | SELECT LATE | Medical Management With Endovascular Thrombectomy Versus Medical Management Alone in Patients Presen | 408 | 2029-11-01 () | recruiting | D4, D8 |
+| NCT07236489 | LBAP-TAVI | Trial Evaluating the Benefit of Left Bundle Branch Area Stimulation Compared With Conventional Pacin | 266 | 2029-11 () | recruiting | D3 |
 

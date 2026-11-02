@@ -2,23 +2,22 @@
 
 ## Status
 
-- Last run: 2026-11-01 08:57 (Europe/London), daily.
+- Last run: 2026-11-02 09:00 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: none recorded.
-- Backlog awaiting appraisal: 7271.
-- Records in the store: 54227 (Tier A 79, Tier B 1302, Tier C 30435, Tier D 15128, untiered 7283).
+- Backlog awaiting appraisal: 6889.
+- Records in the store: 54257 (Tier A 81, Tier B 1353, Tier C 30605, Tier D 15317, untiered 6901).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-11-01 |
-| europepmc | ok | 2026-11-01 |
-| medrxiv | ok | 2026-11-01 |
-| crossref | ok | 2026-11-01 |
-| ctgov | ok | 2026-11-01 |
+| pubmed | ok | 2026-11-02 |
+| europepmc | ok | 2026-11-02 |
+| medrxiv | ok | 2026-11-02 |
+| crossref | ok | 2026-11-02 |
+| ctgov | ok | 2026-11-02 |
 
 Warnings:
 
-- New-record count 1033 is above three times the 28-run median (79); query self-check recommended.
 - CONTACT_EMAIL is not set in the environment, so NCBI, Crossref and OpenAlex requests carry no contact address.
 
 ## Top ten priorities
@@ -55,15 +54,6 @@ Congresses:
 
 Randomised trials with at least 500 participants whose primary completion date falls in the period (registry dates, often estimated):
 
-- NCT03812653 Sleep SMART: Sleep for Stroke Management and Recovery Trial; N 3062; primary completion 2026-11 (type not stated); active not recruiting
-- NCT05482386 STREAM-Bio: STREAM Trial - Biomarker; N 500; primary completion 2026-11 (type not stated); recruiting
-- NCT05482399 STREAM-SubATS: STREAM Trial - Subclinical Atherosclerosis; N 500; primary completion 2026-11 (type not stated); recruiting
-- NCT05836831 : Indian Trial of Tranexamic Acid in Spontaneous Intracerebral Haemorrhage; N 3400; primary completion 2026-11 (type not stated); recruiting
-- NCT06530641 : Evaluation of Clinical Impact of the Type of Cardioplegia Used in the Patient Undergoing Major Cardiac Surgery; N 600; primary completion 2026-11 (type not stated); recruiting
-- NCT06547827 StrokeFit4: Rehabilitation With and Without Robot and Allied Digital Technologies in Stroke Patients; N 596; primary completion 2026-11 (type not stated); recruiting
-- NCT06559241 RECAST-MT: Remote Ischemic Conditioning for Acute Ischemic Stroke Treated With Mechanical Thrombectomy（RECAST-MT）; N 2105; primary completion 2026-11 (type not stated); recruiting
-- NCT07088757 : Low-Dose vs Standard-Dose Indomethacin for Preventing Post-ERCP Pancreatitis; N 1366; primary completion 2026-11-01 (type not stated); recruiting
-- NCT07735091 : A Blood Pressure-Lowering Diet for Preventing and Managing Hypertension; N 800; primary completion 2026-11-01 (type not stated); not yet recruiting
 - NCT06702657 ICAS LVO-MT: A Randomized Clinical Trial on Urgent Angioplasty for IntraCranial Atherosclerotic Stenosis-related Large-Vess; N 612; primary completion 2026-11-15 (type not stated); not yet recruiting
 - NCT06615726 RESIST: Regular Physical Exercise in Patients With Symptomatic Intracranial Arterial Stenosis; N 1300; primary completion 2026-11-19 (type not stated); active not recruiting
 - NCT05993481 : The Noninvasive Blood Pressure Measurement Effect on the Hypotension; N 640; primary completion 2026-11-25 (type not stated); enrolling by invitation
@@ -110,9 +100,9 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 ## Latest reports
 
-- Weekly: [2026-W44](outputs/weekly/2026-W44.md)
+- Weekly: [2026-W45](outputs/weekly/2026-W45.md)
 - Monthly: [2026-10](outputs/monthly/2026-10.md)
-- Daily: [2026-11-01](outputs/daily/2026/2026-11-01.md)
+- Daily: [2026-11-02](outputs/daily/2026/2026-11-02.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 
