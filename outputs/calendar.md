@@ -1,6 +1,6 @@
 # Calendar
 
-Updated 2 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
+Updated 3 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
 
 ## Congresses
 
@@ -726,7 +726,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT04939883 | CardioTox | Effects of Carvedilol on Cardiotoxicity in Cancer Patients Submitted to Anthracycline Therapy | 1018 | 2027-05-31 () | active not recruiting | D6 |
 | NCT06171737 | IMPACT SDM | Promoting Shared Decision Making for Severe Aortic Stenosis | 1300 | 2027-05-31 () | enrolling by invitation | D3 |
 | NCT07249853 | CAPTAIN | Cilostazol for Preventing Delayed Cerebral Ischemia in Aneurysmal Subarachnoid Hemorrhage | 380 | 2027-05-31 () | recruiting | D4 |
-| NCT07511309 | FARS | FFR-Guided Revascularization in Atherosclerotic Renal Artery Stenosis | 300 | 2027-05-31 () | not yet recruiting | D1, D6 |
+| NCT07511309 | FARS | FFR-Guided Revascularization in Atherosclerotic Renal Artery Stenosis | 300 | 2027-05-31 () | recruiting | D1, D6 |
 | NCT07714746 | IVASHOCK | Ivabradine in the Acute Management of Cardiogenic Shock | 200 | 2027-05-31 () | recruiting | D2, D6 |
 | NCT04284839 | DANCE | The Direct Oral Anticoagulation Versus Vitamin K Antagonist After Cardiac Surgery Trial | 3500 | 2027-06 () | recruiting | D6, D8 |
 | NCT04304625 | TRAAPrevia | TRAnexamic Acid for Preventing Blood Loss Following a Cesarean Delivery in Women With Placenta pREVI | 1380 | 2027-06 () | recruiting | D6 |
@@ -901,6 +901,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07749014 | TEMPO-STEMI | Timing of Empagliflozin in Primary PCI: Pre-Reperfusion Versus Post-Reperfusion Versus Placebo in So | 480 | 2027-09-30 () | not yet recruiting | D1, D6, D7 |
 | NCT07776184 | CICUDEL | Multi-Component Delirium Prevention Bundle in Older Cardiac Intensive Care Unit Patients | 200 | 2027-09-30 () | active not recruiting | D6 |
 | NCT07884136 |  | RBD1119 in Coronary Artery Disease (CAD) | 200 | 2027-09-30 () | not yet recruiting | D6, D8 |
+| NCT07908875 |  | Upfront Lipid-Lowering Therapy With Statins Combined With Hybutimibe in Patients With Acute Ischemic | 520 | 2027-09-30 () | not yet recruiting | D4, D6 |
 
 ### 2027 Q4
 
@@ -1572,6 +1573,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07696975 | RELIEVE-HFrEF | RELIEVE-HFrEF TRIAL: REducing Lung congestIon Symptoms Using the v-wavE Shunt in adVancEd Heart Fail | 250 | 2029-03-31 () | not yet recruiting | D9 |
 | NCT07724899 | SAVE-AF | Efficacy and Safety of Superior Vena Cava Isolation and Pulmonary Vein Isolation for Treatment of At | 200 | 2029-03-31 () | recruiting | D6 |
 | NCT07849127 | wCAR-Austria | wCAR-Austria: A Women-Specific Score to Assess Cardiovascular Risk in Women Aged 40 to 65 | 800 | 2029-03-31 () | not yet recruiting | D1, D6 |
+| NCT07910058 | SUPERIOR 2 | An Investigator-initiated, Prospective, Open-label, Multicenter Randomized Controlled Trial, Compari | 472 | 2029-03-31 () | not yet recruiting | D6 |
 
 ### 2029 Q2
 
@@ -1684,7 +1686,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT06526195 | TEAM-HF | Trial to Evaluate Safety And Effectiveness of Mechanical Circulatory Support in Patients With Advanc | 850 | 2029-09 () | recruiting | D2 |
 | NCT06948838 | BHEAT | Improving Hypertension Control in Safety-Net Settings: The Boston Hypertension Equity Alliance in Tr | 16895 | 2029-09 () | recruiting | D6 |
 | NCT07515768 | NOSCAR-TAVI | TAVI Without On-Site Cardiac Surgery in Poland: A Randomized Multicenter Trial Protocol | 404 | 2029-09-01 () | not yet recruiting | D3 |
-| NCT07687485 | TRIUMPH | Tricuspid Regurgitation Treatment With LAPLACE Transcatheter Tricuspid Valve Replacement System | 700 | 2029-09 () | not yet recruiting | D5, D6 |
+| NCT07687485 | TRIUMPH | Tricuspid Regurgitation Treatment With LAPLACE Transcatheter Tricuspid Valve Replacement System | 700 | 2029-09 () | recruiting | D5, D6 |
 | NCT07729111 | ACCELERATE-CMR | ACCELERATE-CMR for Coronary Artery Disease Detection | 2022 | 2029-09 () | not yet recruiting | D1 |
 | NCT07779642 | US-PANTHER | Precision Medicine Adaptive Network Platform Trial in Hypoxemic Acute Respiratory Failure | 300 | 2029-09 () | not yet recruiting | D6 |
 | NCT07799779 | SEsiR-ACS | Early Intensive Lipid-Lowering With Inclisiran for Plaque Stabilization in Acute Coronary Syndrome | 294 | 2029-09 () | not yet recruiting | D1, D6 |

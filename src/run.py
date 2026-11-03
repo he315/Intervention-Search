@@ -309,7 +309,19 @@ def completeness(idx, today, days=90):
     for j in config.journals().get("journals", []):
         if j["tier"] not in ("target", "general") or not j.get("issn"):
             continue
-        items = crossref.works(j["issn"][0], start, today, date_field="online-pub", max_items=20000)
+        items = None
+        last_err = ""
+        for wait in (0, 45, 90):
+            time.sleep(wait)
+            try:
+                items = crossref.works(j["issn"][0], start, today, date_field="online-pub", max_items=20000)
+                break
+            except net.HttpError as e:
+                last_err = str(e)[:120]
+        if items is None:
+            out["journals"][j["name"]] = {"unavailable": last_err}
+            _log_decision(f"completeness: Crossref pull failed for {j['name']} after retries ({last_err}); journal skipped")
+            continue
         parsed = [x for x in (crossref.parse_item(it, j["name"], j["tier"]) for it in items) if x]
         inscope = [x for x in parsed if text_domains(x)]
         dois = [x["doi"] for x in inscope]
@@ -329,8 +341,9 @@ def completeness(idx, today, days=90):
             r = indexed[x["doi"]]
             out["missing"].append({"journal": j["name"], "doi": x["doi"], "pmid": r["pmid"], "title": x["title"],
                                    "pub_types": r.get("pub_types")})
-    tot_idx = sum(v["indexed_in_pubmed"] for v in out["journals"].values())
-    tot_miss = sum(v["missing_from_store"] for v in out["journals"].values())
+    done = [v for v in out["journals"].values() if "indexed_in_pubmed" in v]
+    tot_idx = sum(v["indexed_in_pubmed"] for v in done)
+    tot_miss = sum(v["missing_from_store"] for v in done)
     out["summary"] = {"indexed_in_scope": tot_idx, "missing": tot_miss,
                       "completeness": round(1 - tot_miss / tot_idx, 3) if tot_idx else None}
     return out

@@ -2,19 +2,19 @@
 
 ## Status
 
-- Last run: 2026-11-02 09:00 (Europe/London), daily.
+- Last run: 2026-11-03 09:00 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: none recorded.
-- Backlog awaiting appraisal: 6889.
-- Records in the store: 54257 (Tier A 81, Tier B 1353, Tier C 30605, Tier D 15317, untiered 6901).
+- Backlog awaiting appraisal: 6527.
+- Records in the store: 54314 (Tier A 83, Tier B 1373, Tier C 30786, Tier D 15533, untiered 6539).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-11-02 |
-| europepmc | ok | 2026-11-02 |
-| medrxiv | ok | 2026-11-02 |
-| crossref | ok | 2026-11-02 |
-| ctgov | ok | 2026-11-02 |
+| pubmed | ok | 2026-11-03 |
+| europepmc | ok | 2026-11-03 |
+| medrxiv | ok | 2026-11-03 |
+| crossref | ok | 2026-11-03 |
+| ctgov | ok | 2026-11-03 |
 
 Warnings:
 
@@ -43,6 +43,8 @@ By domain: D1 6, D2 7, D3 5, D4 5, D5 3, D6 6, D7 5, D8 6, D9 5.
 
 ## Tier A in the past seven days
 
+- [Antithrombotic Therapy After Left Atrial Appendage Occlusion: The SIMPLAAFY Randomized Clinical Trial.](https://pubmed.ncbi.nlm.nih.gov/42970643/) (JAMA)
+- [TAVR in Patients with Moderate Aortic Stenosis with At-Risk Features.](https://pubmed.ncbi.nlm.nih.gov/42970708/) (The New England journal of medicine)
 - [Transcatheter Aortic Valve Replacement in Pure Aortic Regurgitation: The Randomized SEASON-AR Clinical Trial.](https://pubmed.ncbi.nlm.nih.gov/42965504/) (Circulation)
 
 ## Next eight weeks
@@ -102,7 +104,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 - Weekly: [2026-W45](outputs/weekly/2026-W45.md)
 - Monthly: [2026-10](outputs/monthly/2026-10.md)
-- Daily: [2026-11-02](outputs/daily/2026/2026-11-02.md)
+- Daily: [2026-11-03](outputs/daily/2026/2026-11-03.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 
