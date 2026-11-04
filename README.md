@@ -2,19 +2,19 @@
 
 ## Status
 
-- Last run: 2026-11-03 09:00 (Europe/London), daily.
+- Last run: 2026-11-04 08:58 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: none recorded.
-- Backlog awaiting appraisal: 6527.
-- Records in the store: 54314 (Tier A 83, Tier B 1373, Tier C 30786, Tier D 15533, untiered 6539).
+- Backlog awaiting appraisal: 6178.
+- Records in the store: 54386 (Tier A 84, Tier B 1394, Tier C 31037, Tier D 15681, untiered 6190).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-11-03 |
-| europepmc | ok | 2026-11-03 |
-| medrxiv | ok | 2026-11-03 |
-| crossref | ok | 2026-11-03 |
-| ctgov | ok | 2026-11-03 |
+| pubmed | ok | 2026-11-04 |
+| europepmc | ok | 2026-11-04 |
+| medrxiv | ok | 2026-11-04 |
+| crossref | ok | 2026-11-04 |
+| ctgov | ok | 2026-11-04 |
 
 Warnings:
 
@@ -43,6 +43,7 @@ By domain: D1 6, D2 7, D3 5, D4 5, D5 3, D6 6, D7 5, D8 6, D9 5.
 
 ## Tier A in the past seven days
 
+- [Long-term outcomes after percutaneous coronary intervention with drug-eluting stents versus coronary artery bypass grafting for left main coronary artery disease: a prospective analysis of the multicentre IRIS-MAIN registry.](https://pubmed.ncbi.nlm.nih.gov/42976899/) (Lancet (London, England))
 - [Antithrombotic Therapy After Left Atrial Appendage Occlusion: The SIMPLAAFY Randomized Clinical Trial.](https://pubmed.ncbi.nlm.nih.gov/42970643/) (JAMA)
 - [TAVR in Patients with Moderate Aortic Stenosis with At-Risk Features.](https://pubmed.ncbi.nlm.nih.gov/42970708/) (The New England journal of medicine)
 - [Transcatheter Aortic Valve Replacement in Pure Aortic Regurgitation: The Randomized SEASON-AR Clinical Trial.](https://pubmed.ncbi.nlm.nih.gov/42965504/) (Circulation)
@@ -99,12 +100,14 @@ Randomised trials with at least 500 participants whose primary completion date f
 - NCT07381803 : The Impact of Fexofenadine Hydrochloride on the Prognosis of Patients Post-Acute Myocardial Infarction; N 2804; primary completion 2026-12 (type not stated); recruiting
 - NCT07465692 : Long-term Results of Rehabilitation of Patients With Myocardial Infarction After Coronary Artery Stenting. The; N 1046; primary completion 2026-12 (type not stated); active not recruiting
 - NCT05757869 LIBREXIA-AF: A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation; N 20284; primary completion 2026-12-08 (type not stated); active not recruiting
+- NCT05457582 SHAWN: PCSK 9 Inhibitor Added to High-Intensity Statin Therapy to Prevent Cardiovascular Events in Patients With ACS ; N 1212; primary completion 2026-12-30 (type not stated); active not recruiting
+- NCT06577519 : Efficacy and Safety Study of Vicagrel in Patients With Acute Coronary Syndrome (ACS) Undergoing Percutaneous C; N 1000; primary completion 2026-12-30 (type not stated); recruiting
 
 ## Latest reports
 
 - Weekly: [2026-W45](outputs/weekly/2026-W45.md)
 - Monthly: [2026-10](outputs/monthly/2026-10.md)
-- Daily: [2026-11-03](outputs/daily/2026/2026-11-03.md)
+- Daily: [2026-11-04](outputs/daily/2026/2026-11-04.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 

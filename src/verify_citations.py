@@ -12,7 +12,7 @@ from . import config, store, trials
 
 PMID_RX = re.compile(r"\bPMIDs?:?\s*((?:\d{6,9}(?:\s*(?:,|;|and)\s*)?)+)", re.I)
 PMID_URL_RX = re.compile(r"pubmed\.ncbi\.nlm\.nih\.gov/(\d{6,9})")
-DOI_RX = re.compile(r"\b(10\.\d{4,9}/[^\s\)\]\>\"'|,;]+)")
+DOI_RX = re.compile(r"\b(10\.\d{4,9}/(?:[^\s()\]\>\"'|,;]|\([^\s()]*\))+)")
 NCT_RX = re.compile(r"\bNCT\d{8}\b")
 ISRCTN_RX = re.compile(r"\bISRCTN\d{8}\b")
 PLACEHOLDER_RX = re.compile(r"\b(TODO|TBD|PLACEHOLDER|lorem ipsum|XXX)\b|\[\[|\{\{")
