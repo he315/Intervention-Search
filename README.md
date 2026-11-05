@@ -2,22 +2,23 @@
 
 ## Status
 
-- Last run: 2026-11-04 08:58 (Europe/London), daily.
-- Result: OK.
+- Last run: 2026-11-05 08:58 (Europe/London), daily.
+- Result: DEGRADED, source failure: pubmed, europepmc.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: none recorded.
-- Backlog awaiting appraisal: 6178.
-- Records in the store: 54386 (Tier A 84, Tier B 1394, Tier C 31037, Tier D 15681, untiered 6190).
+- Backlog awaiting appraisal: 5779.
+- Records in the store: 54388 (Tier A 84, Tier B 1425, Tier C 31273, Tier D 15815, untiered 5791).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-11-04 |
-| europepmc | ok | 2026-11-04 |
-| medrxiv | ok | 2026-11-04 |
-| crossref | ok | 2026-11-04 |
-| ctgov | ok | 2026-11-04 |
+| pubmed | error: HTTP 200 for esearch: esearch error | 2026-11-04 |
+| europepmc | error: HTTP 503 for https://www.ebi.ac.uk/europepmc/webservices/rest/search?quer | 2026-11-04 |
+| medrxiv | ok | 2026-11-05 |
+| crossref | ok | 2026-11-05 |
+| ctgov | ok | 2026-11-05 |
 
 Warnings:
 
+- 1 appraisal entries were rejected by validation and stay in the backlog.
 - CONTACT_EMAIL is not set in the environment, so NCBI, Crossref and OpenAlex requests carry no contact address.
 
 ## Top ten priorities
@@ -102,12 +103,43 @@ Randomised trials with at least 500 participants whose primary completion date f
 - NCT05757869 LIBREXIA-AF: A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation; N 20284; primary completion 2026-12-08 (type not stated); active not recruiting
 - NCT05457582 SHAWN: PCSK 9 Inhibitor Added to High-Intensity Statin Therapy to Prevent Cardiovascular Events in Patients With ACS ; N 1212; primary completion 2026-12-30 (type not stated); active not recruiting
 - NCT06577519 : Efficacy and Safety Study of Vicagrel in Patients With Acute Coronary Syndrome (ACS) Undergoing Percutaneous C; N 1000; primary completion 2026-12-30 (type not stated); recruiting
+- NCT03127631 RADICALPC: A Study for Cardiovascular and Lifestyle Risk Factors in Prostate Cancer Patients; N 5000; primary completion 2026-12-31 (type not stated); active not recruiting
+- NCT03620266 BioDiaMI: Effects of Bilberry and Oat Intake After Type 2 Diabetes and/or MI; N 900; primary completion 2026-12-31 (type not stated); active not recruiting
+- NCT04212494 : Thrombus Aspiration in STEMI Patients With High Thrombus Burden; N 3838; primary completion 2026-12-31 (type not stated); recruiting
+- NCT04262206 PREVENTABLE: Pragmatic Evaluation of Events And Benefits of Lipid-lowering in Older Adults; N 20000; primary completion 2026-12-31 (type not stated); recruiting
+- NCT04521881 CRASH-4: Clinical Randomisation of an Anti-fibrinolytic in Symptomatic Mild Head Injury in Older Adults; N 5000; primary completion 2026-12-31 (type not stated); recruiting
+- NCT04588311 EPO-TRAUMA: ErythroPOietin Alfa to Prevent Mortality and Reduce Severe Disability in Critically Ill TRAUMA Patients; N 2500; primary completion 2026-12-31 (type not stated); recruiting
+- NCT04884802 : The GUARDIAN Trial; N 6254; primary completion 2026-12-31 (type not stated); recruiting
+- NCT04934683 : The GUARDIAN Trial - Induction Agent Sub-Study; N 6254; primary completion 2026-12-31 (type not stated); enrolling by invitation
+- NCT04934748 : The GUARDIAN Trial - Vasopressor Sub-Study; N 6254; primary completion 2026-12-31 (type not stated); enrolling by invitation
+- NCT04937699 MATE: Sequential MonotherApy of TicagrElor and Clopidogrel After Coronary Intervention; N 2690; primary completion 2026-12-31 (type not stated); recruiting
+- NCT05309850 : Primary Prevention With the Lifestyle Tool; N 90000; primary completion 2026-12-31 (type not stated); recruiting
+- NCT05309876 : Secondary Prevention With the Lifestyle Tool; N 11000; primary completion 2026-12-31 (type not stated); recruiting
+- NCT05410925 OPTIMA-6: Efficacy and Safety of a Half-dose Bolus of r-SAK Prior to Primary PCI in ST-elevation Myocardial Infarction; N 2260; primary completion 2026-12-31 (type not stated); recruiting
+- NCT05440149 PORT-N1: The Postoperative Radiotherapy in N1 Breast Cancer Patients; N 1106; primary completion 2026-12-31 (type not stated); recruiting
+- NCT05529459 ASSIST: Anatomic Versus Physiologic Guidance for Complete Revascularization With DES Eluting in Patients With CAD; N 2400; primary completion 2026-12-31 (type not stated); recruiting
+- NCT05564780 STEP-Pre: Study of Early Pharmaceutical Intervention for Cardiovascular Disease Prevention in Stage 1 Hypertension; N 20000; primary completion 2026-12-31 (type not stated); not yet recruiting
+- NCT05688579 EMRACHH: Effect of MRA on Cardiovascular Disease in Patients With Hypertension and Hyperaldosteronemia; N 8000; primary completion 2026-12-31 (type not stated); enrolling by invitation
+- NCT05703230 PREPARATION: Effects of Preoperative Multidisciplinary Team Meetings for High-risk, Adult, Noncardiac Surgical Patients; N 1200; primary completion 2026-12-31 (type not stated); active not recruiting
+- NCT05749874 ABCD: Effects of Berberine on Preventing Cardiovascular Disease and Diabetes Mellitus; N 2024; primary completion 2026-12-31 (type not stated); active not recruiting
+- NCT05759078 INFERRCT: Effect of INtravenous FERRic Carboxymaltose Onmortality and Cardiovascular Morbidity, and Quality of Life in I; N 1000; primary completion 2026-12-31 (type not stated); recruiting
+- NCT05931276 BRAVO: CSP #2026 - Beta Blocker Dialyzability on Cardiovascular Outcomes; N 2540; primary completion 2026-12-31 (type not stated); recruiting
+- NCT06085378 TK-SEEK: Efficacy and Safety of Urinary Kallidinogenase in the Treatment of Acute Ischemic Stroke Combined With Type 2 ; N 630; primary completion 2026-12-31 (type not stated); not yet recruiting
+- NCT06108414 : Low-dose Versus Standard-dose Rivaroxaban in Elderly Patients With Atrial Fibrillation; N 4374; primary completion 2026-12-31 (type not stated); recruiting
+- NCT06185530 SECURE: SECURE Trial: Stress Echocardiography With Carotid Ultrasound vs Routine CT Coronary Angiography in Chronic Co; N 2000; primary completion 2026-12-31 (type not stated); recruiting
+- NCT06216821 OPT-GUIDNACE: OPT-CAD Score GUIded Dual ANtiplatelet De-esCalation Time; N 3490; primary completion 2026-12-31 (type not stated); recruiting
+- NCT06478732 : HeartMed-HF Digital Therapeutics Improves Exercise Capacity in CHF Patients After AMI; N 710; primary completion 2026-12-31 (type not stated); not yet recruiting
+- NCT06671067 NATURAL: Noninvasive Assessment of Pulmonary Fluid Levels by Remote Dielectric Sensing Technology to Improve Cardiac In; N 2000; primary completion 2026-12-31 (type not stated); not yet recruiting
+- NCT06783049 SPIRIT: Secondary Prevention of Ischemic Stroke and Transient Ischemic Attack With an Intelligent Management System; N 4490; primary completion 2026-12-31 (type not stated); recruiting
+- NCT07071441 : Indomethacin vs Diclofenac for Preventing PEP; N 4050; primary completion 2026-12-31 (type not stated); recruiting
+- NCT07089862 : INdobufen Versus asPirin in Endovascular Unruptured Intracranial Aneurysms Treatment (INPUT); N 2500; primary completion 2026-12-31 (type not stated); recruiting
+- NCT07273513 SMART II: "Smart Family Doctor" Assisted Comprehensive Management of Secondary Prevention Among Post Revascularization P; N 951; primary completion 2026-12-31 (type not stated); not yet recruiting
 
 ## Latest reports
 
 - Weekly: [2026-W45](outputs/weekly/2026-W45.md)
 - Monthly: [2026-11](outputs/monthly/2026-11.md)
-- Daily: [2026-11-04](outputs/daily/2026/2026-11-04.md)
+- Daily: [2026-11-05](outputs/daily/2026/2026-11-05.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 

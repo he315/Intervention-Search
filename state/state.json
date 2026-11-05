@@ -763,19 +763,19 @@
     "pubmed:D9": "2026-11-04",
     "pubmed:corrections": "2026-11-04",
     "europepmc:preprints": "2026-11-04",
-    "medrxiv": "2026-11-04",
-    "ctgov": "2026-11-04",
-    "crossref": "2026-11-04"
+    "medrxiv": "2026-11-05",
+    "ctgov": "2026-11-05",
+    "crossref": "2026-11-05"
   },
   "last_runs": {
-    "daily": "2026-11-04",
+    "daily": "2026-11-05",
     "weekly": "2026-W45",
     "monthly": "2026-11",
     "quarterly": null
   },
   "source_health": {
-    "pubmed": "ok",
-    "europepmc": "ok",
+    "pubmed": "error: HTTP 200 for esearch: esearch error",
+    "europepmc": "error: HTTP 503 for https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=SRC%3APPR+AND+TITLE%3A%22stent%22&format=json&pageSize=1: {\"errCode\":503,\"errMsg\":\"Search service is temporarily unavailable.",
     "medrxiv": "ok",
     "crossref": "ok",
     "ctgov": "ok"
