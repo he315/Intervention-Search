@@ -752,20 +752,20 @@
     "retrieval_pending": 0
   },
   "watermarks": {
-    "pubmed:D1": "2026-11-04",
-    "pubmed:D2": "2026-11-04",
-    "pubmed:D3": "2026-11-04",
-    "pubmed:D4": "2026-11-04",
-    "pubmed:D5": "2026-11-04",
-    "pubmed:D6": "2026-11-04",
-    "pubmed:D7": "2026-11-04",
-    "pubmed:D8": "2026-11-04",
-    "pubmed:D9": "2026-11-04",
-    "pubmed:corrections": "2026-11-04",
-    "europepmc:preprints": "2026-11-04",
-    "medrxiv": "2026-11-05",
-    "ctgov": "2026-11-05",
-    "crossref": "2026-11-05"
+    "pubmed:D1": "2026-11-06",
+    "pubmed:D2": "2026-11-06",
+    "pubmed:D3": "2026-11-06",
+    "pubmed:D4": "2026-11-06",
+    "pubmed:D5": "2026-11-06",
+    "pubmed:D6": "2026-11-06",
+    "pubmed:D7": "2026-11-06",
+    "pubmed:D8": "2026-11-06",
+    "pubmed:D9": "2026-11-06",
+    "pubmed:corrections": "2026-11-06",
+    "europepmc:preprints": "2026-11-06",
+    "medrxiv": "2026-11-06",
+    "ctgov": "2026-11-06",
+    "crossref": "2026-11-06"
   },
   "last_runs": {
     "daily": "2026-11-05",
@@ -774,8 +774,8 @@
     "quarterly": null
   },
   "source_health": {
-    "pubmed": "error: HTTP 200 for esearch: esearch error",
-    "europepmc": "error: HTTP 503 for https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=SRC%3APPR+AND+TITLE%3A%22stent%22&format=json&pageSize=1: {\"errCode\":503,\"errMsg\":\"Search service is temporarily unavailable.",
+    "pubmed": "ok",
+    "europepmc": "ok",
     "medrxiv": "ok",
     "crossref": "ok",
     "ctgov": "ok"
