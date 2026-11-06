@@ -2,23 +2,22 @@
 
 ## Status
 
-- Last run: 2026-11-05 08:58 (Europe/London), daily.
-- Result: DEGRADED, source failure: pubmed, europepmc.
+- Last run: 2026-11-06 08:56 (Europe/London), daily.
+- Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: none recorded.
-- Backlog awaiting appraisal: 5779.
-- Records in the store: 54388 (Tier A 84, Tier B 1425, Tier C 31273, Tier D 15815, untiered 5791).
+- Backlog awaiting appraisal: 5475.
+- Records in the store: 54536 (Tier A 84, Tier B 1440, Tier C 31491, Tier D 16034, untiered 5487).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | error: HTTP 200 for esearch: esearch error | 2026-11-04 |
-| europepmc | error: HTTP 503 for https://www.ebi.ac.uk/europepmc/webservices/rest/search?quer | 2026-11-04 |
-| medrxiv | ok | 2026-11-05 |
-| crossref | ok | 2026-11-05 |
-| ctgov | ok | 2026-11-05 |
+| pubmed | ok | 2026-11-06 |
+| europepmc | ok | 2026-11-06 |
+| medrxiv | ok | 2026-11-06 |
+| crossref | ok | 2026-11-06 |
+| ctgov | ok | 2026-11-06 |
 
 Warnings:
 
-- 1 appraisal entries were rejected by validation and stay in the backlog.
 - CONTACT_EMAIL is not set in the environment, so NCBI, Crossref and OpenAlex requests carry no contact address.
 
 ## Top ten priorities
@@ -76,6 +75,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 - NCT04229758 Restart tICrH: Restarting Anticoagulation After Traumatic Intracranial Hemorrhage; N 1100; primary completion 2026-12 (type not stated); not yet recruiting
 - NCT04433052 : Clinical Value and Cost-effectiveness of a Personalized Prevention Program (PPP) in Patients With High Risk St; N 12000; primary completion 2026-12 (type not stated); recruiting
 - NCT04701242 EzAMI: Ezetimibe Utilization Early After Acute Myocardial Infarction, "EzAMI Trial"; N 500; primary completion 2026-12 (type not stated); recruiting
+- NCT04709900 DYNAMITE: CT Stress Myocardial Perfusion, Fractional Flow Reserve and Angiography in Patients With Stable Chest Pain Syn; N 2000; primary completion 2026-12 (type not stated); recruiting
 - NCT04926597 EFFORT II: Effect of Continued Nutritional Support at Hospital Discharge on Mortality, Frailty, Functional Outcomes and R; N 1200; primary completion 2026-12 (type not stated); recruiting
 - NCT05015660 : Conduction System Pacing With Left Bundle Branch Pacing as Compared to Standard Right Ventricular Pacing; N 1300; primary completion 2026-12-01 (type not stated); recruiting
 - NCT05029063 TRIM-Line: Primary Thromboprophylaxis in Patients With Malignancy and Central Venous Catheters; N 1828; primary completion 2026-12 (type not stated); recruiting
@@ -84,7 +84,6 @@ Randomised trials with at least 500 participants whose primary completion date f
 - NCT05325034 GOAL-ASIA: Guideline Oriented Approach To Lipid Lowering In Asia-Pacific; N 2000; primary completion 2026-12 (type not stated); recruiting
 - NCT05638867 : NOAC Therapy Guided by PARIS Risk Score and D-dimer in Patients With ACS After PCI; N 3944; primary completion 2026-12 (type not stated); recruiting
 - NCT05674487 PROBIN: Prostaglandins Versus Trans-cervical Balloon for Induction of Labor in Fetal Growth Restriction (PROBIN); N 774; primary completion 2026-12-01 (type not stated); recruiting
-- NCT05677386 : The DANE-HEART Trial - Computed Tomography Coronary Angiography for Primary Prevention; N 6000; primary completion 2026-12 (type not stated); enrolling by invitation
 - NCT05967663 : Fractional Flow Reserve Guided Immediate Versus Staged Complete Myocardial Revascularization in Patients With ; N 840; primary completion 2026-12 (type not stated); recruiting
 - NCT05976152 Be-CLEVER: Effect of Butyphthalide on Cognitive Level Change After Cerebral Vascular Event-a Randomized Control Trial (Be; N 3200; primary completion 2026-12 (type not stated); recruiting
 - NCT06033014 PM Heart: Clinical Implementation of a Novel Decision Support Tool in Patients With Ischemic Heart Disease; N 8000; primary completion 2026-12 (type not stated); recruiting
@@ -134,12 +133,21 @@ Randomised trials with at least 500 participants whose primary completion date f
 - NCT07071441 : Indomethacin vs Diclofenac for Preventing PEP; N 4050; primary completion 2026-12-31 (type not stated); recruiting
 - NCT07089862 : INdobufen Versus asPirin in Endovascular Unruptured Intracranial Aneurysms Treatment (INPUT); N 2500; primary completion 2026-12-31 (type not stated); recruiting
 - NCT07273513 SMART II: "Smart Family Doctor" Assisted Comprehensive Management of Secondary Prevention Among Post Revascularization P; N 951; primary completion 2026-12-31 (type not stated); not yet recruiting
+- NCT03862859 DANWARD: The Danish Warfarin-Dialysis Study - Safety and Efficacy of Warfarin in Patients With Atrial Fibrillation on D; N 718; primary completion 2027-01 (type not stated); recruiting
+- NCT05284513 CARE-FH: Collaborative Approach to Reach Everyone With Familial Hypercholesterolemia (CARE-FH); N 532; primary completion 2027-01 (type not stated); enrolling by invitation
+- NCT05530083 : Group Education Helps Smoking Cessation and Hypertension Control; N 2000; primary completion 2027-01-01 (type not stated); not yet recruiting
+- NCT05564754 STEPCARE: Sedation, Temperature and Pressure After Cardiac Arrest and Resuscitation; N 3500; primary completion 2027-01 (type not stated); active not recruiting
+- NCT05997693 ODIN: One-Month DAPT in CABG Patients; N 700; primary completion 2027-01 (type not stated); recruiting
+- NCT06207942 : Stepcare Extended Follow-up Substudy; N 600; primary completion 2027-01 (type not stated); recruiting
+- NCT06481891 SONATA-HCM: A Study to Evaluate the Efficacy and Safety of Sotagliflozin in Symptomatic Obstructive and Non-obstructive Hy; N 500; primary completion 2027-01 (type not stated); active not recruiting
+- NCT06767969 ACEAIS: Effect of Acetaminophen on Neurological Outcome in Acute Ischemic Stroke Patients Undergoing Endovascular Trea; N 892; primary completion 2027-01-01 (type not stated); not yet recruiting
+- NCT06927908 : Cardiac Denervation in Aortic Arch Replacement; N 570; primary completion 2027-01-01 (type not stated); not yet recruiting
 
 ## Latest reports
 
 - Weekly: [2026-W45](outputs/weekly/2026-W45.md)
 - Monthly: [2026-11](outputs/monthly/2026-11.md)
-- Daily: [2026-11-05](outputs/daily/2026/2026-11-05.md)
+- Daily: [2026-11-06](outputs/daily/2026/2026-11-06.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 
