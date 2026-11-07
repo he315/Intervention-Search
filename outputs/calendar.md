@@ -1,6 +1,6 @@
 # Calendar
 
-Updated 6 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
+Updated 7 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
 
 ## Congresses
 
@@ -1576,7 +1576,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT06578182 | ECHO | The Effect of ColcHicine on the Incidence of Knee or Hip Replacements | 1410 | 2029-03-31 () | recruiting | D1, D6 |
 | NCT06701188 | STRIVE | Supportive Training After Cardiac Rehabilitation Including Virtual Engagement | 286 | 2029-03-31 () | recruiting | D6 |
 | NCT07377071 | FOL-AKI | Folate Treatment to Reduce Death Risk in the Year After Infection-Related Acute Kidney Injury | 382 | 2029-03-31 () | not yet recruiting | D6 |
-| NCT07696975 | RELIEVE-HFrEF | RELIEVE-HFrEF TRIAL: REducing Lung congestIon Symptoms Using the v-wavE Shunt in adVancEd Heart Fail | 250 | 2029-03-31 () | not yet recruiting | D9 |
 | NCT07724899 | SAVE-AF | Efficacy and Safety of Superior Vena Cava Isolation and Pulmonary Vein Isolation for Treatment of At | 200 | 2029-03-31 () | recruiting | D6 |
 | NCT07849127 | wCAR-Austria | wCAR-Austria: A Women-Specific Score to Assess Cardiovascular Risk in Women Aged 40 to 65 | 800 | 2029-03-31 () | not yet recruiting | D1, D6 |
 | NCT07910058 | SUPERIOR 2 | Sacubitril/Valsartan vs Standard Treatment for Preventing Atrial Fibrillation Recurrence After Cathe | 472 | 2029-03-31 () | not yet recruiting | D6 |

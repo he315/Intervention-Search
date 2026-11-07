@@ -2,22 +2,23 @@
 
 ## Status
 
-- Last run: 2026-11-06 08:56 (Europe/London), daily.
+- Last run: 2026-11-07 08:56 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: none recorded.
-- Backlog awaiting appraisal: 5475.
-- Records in the store: 54536 (Tier A 84, Tier B 1440, Tier C 31491, Tier D 16034, untiered 5487).
+- Backlog awaiting appraisal: 5675.
+- Records in the store: 55192 (Tier A 84, Tier B 1467, Tier C 31694, Tier D 16260, untiered 5687).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-11-06 |
-| europepmc | ok | 2026-11-06 |
-| medrxiv | ok | 2026-11-06 |
-| crossref | ok | 2026-11-06 |
-| ctgov | ok | 2026-11-06 |
+| pubmed | ok | 2026-11-07 |
+| europepmc | ok | 2026-11-07 |
+| medrxiv | ok | 2026-11-07 |
+| crossref | ok | 2026-11-07 |
+| ctgov | ok | 2026-11-07 |
 
 Warnings:
 
+- New-record count 656 is above three times the 28-run median (74); query self-check recommended.
 - CONTACT_EMAIL is not set in the environment, so NCBI, Crossref and OpenAlex requests carry no contact address.
 
 ## Top ten priorities
@@ -52,7 +53,6 @@ By domain: D1 6, D2 7, D3 5, D4 5, D5 3, D6 6, D7 5, D8 6, D9 5.
 
 Congresses:
 
-- AHA Scientific Sessions 2026, 6 November 2026 to 9 November 2026, Chicago, USA. Programme: https://professional.heart.org/en/meetings/scientific-sessions/programming
 - PCR London Valves 2026, 22 November 2026 to 24 November 2026, London, United Kingdom. Programme: https://www.pcronline.com/Courses/PCR-London-Valves/Programme/2026/Course-Programme
 
 Randomised trials with at least 500 participants whose primary completion date falls in the period (registry dates, often estimated):
@@ -147,7 +147,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 - Weekly: [2026-W45](outputs/weekly/2026-W45.md)
 - Monthly: [2026-11](outputs/monthly/2026-11.md)
-- Daily: [2026-11-06](outputs/daily/2026/2026-11-06.md)
+- Daily: [2026-11-07](outputs/daily/2026/2026-11-07.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 
