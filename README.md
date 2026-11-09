@@ -2,22 +2,23 @@
 
 ## Status
 
-- Last run: 2026-11-08 08:58 (Europe/London), daily.
+- Last run: 2026-11-09 08:58 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: none recorded.
-- Backlog awaiting appraisal: 5308.
-- Records in the store: 55242 (Tier A 86, Tier B 1482, Tier C 31922, Tier D 16432, untiered 5320).
+- Backlog awaiting appraisal: 5440.
+- Records in the store: 55802 (Tier A 86, Tier B 1484, Tier C 32110, Tier D 16670, untiered 5452).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-11-08 |
-| europepmc | ok | 2026-11-08 |
-| medrxiv | ok | 2026-11-08 |
-| crossref | ok | 2026-11-08 |
-| ctgov | ok | 2026-11-08 |
+| pubmed | ok | 2026-11-09 |
+| europepmc | ok | 2026-11-09 |
+| medrxiv | ok | 2026-11-09 |
+| crossref | ok | 2026-11-09 |
+| ctgov | ok | 2026-11-09 |
 
 Warnings:
 
+- New-record count 560 is above three times the 28-run median (74); query self-check recommended.
 - CONTACT_EMAIL is not set in the environment, so NCBI, Crossref and OpenAlex requests carry no contact address.
 
 ## Top ten priorities
@@ -48,7 +49,6 @@ By domain: D1 6, D2 7, D3 5, D4 5, D5 3, D6 6, D7 5, D8 6, D9 5.
 - [Long-term outcomes after percutaneous coronary intervention with drug-eluting stents versus coronary artery bypass grafting for left main coronary artery disease: a prospective analysis of the multicentre IRIS-MAIN registry.](https://pubmed.ncbi.nlm.nih.gov/42976899/) (Lancet (London, England))
 - [Antithrombotic Therapy After Left Atrial Appendage Occlusion: The SIMPLAAFY Randomized Clinical Trial.](https://pubmed.ncbi.nlm.nih.gov/42970643/) (JAMA)
 - [TAVR in Patients with Moderate Aortic Stenosis with At-Risk Features.](https://pubmed.ncbi.nlm.nih.gov/42970708/) (The New England journal of medicine)
-- [Transcatheter Aortic Valve Replacement in Pure Aortic Regurgitation: The Randomized SEASON-AR Clinical Trial.](https://pubmed.ncbi.nlm.nih.gov/42965504/) (Circulation)
 
 ## Next eight weeks
 
@@ -146,9 +146,9 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 ## Latest reports
 
-- Weekly: [2026-W45](outputs/weekly/2026-W45.md)
+- Weekly: [2026-W46](outputs/weekly/2026-W46.md)
 - Monthly: [2026-11](outputs/monthly/2026-11.md)
-- Daily: [2026-11-08](outputs/daily/2026/2026-11-08.md)
+- Daily: [2026-11-09](outputs/daily/2026/2026-11-09.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 
