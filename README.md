@@ -2,23 +2,22 @@
 
 ## Status
 
-- Last run: 2026-11-09 08:58 (Europe/London), daily.
+- Last run: 2026-11-10 09:01 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: none recorded.
-- Backlog awaiting appraisal: 5440.
-- Records in the store: 55802 (Tier A 86, Tier B 1484, Tier C 32110, Tier D 16670, untiered 5452).
+- Backlog awaiting appraisal: 5087.
+- Records in the store: 55884 (Tier A 87, Tier B 1501, Tier C 32253, Tier D 16944, untiered 5099).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-11-09 |
-| europepmc | ok | 2026-11-09 |
-| medrxiv | ok | 2026-11-09 |
-| crossref | ok | 2026-11-09 |
-| ctgov | ok | 2026-11-09 |
+| pubmed | ok | 2026-11-10 |
+| europepmc | ok | 2026-11-10 |
+| medrxiv | ok | 2026-11-10 |
+| crossref | ok | 2026-11-10 |
+| ctgov | ok | 2026-11-10 |
 
 Warnings:
 
-- New-record count 560 is above three times the 28-run median (74); query self-check recommended.
 - CONTACT_EMAIL is not set in the environment, so NCBI, Crossref and OpenAlex requests carry no contact address.
 
 ## Top ten priorities
@@ -148,7 +147,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 - Weekly: [2026-W46](outputs/weekly/2026-W46.md)
 - Monthly: [2026-11](outputs/monthly/2026-11.md)
-- Daily: [2026-11-09](outputs/daily/2026/2026-11-09.md)
+- Daily: [2026-11-10](outputs/daily/2026/2026-11-10.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 
