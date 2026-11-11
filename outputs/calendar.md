@@ -1,6 +1,6 @@
 # Calendar
 
-Updated 10 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
+Updated 11 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
 
 ## Congresses
 
@@ -302,7 +302,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT05508256 | CABA-HFPEF | CAtheter-Based Ablation of Atrial Fibrillation Compared to Conventional Treatment in Patients With H | 1548 | 2026-07 () | recruiting | D6, D8 |
 | NCT06118840 | IDEAL | IDEAL Study: Blinded RCT for the Impact of AI Model for Cerebral Aneurysms Detection on Patients' Di | 6450 | 2026-07 () | recruiting | D4 |
 | NCT06684171 |  | Comparison of Transcatheter Edge-to-edge Repair Using Echo Only with Echo Combined with X Ray for Mi | 200 | 2026-07-01 () | recruiting | D4, D6 |
-| NCT06952452 | AMD | Pharmacogenomics of antiVEGF in Patients With Age-Associated Macular Degeneration (AMD) | 630 | 2026-07 () | recruiting | D6 |
 | NCT07002658 | EndOSiC | Clinical Impact of Surgical Wound Morbidity According to the Type of Saphenous Vein Harvesting Techn | 356 | 2026-07-01 () | not yet recruiting | D6 |
 | NCT07023510 |  | The VALVE-AI Trial | 8648 | 2026-07-01 () | recruiting | D3, D4, D5 |
 | NCT07165964 |  | Nursing Interventions to Enhance Positive Mental Health and Self Care in Women During the Climacteri | 250 | 2026-07-01 () | recruiting | D4 |
@@ -373,6 +372,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT06559436 |  | Extending the Time Window for Intravenous Tenecteplase in Patients With Distal Medium Vessel Occlusi | 560 | 2026-09-01 () | recruiting | D4 |
 | NCT07021976 |  | A Phase III Trial of HRS-1893 in Patients With Obstructive Hypertrophic Cardiomyopathy | 228 | 2026-09 () | active not recruiting | D3, D6 |
 | NCT05636176 | HERMES | A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With Heart Failure  | 4874 | 2026-09-03 () | terminated | D6 |
+| NCT05138601 | vCCC 2 | Remote Monitoring and Virtual Collaborative Care For Hypertension Control to Prevent Cognitive Decli | 1000 | 2026-09-08 () | active not recruiting | D1, D6 |
 | NCT03484936 | SERIC-sICH | Safety and Efficacy of Remote Ischemic Conditioning in Patients With Spontaneous Intracerebral Hemor | 530 | 2026-09-15 () | not yet recruiting | D4 |
 | NCT06615609 | SMART | "Smart Family Doctor" Assisted Comprehensive Management of Secondary Prevention Among Post Coronary  | 536 | 2026-09-15 () | recruiting | D1, D6 |
 | NCT07233070 |  | HRS-7450 Injection Phase II Clinical Trial for Acute Ischemic Stroke. | 210 | 2026-09-17 () | completed | D4 |
@@ -382,7 +382,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT05765370 |  | LDL Cholesterol TARGETs in OLDer Patients (Age≥75 Years) With ASCVD (TARGET OLD) | 4200 | 2026-09-24 () | recruiting | D1, D6 |
 | NCT04045093 | David-MS | Dabigatran for Mitral Stenosis Atrial Fibrillation | 370 | 2026-09-30 () | active not recruiting | D6 |
 | NCT04381143 |  | ASPIrin in Reducing Events in Dialysis ( ASPIRED ) | 9082 | 2026-09-30 () | active not recruiting | D1, D6 |
-| NCT05138601 | vCCC 2 | Remote Monitoring and Virtual Collaborative Care For Hypertension Control to Prevent Cognitive Decli | 1000 | 2026-09-30 () | active not recruiting | D1, D6 |
 | NCT05182658 | EMPA-REPAIR | Empagliflozin in Hypertrophic Cardiomyopathy | 250 | 2026-09-30 () | active not recruiting | D3 |
 | NCT05969275 | UC-CISSII | Umbilical Mesenchymal Stromal Cells as Cellular Immunotherapy for Septic Shock | 296 | 2026-09-30 () | recruiting | D6 |
 | NCT06224426 | Oxy-TARGET | Oxygen Concentration Target in Stroke Endovascular Treatment | 200 | 2026-09-30 () | recruiting | D4 |
@@ -442,6 +441,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07385092 | COME ON NOW | Continuous Vital Sign Monitoring Versus Routine Spot-checks in Patients After Non-cardiac Surgery | 264 | 2026-11-01 () | recruiting | D6 |
 | NCT07424118 | REMIDEP-HTA | REMIDEP-HTA Program for Hypertension Remission and Medication Deprescription | 240 | 2026-11 () | not yet recruiting | D6 |
 | NCT07735091 |  | A Blood Pressure-Lowering Diet for Preventing and Managing Hypertension | 800 | 2026-11-01 () | not yet recruiting | D6 |
+| NCT07928960 | SoundDistal | Conventional or Ultrasound Guided Puncture Technique for the Distal Radial Artery, Direct Comparison | 600 | 2026-11-01 () | completed | D1 |
 | NCT04229056 | COMPEX | COMPuter-assisted Self-training to Improve EXecutive Function | 307 | 2026-11-05 () | active not recruiting | D4 |
 | NCT06867991 | RADIA | Safety and Efficacy of Combined B Cell Depleting theRapy And Daratumumab In Autoimmune Encephalitis | 200 | 2026-11-08 () | recruiting | D4 |
 | NCT06702657 | ICAS LVO-MT | A Randomized Clinical Trial on Urgent Angioplasty for IntraCranial Atherosclerotic Stenosis-related  | 612 | 2026-11-15 () | not yet recruiting | D4 |
@@ -449,6 +449,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT06615726 | RESIST | Regular Physical Exercise in Patients With Symptomatic Intracranial Arterial Stenosis | 1300 | 2026-11-19 () | active not recruiting | D6 |
 | NCT07863531 |  | Multi-center Research Clinical Trial Protocol for Etiology-pathology and Repair Classification of Mi | 200 | 2026-11-19 () | not yet recruiting | D3, D4 |
 | NCT05993481 |  | The Noninvasive Blood Pressure Measurement Effect on the Hypotension | 640 | 2026-11-25 () | enrolling by invitation | D6 |
+| NCT07928583 |  | To Evaluate The Efficacy And Safety Of Rivaroxaban In Combination With Aspirin Compared With Aspirin | 200 | 2026-11-26 () | not yet recruiting | D6 |
 | NCT05682118 | ROAD-IFR | Impact of Dynamic CoROnary RoADmap System for Guidance of Instantaneous Wave-Free Ratio or Fractiona | 226 | 2026-11-27 () | recruiting | D1 |
 | NCT06501443 |  | LATAM LOWERS LDL-C | 520 | 2026-11-27 () | recruiting | D1, D6 |
 | NCT05349955 | GUARD | Effects and Safety of Diabetic GUideline Algorithm Implementation Performed by Primary Care Physicia | 5600 | 2026-11-30 () | recruiting | D6, D8 |
@@ -614,6 +615,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT06118281 | ARTEMIS | ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a He | 10000 | 2027-01-29 () | active not recruiting | D1, D6 |
 | NCT04936607 | NEPTUNE | ImproviNg rEnal Outcomes Following Coronary angiograPhy and/or percuTaneoUs coroNary intErventions | 1158 | 2027-01-30 () | recruiting | D1, D6 |
 | NCT06254755 |  | Comparison Study Between Suction Aspiration and Combination Technique in Acute Cerebral Infarction | 1132 | 2027-01-30 () | enrolling by invitation | D4, D6 |
+| NCT07156656 | STOP | Sivelestat Treatment for Postoperative Organ Protection in Type A Aortic Dissection | 236 | 2027-01-30 () | recruiting | D7 |
 | NCT05027984 | INTERCLIMA | Interventional Strategy for Non-culprit Lesions With Major Vulnerability Criteria at OCT in Patients | 1425 | 2027-01-31 () | active not recruiting | D1, D6 |
 | NCT05139849 | VAST-A | VAsopressin and STeroids in Addition to Adrenaline in Cardiac Arrest - a Randomized Clinical Trial | 1276 | 2027-01-31 () | recruiting | D6 |
 | NCT05786131 | CompleteNSTEMI | Complete Revascularization Versus Culprit Lesion Only PCI in NSTEMI | 3390 | 2027-01-31 () | recruiting | D1, D6 |
@@ -993,7 +995,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT06740162 | PACE | Physical Activity and Community EmPOWERment Project | 376 | 2027-12 () | recruiting | D3 |
 | NCT06789692 | RETUNE | Reduce Tobacco Use in People Living With HIV in Switzerland | 972 | 2027-12 () | recruiting | D6 |
 | NCT06791031 |  | PCSK9 inhibitoRs for Early Passivation of coRonary athEroSclerotic plaqueS in Acute Coronary Syndrom | 212 | 2027-12 () | not yet recruiting | D6 |
-| NCT06877221 | ModulationHTN2 | Safety and Efficacy of Modulated Ultrasound Renal Denervation for HTN | 204 | 2027-12 () | recruiting | D9 |
+| NCT06877221 | ModulationHTN2 | Safety and Efficacy of Modulated Ultrasound Renal Denervation for HTN | 204 | 2027-12 () | active not recruiting | D9 |
 | NCT06952387 | PREMIUM | PeRsonalized Blood prEssure Management on Postoperative Complications and Mortality in hIgh-risk Pat | 1624 | 2027-12 () | recruiting | D6, D7 |
 | NCT06955260 | EMPA-HEART-3 | SGLT2 Inhibition With Empagliflozin in Fontan Circulatory Failure | 410 | 2027-12 () | recruiting | D2, D3 |
 | NCT07080489 |  | Exploring the Role of the Prefrontal Cortex in Decision-Making | 444 | 2027-12 () | recruiting | D4 |
@@ -1335,7 +1337,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07743697 | SEAL-TAVI | Comparing Suture vs. Combined Closure Strategies for Large Blood Vessel Access in Patients Undergoin | 705 | 2028-09 () | not yet recruiting | D3 |
 | NCT07744035 | ATTRACTION | Ablation With Transcatheter Edge-to-edge Repair for Atrial Functional Mitral Regurgitation and Atria | 384 | 2028-09-01 () | not yet recruiting | D4, D5, D6 |
 | NCT07815119 | PEARL-LAAC | TEE-Guided Versus CCTA-Guided Preprocedural Imaging for Left Atrial Appendage Closure | 590 | 2028-09-01 () | recruiting | D9 |
-| NCT07825311 | DESIRE | Prevention of Ischemic Stroke Recurrence Using Digital Technology Application | 1696 | 2028-09-01 () | not yet recruiting | D6 |
+| NCT07825311 | DESIRE | Prevention of Ischemic Stroke Recurrence Using Digital Technology Application | 1696 | 2028-09-01 () | recruiting | D6 |
 | NCT07865221 |  | Pulsed Field Ablation for Paroxysmal Atrial Fibrillation: Clinical Efficacy and Left Atrial Function | 220 | 2028-09 () | not yet recruiting | D7 |
 | NCT06768138 | IA-SUCCESS | Intra-Arterial Thrombolysis After SUCCESSful Reperfusion in Anterior Circulation Ischemic Stroke | 626 | 2028-09-16 () | recruiting | D4 |
 | NCT05353140 |  | LAAO Versus NOAC in Patients with AF and PCI | 1386 | 2028-09-20 () | recruiting | D1, D4, D6, D8, D9 |
@@ -1346,7 +1348,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT05321706 | DAPARHT | DAPAgliflozin for Renal Protection in Heart Transplant Recipients | 430 | 2028-09-30 () | active not recruiting | D6 |
 | NCT06597188 | PROMIS-BAV | TAVR vs. SAVR Study of VitaFlow Liberty® for Severe BAV Stenosis | 452 | 2028-09-30 () | enrolling by invitation | D3, D6 |
 | NCT07007143 | STAR-TEER Ⅱ | STrategies for Antithrombotic tReatment Following Transcatheter Edge-to-Edge Repair in Patients With | 1032 | 2028-09-30 () | recruiting | D4, D6, D8 |
-| NCT07156656 | STOP | Sivelestat Treatment for Postoperative Organ Protection in Type A Aortic Dissection | 236 | 2028-09-30 () | not yet recruiting | D7 |
 | NCT07318948 |  | BALANCE Trial Domain Within the ACT-GLOBAL Adaptive Platform Trial-NCT06352632 | 1600 | 2028-09-30 () | recruiting | D4 |
 | NCT07818083 | TEARIAS | The Efficacy and Safety of Tirofiban Enhanced Antiplatelet Therapy in the Treatment of Ruptured Intr | 622 | 2028-09-30 () | not yet recruiting | D4, D8 |
 
@@ -1628,7 +1629,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07485283 | DAN-ZOSTER | Recombinant Herpes Zoster Vaccine for Prevention of Cardiovascular Events and Dementia | 168460 | 2029-06 () | active not recruiting | D1, D6 |
 | NCT07506291 | HOME-PE2 | HOME-PE2 : Home Treatment Versus Hospitalization in Patients With Acute Pulmonary Embolism, no Clini | 568 | 2029-06 () | not yet recruiting | D7 |
 | NCT07511257 | OVER-TIME II | Multicenter Trial of Antithrombotic Strategies in Acute Coronary Syndrome With Coronary Artery Ectas | 326 | 2029-06 () | recruiting | D1, D6, D8 |
-| NCT07516444 | TRIVITA | VDyne Transcatheter Tricuspid Valve Replacement Study to Evaluate Safety and Clinical Efficacy in Pa | 730 | 2029-06 () | recruiting | D5, D6 |
+| NCT07516444 | TRIVITA | VDyne TriNova Transcatheter Tricuspid Valve Replacement Study to Evaluate Safety and Clinical Effica | 520 | 2029-06 () | recruiting | D5, D6 |
 | NCT07634718 | ITINERANCE | Implementation Trial In patieNts With rEnal failuRe and diAbetes for Major Adverse reNal and Cardiov | 125000 | 2029-06 () | not yet recruiting | D6 |
 | NCT07709208 | MARCER | Mitral Valve Edge-to-Edge Repair in Patients With Exercise-Induced Severe Mitral Regurgitation | 246 | 2029-06 () | recruiting | D4, D6 |
 | NCT07853716 | REFINE-CAC | REFINE-CAC Protocol: Risk Evaluation With AI-CPA + HCS For Patients IN Whom Calcium is confirmEd to  | 500 | 2029-06 () | not yet recruiting | D1 |
@@ -1726,6 +1727,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07000357 | AZURE-Outcomes | A Phase III Study of AZD0780 on Major Adverse CV Events in Patients With a History of ASCVD Events o | 15100 | 2029-10-26 () | recruiting | D1, D6 |
 | NCT06990867 | ORION | Optimizing Reperfusion to Improve Outcomes and Neurologic Function | 740 | 2029-10-31 () | recruiting | D4 |
 | NCT07715279 | VERIFICATION | Vericiguat for the Inhibition of Calcific Aortic Valve Stenosis Progression | 238 | 2029-10-31 () | recruiting | D3, D6 |
+| NCT07928674 | mSOFA-Kit | Prehospital mSOFA-Kit Decision Support for the Detection of Multiple Organ Failure | 3780 | 2029-10-31 () | not yet recruiting | D1, D6 |
 | NCT06864715 | LIVE-WEL | Behavioral Activation for the PreVention of Post-strokE Depression in LoW-incomE Older Stroke Surviv | 350 | 2029-11-01 () | recruiting | D4 |
 | NCT07115940 | SELECT LATE | Medical Management With Endovascular Thrombectomy Versus Medical Management Alone in Patients Presen | 408 | 2029-11-01 () | recruiting | D4, D8 |
 | NCT07236489 | LBAP-TAVI | Trial Evaluating the Benefit of Left Bundle Branch Area Stimulation Compared With Conventional Pacin | 266 | 2029-11 () | recruiting | D3 |

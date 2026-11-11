@@ -4,7 +4,7 @@
 
 - Last run: 2026-11-11 08:59 (Europe/London), daily.
 - Result: OK.
-- Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: none recorded.
+- Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: guideline extracts (8.4), full briefs for Q-018 and Q-024, appraisal backlog drain.
 - Backlog awaiting appraisal: 4733.
 - Records in the store: 55952 (Tier A 88, Tier B 1533, Tier C 32501, Tier D 17085, untiered 4745).
 
