@@ -2,19 +2,19 @@
 
 ## Status
 
-- Last run: 2026-11-10 09:01 (Europe/London), daily.
+- Last run: 2026-11-11 08:59 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: none recorded.
-- Backlog awaiting appraisal: 5087.
-- Records in the store: 55884 (Tier A 87, Tier B 1501, Tier C 32253, Tier D 16944, untiered 5099).
+- Backlog awaiting appraisal: 4733.
+- Records in the store: 55952 (Tier A 88, Tier B 1533, Tier C 32501, Tier D 17085, untiered 4745).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-11-10 |
-| europepmc | ok | 2026-11-10 |
-| medrxiv | ok | 2026-11-10 |
-| crossref | ok | 2026-11-10 |
-| ctgov | ok | 2026-11-10 |
+| pubmed | ok | 2026-11-11 |
+| europepmc | ok | 2026-11-11 |
+| medrxiv | ok | 2026-11-11 |
+| crossref | ok | 2026-11-11 |
+| ctgov | ok | 2026-11-11 |
 
 Warnings:
 
@@ -46,8 +46,6 @@ By domain: D1 6, D2 7, D3 5, D4 5, D5 3, D6 6, D7 5, D8 6, D9 5.
 - [Long-Term Survival After Initial Invasive or Conservative Management of Stable Coronary Disease in ISCHEMIA-EXTEND.](https://pubmed.ncbi.nlm.nih.gov/42998244/) (JAMA)
 - [Cangrelor versus crushed ticagrelor in acute myocardial infarction complicated by cardiogenic shock (DAPT-SHOCK-AMI): a randomised, double-blind trial.](https://pubmed.ncbi.nlm.nih.gov/42998670/) (Lancet (London, England))
 - [Long-term outcomes after percutaneous coronary intervention with drug-eluting stents versus coronary artery bypass grafting for left main coronary artery disease: a prospective analysis of the multicentre IRIS-MAIN registry.](https://pubmed.ncbi.nlm.nih.gov/42976899/) (Lancet (London, England))
-- [Antithrombotic Therapy After Left Atrial Appendage Occlusion: The SIMPLAAFY Randomized Clinical Trial.](https://pubmed.ncbi.nlm.nih.gov/42970643/) (JAMA)
-- [TAVR in Patients with Moderate Aortic Stenosis with At-Risk Features.](https://pubmed.ncbi.nlm.nih.gov/42970708/) (The New England journal of medicine)
 
 ## Next eight weeks
 
@@ -147,7 +145,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 - Weekly: [2026-W46](outputs/weekly/2026-W46.md)
 - Monthly: [2026-11](outputs/monthly/2026-11.md)
-- Daily: [2026-11-10](outputs/daily/2026/2026-11-10.md)
+- Daily: [2026-11-11](outputs/daily/2026/2026-11-11.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 
