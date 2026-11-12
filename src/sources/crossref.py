@@ -36,6 +36,13 @@ def match_journal(payload, title):
     return out
 
 
+def works_issn(journal):
+    """ISSN to query for a journal's works: the verified crossref_issn if set, else the first stored ISSN.
+
+    Some journals (The Lancet, BMJ, Heart) list a historical ISSN first under which Crossref files no current works."""
+    return journal.get("crossref_issn") or (journal.get("issn") or [None])[0]
+
+
 def works(issn, from_date, until_date, date_field="created", max_items=5000):
     """Items for one ISSN created (or published online) within a window."""
     filt = f"from-{date_field}-date:{from_date.isoformat()},until-{date_field}-date:{until_date.isoformat()},type:journal-article"

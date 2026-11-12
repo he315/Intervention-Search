@@ -314,7 +314,7 @@ def completeness(idx, today, days=90):
         for wait in (0, 45, 90):
             time.sleep(wait)
             try:
-                items = crossref.works(j["issn"][0], start, today, date_field="online-pub", max_items=20000)
+                items = crossref.works(crossref.works_issn(j), start, today, date_field="created", max_items=20000)
                 break
             except net.HttpError as e:
                 last_err = str(e)[:120]

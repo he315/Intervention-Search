@@ -192,7 +192,7 @@ def fetch_crossref(s, ing, today):
     for j in js:
         if not j.get("issn"):
             continue
-        items = crossref.works(j["issn"][0], start, today)
+        items = crossref.works(crossref.works_issn(j), start, today)
         total += len(items)
         recs = [x for x in (crossref.parse_item(it, j["name"], j["tier"]) for it in items) if x]
         recs = [r for r in recs if text_domains(r)]

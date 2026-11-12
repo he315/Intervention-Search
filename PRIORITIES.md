@@ -1,6 +1,6 @@
 # Research priorities
 
-Refreshed 11 November 2026. Ranked by composite score among questions that pass all five gates and are not limited to a subspecialty journal. Feasibility is reported for every question but carries 5% of the weight.
+Refreshed 12 November 2026. Ranked by composite score among questions that pass all five gates and are not limited to a subspecialty journal. Feasibility is reported for every question but carries 5% of the weight.
 
 ## Top ten
 
@@ -146,6 +146,8 @@ Next three actions:
 2. Count incretin initiators after MI in the QMUL UK Biobank extract and identify a linked primary care or Nordic data partner
 3. Write the target trial protocol with eligibility, time zero, strategies and estimand
 
+Full brief: [register/briefs/Q-024.md](register/briefs/Q-024.md)
+
 ### 9. Q-025: Continuation or withdrawal of renin-angiotensin system inhibitors after myocardial infarction with preserved ejection fraction: a registry-based randomised trial
 
 Composite 67.0. Status: candidate. Domains: D6. Target journal: European Heart Journal, Circulation or JAMA Cardiology.
@@ -179,6 +181,8 @@ Next three actions:
 1. Extract natural history and surgical outcome inputs from the stored records
 2. Define model structure and perspective
 3. Draft a PROSPERO-style protocol for the input synthesis
+
+Full brief: [register/briefs/Q-018.md](register/briefs/Q-018.md)
 
 ## Watch list (ranks 11 to 25)
 

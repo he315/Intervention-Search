@@ -1,0 +1,193 @@
+{
+ "window": [
+  "2026-08-14",
+  "2026-11-12"
+ ],
+ "journals": {
+  "European Heart Journal": {
+   "crossref_items": 4920,
+   "in_scope_by_text_rules": 1380,
+   "indexed_in_pubmed": 34,
+   "missing_from_store": 4
+  },
+  "Circulation": {
+   "crossref_items": 4762,
+   "in_scope_by_text_rules": 1157,
+   "indexed_in_pubmed": 33,
+   "missing_from_store": 6
+  },
+  "Journal of the American College of Cardiology": {
+   "crossref_items": 1677,
+   "in_scope_by_text_rules": 989,
+   "indexed_in_pubmed": 22,
+   "missing_from_store": 1
+  },
+  "JAMA Cardiology": {
+   "crossref_items": 103,
+   "in_scope_by_text_rules": 11,
+   "indexed_in_pubmed": 11,
+   "missing_from_store": 2
+  },
+  "New England Journal of Medicine": {
+   "crossref_items": 279,
+   "in_scope_by_text_rules": 18,
+   "indexed_in_pubmed": 18,
+   "missing_from_store": 0
+  },
+  "The Lancet": {
+   "crossref_items": 380,
+   "in_scope_by_text_rules": 6,
+   "indexed_in_pubmed": 6,
+   "missing_from_store": 0
+  },
+  "JAMA": {
+   "crossref_items": 509,
+   "in_scope_by_text_rules": 11,
+   "indexed_in_pubmed": 11,
+   "missing_from_store": 0
+  },
+  "BMJ": {
+   "crossref_items": 704,
+   "in_scope_by_text_rules": 0,
+   "indexed_in_pubmed": 0,
+   "missing_from_store": 0
+  },
+  "Nature Medicine": {
+   "crossref_items": 198,
+   "in_scope_by_text_rules": 1,
+   "indexed_in_pubmed": 1,
+   "missing_from_store": 0
+  }
+ },
+ "missing": [
+  {
+   "journal": "European Heart Journal",
+   "doi": "10.1093/eurheartj/ehag681",
+   "pmid": "42690735",
+   "title": "Ischaemic stroke in atrial flutter vs fibrillation: a Finnish nationwide study",
+   "pub_types": [
+    "Journal Article"
+   ]
+  },
+  {
+   "journal": "European Heart Journal",
+   "doi": "10.1093/eurheartj/ehag705",
+   "pmid": "42661450",
+   "title": "Microvascular resistance reserve and cardiovascular outcomes: the FLOW-CMD registry",
+   "pub_types": [
+    "Journal Article"
+   ]
+  },
+  {
+   "journal": "European Heart Journal",
+   "doi": "10.1093/eurheartj/ehag704",
+   "pmid": "42670784",
+   "title": "Auto-regulated bioprosthetic total artificial heart as bridge to transplantation: the EFICAS study",
+   "pub_types": [
+    "Journal Article"
+   ]
+  },
+  {
+   "journal": "European Heart Journal",
+   "doi": "10.1093/eurheartj/ehag802",
+   "pmid": "42856041",
+   "title": "Ethnicity does not equal region and patient-level evidence should always prevail over aggregate-data inference: the treatment effects of clopidogrel are consistent across Asian and non-Asian regions of enrolment",
+   "pub_types": [
+    "Journal Article"
+   ]
+  },
+  {
+   "journal": "Circulation",
+   "doi": "10.1161/circulationaha.125.078469",
+   "pmid": "42610264",
+   "title": "Bempedoic Acid and First and Recurrent Limb Outcomes in Statin-Intolerant Patients With Peripheral Artery Disease: Insights From the CLEAR Outcomes Trial",
+   "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Multicenter Study"
+   ]
+  },
+  {
+   "journal": "Circulation",
+   "doi": "10.1161/circulationaha.125.079049",
+   "pmid": "42639656",
+   "title": "Dual-Target Cardiac Regeneration: Controllable\n                    Nfyb/Nr3c1\n                    Cointervention Spurs Cardiomyocyte Cytokinesis After Myocardial Infarction",
+   "pub_types": [
+    "Journal Article"
+   ]
+  },
+  {
+   "journal": "Circulation",
+   "doi": "10.1161/circulationaha.126.082436",
+   "pmid": "42670293",
+   "title": "Effects of Evolocumab on Mortality Outcomes in Patients Without Previous Myocardial Infarction or Stroke: A Prespecified Analysis of the VESALIUS-CV Randomized Clinical Trial",
+   "pub_types": [
+    "Journal Article"
+   ]
+  },
+  {
+   "journal": "Circulation",
+   "doi": "10.1161/circulationaha.126.081410",
+   "pmid": "42708184",
+   "title": "HNRNPK Lactylation Amplifies Inflammation and Exacerbates Myocardial Ischemia/Reperfusion Injury by Regulating Jag2 Splicing",
+   "pub_types": [
+    "Journal Article"
+   ]
+  },
+  {
+   "journal": "Circulation",
+   "doi": "10.1161/circulationaha.126.080483",
+   "pmid": "42708217",
+   "title": "Macrotroponin Complexes and Risk of Cardiovascular Events",
+   "pub_types": [
+    "Journal Article"
+   ]
+  },
+  {
+   "journal": "Circulation",
+   "doi": "10.1161/cir.0000000000001474",
+   "pmid": "42817881",
+   "title": "Impact of Undertreated Antithrombotic Therapy on Adverse Patient Outcomes: A Scientific Statement From the American Heart Association",
+   "pub_types": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "journal": "Journal of the American College of Cardiology",
+   "doi": "10.1016/j.jacc.2026.09.037",
+   "pmid": "42909452",
+   "title": "Sirolimus-Coated Balloon Angioplasty for Femoropopliteal Artery Disease Without Tissue Loss",
+   "pub_types": [
+    "Journal Article"
+   ]
+  },
+  {
+   "journal": "JAMA Cardiology",
+   "doi": "10.1001/jamacardio.2026.3204",
+   "pmid": "42646908",
+   "title": "Myocardial Fibrosis and Reverse Remodeling After Valve Replacement in Chronic Aortic Regurgitation",
+   "pub_types": [
+    "Journal Article",
+    "Observational Study"
+   ]
+  },
+  {
+   "journal": "JAMA Cardiology",
+   "doi": "10.1001/jamacardio.2026.4222",
+   "pmid": "42814420",
+   "title": "No-Touch vs Conventional Vein Grafts in Coronary Surgery",
+   "pub_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Comparative Study"
+   ]
+  }
+ ],
+ "summary": {
+  "indexed_in_scope": 136,
+  "missing": 13,
+  "completeness": 0.904
+ }
+}

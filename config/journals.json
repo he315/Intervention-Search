@@ -87,7 +87,9 @@
       "issn_pubmed": [
         "0140-6736",
         "1474-547X"
-      ]
+      ],
+      "crossref_issn": "0140-6736",
+      "crossref_issn_note": "Chosen on 2026-11-12 because Crossref /journals/{issn}/works returned items for this ISSN and none for issn[0]"
     },
     {
       "name": "JAMA",
@@ -126,7 +128,9 @@
         "0267-0623",
         "0959-8138",
         "1756-1833"
-      ]
+      ],
+      "crossref_issn": "1756-1833",
+      "crossref_issn_note": "Chosen on 2026-11-12 because Crossref /journals/{issn}/works returned items for this ISSN and none for issn[0]"
     },
     {
       "name": "Nature Medicine",
@@ -244,7 +248,9 @@
         "0007-0769",
         "1355-6037",
         "1468-201X"
-      ]
+      ],
+      "crossref_issn": "1355-6037",
+      "crossref_issn_note": "Chosen on 2026-11-12 because Crossref /journals/{issn}/works returned items for this ISSN and none for issn[0]"
     },
     {
       "name": "Catheterization and Cardiovascular Interventions",

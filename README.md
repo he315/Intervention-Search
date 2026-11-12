@@ -2,19 +2,19 @@
 
 ## Status
 
-- Last run: 2026-11-11 08:59 (Europe/London), daily.
+- Last run: 2026-11-12 08:59 (Europe/London), daily.
 - Result: OK.
-- Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: guideline extracts (8.4), full briefs for Q-018 and Q-024, appraisal backlog drain.
-- Backlog awaiting appraisal: 4733.
-- Records in the store: 55952 (Tier A 88, Tier B 1533, Tier C 32501, Tier D 17085, untiered 4745).
+- Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: guideline extracts (8.4), appraisal backlog drain.
+- Backlog awaiting appraisal: 4394.
+- Records in the store: 56031 (Tier A 88, Tier B 1558, Tier C 32644, Tier D 17335, untiered 4406).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-11-11 |
-| europepmc | ok | 2026-11-11 |
-| medrxiv | ok | 2026-11-11 |
-| crossref | ok | 2026-11-11 |
-| ctgov | ok | 2026-11-11 |
+| pubmed | ok | 2026-11-12 |
+| europepmc | ok | 2026-11-12 |
+| medrxiv | ok | 2026-11-12 |
+| crossref | ok | 2026-11-12 |
+| ctgov | ok | 2026-11-12 |
 
 Warnings:
 
@@ -29,9 +29,9 @@ Warnings:
 5. Q-001: Time-varying effects of revascularisation versus medical therapy on spontaneous MI and cardiac death in stable coronary disease: reconstructed-IPD network meta-analysis, composite 70.0 ([brief](register/briefs/Q-001.md))
 6. Q-016: Target trial emulation of TEER versus medical therapy in secondary MR patients outside the COAPT criteria, composite 69.0 ([brief](register/briefs/Q-016.md))
 7. Q-011: Antithrombotic strategy after TAVI by atrial fibrillation status and CT leaflet thrombosis: reconstructed-IPD network meta-analysis with a pre-specified update at the next trial readouts, composite 68.0 ([brief](register/briefs/Q-011.md))
-8. Q-024: Incretin-based therapy after myocardial infarction in people with obesity or diabetes: target trial emulation of cardiovascular and heart failure outcomes, composite 68.0
+8. Q-024: Incretin-based therapy after myocardial infarction in people with obesity or diabetes: target trial emulation of cardiovascular and heart failure outcomes, composite 68.0 ([brief](register/briefs/Q-024.md))
 9. Q-025: Continuation or withdrawal of renin-angiotensin system inhibitors after myocardial infarction with preserved ejection fraction: a registry-based randomised trial, composite 67.0 ([brief](register/briefs/Q-025.md))
-10. Q-018: Value of information for early intervention in asymptomatic severe degenerative MR, composite 65.0
+10. Q-018: Value of information for early intervention in asymptomatic severe degenerative MR, composite 65.0 ([brief](register/briefs/Q-018.md))
 
 Full ranking and next actions: [PRIORITIES.md](PRIORITIES.md). Full register: [register/QUESTIONS.md](register/QUESTIONS.md).
 
@@ -45,7 +45,6 @@ By domain: D1 6, D2 7, D3 5, D4 5, D5 3, D6 6, D7 5, D8 6, D9 5.
 
 - [Long-Term Survival After Initial Invasive or Conservative Management of Stable Coronary Disease in ISCHEMIA-EXTEND.](https://pubmed.ncbi.nlm.nih.gov/42998244/) (JAMA)
 - [Cangrelor versus crushed ticagrelor in acute myocardial infarction complicated by cardiogenic shock (DAPT-SHOCK-AMI): a randomised, double-blind trial.](https://pubmed.ncbi.nlm.nih.gov/42998670/) (Lancet (London, England))
-- [Long-term outcomes after percutaneous coronary intervention with drug-eluting stents versus coronary artery bypass grafting for left main coronary artery disease: a prospective analysis of the multicentre IRIS-MAIN registry.](https://pubmed.ncbi.nlm.nih.gov/42976899/) (Lancet (London, England))
 
 ## Next eight weeks
 
@@ -145,7 +144,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 - Weekly: [2026-W46](outputs/weekly/2026-W46.md)
 - Monthly: [2026-11](outputs/monthly/2026-11.md)
-- Daily: [2026-11-11](outputs/daily/2026/2026-11-11.md)
+- Daily: [2026-11-12](outputs/daily/2026/2026-11-12.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 

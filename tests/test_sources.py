@@ -96,3 +96,14 @@ def test_isrctn_parse():
     trials = isrctn.parse((FX / "isrctn_query.xml").read_text())
     assert trials[0]["isrctn"] == "ISRCTN10183174"
     assert trials[0]["completion"] == "2027-06-01"
+
+
+def test_crossref_works_issn_prefers_verified_issn():
+    import json
+    from src import config
+    from src.sources import crossref
+    js = {j["name"]: j for j in json.loads((config.ROOT / "config" / "journals.json").read_text())["journals"]}
+    assert crossref.works_issn(js["The Lancet"]) == "0140-6736"
+    assert crossref.works_issn(js["BMJ"]) == "1756-1833"
+    assert crossref.works_issn(js["European Heart Journal"]) == js["European Heart Journal"]["issn"][0]
+    assert crossref.works_issn({"issn": []}) is None

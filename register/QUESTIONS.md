@@ -1,6 +1,6 @@
 # Research question register
 
-Rendered 11 November 2026. Source of truth: register/questions.jsonl. Composite is out of 100.
+Rendered 12 November 2026. Source of truth: register/questions.jsonl. Composite is out of 100.
 
 Status counts: candidate 15, merged 1, parked 23.
 
@@ -15,9 +15,9 @@ Status counts: candidate 15, merged 1, parked 23.
 | Q-001 | Time-varying effects of revascularisation versus medical therapy on spontaneous MI and cardiac death in stable coronary disease: reconstructed-IPD network meta-analysis | D1 | 70.0 | all passed | Reconstructed individual patient data network meta-analysis from published Kapla | [brief](briefs/Q-001.md) |
 | Q-016 | Target trial emulation of TEER versus medical therapy in secondary MR patients outside the COAPT criteria | D4 | 69.0 | all passed | Target trial emulation using linked national heart failure, echocardiography and | [brief](briefs/Q-016.md) |
 | Q-011 | Antithrombotic strategy after TAVI by atrial fibrillation status and CT leaflet thrombosis: reconstructed-IPD network meta-analysis with a pre-specified update at the next trial readouts | D3, D8 | 68.0 | all passed | Reconstructed-IPD network meta-analysis, random-effects with REML and Hartung-Kn | [brief](briefs/Q-011.md) |
-| Q-024 | Incretin-based therapy after myocardial infarction in people with obesity or diabetes: target trial emulation of cardiovascular and heart failure outcomes | D6 | 68.0 | all passed | Target trial emulation with new-user, active-comparator and clone-censor-weight  |  |
+| Q-024 | Incretin-based therapy after myocardial infarction in people with obesity or diabetes: target trial emulation of cardiovascular and heart failure outcomes | D6 | 68.0 | all passed | Target trial emulation with new-user, active-comparator and clone-censor-weight  | [brief](briefs/Q-024.md) |
 | Q-025 | Continuation or withdrawal of renin-angiotensin system inhibitors after myocardial infarction with preserved ejection fraction: a registry-based randomised trial | D6 | 67.0 | all passed | Registry-based randomised non-inferiority trial embedded in a national MI regist | [brief](briefs/Q-025.md) |
-| Q-018 | Value of information for early intervention in asymptomatic severe degenerative MR | D4 | 65.0 | all passed | Patient-level Markov microsimulation with probabilistic sensitivity analysis and |  |
+| Q-018 | Value of information for early intervention in asymptomatic severe degenerative MR | D4 | 65.0 | all passed | Patient-level Markov microsimulation with probabilistic sensitivity analysis and | [brief](briefs/Q-018.md) |
 | Q-004 | PCI versus CABG in patients aged 75 years or older with multivessel or left main disease: target trial emulation in national registries | D1 | 64.0 | all passed | Target trial emulation using clone-censor-weight methods in a national registry  |  |
 | Q-012 | Cardiometabolic and neurohormonal drugs after TAVI: target trial emulation benchmarked against the DapaTAVI randomised result | D3, D6 | 64.0 | all passed | Sequential target trial emulation with clone-censor-weight handling of grace per |  |
 | Q-023 | Does the benefit of an invasive strategy in older patients with NSTE-ACS or MI depend on frailty and follow-up time? A patient-level synthesis of the older-patient invasive-strategy trials | D6 | 64.0 | all passed | One-stage IPD meta-analysis of randomised trials of invasive versus conservative |  |

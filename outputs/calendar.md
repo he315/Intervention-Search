@@ -1,6 +1,6 @@
 # Calendar
 
-Updated 11 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
+Updated 12 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
 
 ## Congresses
 
@@ -24,8 +24,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 
 | NCT | Acronym | Title | N | Primary completion | Status | Domains |
 |---|---|---|---|---|---|---|
-| NCT03250247 | C-TRACT | Chronic Venous Thrombosis: Relief With Adjunctive Catheter-Directed Therapy (The C-TRACT Trial) | 225 | 2025-11-11 () | active not recruiting | D1 |
-| NCT07492901 |  | Impact of Ligament of Marshall Resection on Atrial Fibrillation Occurrence in Patients Undergoing Co | 220 | 2025-11-11 () | completed | D6, D7, D8, D9 |
 | NCT06639321 |  | Phimume® Percutaneous Left Ventricular Assist System Study | 250 | 2025-11-14 () | unknown | D1, D6 |
 | NCT06303063 |  | Compare the Safety and Effectiveness of Two Different Kinds of Stent System in Intracranial Aneurysm | 203 | 2025-11-20 () | completed | D4 |
 | NCT07010965 |  | SAVE-PCI: NyokAssist™ Small-Bore VAD vs. IABP in Elective High-Risk PCI | 236 | 2025-11-21 () | active not recruiting | D1, D2 |
