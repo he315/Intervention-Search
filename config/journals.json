@@ -49,14 +49,17 @@
       "name": "JAMA Cardiology",
       "tier": "target",
       "issn": [
-        "2380-6583"
+        "2380-6583",
+        "2380-6591"
       ],
       "crossref_title": "JAMA Cardiology",
       "publisher": "American Medical Association",
       "status": "resolved",
       "issn_pubmed": [
-        "2380-6583"
-      ]
+        "2380-6583",
+        "2380-6591"
+      ],
+      "issn_note": "2380-6591 is the electronic ISSN carried on PubMed records; verified 2026-11-13: PubMed 2380-6591[is] and 2380-6583[is] each return 3123 records, equal to \"JAMA cardiology\"[ta]. Crossref lists only 2380-6583."
     },
     {
       "name": "New England Journal of Medicine",

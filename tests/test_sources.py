@@ -107,3 +107,10 @@ def test_crossref_works_issn_prefers_verified_issn():
     assert crossref.works_issn(js["BMJ"]) == "1756-1833"
     assert crossref.works_issn(js["European Heart Journal"]) == js["European Heart Journal"]["issn"][0]
     assert crossref.works_issn({"issn": []}) is None
+
+
+def test_journal_tier_uses_every_pubmed_issn():
+    # PubMed carries the electronic ISSN 2380-6591 for JAMA Cardiology (store records, 13 November 2026).
+    from src import classify
+    assert classify.journal_tier({"issns": ["2380-6591"]}) == "target"
+    assert classify.journal_tier({"issns": ["2380-6583"]}) == "target"

@@ -1,6 +1,6 @@
 # Research priorities
 
-Refreshed 12 November 2026. Ranked by composite score among questions that pass all five gates and are not limited to a subspecialty journal. Feasibility is reported for every question but carries 5% of the weight.
+Refreshed 13 November 2026. Ranked by composite score among questions that pass all five gates and are not limited to a subspecialty journal. Feasibility is reported for every question but carries 5% of the weight.
 
 ## Top ten
 
