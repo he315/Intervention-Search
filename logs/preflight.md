@@ -8,3 +8,4 @@ preflight 2026-11-09: existing system (resume mode); PubMed, Crossref, ClinicalT
 preflight 2026-11-10: existing system (resume mode); PubMed, Europe PMC, Crossref, ClinicalTrials.gov, medRxiv reachable; OpenAlex 429 (fallback to Europe PMC). CONTACT_EMAIL not set.
 preflight 2026-11-11: existing system (resume mode); PubMed, Europe PMC, Crossref, ClinicalTrials.gov, medRxiv reachable; OpenAlex 429 (fallback to Europe PMC). CONTACT_EMAIL not set.
 preflight 2026-11-12: existing system (resume mode); PubMed, Europe PMC, Crossref, ClinicalTrials.gov, medRxiv reachable; OpenAlex 429 (fallback to Europe PMC). CONTACT_EMAIL not set.
+preflight 2026-11-13: existing system (resume mode); PubMed, Europe PMC, Crossref, ClinicalTrials.gov, medRxiv reachable; OpenAlex 429 (fallback to Europe PMC). CONTACT_EMAIL not set.
