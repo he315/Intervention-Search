@@ -1,25 +1,12 @@
 [
   {
-    "record": "43010688",
-    "qid": "Q-024",
+    "record": "43016171",
+    "qid": "Q-023",
     "hits": [
-      "glp-1",
-      "semaglutide",
-      "tirzepatide",
-      "myocardial infarction",
-      "obesity",
-      "target trial emulation"
+      "older patients",
+      "nstemi",
+      "conservative strategy"
     ],
     "trial_overlap": []
-  },
-  {
-    "record": "43015211",
-    "qid": "Q-012",
-    "hits": [
-      "transcatheter aortic valve"
-    ],
-    "trial_overlap": [
-      "NCT05721170"
-    ]
   }
 ]
