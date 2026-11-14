@@ -7,3 +7,4 @@ state/appraisal_results.jsonl
 .tmp_*
 state/tmp/
 state/appraisal_scratch/
+state/synth/appr/
