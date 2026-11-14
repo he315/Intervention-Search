@@ -2,19 +2,19 @@
 
 ## Status
 
-- Last run: 2026-11-13 08:58 (Europe/London), daily.
+- Last run: 2026-11-14 08:59 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: guideline extracts (8.4), appraisal backlog drain.
-- Backlog awaiting appraisal: 4314.
-- Records in the store: 56143 (Tier A 88, Tier B 1595, Tier C 32602, Tier D 17532, untiered 4326).
+- Backlog awaiting appraisal: 3973.
+- Records in the store: 56219 (Tier A 91, Tier B 1671, Tier C 32812, Tier D 17660, untiered 3985).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-11-13 |
-| europepmc | ok | 2026-11-13 |
-| medrxiv | ok | 2026-11-13 |
-| crossref | ok | 2026-11-13 |
-| ctgov | ok | 2026-11-13 |
+| pubmed | ok | 2026-11-14 |
+| europepmc | ok | 2026-11-14 |
+| medrxiv | ok | 2026-11-14 |
+| crossref | ok | 2026-11-14 |
+| ctgov | ok | 2026-11-14 |
 
 Warnings:
 
@@ -144,7 +144,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 - Weekly: [2026-W46](outputs/weekly/2026-W46.md)
 - Monthly: [2026-11](outputs/monthly/2026-11.md)
-- Daily: [2026-11-13](outputs/daily/2026/2026-11-13.md)
+- Daily: [2026-11-14](outputs/daily/2026/2026-11-14.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 

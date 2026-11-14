@@ -1,6 +1,6 @@
 # Calendar
 
-Updated 13 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
+Updated 14 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
 
 ## Congresses
 
@@ -1181,6 +1181,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07486271 |  | Artificial Intelligence in Aortic Regurgitation | 540 | 2028-03-31 () | recruiting | D4 |
 | NCT07501533 |  | Delayed Versus Early Antihyperglycemic Treatment for Severe Stroke | 200 | 2028-03-31 () | recruiting | D4 |
 | NCT07562178 | PPAR-ICAS | Pemafibrate for Symptomatic ICAS RCT | 270 | 2028-03-31 () | recruiting | D4, D6 |
+| NCT07936630 |  | Implementing the 6th Generation Cardiac Troponin T | 22600 | 2028-03-31 () | recruiting | D6 |
 
 ### 2028 Q2
 
@@ -1632,7 +1633,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07506291 | HOME-PE2 | HOME-PE2 : Home Treatment Versus Hospitalization in Patients With Acute Pulmonary Embolism, no Clini | 568 | 2029-06 () | not yet recruiting | D7 |
 | NCT07511257 | OVER-TIME II | Multicenter Trial of Antithrombotic Strategies in Acute Coronary Syndrome With Coronary Artery Ectas | 326 | 2029-06 () | recruiting | D1, D6, D8 |
 | NCT07516444 | TRIVITA | VDyne TriNova Transcatheter Tricuspid Valve Replacement Study to Evaluate Safety and Clinical Effica | 520 | 2029-06 () | recruiting | D5, D6 |
-| NCT07634718 | ITINERANCE | Implementation Trial In patieNts With rEnal failuRe and diAbetes for Major Adverse reNal and Cardiov | 125000 | 2029-06 () | not yet recruiting | D6 |
 | NCT07709208 | MARCER | Mitral Valve Edge-to-Edge Repair in Patients With Exercise-Induced Severe Mitral Regurgitation | 246 | 2029-06 () | recruiting | D4, D6 |
 | NCT07853716 | REFINE-CAC | REFINE-CAC Protocol: Risk Evaluation With AI-CPA + HCS For Patients IN Whom Calcium is confirmEd to  | 500 | 2029-06 () | not yet recruiting | D1 |
 | NCT07896655 |  | Selective Intra-Arterial Hypothermia After Endovascular Treatment for Acute Basilar Artery Occlusion | 818 | 2029-06 () | not yet recruiting | D4 |
@@ -1666,6 +1666,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07603440 | IVT-ALL-IN | Intravenous Thrombolysis With Tenecteplase Plus Thrombectomy Versus Thrombectomy Alone In Patients W | 486 | 2029-07-01 () | not yet recruiting | D4 |
 | NCT07609927 | TAVVE | Clinical Investigation of Safety and Effectiveness for the enVVe® System | 220 | 2029-07-01 () | not yet recruiting | D9 |
 | NCT07677410 | AWATAR | Aspirin Monotherapy Versus Sequential Warfarin-Aspirin Therapy After TAVR in Patients With Pure Aort | 1172 | 2029-07-01 () | recruiting | D3, D6, D8 |
+| NCT07634718 | ITINERANCE | Implementation Trial In patieNts With rEnal failuRe and diAbetes for Major Adverse reNal and Cardiov | 125000 | 2029-07-15 () | recruiting | D6 |
 | NCT07345559 | CARDIOPAM | Personalisation of Mean Arterial Pressure in Adult Patients With Cardiogenic Shock | 406 | 2029-07-25 () | recruiting | D2, D6 |
 | NCT07591883 | STEM-DZ | Spatiotemporal Evolution of Traditional Chinese Medicine Mechanisms in Acute Ischemic Stroke Treated | 358 | 2029-07-30 () | not yet recruiting | D4 |
 | NCT07736196 |  | Aspirin-Free Strategy After 3-6 Month Dual Antiplatelet Therapy in Acute Coronary Syndrome | 300 | 2029-07-30 () | not yet recruiting | D1, D2, D6, D8 |
