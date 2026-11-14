@@ -1,11 +1,21 @@
 [
   {
-    "record": "43016171",
-    "qid": "Q-023",
+    "record": "43021966",
+    "qid": "Q-025",
     "hits": [
-      "older patients",
-      "nstemi",
-      "conservative strategy"
+      "ace inhibitor",
+      "arb",
+      "myocardial infarction"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "43025042",
+    "qid": "Q-016",
+    "hits": [
+      "secondary mitral regurgitation",
+      "teer",
+      "heart failure"
     ],
     "trial_overlap": []
   }
