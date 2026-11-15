@@ -1,6 +1,6 @@
 # Calendar
 
-Updated 14 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
+Updated 15 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
 
 ## Congresses
 
@@ -24,7 +24,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 
 | NCT | Acronym | Title | N | Primary completion | Status | Domains |
 |---|---|---|---|---|---|---|
-| NCT06639321 |  | Phimume® Percutaneous Left Ventricular Assist System Study | 250 | 2025-11-14 () | unknown | D1, D6 |
 | NCT06303063 |  | Compare the Safety and Effectiveness of Two Different Kinds of Stent System in Intracranial Aneurysm | 203 | 2025-11-20 () | completed | D4 |
 | NCT07010965 |  | SAVE-PCI: NyokAssist™ Small-Bore VAD vs. IABP in Elective High-Risk PCI | 236 | 2025-11-21 () | active not recruiting | D1, D2 |
 | NCT04481919 | ESCALATE | Randomized Controlled Trial of urinE chemiStry Guided aCute heArt faiLure treATmEnt (ESCALATE) | 474 | 2025-11-22 () | active not recruiting | D6 |

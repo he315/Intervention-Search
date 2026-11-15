@@ -2,19 +2,19 @@
 
 ## Status
 
-- Last run: 2026-11-14 08:59 (Europe/London), daily.
+- Last run: 2026-11-15 08:57 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: guideline extracts (8.4), appraisal backlog drain.
-- Backlog awaiting appraisal: 3973.
-- Records in the store: 56219 (Tier A 91, Tier B 1671, Tier C 32812, Tier D 17660, untiered 3985).
+- Backlog awaiting appraisal: 3638.
+- Records in the store: 56302 (Tier A 92, Tier B 1706, Tier C 33019, Tier D 17835, untiered 3650).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-11-14 |
-| europepmc | ok | 2026-11-14 |
-| medrxiv | ok | 2026-11-14 |
-| crossref | ok | 2026-11-14 |
-| ctgov | ok | 2026-11-14 |
+| pubmed | ok | 2026-11-15 |
+| europepmc | ok | 2026-11-15 |
+| medrxiv | ok | 2026-11-15 |
+| crossref | ok | 2026-11-15 |
+| ctgov | ok | 2026-11-15 |
 
 Warnings:
 
@@ -43,6 +43,7 @@ By domain: D1 6, D2 7, D3 5, D4 5, D5 3, D6 6, D7 5, D8 6, D9 5.
 
 ## Tier A in the past seven days
 
+- [Angiography-Derived vs Wire-Based Fractional Flow Reserve to Guide Revascularization: The Randomized LIPSIA-STRATEGY Trial.](https://pubmed.ncbi.nlm.nih.gov/43033171/) (Journal of the American College of Cardiology)
 - [Long-Term Survival After Initial Invasive or Conservative Management of Stable Coronary Disease in ISCHEMIA-EXTEND.](https://pubmed.ncbi.nlm.nih.gov/42998244/) (JAMA)
 - [Cangrelor versus crushed ticagrelor in acute myocardial infarction complicated by cardiogenic shock (DAPT-SHOCK-AMI): a randomised, double-blind trial.](https://pubmed.ncbi.nlm.nih.gov/42998670/) (Lancet (London, England))
 
@@ -144,7 +145,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 - Weekly: [2026-W46](outputs/weekly/2026-W46.md)
 - Monthly: [2026-11](outputs/monthly/2026-11.md)
-- Daily: [2026-11-14](outputs/daily/2026/2026-11-14.md)
+- Daily: [2026-11-15](outputs/daily/2026/2026-11-15.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 
