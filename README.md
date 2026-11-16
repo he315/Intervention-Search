@@ -2,19 +2,19 @@
 
 ## Status
 
-- Last run: 2026-11-15 08:57 (Europe/London), daily.
+- Last run: 2026-11-16 08:59 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: guideline extracts (8.4), appraisal backlog drain.
-- Backlog awaiting appraisal: 3638.
-- Records in the store: 56302 (Tier A 92, Tier B 1706, Tier C 33019, Tier D 17835, untiered 3650).
+- Backlog awaiting appraisal: 3248.
+- Records in the store: 56315 (Tier A 93, Tier B 1743, Tier C 33263, Tier D 17956, untiered 3260).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-11-15 |
-| europepmc | ok | 2026-11-15 |
-| medrxiv | ok | 2026-11-15 |
-| crossref | ok | 2026-11-15 |
-| ctgov | ok | 2026-11-15 |
+| pubmed | ok | 2026-11-16 |
+| europepmc | ok | 2026-11-16 |
+| medrxiv | ok | 2026-11-16 |
+| crossref | ok | 2026-11-16 |
+| ctgov | ok | 2026-11-16 |
 
 Warnings:
 
@@ -44,8 +44,6 @@ By domain: D1 6, D2 7, D3 5, D4 5, D5 3, D6 6, D7 5, D8 6, D9 5.
 ## Tier A in the past seven days
 
 - [Angiography-Derived vs Wire-Based Fractional Flow Reserve to Guide Revascularization: The Randomized LIPSIA-STRATEGY Trial.](https://pubmed.ncbi.nlm.nih.gov/43033171/) (Journal of the American College of Cardiology)
-- [Long-Term Survival After Initial Invasive or Conservative Management of Stable Coronary Disease in ISCHEMIA-EXTEND.](https://pubmed.ncbi.nlm.nih.gov/42998244/) (JAMA)
-- [Cangrelor versus crushed ticagrelor in acute myocardial infarction complicated by cardiogenic shock (DAPT-SHOCK-AMI): a randomised, double-blind trial.](https://pubmed.ncbi.nlm.nih.gov/42998670/) (Lancet (London, England))
 
 ## Next eight weeks
 
@@ -55,7 +53,6 @@ Congresses:
 
 Randomised trials with at least 500 participants whose primary completion date falls in the period (registry dates, often estimated):
 
-- NCT06702657 ICAS LVO-MT: A Randomized Clinical Trial on Urgent Angioplasty for IntraCranial Atherosclerotic Stenosis-related Large-Vess; N 612; primary completion 2026-11-15 (type not stated); not yet recruiting
 - NCT06615726 RESIST: Regular Physical Exercise in Patients With Symptomatic Intracranial Arterial Stenosis; N 1300; primary completion 2026-11-19 (type not stated); active not recruiting
 - NCT05993481 : The Noninvasive Blood Pressure Measurement Effect on the Hypotension; N 640; primary completion 2026-11-25 (type not stated); enrolling by invitation
 - NCT06501443 : LATAM LOWERS LDL-C; N 520; primary completion 2026-11-27 (type not stated); recruiting
@@ -92,7 +89,6 @@ Randomised trials with at least 500 participants whose primary completion date f
 - NCT06689839 SHIELD: Trial of the F2 Filter and Delivery System for Embolic Protection During TAVR; N 500; primary completion 2026-12 (type not stated); recruiting
 - NCT06756945 LEAST: Low-dose Evaluation of Aspirin After STEMI Patients With PCI: A Multicenter, Double-blind, Randomized Controll; N 3612; primary completion 2026-12 (type not stated); not yet recruiting
 - NCT06848894 UNITE: Efficacy and Safety of Human Urinary Kallidinogenase for Acute Ischemic Stroke Patients Receiving Reperfusion ; N 1204; primary completion 2026-12 (type not stated); enrolling by invitation
-- NCT07006675 NSAID: Effect of NSAIDs on Union, Opioid Utilization and Pain Management for Tibia Fractures: A Pragmatic, Randomized; N 1000; primary completion 2026-12 (type not stated); recruiting
 - NCT07181356 L-RICP-AMI: Effects of Long-term Remote Ischemic Preconditioning on Clinical Outcome in Patients With Acute Myocardial Inf; N 2146; primary completion 2026-12-01 (type not stated); recruiting
 - NCT07232498 DOP-MOBILIZE: Early Doppler-Assisted Mobilization in Adults After Acute Ischemic Stroke; N 1300; primary completion 2026-12 (type not stated); recruiting
 - NCT07381803 : The Impact of Fexofenadine Hydrochloride on the Prognosis of Patients Post-Acute Myocardial Infarction; N 2804; primary completion 2026-12 (type not stated); recruiting
@@ -143,9 +139,9 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 ## Latest reports
 
-- Weekly: [2026-W46](outputs/weekly/2026-W46.md)
+- Weekly: [2026-W47](outputs/weekly/2026-W47.md)
 - Monthly: [2026-11](outputs/monthly/2026-11.md)
-- Daily: [2026-11-15](outputs/daily/2026/2026-11-15.md)
+- Daily: [2026-11-16](outputs/daily/2026/2026-11-16.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 

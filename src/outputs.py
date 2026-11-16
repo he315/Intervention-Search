@@ -75,7 +75,7 @@ def digest(run, records, index, questions, today):
     for r in records:
         for v in r.get("register_verdicts") or []:
             if v.get("verdict") and v["verdict"] != "unaffected":
-                alerts.append(f"Register alert for {v['qid']}: PMID {r.get('pmid') or r['id']} is judged {v['verdict']}. {_clean(v.get('note'))}")
+                alerts.append(f"Register alert for {v['qid']}: {('PMID ' + r['pmid']) if r.get('pmid') else ('DOI ' + r['doi']) if r.get('doi') else r['id']} is judged {v['verdict']}. {_clean(v.get('note'))}")
     for w in run.get("warnings", []):
         alerts.append(_clean(w))
     if len(tier_a) > 10:

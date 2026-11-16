@@ -87,3 +87,16 @@ def test_register_composite_gates_and_owner_decisions(tmp_repo):
     assert owner.parse("Q-003: merge with Q-001")["into"] == "Q-001"
     assert owner.parse("lower weight: D9")["factor"] == 0.8
     assert owner.parse("something vague") is None
+
+
+def test_trial_ids_include_earlier_snapshots(tmp_repo):
+    """A trial that leaves the current snapshot stays verifiable through its dated snapshot."""
+    from src import trials
+    from src.sources import ctgov
+    d = json.loads((FX / "ctgov_studies.json").read_text())
+    old, cur = ctgov.parse_study(d["studies"][0]), ctgov.parse_study(d["studies"][1])
+    config.TRIALS.mkdir(parents=True, exist_ok=True)
+    trials.write_jsonl_gz(config.TRIALS / "ctgov_2026-11-09.jsonl.gz", [old, cur])
+    trials.write_jsonl_gz(trials.CURRENT, [cur])
+    ids = trials.all_trial_ids()
+    assert trials.key(old) in ids and trials.key(cur) in ids

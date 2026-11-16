@@ -1,12 +1,17 @@
 # Calendar
 
-Updated 15 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
+Updated 16 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
 
 ## Congresses
 
 - TCT 2026: 31 October 2026 to 3 November 2026, San Diego, USA. Source: https://www.tctconference.com/faq (accessed 2026-10-10).
 - AHA Scientific Sessions 2026: 6 November 2026 to 9 November 2026, Chicago, USA. Source: https://professional.heart.org/en/meetings/scientific-sessions (accessed 2026-10-10).
-- PCR London Valves 2026: 22 November 2026 to 24 November 2026, London, United Kingdom. Source: https://www.pcronline.com/Courses/PCR-London-Valves (accessed 2026-10-10).
+- PCR London Valves 2026: 22 November 2026 to 24 November 2026, London, United Kingdom. Source: https://www.pcronline.com/Courses/PCR-London-Valves (accessed 2026-11-16).
+  - Late-breaker: Transcatheter tricuspid valve repair: meta-analysis of TRILUMINATE, Tri.fr and TRIC-I-HF (Top Late-Breaking Trials Part 1, 22 November 2026). Scoop risk for Q-020 (heterogeneity of transcatheter tricuspid treatment effect): a pooled analysis of the tricuspid TEER randomised trials will be presented; re-check Q-020 G3 and G5 once the presentation or paper appears. Not itself a rapid-synthesis opportunity because it is already a synthesis.
+  - Late-breaker: 30-day outcomes of transcatheter paravalvular leak closure: the PARADIGM study. Single-arm 30-day outcomes; no randomised comparator, so no rapid synthesis is publishable.
+  - Late-breaker: Transcatheter posterior leaflet restoration: the EXPLORE MR study. Early device study; no rapid synthesis.
+  - Late-breaker: Transseptal transcatheter mitral valve replacement with a novel bioprosthesis. Early device study; no rapid synthesis.
+  - Late-breaker: Thirty-day outcomes of single-stage transfemoral TMVR in symptomatic mitral valve disease. Single-arm 30-day outcomes; no rapid synthesis.
 - BCIS ACI 2027: 20 January 2027 to 22 January 2027, London, United Kingdom. Source: https://www.millbrook-events.co.uk/event/BCISACI27/summary (accessed 2026-10-10).
 - CRT 2027: 6 March 2027 to 9 March 2027, Washington DC, USA. Source: https://crtmeeting.org/attend-crt/about-crt/ (accessed 2026-10-10).
 - ACC.27 (Together With WCC): 10 April 2027 to 12 April 2027, Houston, USA. Source: https://accscientificsession.acc.org/ (accessed 2026-10-10).
@@ -504,7 +509,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT06816888 | Echo Prompts | Impact of Automatic Prompts in Echocardiographic Reports on Referral to Cardiology | 300 | 2026-12-01 () | active not recruiting | D3, D4 |
 | NCT06848894 | UNITE | Efficacy and Safety of Human Urinary Kallidinogenase for Acute Ischemic Stroke Patients Receiving Re | 1204 | 2026-12 () | enrolling by invitation | D4, D6 |
 | NCT06917664 |  | Treatment of Moderate Ischemic Mitral Regurgitation in Patients With Coronary Artery Disease | 220 | 2026-12 () | recruiting | D4, D6 |
-| NCT07006675 | NSAID | Effect of NSAIDs on Union, Opioid Utilization and Pain Management for Tibia Fractures: A Pragmatic,  | 1000 | 2026-12 () | recruiting | D6, D8 |
 | NCT07053618 |  | Interventional Left Ventricular Assist System for PCI in CHIP Patients | 286 | 2026-12-01 () | recruiting | D1, D2, D6 |
 | NCT07181356 | L-RICP-AMI | Effects of Long-term Remote Ischemic Preconditioning on Clinical Outcome in Patients With Acute Myoc | 2146 | 2026-12-01 () | recruiting | D6 |
 | NCT07232498 | DOP-MOBILIZE | Early Doppler-Assisted Mobilization in Adults After Acute Ischemic Stroke | 1300 | 2026-12 () | recruiting | D4 |
@@ -615,7 +619,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT06254755 |  | Comparison Study Between Suction Aspiration and Combination Technique in Acute Cerebral Infarction | 1132 | 2027-01-30 () | enrolling by invitation | D4, D6 |
 | NCT07156656 | STOP | Sivelestat Treatment for Postoperative Organ Protection in Type A Aortic Dissection | 236 | 2027-01-30 () | recruiting | D7 |
 | NCT05027984 | INTERCLIMA | Interventional Strategy for Non-culprit Lesions With Major Vulnerability Criteria at OCT in Patients | 1425 | 2027-01-31 () | active not recruiting | D1, D6 |
-| NCT05139849 | VAST-A | VAsopressin and STeroids in Addition to Adrenaline in Cardiac Arrest - a Randomized Clinical Trial | 1276 | 2027-01-31 () | recruiting | D6 |
 | NCT05786131 | CompleteNSTEMI | Complete Revascularization Versus Culprit Lesion Only PCI in NSTEMI | 3390 | 2027-01-31 () | recruiting | D1, D6 |
 | NCT07129421 | EMBLOK II | Evaluation of Safety and Effectiveness of the EMBLOK EPS Compared With No Cerebral Embolic Protectio | 560 | 2027-01-31 () | not yet recruiting | D3 |
 | NCT07335107 | RESCUE-AS | Intravenous Tirofiban After Bridging Therapy for Acute Stroke With Atherosclerotic Large Artery Occl | 564 | 2027-01-31 () | not yet recruiting | D4, D8 |

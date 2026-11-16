@@ -139,7 +139,13 @@ def write_snapshot(by_key, today):
 
 
 def all_trial_ids():
+    """Identifiers in the current snapshot, any earlier dated snapshot, and extra.jsonl.
+
+    Earlier snapshots count because a registration can leave the current snapshot (merged
+    as a duplicate, withdrawn or re-scoped) while older outputs still cite it correctly."""
     ids = {key(t) for t in read_jsonl_gz(CURRENT)}
+    for snap in sorted(config.TRIALS.glob("ctgov_*.jsonl.gz")):
+        ids |= {key(t) for t in read_jsonl_gz(snap)}
     if EXTRA.exists():
         ids |= {json.loads(l).get("nct") or json.loads(l).get("isrctn") for l in EXTRA.read_text().splitlines() if l.strip()}
     return {i for i in ids if i}
