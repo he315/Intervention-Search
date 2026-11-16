@@ -1,5 +1,5 @@
 {
-  "collected_on": "2026-10-10",
+  "collected_on": "2026-11-16",
   "congresses": [
     {
       "name": "TCT 2026",
@@ -34,11 +34,48 @@
       "end": "2026-11-24",
       "location": "London, United Kingdom",
       "source_url": "https://www.pcronline.com/Courses/PCR-London-Valves",
-      "accessed": "2026-10-10",
+      "accessed": "2026-11-16",
       "programme_url": "https://www.pcronline.com/Courses/PCR-London-Valves/Programme/2026/Course-Programme",
-      "late_breaking_published": false,
-      "late_breaking_url": null,
-      "note": "Venue: ExCeL London. No late-breaking trial or Hotline listing was found on the official course or programme pages. The interactive programme loads with scripts and its page text did not mention late-breakers, so check again closer to the meeting. A PCR Fundamentals Course runs on 21 Nov 2026."
+      "late_breaking_published": true,
+      "late_breaking_url": "https://www.pcronline.com/Courses/PCR-London-Valves/Programme/Late-Breaking-Trials",
+      "note": "Venue: ExCeL London. No late-breaking trial or Hotline listing was found on the official course or programme pages. The interactive programme loads with scripts and its page text did not mention late-breakers, so check again closer to the meeting. A PCR Fundamentals Course runs on 21 Nov 2026. Update 2026-11-16: the official late-breaking page lists 'Top Late-Breaking Trials - Part 1' (London Room, Sunday morning, which is 22 Nov 2026) with five presentations; three further Hotline sessions are mentioned but not listed.",
+      "late_breakers": [
+        {
+          "title": "Transcatheter tricuspid valve repair: meta-analysis of TRILUMINATE, Tri.fr and TRIC-I-HF (Top Late-Breaking Trials Part 1, 22 November 2026)",
+          "nct": null,
+          "source_url": "https://www.pcronline.com/Courses/PCR-London-Valves/Programme/Late-Breaking-Trials",
+          "accessed": "2026-11-16",
+          "synthesis_note": "Scoop risk for Q-020 (heterogeneity of transcatheter tricuspid treatment effect): a pooled analysis of the tricuspid TEER randomised trials will be presented; re-check Q-020 G3 and G5 once the presentation or paper appears. Not itself a rapid-synthesis opportunity because it is already a synthesis."
+        },
+        {
+          "title": "30-day outcomes of transcatheter paravalvular leak closure: the PARADIGM study",
+          "nct": null,
+          "source_url": "https://www.pcronline.com/Courses/PCR-London-Valves/Programme/Late-Breaking-Trials",
+          "accessed": "2026-11-16",
+          "synthesis_note": "Single-arm 30-day outcomes; no randomised comparator, so no rapid synthesis is publishable."
+        },
+        {
+          "title": "Transcatheter posterior leaflet restoration: the EXPLORE MR study",
+          "nct": null,
+          "source_url": "https://www.pcronline.com/Courses/PCR-London-Valves/Programme/Late-Breaking-Trials",
+          "accessed": "2026-11-16",
+          "synthesis_note": "Early device study; no rapid synthesis."
+        },
+        {
+          "title": "Transseptal transcatheter mitral valve replacement with a novel bioprosthesis",
+          "nct": null,
+          "source_url": "https://www.pcronline.com/Courses/PCR-London-Valves/Programme/Late-Breaking-Trials",
+          "accessed": "2026-11-16",
+          "synthesis_note": "Early device study; no rapid synthesis."
+        },
+        {
+          "title": "Thirty-day outcomes of single-stage transfemoral TMVR in symptomatic mitral valve disease",
+          "nct": null,
+          "source_url": "https://www.pcronline.com/Courses/PCR-London-Valves/Programme/Late-Breaking-Trials",
+          "accessed": "2026-11-16",
+          "synthesis_note": "Single-arm 30-day outcomes; no rapid synthesis."
+        }
+      ]
     },
     {
       "name": "BCIS ACI 2027",
@@ -164,11 +201,48 @@
       "end": null,
       "location": null,
       "source_url": "https://www.pcronline.com/Courses/PCR-London-Valves",
-      "accessed": "2026-10-10",
+      "accessed": "2026-11-16",
       "programme_url": null,
-      "late_breaking_published": false,
-      "late_breaking_url": null,
-      "note": "Not verified. The official PCR London Valves pages (course home and About) cover only the 2026 edition and give no 2027 dates. A 2027 edition is presumed to fall in late 2027, but this is not confirmed."
+      "late_breaking_published": true,
+      "late_breaking_url": "https://www.pcronline.com/Courses/PCR-London-Valves/Programme/Late-Breaking-Trials",
+      "note": "Not verified. The official PCR London Valves pages (course home and About) cover only the 2026 edition and give no 2027 dates. A 2027 edition is presumed to fall in late 2027, but this is not confirmed. Update 2026-11-16: the official late-breaking page lists 'Top Late-Breaking Trials - Part 1' (London Room, Sunday morning, which is 22 Nov 2026) with five presentations; three further Hotline sessions are mentioned but not listed.",
+      "late_breakers": [
+        {
+          "title": "Transcatheter tricuspid valve repair: meta-analysis of TRILUMINATE, Tri.fr and TRIC-I-HF (Top Late-Breaking Trials Part 1, 22 November 2026)",
+          "nct": null,
+          "source_url": "https://www.pcronline.com/Courses/PCR-London-Valves/Programme/Late-Breaking-Trials",
+          "accessed": "2026-11-16",
+          "synthesis_note": "Scoop risk for Q-020 (heterogeneity of transcatheter tricuspid treatment effect): a pooled analysis of the tricuspid TEER randomised trials will be presented; re-check Q-020 G3 and G5 once the presentation or paper appears. Not itself a rapid-synthesis opportunity because it is already a synthesis."
+        },
+        {
+          "title": "30-day outcomes of transcatheter paravalvular leak closure: the PARADIGM study",
+          "nct": null,
+          "source_url": "https://www.pcronline.com/Courses/PCR-London-Valves/Programme/Late-Breaking-Trials",
+          "accessed": "2026-11-16",
+          "synthesis_note": "Single-arm 30-day outcomes; no randomised comparator, so no rapid synthesis is publishable."
+        },
+        {
+          "title": "Transcatheter posterior leaflet restoration: the EXPLORE MR study",
+          "nct": null,
+          "source_url": "https://www.pcronline.com/Courses/PCR-London-Valves/Programme/Late-Breaking-Trials",
+          "accessed": "2026-11-16",
+          "synthesis_note": "Early device study; no rapid synthesis."
+        },
+        {
+          "title": "Transseptal transcatheter mitral valve replacement with a novel bioprosthesis",
+          "nct": null,
+          "source_url": "https://www.pcronline.com/Courses/PCR-London-Valves/Programme/Late-Breaking-Trials",
+          "accessed": "2026-11-16",
+          "synthesis_note": "Early device study; no rapid synthesis."
+        },
+        {
+          "title": "Thirty-day outcomes of single-stage transfemoral TMVR in symptomatic mitral valve disease",
+          "nct": null,
+          "source_url": "https://www.pcronline.com/Courses/PCR-London-Valves/Programme/Late-Breaking-Trials",
+          "accessed": "2026-11-16",
+          "synthesis_note": "Single-arm 30-day outcomes; no rapid synthesis."
+        }
+      ]
     }
   ]
 }
