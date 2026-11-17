@@ -2,19 +2,19 @@
 
 ## Status
 
-- Last run: 2026-11-16 08:59 (Europe/London), daily.
+- Last run: 2026-11-17 09:02 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: guideline extracts (8.4), appraisal backlog drain.
-- Backlog awaiting appraisal: 2848.
-- Records in the store: 56315 (Tier A 93, Tier B 1771, Tier C 33489, Tier D 18102, untiered 2860).
+- Backlog awaiting appraisal: 2485.
+- Records in the store: 56366 (Tier A 93, Tier B 1806, Tier C 33754, Tier D 18216, untiered 2497).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-11-16 |
-| europepmc | ok | 2026-11-16 |
-| medrxiv | ok | 2026-11-16 |
-| crossref | ok | 2026-11-16 |
-| ctgov | ok | 2026-11-16 |
+| pubmed | ok | 2026-11-17 |
+| europepmc | ok | 2026-11-17 |
+| medrxiv | ok | 2026-11-17 |
+| crossref | ok | 2026-11-17 |
+| ctgov | ok | 2026-11-17 |
 
 Warnings:
 
@@ -62,7 +62,6 @@ Randomised trials with at least 500 participants whose primary completion date f
 - NCT06688162 MIRACLE-S: Minimally Invasive Soft Channel Brain Haemorrhage Evacuation for Acute Basal Ganglia Haemorrhage--Small Hemorr; N 750; primary completion 2026-11-30 (type not stated); enrolling by invitation
 - NCT06688201 MIRACLE-L: Minimally Invasive Soft Channel Brain Haemorrhage Evacuation for Acute Basal Ganglia Haemorrhage-- Large Hemor; N 550; primary completion 2026-11-30 (type not stated); recruiting
 - NCT06845826 CERMIT: Point-of-Care Troponin Testing in the Emergency Department; N 1552; primary completion 2026-11-30 (type not stated); active not recruiting
-- NCT07135310 : STROKE 120 ACTION Trial; N 1696000; primary completion 2026-11-30 (type not stated); recruiting
 - NCT02767505 BEST: Bypass Equipoise Sleeve Trial (BEST); N 1752; primary completion 2026-12 (type not stated); active not recruiting
 - NCT02823821 RESOLVE: Randomised Evaluation of Sodium Dialysate Levels on Vascular Events; N 50000; primary completion 2026-12 (type not stated); recruiting
 - NCT03728049 WITAVI-REAL: Von Willebrand Factor Point-of-care Testing to Improve Minimally Invasive TAVI Outcomes; N 944; primary completion 2026-12 (type not stated); recruiting
@@ -119,7 +118,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 - NCT05931276 BRAVO: CSP #2026 - Beta Blocker Dialyzability on Cardiovascular Outcomes; N 2540; primary completion 2026-12-31 (type not stated); recruiting
 - NCT06085378 TK-SEEK: Efficacy and Safety of Urinary Kallidinogenase in the Treatment of Acute Ischemic Stroke Combined With Type 2 ; N 630; primary completion 2026-12-31 (type not stated); not yet recruiting
 - NCT06108414 : Low-dose Versus Standard-dose Rivaroxaban in Elderly Patients With Atrial Fibrillation; N 4374; primary completion 2026-12-31 (type not stated); recruiting
-- NCT06185530 SECURE: SECURE Trial: Stress Echocardiography With Carotid Ultrasound vs Routine CT Coronary Angiography in Chronic Co; N 2000; primary completion 2026-12-31 (type not stated); recruiting
+- NCT06185530 SECURE: SECURE Trial: Stress Echocardiography With Carotid Ultrasound vs Routine CT Coronary Angiography in Chronic Co; N 2000; primary completion 2026-12-31 (type not stated); active not recruiting
 - NCT06216821 OPT-GUIDNACE: OPT-CAD Score GUIded Dual ANtiplatelet De-esCalation Time; N 3490; primary completion 2026-12-31 (type not stated); recruiting
 - NCT06478732 : HeartMed-HF Digital Therapeutics Improves Exercise Capacity in CHF Patients After AMI; N 710; primary completion 2026-12-31 (type not stated); not yet recruiting
 - NCT06671067 NATURAL: Noninvasive Assessment of Pulmonary Fluid Levels by Remote Dielectric Sensing Technology to Improve Cardiac In; N 2000; primary completion 2026-12-31 (type not stated); not yet recruiting
@@ -141,7 +140,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 - Weekly: [2026-W47](outputs/weekly/2026-W47.md)
 - Monthly: [2026-11](outputs/monthly/2026-11.md)
-- Daily: [2026-11-16](outputs/daily/2026/2026-11-16.md)
+- Daily: [2026-11-17](outputs/daily/2026/2026-11-17.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 
