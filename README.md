@@ -2,19 +2,19 @@
 
 ## Status
 
-- Last run: 2026-11-17 09:02 (Europe/London), daily.
+- Last run: 2026-11-18 08:58 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: guideline extracts (8.4), appraisal backlog drain.
-- Backlog awaiting appraisal: 2085.
-- Records in the store: 56366 (Tier A 97, Tier B 1849, Tier C 34014, Tier D 18309, untiered 2097).
+- Backlog awaiting appraisal: 1745.
+- Records in the store: 56450 (Tier A 98, Tier B 1888, Tier C 34236, Tier D 18471, untiered 1757).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-11-17 |
-| europepmc | ok | 2026-11-17 |
-| medrxiv | ok | 2026-11-17 |
-| crossref | ok | 2026-11-17 |
-| ctgov | ok | 2026-11-17 |
+| pubmed | ok | 2026-11-18 |
+| europepmc | ok | 2026-11-18 |
+| medrxiv | ok | 2026-11-18 |
+| crossref | ok | 2026-11-18 |
+| ctgov | ok | 2026-11-18 |
 
 Warnings:
 
@@ -135,12 +135,13 @@ Randomised trials with at least 500 participants whose primary completion date f
 - NCT06481891 SONATA-HCM: A Study to Evaluate the Efficacy and Safety of Sotagliflozin in Symptomatic Obstructive and Non-obstructive Hy; N 500; primary completion 2027-01 (type not stated); active not recruiting
 - NCT06767969 ACEAIS: Effect of Acetaminophen on Neurological Outcome in Acute Ischemic Stroke Patients Undergoing Endovascular Trea; N 892; primary completion 2027-01-01 (type not stated); not yet recruiting
 - NCT06927908 : Cardiac Denervation in Aortic Arch Replacement; N 570; primary completion 2027-01-01 (type not stated); not yet recruiting
+- NCT05952206 ANGIODAPT: Ischemic and Bleeding Outcomes After Angiolite Stent Implantation and an Abbreviated Dual Antiplatelet Therapy; N 2312; primary completion 2027-01-13 (type not stated); active not recruiting
 
 ## Latest reports
 
 - Weekly: [2026-W47](outputs/weekly/2026-W47.md)
 - Monthly: [2026-11](outputs/monthly/2026-11.md)
-- Daily: [2026-11-17](outputs/daily/2026/2026-11-17.md)
+- Daily: [2026-11-18](outputs/daily/2026/2026-11-18.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 
