@@ -1,11 +1,30 @@
 [
   {
-    "record": "43036048",
+    "record": "43041377",
     "qid": "Q-006",
     "hits": [
-      "cardiogenic shock",
-      "danger shock",
-      "women"
+      "microaxial flow pump",
+      "impella",
+      "cardiogenic shock"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "43042252",
+    "qid": "Q-016",
+    "hits": [
+      "teer",
+      "heart failure"
+    ],
+    "trial_overlap": []
+  },
+  {
+    "record": "43043445",
+    "qid": "Q-020",
+    "hits": [
+      "tricuspid",
+      "tricuspid regurgitation",
+      "transcatheter tricuspid valve replacement"
     ],
     "trial_overlap": []
   }
