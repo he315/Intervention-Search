@@ -2,19 +2,19 @@
 
 ## Status
 
-- Last run: 2026-11-19 08:59 (Europe/London), daily.
+- Last run: 2026-11-20 08:58 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: guideline extracts (8.4), appraisal backlog drain.
-- Backlog awaiting appraisal: 597.
-- Records in the store: 56537 (Tier A 108, Tier B 2014, Tier C 34799, Tier D 19007, untiered 609).
+- Backlog awaiting appraisal: 287.
+- Records in the store: 56682 (Tier A 108, Tier B 2067, Tier C 35031, Tier D 19177, untiered 299).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-11-19 |
-| europepmc | ok | 2026-11-19 |
-| medrxiv | ok | 2026-11-19 |
-| crossref | ok | 2026-11-19 |
-| ctgov | ok | 2026-11-19 |
+| pubmed | ok | 2026-11-20 |
+| europepmc | ok | 2026-11-20 |
+| medrxiv | ok | 2026-11-20 |
+| crossref | ok | 2026-11-20 |
+| ctgov | ok | 2026-11-20 |
 
 Warnings:
 
@@ -53,7 +53,6 @@ Congresses:
 
 Randomised trials with at least 500 participants whose primary completion date falls in the period (registry dates, often estimated):
 
-- NCT06615726 RESIST: Regular Physical Exercise in Patients With Symptomatic Intracranial Arterial Stenosis; N 1300; primary completion 2026-11-19 (type not stated); active not recruiting
 - NCT05993481 : The Noninvasive Blood Pressure Measurement Effect on the Hypotension; N 640; primary completion 2026-11-25 (type not stated); enrolling by invitation
 - NCT06501443 : LATAM LOWERS LDL-C; N 520; primary completion 2026-11-27 (type not stated); recruiting
 - NCT05349955 GUARD: Effects and Safety of Diabetic GUideline Algorithm Implementation Performed by Primary Care Physicians in the ; N 5600; primary completion 2026-11-30 (type not stated); recruiting
@@ -136,12 +135,14 @@ Randomised trials with at least 500 participants whose primary completion date f
 - NCT06767969 ACEAIS: Effect of Acetaminophen on Neurological Outcome in Acute Ischemic Stroke Patients Undergoing Endovascular Trea; N 892; primary completion 2027-01-01 (type not stated); not yet recruiting
 - NCT06927908 : Cardiac Denervation in Aortic Arch Replacement; N 570; primary completion 2027-01-01 (type not stated); not yet recruiting
 - NCT05952206 ANGIODAPT: Ischemic and Bleeding Outcomes After Angiolite Stent Implantation and an Abbreviated Dual Antiplatelet Therapy; N 2312; primary completion 2027-01-13 (type not stated); active not recruiting
+- NCT04755387 : Ticagrelor De-escalation Strategy in AMI Patients; N 2312; primary completion 2027-01-15 (type not stated); recruiting
+- NCT05932472 ASPIRIN-C3: Randomized Comparison of Morning Versus Bedtime Administration of Aspirin: A Cardiovascular Circadian Chronoth; N 32706; primary completion 2027-01-15 (type not stated); recruiting
 
 ## Latest reports
 
 - Weekly: [2026-W47](outputs/weekly/2026-W47.md)
 - Monthly: [2026-11](outputs/monthly/2026-11.md)
-- Daily: [2026-11-19](outputs/daily/2026/2026-11-19.md)
+- Daily: [2026-11-20](outputs/daily/2026/2026-11-20.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 

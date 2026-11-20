@@ -1,6 +1,6 @@
 # Calendar
 
-Updated 19 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
+Updated 20 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
 
 ## Congresses
 
@@ -440,6 +440,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07424118 | REMIDEP-HTA | REMIDEP-HTA Program for Hypertension Remission and Medication Deprescription | 240 | 2026-11 () | not yet recruiting | D6 |
 | NCT07735091 |  | A Blood Pressure-Lowering Diet for Preventing and Managing Hypertension | 800 | 2026-11-01 () | not yet recruiting | D6 |
 | NCT07928960 | SoundDistal | Conventional or Ultrasound Guided Puncture Technique for the Distal Radial Artery, Direct Comparison | 600 | 2026-11-01 () | completed | D1 |
+| NCT07948694 | ANGEL-IMPROVE | Improving Endovascular Treatment Through Process Refinements | 2862 | 2026-11 () | recruiting | D4 |
 | NCT04229056 | COMPEX | COMPuter-assisted Self-training to Improve EXecutive Function | 307 | 2026-11-05 () | active not recruiting | D4 |
 | NCT06867991 | RADIA | Safety and Efficacy of Combined B Cell Depleting theRapy And Daratumumab In Autoimmune Encephalitis | 200 | 2026-11-08 () | recruiting | D4 |
 | NCT06702657 | ICAS LVO-MT | A Randomized Clinical Trial on Urgent Angioplasty for IntraCranial Atherosclerotic Stenosis-related  | 612 | 2026-11-15 () | not yet recruiting | D4 |
@@ -545,7 +546,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT05438862 | ELEANOR | Early Aortic vaLve surgEry Versus wAtchful waitiNg Strategy in Severe Asymptomatic aOrtic reguRgitat | 217 | 2026-12-31 () | recruiting | D3, D6 |
 | NCT05440149 | PORT-N1 | The Postoperative Radiotherapy in N1 Breast Cancer Patients | 1106 | 2026-12-31 () | recruiting | D6 |
 | NCT05529459 | ASSIST | Anatomic Versus Physiologic Guidance for Complete Revascularization With DES Eluting in Patients Wit | 2400 | 2026-12-31 () | recruiting | D1, D6 |
-| NCT05560204 | COMPAWA | Combined Pulsed-field Ablation (PFA) and Left Atrial Appendage Occlusion Using Watchman Flx or Amule | 200 | 2026-12-31 () | active not recruiting | D9 |
 | NCT05564780 | STEP-Pre | Study of Early Pharmaceutical Intervention for Cardiovascular Disease Prevention in Stage 1 Hyperten | 20000 | 2026-12-31 () | not yet recruiting | D6 |
 | NCT05595187 |  | Concomitant Tricuspid Repair in Patients With Left Heart Surgery | 400 | 2026-12-31 () | not yet recruiting | D4, D5 |
 | NCT05595226 | TEEMR | Effect of RT3D-TEE-guided Mitral Valve Repair on Outcomes in Patients With Degenerative Mitral Valve | 338 | 2026-12-31 () | recruiting | D4 |
@@ -642,7 +642,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07933757 |  | AIM2-NLRP3 Inflammasome Dual Inhibitor on hsCRP | 250 | 2027-02-10 () | not yet recruiting | D6 |
 | NCT06084000 | STENTLESS | STrategies of Scheduled Drug-coated Balloons (DCB) Versus Conventional DES for the interveNTional Th | 2700 | 2027-02-15 () | active not recruiting | D1, D6, D7, D8 |
 | NCT06425614 | COLTRANE | COmbined pLaTelet and eRythrocyte AutotransfusioN During Cardiac surgEry (COLTRANE) Trial | 570 | 2027-02-15 () | recruiting | D2, D6 |
-| NCT06981390 |  | Ticagrelor-Based Dual Antiplatelet Therapy Duration in CABG | 300 | 2027-02-20 () | not yet recruiting | D6, D8 |
+| NCT06981390 |  | Ticagrelor-Based Dual Antiplatelet Therapy Duration in CABG | 300 | 2027-02-20 () | recruiting | D6, D8 |
 | NCT06869811 | ADDLAAO | Oral Anticoagulation Versus Left Atrial Appendage Occlusion Added to Direct Oral Anticoagulation in  | 380 | 2027-02-22 () | recruiting | D9 |
 | NCT05132439 | MOBILE IC | MetfOrmin BenefIts Lower Extremities With Intermittent Claudication | 200 | 2027-02-28 () | recruiting | D1 |
 | NCT05698628 | DECIDE-ECMO | Distal Perfusion Timing, Early or Conservative, to Prevent Limb Ischemia During Peripheral VA-ECMO | 400 | 2027-02-28 () | recruiting | D2, D6 |
@@ -840,7 +840,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT06472336 |  | IntraCranial Atherosclerosis Related Large-vessel Occlusion Treated With Urgent Stenting (ICARUS) | 498 | 2027-08 () | recruiting | D4, D8 |
 | NCT06621407 | SUPERDURA | A National Study Examining the Most Effective Drainage Method After Burr Hole Evacuation of Chronic  | 354 | 2027-08 () | recruiting | D4 |
 | NCT06910163 | COPILOT | Direct-to-angio Approach From loCal hOspitals Based on a PoInt-of-care bLOod Test for LVO | 520 | 2027-08 () | not yet recruiting | D4 |
-| NCT07057713 |  | Total Arterial vs. Mixed Grafting in Left Coronary CABG | 400 | 2027-08-01 () | not yet recruiting | D6 |
 | NCT07073469 |  | Tenecteplase in ReperfUsion Therapy for Posterior Circulation Stroke With Extended Time Window: the  | 330 | 2027-08-01 () | not yet recruiting | D4 |
 | NCT07077057 | TITAN-OMI | Ticino Artificial InTelligence integrAtioN for Occlusion Myocardial Infarction | 500 | 2027-08 () | recruiting | D1, D6 |
 | NCT07440381 | PERSUADE | triPle Oral thERapy With Bempedoic Acid vs uSual Care in Early Lipid Management of Patients With acU | 600 | 2027-08 () | not yet recruiting | D6 |
@@ -1042,6 +1041,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT04977076 | SLIM-2 | Comparison Between Direct Oral Anticoagulation (DOAC) Interruption and DOAC Continuation in Patients | 1270 | 2027-12-31 () | recruiting | D1, D8 |
 | NCT05418556 | OPTIMIZE-APT | OPTIMIZE-APT: Tailored Versus Conventional Antiplatelet Therapy After Intravascular Imaging-guided D | 3944 | 2027-12-31 () | recruiting | D1, D2, D6, D8 |
 | NCT05527717 | RESCUE-SHOCK | Revascularization Strategy of Multivessel Disease for Patients with Acute Myocardial Infarction Comp | 560 | 2027-12-31 () | recruiting | D2, D6 |
+| NCT05560204 | COMPAWA | Combined Pulsed-field Ablation (PFA) and Left Atrial Appendage Occlusion Using Watchman Flx or Amule | 200 | 2027-12-31 () | active not recruiting | D9 |
 | NCT05649384 | PRESC1SE-MI | Emergency Department Triage of Patients With Acute Chest Pain Based on the ESC 0/1-hour Algorithm (P | 64374 | 2027-12-31 () | active not recruiting | D6 |
 | NCT05679024 | SACK | Stroke Prophylaxis With Apixaban in Chronic Kidney Disease Stage 5 Patients With Atrial Fibrillation | 1400 | 2027-12-31 () | recruiting | D6, D8 |
 | NCT05782582 | COSPRI | Chronic Coronary Syndrome in Swedish Primary Care | 500 | 2027-12-31 () | recruiting | D6 |
@@ -1311,6 +1311,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT05508035 | CRACOVIA-HF | The Effect of Sacubitril/Valsartan Versus Ramipril on Left Ventricular Function and Remodeling in Pa | 488 | 2028-08 () | recruiting | D6 |
 | NCT06915428 | PTBCARE+ | Personalized Care for Prenatal Stress Reduction & Prevention of Preterm Birth (PTB) Disparities | 1228 | 2028-08 () | not yet recruiting | D6 |
 | NCT07052045 | GET-FAST | One-Stop manaGemEnT For A Swift Initiation of Endovascular Therapy | 390 | 2028-08-01 () | recruiting | D4 |
+| NCT07057713 |  | Total Arterial vs. Mixed Grafting in Left Coronary CABG | 400 | 2028-08-01 () | not yet recruiting | D6 |
 | NCT07761754 | Hydro-AKI | The Effect of Hydration on the Prevention of CI-AKI in STEMI Patients Undergoing Primary PCI (Hydro- | 384 | 2028-08 () | not yet recruiting | D1, D6 |
 | NCT05556460 |  | Safety and Effectiveness Study of DragonFly-T System for Severe Tricuspid Regurgitation | 236 | 2028-08-15 () | recruiting | D5 |
 | NCT06522100 | COTAM | Corticoid Therapy in Acute Myocarditis | 420 | 2028-08-16 () | not yet recruiting | D2 |
