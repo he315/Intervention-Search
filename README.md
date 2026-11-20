@@ -4,9 +4,9 @@
 
 - Last run: 2026-11-20 08:58 (Europe/London), daily.
 - Result: OK.
-- Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: guideline extracts (8.4), appraisal backlog drain.
-- Backlog awaiting appraisal: 287.
-- Records in the store: 56682 (Tier A 108, Tier B 2067, Tier C 35031, Tier D 19177, untiered 299).
+- Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: guideline extracts (8.4).
+- Backlog awaiting appraisal: 0.
+- Records in the store: 56682 (Tier A 109, Tier B 2099, Tier C 35203, Tier D 19259, untiered 12).
 
 | Source | Health | Watermark |
 |---|---|---|
