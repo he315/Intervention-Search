@@ -1,6 +1,6 @@
 # Calendar
 
-Updated 21 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
+Updated 22 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
 
 ## Congresses
 
@@ -29,7 +29,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 
 | NCT | Acronym | Title | N | Primary completion | Status | Domains |
 |---|---|---|---|---|---|---|
-| NCT07010965 |  | SAVE-PCI: NyokAssist™ Small-Bore VAD vs. IABP in Elective High-Risk PCI | 236 | 2025-11-21 () | active not recruiting | D1, D2 |
 | NCT04481919 | ESCALATE | Randomized Controlled Trial of urinE chemiStry Guided aCute heArt faiLure treATmEnt (ESCALATE) | 474 | 2025-11-22 () | active not recruiting | D6 |
 | NCT06115031 |  | Remimazolam vs. Propofol: Impact on Postoperative Delirium in Neurosurgical Patients | 696 | 2025-11-24 () | completed | D6 |
 | NCT03976180 | OSONE | High-flow Oxygen for Vaso-occlusive Pain Crisis | 350 | 2025-11-27 () | unknown | D6 |
