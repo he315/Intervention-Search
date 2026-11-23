@@ -2,19 +2,19 @@
 
 ## Status
 
-- Last run: 2026-11-22 08:55 (Europe/London), daily.
+- Last run: 2026-11-23 08:59 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: guideline extracts (8.4).
 - Backlog awaiting appraisal: 0.
-- Records in the store: 56786 (Tier A 109, Tier B 2104, Tier C 35241, Tier D 19320, untiered 12).
+- Records in the store: 56804 (Tier A 115, Tier B 2136, Tier C 35452, Tier D 19089, untiered 12).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-11-22 |
-| europepmc | ok | 2026-11-22 |
-| medrxiv | ok | 2026-11-22 |
-| crossref | ok | 2026-11-22 |
-| ctgov | ok | 2026-11-22 |
+| pubmed | ok | 2026-11-23 |
+| europepmc | ok | 2026-11-23 |
+| medrxiv | ok | 2026-11-23 |
+| crossref | ok | 2026-11-23 |
+| ctgov | ok | 2026-11-23 |
 
 Warnings:
 
@@ -43,13 +43,9 @@ By domain: D1 6, D2 7, D3 5, D4 5, D5 3, D6 6, D7 5, D8 6, D9 5.
 
 ## Tier A in the past seven days
 
-- [Angiography-Derived vs Wire-Based Fractional Flow Reserve to Guide Revascularization: The Randomized LIPSIA-STRATEGY Trial.](https://pubmed.ncbi.nlm.nih.gov/43033171/) (Journal of the American College of Cardiology)
+None.
 
 ## Next eight weeks
-
-Congresses:
-
-- PCR London Valves 2026, 22 November 2026 to 24 November 2026, London, United Kingdom. Programme: https://www.pcronline.com/Courses/PCR-London-Valves/Programme/2026/Course-Programme
 
 Randomised trials with at least 500 participants whose primary completion date falls in the period (registry dates, often estimated):
 
@@ -142,7 +138,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 - Weekly: [2026-W47](outputs/weekly/2026-W47.md)
 - Monthly: [2026-11](outputs/monthly/2026-11.md)
-- Daily: [2026-11-22](outputs/daily/2026/2026-11-22.md)
+- Daily: [2026-11-23](outputs/daily/2026/2026-11-23.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 

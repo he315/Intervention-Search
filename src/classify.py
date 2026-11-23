@@ -194,7 +194,9 @@ def prescreen_tier(rec):
     """Return 'D' when a record goes to Tier D without model appraisal, else None."""
     if rec.get("design") in ("case_report", "editorial_letter_comment"):
         return "D"
-    if len((rec.get("abstract") or "").strip()) < 100:
+    # Guidelines and consensus documents are often indexed without an abstract;
+    # they must still be read and tiered, so the no-abstract rule exempts them.
+    if len((rec.get("abstract") or "").strip()) < 100 and rec.get("design") not in ("guideline", "consensus_or_statement"):
         return "D"
     return None
 

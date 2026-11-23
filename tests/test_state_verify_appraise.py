@@ -100,3 +100,11 @@ def test_trial_ids_include_earlier_snapshots(tmp_repo):
     trials.write_jsonl_gz(trials.CURRENT, [cur])
     ids = trials.all_trial_ids()
     assert trials.key(old) in ids and trials.key(cur) in ids
+
+
+def test_prescreen_exempts_guidelines_without_abstract():
+    from src.classify import prescreen_tier
+    assert prescreen_tier({"design": "guideline", "abstract": ""}) is None
+    assert prescreen_tier({"design": "consensus_or_statement", "abstract": None}) is None
+    assert prescreen_tier({"design": "rct", "abstract": ""}) == "D"
+    assert prescreen_tier({"design": "editorial_letter_comment", "abstract": "x" * 200}) == "D"
