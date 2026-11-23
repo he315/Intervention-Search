@@ -1,6 +1,6 @@
 # Calendar
 
-Updated 22 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
+Updated 23 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
 
 ## Congresses
 
@@ -29,7 +29,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 
 | NCT | Acronym | Title | N | Primary completion | Status | Domains |
 |---|---|---|---|---|---|---|
-| NCT04481919 | ESCALATE | Randomized Controlled Trial of urinE chemiStry Guided aCute heArt faiLure treATmEnt (ESCALATE) | 474 | 2025-11-22 () | active not recruiting | D6 |
 | NCT06115031 |  | Remimazolam vs. Propofol: Impact on Postoperative Delirium in Neurosurgical Patients | 696 | 2025-11-24 () | completed | D6 |
 | NCT03976180 | OSONE | High-flow Oxygen for Vaso-occlusive Pain Crisis | 350 | 2025-11-27 () | unknown | D6 |
 | NCT05047731 | OptimizeBP | Antihypertensive Deprescribing in Long-term Care | 522 | 2025-11-30 () | completed | D6 |
@@ -200,7 +199,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT06601127 |  | Study of Tiprogrel in the Treatment of High-risk Patients with Acute Ischemic Cerebrovascular Events | 600 | 2026-04-01 () | recruiting | D6, D8 |
 | NCT06916520 | PROMOTE | Prasugrel Monotherapy Reduced Dose in Acute and Chronic Coronary Syndrome Patients After Percutaneou | 300 | 2026-04 () | recruiting | D1, D6, D8 |
 | NCT04536675 |  | Effect of Perioperative Bronchodilator in COPD Patients Undergoing Lung Cancer Surgery | 204 | 2026-04-03 () | active not recruiting | D6 |
-| NCT06511089 | CASES | Carotid Artery Stenting During Endovascular Treatment of Acute Stroke | 600 | 2026-04-05 () | recruiting | D4, D8 |
+| NCT06511089 | CASES | Carotid Artery Stenting During Endovascular Treatment of Acute Stroke | 600 | 2026-04-05 () | unknown | D4, D8 |
 | NCT03439267 | CorCal | Effectiveness of a Proactive Cardiovascular Primary Prevention Strategy, With or Without the Use of  | 5765 | 2026-04-06 () | active not recruiting | D6 |
 | NCT05890131 | EMAIL-HF | Implementation of SGLT-2 Inhibitors in Patients With Heart Failure Through a New Digital Strategy | 5996 | 2026-04-07 () | completed | D6 |
 | NCT04430569 | PEITHO-3 | Pulmonary Embolism International THrOmbolysis Study-3 | 800 | 2026-04-13 () | active not recruiting | D9 |
