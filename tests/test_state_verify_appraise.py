@@ -108,3 +108,17 @@ def test_prescreen_exempts_guidelines_without_abstract():
     assert prescreen_tier({"design": "consensus_or_statement", "abstract": None}) is None
     assert prescreen_tier({"design": "rct", "abstract": ""}) == "D"
     assert prescreen_tier({"design": "editorial_letter_comment", "abstract": "x" * 200}) == "D"
+
+
+def test_calendar_scope_filter_keeps_cardiac_drops_unrelated():
+    # Fields copied from the stored ClinicalTrials.gov snapshot of 2026-11-23.
+    from src import trials
+    mi = {"nct": "NCT04769362", "title": "Long-term Beta-blocker Therapy After Acute Myocardial Infarction",
+          "acronym": "SMART-DECISION", "conditions": ["Myocardial Infarction"],
+          "interventions": ["Discontinuation of β-blocker"]}
+    neuro = {"nct": "NCT06115031",
+             "title": "Remimazolam vs. Propofol: Impact on Postoperative Delirium in Neurosurgical Patients",
+             "acronym": None, "conditions": ["Postoperative Delirium"], "interventions": ["Remimazolam", "Propofol"],
+             "primary_outcomes": [{"measure": "Postoperative delirium"}]}
+    assert trials.in_scope(mi)
+    assert not trials.in_scope(neuro)

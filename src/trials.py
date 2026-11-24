@@ -6,6 +6,7 @@ snapshot and diff it against the previous one into data/trials/changes.jsonl.
 """
 import gzip
 import json
+import re
 from datetime import date, timedelta
 
 from . import config
@@ -188,7 +189,27 @@ def _d(s):
         return None
 
 
-def calendar(today, back_days=365, ahead_days=3 * 365, min_enrolment=0, randomised_only=True):
+# Cardiovascular and procedural terms used only to keep obviously unrelated registry hits
+# (neurosurgery, oncology, trauma) out of the readout calendar. Deliberately broad: a trial
+# is dropped only when neither the domain rules nor any of these terms match, so in-scope
+# readouts are never hidden. Snapshots themselves are not filtered.
+_CARDIO_TERMS = re.compile(
+    r"coronar|valv|cardiogenic|stent|myocard|infarct|\bPCI\b|aortic|mitral|tricusp|ECMO|"
+    r"extracorporeal|antiplatelet|ticagrelor|clopidogrel|prasugrel|aspirin|cardiac arrest|"
+    r"angina|appendage|foramen|pulmonary embol|renal denerv|troponin|heparin|bivalirudin|"
+    r"factor XI|anticoag|atherectomy|angioplasty|revasculari|heart|cardi", re.I)
+
+
+def in_scope(t):
+    """True unless a trial plainly has nothing to do with the cardiovascular domains."""
+    from .classify import text_domains
+    text = " ".join(str(t.get(k) or "") for k in
+                    ("title", "acronym", "official_title", "conditions", "interventions", "primary_outcomes"))
+    return bool(text_domains({"title": text})) or bool(_CARDIO_TERMS.search(text))
+
+
+def calendar(today, back_days=365, ahead_days=3 * 365, min_enrolment=0, randomised_only=True,
+             scope_filter=True):
     """Trials with primary completion between today-back and today+ahead."""
     out = []
     lo, hi = today - timedelta(days=back_days), today + timedelta(days=ahead_days)
@@ -198,6 +219,8 @@ def calendar(today, back_days=365, ahead_days=3 * 365, min_enrolment=0, randomis
         if randomised_only and t.get("allocation") != "RANDOMIZED":
             continue
         if (t.get("enrolment") or 0) < min_enrolment:
+            continue
+        if scope_filter and not in_scope(t):
             continue
         pc = _d(t.get("primary_completion"))
         if pc and lo <= pc <= hi and t.get("status") not in ("WITHDRAWN",):

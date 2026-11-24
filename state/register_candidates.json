@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "record": "43070860",
+    "qid": "Q-020",
+    "hits": [
+      "tricuspid",
+      "tricuspid regurgitation",
+      "transcatheter tricuspid valve replacement"
+    ],
+    "trial_overlap": []
+  }
+]

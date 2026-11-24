@@ -2,19 +2,19 @@
 
 ## Status
 
-- Last run: 2026-11-23 08:59 (Europe/London), daily.
+- Last run: 2026-11-24 08:57 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: guideline extracts (8.4).
 - Backlog awaiting appraisal: 0.
-- Records in the store: 56804 (Tier A 115, Tier B 2136, Tier C 35452, Tier D 19089, untiered 12).
+- Records in the store: 56865 (Tier A 116, Tier B 2139, Tier C 35480, Tier D 19118, untiered 12).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-11-23 |
-| europepmc | ok | 2026-11-23 |
-| medrxiv | ok | 2026-11-23 |
-| crossref | ok | 2026-11-23 |
-| ctgov | ok | 2026-11-23 |
+| pubmed | ok | 2026-11-24 |
+| europepmc | ok | 2026-11-24 |
+| medrxiv | ok | 2026-11-24 |
+| crossref | ok | 2026-11-24 |
+| ctgov | ok | 2026-11-24 |
 
 Warnings:
 
@@ -43,48 +43,31 @@ By domain: D1 6, D2 7, D3 5, D4 5, D5 3, D6 6, D7 5, D8 6, D9 5.
 
 ## Tier A in the past seven days
 
-None.
+- [Transcatheter Edge-to-Edge Repair for Severe Isolated Tricuspid Regurgitation After Extended Follow-Up: The TRI-FR Randomized Clinical Trial](https://doi.org/10.1161/circulationaha.126.080397) (Circulation)
 
 ## Next eight weeks
 
 Randomised trials with at least 500 participants whose primary completion date falls in the period (registry dates, often estimated):
 
-- NCT05993481 : The Noninvasive Blood Pressure Measurement Effect on the Hypotension; N 640; primary completion 2026-11-25 (type not stated); enrolling by invitation
 - NCT06501443 : LATAM LOWERS LDL-C; N 520; primary completion 2026-11-27 (type not stated); recruiting
 - NCT05349955 GUARD: Effects and Safety of Diabetic GUideline Algorithm Implementation Performed by Primary Care Physicians in the ; N 5600; primary completion 2026-11-30 (type not stated); recruiting
 - NCT05635877 : Effects of Low-dose Esmolol on Myocardial Injury After Non-cardiac Surgery in Elderly Frail Patients; N 2000; primary completion 2026-11-30 (type not stated); recruiting
 - NCT06225453 : Individualized Versus Conventional Perioperative Blood Pressure Management; N 1896; primary completion 2026-11-30 (type not stated); active not recruiting
-- NCT06688162 MIRACLE-S: Minimally Invasive Soft Channel Brain Haemorrhage Evacuation for Acute Basal Ganglia Haemorrhage--Small Hemorr; N 750; primary completion 2026-11-30 (type not stated); enrolling by invitation
-- NCT06688201 MIRACLE-L: Minimally Invasive Soft Channel Brain Haemorrhage Evacuation for Acute Basal Ganglia Haemorrhage-- Large Hemor; N 550; primary completion 2026-11-30 (type not stated); recruiting
 - NCT06845826 CERMIT: Point-of-Care Troponin Testing in the Emergency Department; N 1552; primary completion 2026-11-30 (type not stated); active not recruiting
-- NCT02767505 BEST: Bypass Equipoise Sleeve Trial (BEST); N 1752; primary completion 2026-12 (type not stated); active not recruiting
-- NCT02823821 RESOLVE: Randomised Evaluation of Sodium Dialysate Levels on Vascular Events; N 50000; primary completion 2026-12 (type not stated); recruiting
 - NCT03728049 WITAVI-REAL: Von Willebrand Factor Point-of-care Testing to Improve Minimally Invasive TAVI Outcomes; N 944; primary completion 2026-12 (type not stated); recruiting
-- NCT04209218 : Intraoperative Blood Pressure Management and Dexamethasone in Lung Cancer Surgery; N 1988; primary completion 2026-12 (type not stated); recruiting
 - NCT04229758 Restart tICrH: Restarting Anticoagulation After Traumatic Intracranial Hemorrhage; N 1100; primary completion 2026-12 (type not stated); not yet recruiting
 - NCT04433052 : Clinical Value and Cost-effectiveness of a Personalized Prevention Program (PPP) in Patients With High Risk St; N 12000; primary completion 2026-12 (type not stated); recruiting
 - NCT04701242 EzAMI: Ezetimibe Utilization Early After Acute Myocardial Infarction, "EzAMI Trial"; N 500; primary completion 2026-12 (type not stated); recruiting
 - NCT04709900 DYNAMITE: CT Stress Myocardial Perfusion, Fractional Flow Reserve and Angiography in Patients With Stable Chest Pain Syn; N 2000; primary completion 2026-12 (type not stated); recruiting
-- NCT04926597 EFFORT II: Effect of Continued Nutritional Support at Hospital Discharge on Mortality, Frailty, Functional Outcomes and R; N 1200; primary completion 2026-12 (type not stated); recruiting
 - NCT05015660 : Conduction System Pacing With Left Bundle Branch Pacing as Compared to Standard Right Ventricular Pacing; N 1300; primary completion 2026-12-01 (type not stated); recruiting
-- NCT05029063 TRIM-Line: Primary Thromboprophylaxis in Patients With Malignancy and Central Venous Catheters; N 1828; primary completion 2026-12 (type not stated); recruiting
-- NCT05065216 ReMEDy2: Treatment of Acute Ischemic Stroke (ReMEDy2 Trial); N 728; primary completion 2026-12 (type not stated); recruiting
 - NCT05105321 CDPP: Cardiovascular Diseases and Diabetes Prevention Programme in Metabolic Syndrome (CDPP); N 5200; primary completion 2026-12 (type not stated); not yet recruiting
 - NCT05325034 GOAL-ASIA: Guideline Oriented Approach To Lipid Lowering In Asia-Pacific; N 2000; primary completion 2026-12 (type not stated); recruiting
 - NCT05638867 : NOAC Therapy Guided by PARIS Risk Score and D-dimer in Patients With ACS After PCI; N 3944; primary completion 2026-12 (type not stated); recruiting
-- NCT05674487 PROBIN: Prostaglandins Versus Trans-cervical Balloon for Induction of Labor in Fetal Growth Restriction (PROBIN); N 774; primary completion 2026-12-01 (type not stated); recruiting
 - NCT05967663 : Fractional Flow Reserve Guided Immediate Versus Staged Complete Myocardial Revascularization in Patients With ; N 840; primary completion 2026-12 (type not stated); recruiting
-- NCT05976152 Be-CLEVER: Effect of Butyphthalide on Cognitive Level Change After Cerebral Vascular Event-a Randomized Control Trial (Be; N 3200; primary completion 2026-12 (type not stated); recruiting
 - NCT06033014 PM Heart: Clinical Implementation of a Novel Decision Support Tool in Patients With Ischemic Heart Disease; N 8000; primary completion 2026-12 (type not stated); recruiting
-- NCT06401772 : The Effectiveness and Safety of Body Posture in Preventing Postoperative Recurrence for Chronic Subdural Hemat; N 830; primary completion 2026-12 (type not stated); recruiting
-- NCT06403267 : NoNO-42 Trial in Acute Ischemic Stroke Patients Selected for Thrombolysis With or Without Endovascular Thrombe; N 600; primary completion 2026-12 (type not stated); recruiting
-- NCT06570681 : Video Call Assisted Assessment of Acute Stroke; N 512; primary completion 2026-12-01 (type not stated); recruiting
-- NCT06658197 TNK-LVO: Efficacy and Safety of Tenecteplase Bridging Mechanical Thrombectomy for Acute Large Vessel Occlusion Stroke; N 850; primary completion 2026-12-01 (type not stated); recruiting
 - NCT06689839 SHIELD: Trial of the F2 Filter and Delivery System for Embolic Protection During TAVR; N 500; primary completion 2026-12 (type not stated); recruiting
 - NCT06756945 LEAST: Low-dose Evaluation of Aspirin After STEMI Patients With PCI: A Multicenter, Double-blind, Randomized Controll; N 3612; primary completion 2026-12 (type not stated); not yet recruiting
-- NCT06848894 UNITE: Efficacy and Safety of Human Urinary Kallidinogenase for Acute Ischemic Stroke Patients Receiving Reperfusion ; N 1204; primary completion 2026-12 (type not stated); enrolling by invitation
 - NCT07181356 L-RICP-AMI: Effects of Long-term Remote Ischemic Preconditioning on Clinical Outcome in Patients With Acute Myocardial Inf; N 2146; primary completion 2026-12-01 (type not stated); recruiting
-- NCT07232498 DOP-MOBILIZE: Early Doppler-Assisted Mobilization in Adults After Acute Ischemic Stroke; N 1300; primary completion 2026-12 (type not stated); recruiting
 - NCT07381803 : The Impact of Fexofenadine Hydrochloride on the Prognosis of Patients Post-Acute Myocardial Infarction; N 2804; primary completion 2026-12 (type not stated); recruiting
 - NCT07465692 : Long-term Results of Rehabilitation of Patients With Myocardial Infarction After Coronary Artery Stenting. The; N 1046; primary completion 2026-12 (type not stated); active not recruiting
 - NCT05757869 LIBREXIA-AF: A Study of Milvexian Versus Apixaban in Participants With Atrial Fibrillation; N 20284; primary completion 2026-12-08 (type not stated); active not recruiting
@@ -94,16 +77,14 @@ Randomised trials with at least 500 participants whose primary completion date f
 - NCT03620266 BioDiaMI: Effects of Bilberry and Oat Intake After Type 2 Diabetes and/or MI; N 900; primary completion 2026-12-31 (type not stated); active not recruiting
 - NCT04212494 : Thrombus Aspiration in STEMI Patients With High Thrombus Burden; N 3838; primary completion 2026-12-31 (type not stated); recruiting
 - NCT04262206 PREVENTABLE: Pragmatic Evaluation of Events And Benefits of Lipid-lowering in Older Adults; N 20000; primary completion 2026-12-31 (type not stated); recruiting
-- NCT04521881 CRASH-4: Clinical Randomisation of an Anti-fibrinolytic in Symptomatic Mild Head Injury in Older Adults; N 5000; primary completion 2026-12-31 (type not stated); recruiting
-- NCT04588311 EPO-TRAUMA: ErythroPOietin Alfa to Prevent Mortality and Reduce Severe Disability in Critically Ill TRAUMA Patients; N 2500; primary completion 2026-12-31 (type not stated); recruiting
 - NCT04884802 : The GUARDIAN Trial; N 6254; primary completion 2026-12-31 (type not stated); recruiting
 - NCT04934683 : The GUARDIAN Trial - Induction Agent Sub-Study; N 6254; primary completion 2026-12-31 (type not stated); enrolling by invitation
 - NCT04934748 : The GUARDIAN Trial - Vasopressor Sub-Study; N 6254; primary completion 2026-12-31 (type not stated); enrolling by invitation
 - NCT04937699 MATE: Sequential MonotherApy of TicagrElor and Clopidogrel After Coronary Intervention; N 2690; primary completion 2026-12-31 (type not stated); recruiting
 - NCT05309850 : Primary Prevention With the Lifestyle Tool; N 90000; primary completion 2026-12-31 (type not stated); recruiting
 - NCT05309876 : Secondary Prevention With the Lifestyle Tool; N 11000; primary completion 2026-12-31 (type not stated); recruiting
+- NCT05312320 Sex/MI: Improving Sexual Function After Myocardial Infarction; N 1200; primary completion 2026-12-31 (type not stated); enrolling by invitation
 - NCT05410925 OPTIMA-6: Efficacy and Safety of a Half-dose Bolus of r-SAK Prior to Primary PCI in ST-elevation Myocardial Infarction; N 2260; primary completion 2026-12-31 (type not stated); recruiting
-- NCT05440149 PORT-N1: The Postoperative Radiotherapy in N1 Breast Cancer Patients; N 1106; primary completion 2026-12-31 (type not stated); recruiting
 - NCT05529459 ASSIST: Anatomic Versus Physiologic Guidance for Complete Revascularization With DES Eluting in Patients With CAD; N 2400; primary completion 2026-12-31 (type not stated); recruiting
 - NCT05564780 STEP-Pre: Study of Early Pharmaceutical Intervention for Cardiovascular Disease Prevention in Stage 1 Hypertension; N 20000; primary completion 2026-12-31 (type not stated); not yet recruiting
 - NCT05688579 EMRACHH: Effect of MRA on Cardiovascular Disease in Patients With Hypertension and Hyperaldosteronemia; N 8000; primary completion 2026-12-31 (type not stated); enrolling by invitation
@@ -111,24 +92,17 @@ Randomised trials with at least 500 participants whose primary completion date f
 - NCT05749874 ABCD: Effects of Berberine on Preventing Cardiovascular Disease and Diabetes Mellitus; N 2024; primary completion 2026-12-31 (type not stated); active not recruiting
 - NCT05759078 INFERRCT: Effect of INtravenous FERRic Carboxymaltose Onmortality and Cardiovascular Morbidity, and Quality of Life in I; N 1000; primary completion 2026-12-31 (type not stated); recruiting
 - NCT05931276 BRAVO: CSP #2026 - Beta Blocker Dialyzability on Cardiovascular Outcomes; N 2540; primary completion 2026-12-31 (type not stated); recruiting
-- NCT06085378 TK-SEEK: Efficacy and Safety of Urinary Kallidinogenase in the Treatment of Acute Ischemic Stroke Combined With Type 2 ; N 630; primary completion 2026-12-31 (type not stated); not yet recruiting
 - NCT06108414 : Low-dose Versus Standard-dose Rivaroxaban in Elderly Patients With Atrial Fibrillation; N 4374; primary completion 2026-12-31 (type not stated); recruiting
 - NCT06185530 SECURE: SECURE Trial: Stress Echocardiography With Carotid Ultrasound vs Routine CT Coronary Angiography in Chronic Co; N 2000; primary completion 2026-12-31 (type not stated); active not recruiting
 - NCT06216821 OPT-GUIDNACE: OPT-CAD Score GUIded Dual ANtiplatelet De-esCalation Time; N 3490; primary completion 2026-12-31 (type not stated); recruiting
 - NCT06478732 : HeartMed-HF Digital Therapeutics Improves Exercise Capacity in CHF Patients After AMI; N 710; primary completion 2026-12-31 (type not stated); not yet recruiting
 - NCT06671067 NATURAL: Noninvasive Assessment of Pulmonary Fluid Levels by Remote Dielectric Sensing Technology to Improve Cardiac In; N 2000; primary completion 2026-12-31 (type not stated); not yet recruiting
-- NCT06783049 SPIRIT: Secondary Prevention of Ischemic Stroke and Transient Ischemic Attack With an Intelligent Management System; N 4490; primary completion 2026-12-31 (type not stated); recruiting
-- NCT07071441 : Indomethacin vs Diclofenac for Preventing PEP; N 4050; primary completion 2026-12-31 (type not stated); recruiting
 - NCT07089862 : INdobufen Versus asPirin in Endovascular Unruptured Intracranial Aneurysms Treatment (INPUT); N 2500; primary completion 2026-12-31 (type not stated); recruiting
 - NCT07273513 SMART II: "Smart Family Doctor" Assisted Comprehensive Management of Secondary Prevention Among Post Revascularization P; N 951; primary completion 2026-12-31 (type not stated); not yet recruiting
-- NCT03862859 DANWARD: The Danish Warfarin-Dialysis Study - Safety and Efficacy of Warfarin in Patients With Atrial Fibrillation on D; N 718; primary completion 2027-01 (type not stated); recruiting
-- NCT05284513 CARE-FH: Collaborative Approach to Reach Everyone With Familial Hypercholesterolemia (CARE-FH); N 532; primary completion 2027-01 (type not stated); enrolling by invitation
-- NCT05530083 : Group Education Helps Smoking Cessation and Hypertension Control; N 2000; primary completion 2027-01-01 (type not stated); not yet recruiting
 - NCT05564754 STEPCARE: Sedation, Temperature and Pressure After Cardiac Arrest and Resuscitation; N 3500; primary completion 2027-01 (type not stated); active not recruiting
 - NCT05997693 ODIN: One-Month DAPT in CABG Patients; N 700; primary completion 2027-01 (type not stated); recruiting
 - NCT06207942 : Stepcare Extended Follow-up Substudy; N 600; primary completion 2027-01 (type not stated); recruiting
 - NCT06481891 SONATA-HCM: A Study to Evaluate the Efficacy and Safety of Sotagliflozin in Symptomatic Obstructive and Non-obstructive Hy; N 500; primary completion 2027-01 (type not stated); active not recruiting
-- NCT06767969 ACEAIS: Effect of Acetaminophen on Neurological Outcome in Acute Ischemic Stroke Patients Undergoing Endovascular Trea; N 892; primary completion 2027-01-01 (type not stated); not yet recruiting
 - NCT06927908 : Cardiac Denervation in Aortic Arch Replacement; N 570; primary completion 2027-01-01 (type not stated); not yet recruiting
 - NCT05952206 ANGIODAPT: Ischemic and Bleeding Outcomes After Angiolite Stent Implantation and an Abbreviated Dual Antiplatelet Therapy; N 2312; primary completion 2027-01-13 (type not stated); active not recruiting
 - NCT04755387 : Ticagrelor De-escalation Strategy in AMI Patients; N 2312; primary completion 2027-01-15 (type not stated); recruiting
@@ -138,7 +112,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 - Weekly: [2026-W48](outputs/weekly/2026-W48.md)
 - Monthly: [2026-11](outputs/monthly/2026-11.md)
-- Daily: [2026-11-23](outputs/daily/2026/2026-11-23.md)
+- Daily: [2026-11-24](outputs/daily/2026/2026-11-24.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 
