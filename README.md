@@ -2,19 +2,19 @@
 
 ## Status
 
-- Last run: 2026-11-24 08:57 (Europe/London), daily.
+- Last run: 2026-11-25 08:56 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: guideline extracts (8.4).
 - Backlog awaiting appraisal: 0.
-- Records in the store: 56865 (Tier A 116, Tier B 2139, Tier C 35480, Tier D 19118, untiered 12).
+- Records in the store: 56935 (Tier A 117, Tier B 2141, Tier C 35496, Tier D 19169, untiered 12).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-11-24 |
-| europepmc | ok | 2026-11-24 |
-| medrxiv | ok | 2026-11-24 |
-| crossref | ok | 2026-11-24 |
-| ctgov | ok | 2026-11-24 |
+| pubmed | ok | 2026-11-25 |
+| europepmc | ok | 2026-11-25 |
+| medrxiv | ok | 2026-11-25 |
+| crossref | ok | 2026-11-25 |
+| ctgov | ok | 2026-11-25 |
 
 Warnings:
 
@@ -43,9 +43,14 @@ By domain: D1 6, D2 7, D3 5, D4 5, D5 3, D6 6, D7 5, D8 6, D9 5.
 
 ## Tier A in the past seven days
 
+- [Transcatheter Edge-to-Edge Repair for Severe Isolated Tricuspid Regurgitation After Extended Follow-Up: The TRI-FR Randomized Clinical Trial.](https://pubmed.ncbi.nlm.nih.gov/43074159/) (Circulation)
 - [Transcatheter Edge-to-Edge Repair for Severe Isolated Tricuspid Regurgitation After Extended Follow-Up: The TRI-FR Randomized Clinical Trial](https://doi.org/10.1161/circulationaha.126.080397) (Circulation)
 
 ## Next eight weeks
+
+Congresses:
+
+- BCIS ACI 2027, 20 January 2027 to 22 January 2027, London, United Kingdom. Programme: None
 
 Randomised trials with at least 500 participants whose primary completion date falls in the period (registry dates, often estimated):
 
@@ -112,7 +117,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 - Weekly: [2026-W48](outputs/weekly/2026-W48.md)
 - Monthly: [2026-11](outputs/monthly/2026-11.md)
-- Daily: [2026-11-24](outputs/daily/2026/2026-11-24.md)
+- Daily: [2026-11-25](outputs/daily/2026/2026-11-25.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 

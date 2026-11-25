@@ -1,6 +1,6 @@
 # Calendar
 
-Updated 24 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
+Updated 25 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
 
 ## Congresses
 
@@ -435,7 +435,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07102628 | ACS | Evaluation of Efficacy and Safety of Early in Hospital Initiation of Inclisiran Treatment in Patient | 305 | 2027-01-16 () | active not recruiting | D6 |
 | NCT07139301 | TIMERS-1 | Timing of Anticoagulation After Emergency Endovascular Therapy for Acute Ischemic Stroke With Atrial | 438 | 2027-01-17 () | active not recruiting | D4, D6, D8 |
 | NCT03169985 | Rosuzet-IVUS | Randomized Controlled Trial of Moderate-Intensity Rosuvastatin With Ezetimibe Combination Therapy Ve | 280 | 2027-01-28 () | active not recruiting | D1, D6 |
-| NCT06118281 | ARTEMIS | ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a He | 10000 | 2027-01-29 () | active not recruiting | D1, D6 |
+| NCT06118281 | ARTEMIS | ARTEMIS - A Research Study to Look at How Ziltivekimab Works Compared to Placebo in People With a He | 8350 | 2027-01-29 () | active not recruiting | D1, D6 |
 | NCT04936607 | NEPTUNE | ImproviNg rEnal Outcomes Following Coronary angiograPhy and/or percuTaneoUs coroNary intErventions | 1158 | 2027-01-30 () | recruiting | D1, D6 |
 | NCT06254755 |  | Comparison Study Between Suction Aspiration and Combination Technique in Acute Cerebral Infarction | 1132 | 2027-01-30 () | enrolling by invitation | D4, D6 |
 | NCT07156656 | STOP | Sivelestat Treatment for Postoperative Organ Protection in Type A Aortic Dissection | 236 | 2027-01-30 () | recruiting | D7 |
@@ -576,7 +576,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 |---|---|---|---|---|---|---|
 | NCT04067297 |  | Using Big Data to Conduct Innovative Cardiovascular Clinical Trials | 500000 | 2027-07-01 () | active not recruiting | D6 |
 | NCT04957719 | SOS-AMI | Selatogrel Outcome Study in Suspected Acute Myocardial Infarction | 25000 | 2027-07 () | enrolling by invitation | D6, D8 |
-| NCT05102019 | COSIRA-II | Efficacy of the COronary SInus Reducer in Patients With Refractory Angina II | 380 | 2027-07 () | recruiting | D6, D9 |
+| NCT05102019 | COSIRA-II | Efficacy of the COronary SInus Reducer in Patients With Refractory Angina II | 380 | 2027-07 () | suspended | D6, D9 |
 | NCT05425459 |  | RESPONDER-HF Trial | 750 | 2027-07 () | active not recruiting | D6, D9 |
 | NCT05531474 | BRAVE | Bariatric Surgery for the Reduction of cArdioVascular Events Randomized Controlled Trial | 700 | 2027-07-01 () | recruiting | D6, D8 |
 | NCT05910125 | AGREE | Aspirin Combined With Clopidogrel Versus Intravenous Alteplase for Acute Minor Stroke | 472 | 2027-07 () | not yet recruiting | D4 |
@@ -638,7 +638,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07563673 | ELASTIC | Early Low-dose ASpirin Use After Intravenous Thrombolysis for Acute Ischemic Cerebral Infarction（ELA | 210 | 2027-09-30 () | not yet recruiting | D4 |
 | NCT07749014 | TEMPO-STEMI | Timing of Empagliflozin in Primary PCI: Pre-Reperfusion Versus Post-Reperfusion Versus Placebo in So | 480 | 2027-09-30 () | not yet recruiting | D1, D6, D7 |
 | NCT07776184 | CICUDEL | Multi-Component Delirium Prevention Bundle in Older Cardiac Intensive Care Unit Patients | 200 | 2027-09-30 () | active not recruiting | D6 |
-| NCT07884136 |  | RBD1119 in Coronary Artery Disease (CAD) | 200 | 2027-09-30 () | not yet recruiting | D6, D8 |
+| NCT07884136 |  | RBD1119 in Coronary Artery Disease (CAD) | 200 | 2027-09-30 () | recruiting | D6, D8 |
 
 ### 2027 Q4
 
@@ -720,7 +720,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07828730 | SAGE-AS | Sparrow App Guided Evaluation (SAGE) Vanguard Trial for Aortic Stenosis in Adults Aged Seventy and O | 1000 | 2027-12 () | not yet recruiting | D3 |
 | NCT07855614 | OPTIMAI-PCI | OPTIMized Diagnosis and Treatment System Based on AI and Multimodal Imaging Fusion for PCI (OPTIMAI- | 554 | 2027-12 () | not yet recruiting | D1, D6 |
 | NCT07878325 |  | Effects of a Specialized Diabetes and Heart Clinic and Detection of Unrecognized Heart Failure in Pe | 375 | 2027-12-01 () | recruiting | D5 |
-| NCT06283966 | THARROS | A Study Evaluating the Efficacy of Budesonide, Glycopyrronium and Formoterol Fumarate Metered Dosed  | 5250 | 2027-12-03 () | recruiting | D6 |
 | NCT05852704 | STENOTYPE | SGLT2 Inhibitor TrEatment iN Patients Awaiting cOronary arTery bYpass Surgery to Reduce Post-opErati | 800 | 2027-12-04 () | recruiting | D6 |
 | NCT03588286 | PROTECT-ICD | Programmed Ventricular Stimulation to Risk Stratify for Early Cardioverter-Defibrillator (ICD) Impla | 1058 | 2027-12-06 () | recruiting | D6 |
 | NCT07229248 | DCB-STEMI | DCB vs. DES in Young STEMI Patients: The DCB-STEMI Trial | 496 | 2027-12-17 () | recruiting | D1, D6, D8 |
@@ -824,6 +823,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07811934 |  | Single-Use Spherical Pulsed Ablation Catheter for Paroxysmal Atrial Fibrillation | 284 | 2028-03 () | not yet recruiting | D7 |
 | NCT07824323 | EARLY-BIRD ACS | Early Triple Lipid-Lowering Therapy With Bempedoic Acid After Acute Coronary Syndrome | 400 | 2028-03 () | recruiting | D1, D6 |
 | NCT02208388 | PERFUSERCT | Prospective Evaluation of MyocaRdial PerFUSion ComputEd Tomography Trial | 1000 | 2028-03-05 () | recruiting | D1, D6 |
+| NCT06283966 | THARROS | A Study Evaluating the Efficacy of Budesonide, Glycopyrronium and Formoterol Fumarate Metered Dosed  | 5355 | 2028-03-07 () | active not recruiting | D6 |
 | NCT07054060 | EVA3S-2 | Endarterectomy Versus Stenting in Patients With Symptomatic Severe Carotid Stenosis - 2 | 600 | 2028-03-16 () | recruiting | D6 |
 | NCT05699005 | ICONE | Individualized or Conventional Transfusion Strategies During Peripheral VA-ECMO | 236 | 2028-03-18 () | recruiting | D2, D6 |
 | NCT05486884 | METAPHORE | Mean Arterial Pressure After Out-of-hospital Cardiac Arrest | 1380 | 2028-03-28 () | recruiting | D4 |
@@ -1175,6 +1175,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07516444 | TRIVITA | VDyne TriNova Transcatheter Tricuspid Valve Replacement Study to Evaluate Safety and Clinical Effica | 520 | 2029-06 () | recruiting | D5, D6 |
 | NCT07709208 | MARCER | Mitral Valve Edge-to-Edge Repair in Patients With Exercise-Induced Severe Mitral Regurgitation | 246 | 2029-06 () | recruiting | D4, D6 |
 | NCT07853716 | REFINE-CAC | REFINE-CAC Protocol: Risk Evaluation With AI-CPA + HCS For Patients IN Whom Calcium is confirmEd to  | 500 | 2029-06 () | not yet recruiting | D1 |
+| NCT07954765 | TRIUMPH | Renal and Hepatic Artery Denervation Using Alcohol to Manage Type 2 Diabetes Mellitus and Hypertensi | 300 | 2029-06 () | not yet recruiting | D9 |
 | NCT07118345 |  | Early Prophylactic Decompressive Hemicraniectomy Following Endovascular Therapy in Large Hemispheric | 380 | 2029-06-19 () | recruiting | D4 |
 | NCT07023679 | tSGM-AMI | Stellate Ganglion Morphine Infiltration on Myocardial I/R Injury | 2588 | 2029-06-20 () | recruiting | D1, D2, D6, D7 |
 | NCT07697599 | ROXI-PEAK | Venous Thromboembolism (VTE) Prophylaxis With REGN7508 and REGN9933 in Adult and Adolescent Particip | 1908 | 2029-06-25 () | recruiting | D9 |
@@ -1232,6 +1233,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07730840 |  | Zastaprazan for the prEvention of Upper GI Bleeding in Ischemic Stroke | 984 | 2029-09-30 () | not yet recruiting | D6, D8 |
 | NCT07815106 | OPTION-DCB | OPtimization of Antiplatelet Therapy After the intervenTION of de Novo Coronary Artery Lesions With  | 2122 | 2029-09-30 () | not yet recruiting | D1, D6, D8 |
 | NCT07849777 | EATAF | Early Anticoagulation Therapy After Endovascular Treatment for Acute Ischemic Stroke With Atrial Fib | 474 | 2029-09-30 () | not yet recruiting | D4, D6, D8 |
+| NCT07957378 | SSW-DCB | Slow Up, Slow Down, and Wait Balloon Inflation Before Planned Drug-Coated Balloon Treatment in Patie | 718 | 2029-09-30 () | not yet recruiting | D1, D6 |
 
 ### 2029 Q4
 
