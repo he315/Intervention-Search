@@ -126,6 +126,8 @@ def cmd_daily(args):
     run["new_record_ids"] = sorted(r["id"] for r in todays)
     # anomaly checks
     n_pub = sum(v.get("new", 0) for k, v in run["sources"].items() if k.startswith("pubmed:D"))
+    # a same-day re-run finds nothing new, so also count PubMed records first seen today
+    n_pub = max(n_pub, sum(1 for r in todays if "pubmed" in (r.get("sources") or [])))
     if today.weekday() < 5 and ok.get("pubmed") == "ok" and n_pub == 0:
         run["warnings"].append("Zero new PubMed records on a weekday; query self-check recommended.")
     hist = [json.loads(l) for l in (config.LOGS / "runs.jsonl").read_text().splitlines() if l.strip()] if (config.LOGS / "runs.jsonl").exists() else []

@@ -1,6 +1,6 @@
 # Calendar
 
-Updated 25 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
+Updated 26 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
 
 ## Congresses
 
@@ -160,6 +160,8 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT04876222 | DISCO-noCOMA | Direct or Subacute Coronary Angiography in Patients With Out of Hospital Cardiac Arrest Without Coma | 212 | 2026-04-22 () | terminated | D1, D2, D4, D6 |
 | NCT03636230 | VIRTUES PM | Virtual E-health System for Pacemakers | 848 | 2026-04-30 () | completed | D6 |
 | NCT05178420 | STREAM | STREAM Trial - Statins in Multimorbid Older Adults Without Cardiovascular Disease | 1880 | 2026-04-30 () | completed | D6 |
+| NCT05482386 | STREAM-Bio | STREAM Trial - Biomarker | 516 | 2026-04-30 () | completed | D6 |
+| NCT05482399 | STREAM-SubATS | STREAM Trial - Subclinical Atherosclerosis | 508 | 2026-04-30 () | completed | D6 |
 | NCT05587621 | GoT | Intensive Lipid-lowering in Patients With STEMI and NSTEMI (Germany on Target) | 300 | 2026-04-30 () | not yet recruiting | D6 |
 | NCT05920629 | Moderate | Moderate Alcohol Consumption and Heart Function in Patients With a Recent Myocardial Infarction | 220 | 2026-04-30 () | recruiting | D6 |
 | NCT06406218 | AID | The Impact of Phase I Cardiac Rehabilitation on the Prognosis of AMI Patients After PCI | 1100 | 2026-04-30 () | unknown | D1, D6 |
@@ -308,8 +310,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT06388148 | XL STROKE-2 | Endovascular Treatment for eXtra-Large Ischemic Stroke | 286 | 2026-10-31 () | recruiting | D4, D8 |
 | NCT06471036 | T2T | Test 2 Treat: Can we Improve the Testing and Treatment of High Cholesterol in Patients Who Have Been | 400 | 2026-10-31 () | recruiting | D1 |
 | NCT05371470 |  | Voice Analysis Technology to Detect and Manage Depression and Anxiety in Cardiac Rehabilitation | 200 | 2026-11 () | enrolling by invitation | D6 |
-| NCT05482386 | STREAM-Bio | STREAM Trial - Biomarker | 500 | 2026-11 () | recruiting | D6 |
-| NCT05482399 | STREAM-SubATS | STREAM Trial - Subclinical Atherosclerosis | 500 | 2026-11 () | recruiting | D6 |
 | NCT06125925 |  | Catheter Ablation in Atrial Fibrillation Patients With HFpEF (STABLE-SR IV Trial) | 436 | 2026-11 () | recruiting | D2, D6 |
 | NCT06530641 |  | Evaluation of Clinical Impact of the Type of Cardioplegia Used in the Patient Undergoing Major Cardi | 600 | 2026-11 () | recruiting | D2, D6 |
 | NCT06559241 | RECAST-MT | Remote Ischemic Conditioning for Acute Ischemic Stroke Treated With Mechanical Thrombectomy（RECAST-M | 2105 | 2026-11 () | recruiting | D4 |
@@ -421,7 +421,6 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 |---|---|---|---|---|---|---|
 | NCT05305612 | STOP CLOT | Optimal PeriproCeduraL AnticOagulation in Structural Transseptal Interventions | 410 | 2027-01 () | enrolling by invitation | D4, D6, D8, D9 |
 | NCT05564754 | STEPCARE | Sedation, Temperature and Pressure After Cardiac Arrest and Resuscitation | 3500 | 2027-01 () | active not recruiting | D4 |
-| NCT05997693 | ODIN | One-Month DAPT in CABG Patients | 700 | 2027-01 () | recruiting | D1, D6, D8 |
 | NCT06114615 |  | Digital Monitoring for Patients Post Coronary Interventions to Reduce Risk for Recurrent Adverse Car | 200 | 2027-01-01 () | recruiting | D1 |
 | NCT06207942 |  | Stepcare Extended Follow-up Substudy | 600 | 2027-01 () | recruiting | D4 |
 | NCT06481891 | SONATA-HCM | A Study to Evaluate the Efficacy and Safety of Sotagliflozin in Symptomatic Obstructive and Non-obst | 500 | 2027-01 () | active not recruiting | D3 |
@@ -548,6 +547,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT07697638 | SHINE | Coronary Laser Atherectomy System for Treatment of Coronary Artery Stenosis (SHINE) | 218 | 2027-06-01 () | not yet recruiting | D1, D6 |
 | NCT07864038 | AIDE-CP1 | AI-based Decision Support in Acute Chest Pain | 4500 | 2027-06 () | not yet recruiting | D6 |
 | NCT07566091 | NOVA | Noninferiority Trial Of Sirolimus With Ascorbic Acid Versus Everolimus in All-comers | 2034 | 2027-06-15 () | recruiting | D1, D6 |
+| NCT07958275 | PERFUSE-TIME | Prolonged Versus Standard Inflation Duration of a Perfusion Drug-Coated Balloon in De Novo Coronary  | 360 | 2027-06-15 () | not yet recruiting | D1, D6 |
 | NCT06282042 | EMCAMI | Early Transcatheter Mitral Valve Repair After Myocardial Infarction | 250 | 2027-06-16 () | recruiting | D4, D6 |
 | NCT07377422 |  | Safety and Efficacy of a Novel Composite-Tip Guiding Catheter in Transcarotid Artery Stenting Via Tr | 204 | 2027-06-16 () | recruiting | D4, D6 |
 | NCT07543185 | HEART-SET-3 | Right Dorsolateral Prefrontal Cortex Closed-loop Neurofeedback for Anxiety in High-ischaemic-risk Ch | 214 | 2027-06-20 () | not yet recruiting | D1, D6 |
@@ -780,6 +780,7 @@ Randomised in-scope trials with at least 200 participants whose primary completi
 | NCT05543278 | PATRONUS | Pragmatic Amiodarone Trial to Reduce Postoperative Atrial Fibrillation in Patients Undergoing Cardia | 242 | 2028-01 () | not yet recruiting | D6, D8 |
 | NCT05677100 | DRAIN-HF | Diuretics Alone vs. Aortix Endovascular Device for Acute Heart Failure | 320 | 2028-01 () | recruiting | D2 |
 | NCT05976685 | ELAPSE | Early Closure of Left Atrial Appendage for Patients With Atrial Fibrillation and Ischemic Stroke Des | 482 | 2028-01-01 () | recruiting | D9 |
+| NCT05997693 | ODIN | One-Month DAPT in CABG Patients | 750 | 2028-01 () | recruiting | D1, D6, D8 |
 | NCT06396858 | ARCHIMEDES | Anti-inflammatory and Anti-thrombotic Therapy With colcHicine and Low Dose Rivaroxaban for Major Adv | 4500 | 2028-01 () | not yet recruiting | D6, D8 |
 | NCT06626126 | ApoB-guidedLLT | Efficacy of Lipid-Lowering Therapy Based on Apolipoprotein B Versus LDL-Cholesterol Levels in Patien | 1448 | 2028-01-01 () | not yet recruiting | D1, D6 |
 | NCT06820970 | CRCMF | CRIC Combined With MFT for Cardiovascular Adverse Events in Patients With Incomplete Revascularizati | 2000 | 2028-01-01 () | recruiting | D6 |

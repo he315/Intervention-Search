@@ -2,19 +2,19 @@
 
 ## Status
 
-- Last run: 2026-11-25 08:56 (Europe/London), daily.
+- Last run: 2026-11-26 09:00 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: guideline extracts (8.4).
 - Backlog awaiting appraisal: 0.
-- Records in the store: 56935 (Tier A 117, Tier B 2141, Tier C 35496, Tier D 19169, untiered 12).
+- Records in the store: 57040 (Tier A 117, Tier B 2147, Tier C 35543, Tier D 19221, untiered 12).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-11-25 |
-| europepmc | ok | 2026-11-25 |
-| medrxiv | ok | 2026-11-25 |
-| crossref | ok | 2026-11-25 |
-| ctgov | ok | 2026-11-25 |
+| pubmed | ok | 2026-11-26 |
+| europepmc | ok | 2026-11-26 |
+| medrxiv | ok | 2026-11-26 |
+| crossref | ok | 2026-11-26 |
+| ctgov | ok | 2026-11-26 |
 
 Warnings:
 
@@ -105,7 +105,6 @@ Randomised trials with at least 500 participants whose primary completion date f
 - NCT07089862 : INdobufen Versus asPirin in Endovascular Unruptured Intracranial Aneurysms Treatment (INPUT); N 2500; primary completion 2026-12-31 (type not stated); recruiting
 - NCT07273513 SMART II: "Smart Family Doctor" Assisted Comprehensive Management of Secondary Prevention Among Post Revascularization P; N 951; primary completion 2026-12-31 (type not stated); not yet recruiting
 - NCT05564754 STEPCARE: Sedation, Temperature and Pressure After Cardiac Arrest and Resuscitation; N 3500; primary completion 2027-01 (type not stated); active not recruiting
-- NCT05997693 ODIN: One-Month DAPT in CABG Patients; N 700; primary completion 2027-01 (type not stated); recruiting
 - NCT06207942 : Stepcare Extended Follow-up Substudy; N 600; primary completion 2027-01 (type not stated); recruiting
 - NCT06481891 SONATA-HCM: A Study to Evaluate the Efficacy and Safety of Sotagliflozin in Symptomatic Obstructive and Non-obstructive Hy; N 500; primary completion 2027-01 (type not stated); active not recruiting
 - NCT06927908 : Cardiac Denervation in Aortic Arch Replacement; N 570; primary completion 2027-01-01 (type not stated); not yet recruiting
@@ -117,7 +116,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 - Weekly: [2026-W48](outputs/weekly/2026-W48.md)
 - Monthly: [2026-11](outputs/monthly/2026-11.md)
-- Daily: [2026-11-25](outputs/daily/2026/2026-11-25.md)
+- Daily: [2026-11-26](outputs/daily/2026/2026-11-26.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 
