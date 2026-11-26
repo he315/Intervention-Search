@@ -21,3 +21,4 @@ preflight 2026-11-22: existing system (resume mode); PubMed, Europe PMC, Crossre
 preflight 2026-11-23: existing system (resume mode); PubMed, Europe PMC, Crossref, ClinicalTrials.gov, medRxiv and OpenAlex all reachable (HTTP 200 on probe). CONTACT_EMAIL not set.
 preflight 2026-11-24: existing system (resume mode); PubMed, Crossref, ClinicalTrials.gov, medRxiv and OpenAlex reachable (HTTP 200 on probe); Europe PMC returned HTTP 503 on probe. CONTACT_EMAIL not set.
 preflight 2026-11-25: existing system (resume mode); PubMed, Crossref, ClinicalTrials.gov, medRxiv and OpenAlex reachable (HTTP 200 on probe); Europe PMC returned HTTP 503 on probe. CONTACT_EMAIL not set.
+preflight 2026-11-26: existing system (resume mode); PubMed, Crossref, ClinicalTrials.gov, medRxiv and OpenAlex reachable (HTTP 200 on probe); Europe PMC returned HTTP 503 on probe. CONTACT_EMAIL not set.
