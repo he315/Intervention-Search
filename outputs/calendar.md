@@ -1,6 +1,6 @@
 # Calendar
 
-Updated 26 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
+Updated 27 November 2026. Trial dates come from ClinicalTrials.gov and are often estimated by the sponsor. Congress dates and programme links come from official congress pages and carry their access date.
 
 ## Congresses
 
