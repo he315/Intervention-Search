@@ -2,19 +2,19 @@
 
 ## Status
 
-- Last run: 2026-11-27 08:56 (Europe/London), daily.
+- Last run: 2026-11-28 08:55 (Europe/London), daily.
 - Result: OK.
 - Baseline: in_progress; retrieval chunks pending 0; synthesis steps pending: guideline extracts (8.4).
 - Backlog awaiting appraisal: 0.
-- Records in the store: 57189 (Tier A 117, Tier B 2151, Tier C 35604, Tier D 19305, untiered 12).
+- Records in the store: 57260 (Tier A 117, Tier B 2153, Tier C 35633, Tier D 19345, untiered 12).
 
 | Source | Health | Watermark |
 |---|---|---|
-| pubmed | ok | 2026-11-27 |
-| europepmc | ok | 2026-11-27 |
-| medrxiv | ok | 2026-11-27 |
-| crossref | ok | 2026-11-27 |
-| ctgov | ok | 2026-11-27 |
+| pubmed | ok | 2026-11-28 |
+| europepmc | ok | 2026-11-28 |
+| medrxiv | ok | 2026-11-28 |
+| crossref | ok | 2026-11-28 |
+| ctgov | ok | 2026-11-28 |
 
 Warnings:
 
@@ -54,7 +54,6 @@ Congresses:
 
 Randomised trials with at least 500 participants whose primary completion date falls in the period (registry dates, often estimated):
 
-- NCT06501443 : LATAM LOWERS LDL-C; N 520; primary completion 2026-11-27 (type not stated); recruiting
 - NCT05349955 GUARD: Effects and Safety of Diabetic GUideline Algorithm Implementation Performed by Primary Care Physicians in the ; N 5600; primary completion 2026-11-30 (type not stated); recruiting
 - NCT05635877 : Effects of Low-dose Esmolol on Myocardial Injury After Non-cardiac Surgery in Elderly Frail Patients; N 2000; primary completion 2026-11-30 (type not stated); recruiting
 - NCT06225453 : Individualized Versus Conventional Perioperative Blood Pressure Management; N 1896; primary completion 2026-11-30 (type not stated); active not recruiting
@@ -116,7 +115,7 @@ Randomised trials with at least 500 participants whose primary completion date f
 
 - Weekly: [2026-W48](outputs/weekly/2026-W48.md)
 - Monthly: [2026-11](outputs/monthly/2026-11.md)
-- Daily: [2026-11-27](outputs/daily/2026/2026-11-27.md)
+- Daily: [2026-11-28](outputs/daily/2026/2026-11-28.md)
 - Domain landscapes: [outputs/landscape/](outputs/landscape/)
 - Calendar: [outputs/calendar.md](outputs/calendar.md)
 
